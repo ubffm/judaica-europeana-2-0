@@ -1,0 +1,216 @@
+@prefix edm: <http://www.europeana.eu/schemas/edm/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://data.jhn.ngo/spatial/MCYJE1_MARC21/1025> a edm:Place ;
+    edm:identifier "#REB01:000022142",
+        "#REB01:000022176",
+        "#REB01:000022488",
+        "#REB01:000044106",
+        "#REB01:000048590",
+        "#REB01:000050997",
+        "#REB01:000054693",
+        "#REB01:000057363",
+        "#REB01:000064689",
+        "#REB01:000079077",
+        "#REB01:000083896",
+        "#REB01:000193653",
+        "#REB01:000193763",
+        "#REB01:000199250" ;
+    owl:sameAs "" ;
+    skos:altLabel "" ;
+    skos:prefLabel "ניויורק" .
+
+<https://data.jhn.ngo/spatial/MCYJE1_MARC21/1080> a edm:Place ;
+    edm:identifier "#REB01:000033107" ;
+    owl:sameAs "http://viaf.org/viaf/150700536" ;
+    skos:altLabel "1991 -)",
+        "Eesti Vabariik",
+        "Estland",
+        "Estland (1918 - 1940",
+        "Estland (1918-1940 ; ab 1991)",
+        "Estnische Republik",
+        "Estonia",
+        "Estonia (1918 - 1940",
+        "Estonia (1918-1940 ; ab 1991)",
+        "Estonie",
+        "Ėstonskaja Respublika",
+        "Republic of Estonia",
+        "Republik Estland" ;
+    skos:prefLabel "Estonie" .
+
+<https://data.jhn.ngo/spatial/MCYJE1_MARC21/1132> a edm:Place ;
+    edm:identifier "#REB01:000046870" ;
+    owl:sameAs "http://d-nb.info/gnd/1088252508",
+        "http://d-nb.info/gnd/36332-7",
+        "http://sws.geonames.org/6251999",
+        "http://viaf.org/viaf/19144648181050629084" ;
+    skos:altLabel "Canada",
+        "Dominion of Canada",
+        "Puissance du Canada" ;
+    skos:prefLabel "Canada" .
+
+<https://data.jhn.ngo/spatial/MCYJE1_MARC21/1170> a edm:Place ;
+    edm:identifier "#REB01:000051851" ;
+    owl:sameAs "http://d-nb.info/gnd/1026870-4",
+        "http://sws.geonames.org/756135",
+        "http://viaf.org/viaf/146267734" ;
+    skos:altLabel "Miasto Stołeczne Warszawa",
+        "Varsavia",
+        "Varsovia",
+        "Varsovie",
+        "Varsó",
+        "Varssavi",
+        "Varšava",
+        "Varšavaq",
+        "Varšuva",
+        "Warsaw",
+        "Warszawa",
+        "Warszowa" ;
+    skos:prefLabel "Warszawa" .
+
+<https://data.jhn.ngo/spatial/MCYJE1_MARC21/1181> a edm:Place ;
+    edm:identifier "#REB01:000052256" ;
+    owl:sameAs "http://d-nb.info/gnd/122513-3",
+        "http://sws.geonames.org/597427",
+        "http://viaf.org/viaf/224684434" ;
+    skos:altLabel "1991",
+        "9 -)",
+        "Lietuva",
+        "Lietuvos Respublika",
+        "Litauische Republik",
+        "Lithuania",
+        "Lithuania (1918 - 1940",
+        "Lithuanian Republic",
+        "Lithuanie",
+        "Litovskaja Respublika",
+        "Litva (1918 - 1940",
+        "Republic of Lithuania",
+        "Republik Litauen",
+        "République Lithuanienne" ;
+    skos:prefLabel "Lithuania" .
+
+<https://data.jhn.ngo/spatial/MCYJE1_MARC21/1220> a edm:Place ;
+    edm:identifier "#REB01:000062791" ;
+    owl:sameAs "http://d-nb.info/gnd/1028486-2",
+        "http://sws.geonames.org/765876",
+        "http://viaf.org/viaf/166279695" ;
+    skos:altLabel "Ljublin",
+        "Lublin / Urza̜d Miejski",
+        "Urza̜d Miejski (Lublin)" ;
+    skos:prefLabel "Lublin" .
+
+<https://data.jhn.ngo/spatial/MCYJE1_MARC21/1233> a edm:Place ;
+    edm:identifier "#REB01:000088151",
+        "#REB01:000154651",
+        "#REB01:000154652",
+        "#REB01:000154657",
+        "#REB01:000154658",
+        "#REB01:000154661",
+        "#REB01:000154662",
+        "#REB01:000154663",
+        "#REB01:000154664",
+        "#REB01:000154665",
+        "#REB01:000154666",
+        "#REB01:000154669",
+        "#REB01:000154670",
+        "#REB01:000154678",
+        "#REB01:000154679",
+        "#REB01:000154680",
+        "#REB01:000154681",
+        "#REB01:000154682",
+        "#REB01:000154685",
+        "#REB01:000154686",
+        "#REB01:000154689",
+        "#REB01:000154705",
+        "#REB01:000154706",
+        "#REB01:000154711",
+        "#REB01:000154712",
+        "#REB01:000154723",
+        "#REB01:000154724",
+        "#REB01:000154725",
+        "#REB01:000154726",
+        "#REB01:000154728",
+        "#REB01:000154737",
+        "#REB01:000154738",
+        "#REB01:000154739",
+        "#REB01:000154740" ;
+    owl:sameAs "http://d-nb.info/gnd/1005809-6",
+        "http://sws.geonames.org/2643743",
+        "http://viaf.org/viaf/148434292",
+        "http://viaf.org/viaf/261467287" ;
+    skos:altLabel "Augusta Trinobantum",
+        "Cuvette de Londres",
+        "Drundras",
+        "Dunderas",
+        "Dundras",
+        "Dundres",
+        "Dundris",
+        "Landan",
+        "Londen",
+        "Londinium",
+        "Londinum",
+        "London (Great Britain)",
+        "Londra",
+        "Londras",
+        "Londres",
+        "Londyn",
+        "Lundonia",
+        "Lundr",
+        "Lundras",
+        "Lundrias",
+        "Lundris",
+        "Lundro",
+        "Lundun",
+        "Luntras",
+        "Pays de Londres",
+        "Val de Londres",
+        "Vallon de Londres",
+        "Villa Dondras",
+        "Westminster" ;
+    skos:prefLabel "Londres" .
+
+<https://data.jhn.ngo/spatial/MCYJE1_MARC21/1246> a edm:Place ;
+    edm:identifier "#REB01:000154717",
+        "#REB01:000184076" ;
+    owl:sameAs "http://d-nb.info/gnd/1028360-2",
+        "http://d-nb.info/gnd/5102830-X",
+        "http://sws.geonames.org/703448",
+        "http://viaf.org/viaf/139177840" ;
+    skos:altLabel "Kiebo",
+        "Kieff",
+        "Kiev",
+        "Kievskij Gorodskoj Sovet Narodnych Deputatov",
+        "Kiïv",
+        "Kijew",
+        "Kijów",
+        "Kiyev",
+        "Koenugardr",
+        "Kyiv",
+        "Kyïv",
+        "Kyïvs'ka Mis'ka Rada Narodnych Deputativ",
+        "Kyjiw" ;
+    skos:prefLabel "Kiev" .
+
+<https://data.jhn.ngo/spatial/MCYJE1_MARC21/1266> a edm:Place ;
+    edm:identifier "#REB01:000243931",
+        "#REB01:000243932",
+        "#REB01:000243933",
+        "#REB01:000243934",
+        "#REB01:000243935",
+        "#REB01:000243936",
+        "#REB01:000243937",
+        "#REB01:000243938",
+        "#REB01:000244129",
+        "#REB01:000244130",
+        "#REB01:000244131",
+        "#REB01:000244132",
+        "#REB01:000244133",
+        "#REB01:000244134",
+        "#REB01:000245094",
+        "#REB01:000245095",
+        "#REB01:000245340" ;
+    owl:sameAs "" ;
+    skos:altLabel "" ;
+    skos:prefLabel "FranceMancheCarnet" .
+

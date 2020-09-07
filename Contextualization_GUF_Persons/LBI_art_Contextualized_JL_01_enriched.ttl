@@ -1,0 +1,2631 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix edm: <http://www.europeana.eu/schemas/edm/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix gndo: <http://d-nb.info/standards/elementset/gnd#> .
+@prefix jl: <http://data.judaicalink.org/ontology/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdaGr2: <http://rdvocab.info/ElementsGr2/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://data.jhn.ngo/persons/LBI_art/1005> a edm:Agent ;
+    gndo:gndIdentifier "119515865" ;
+    jl:birthLocation "Berlin" ;
+    jl:deathLocation "Haifa" ;
+    rdaGr2:dateOfBirth "1876" ;
+    rdaGr2:dateOfDeath "1944" ;
+    edm:identifier "http://digital.cjh.org/101621",
+        "http://digital.cjh.org/101741",
+        "http://digital.cjh.org/1285748",
+        "http://digital.cjh.org/1285750",
+        "http://digital.cjh.org/1292749",
+        "http://digital.cjh.org/1292751",
+        "http://digital.cjh.org/1292763",
+        "http://digital.cjh.org/1368410",
+        "http://digital.cjh.org/1368414",
+        "http://digital.cjh.org/1368416",
+        "http://digital.cjh.org/1368418",
+        "http://digital.cjh.org/1368420",
+        "http://digital.cjh.org/1368424",
+        "http://digital.cjh.org/1368426",
+        "http://digital.cjh.org/1368428",
+        "http://digital.cjh.org/1368436",
+        "http://digital.cjh.org/1368440",
+        "http://digital.cjh.org/1368446",
+        "http://digital.cjh.org/1368452",
+        "http://digital.cjh.org/1368462",
+        "http://digital.cjh.org/1368464",
+        "http://digital.cjh.org/1368468",
+        "http://digital.cjh.org/1368472",
+        "http://digital.cjh.org/1368474",
+        "http://digital.cjh.org/1368480",
+        "http://digital.cjh.org/1368492",
+        "http://digital.cjh.org/1368494",
+        "http://digital.cjh.org/1368508",
+        "http://digital.cjh.org/1368516",
+        "http://digital.cjh.org/1368520",
+        "http://digital.cjh.org/1368524",
+        "http://digital.cjh.org/1368532",
+        "http://digital.cjh.org/1368536",
+        "http://digital.cjh.org/1368542",
+        "http://digital.cjh.org/1368548",
+        "http://digital.cjh.org/1368550",
+        "http://digital.cjh.org/1368554",
+        "http://digital.cjh.org/1368562",
+        "http://digital.cjh.org/1368568",
+        "http://digital.cjh.org/1368572",
+        "http://digital.cjh.org/1368574",
+        "http://digital.cjh.org/1368580",
+        "http://digital.cjh.org/1368584",
+        "http://digital.cjh.org/1368590",
+        "http://digital.cjh.org/1368592",
+        "http://digital.cjh.org/1368594",
+        "http://digital.cjh.org/1368596",
+        "http://digital.cjh.org/1368598",
+        "http://digital.cjh.org/1368600",
+        "http://digital.cjh.org/1368606",
+        "http://digital.cjh.org/1368608",
+        "http://digital.cjh.org/1368611",
+        "http://digital.cjh.org/1368613",
+        "http://digital.cjh.org/1368615",
+        "http://digital.cjh.org/1368617",
+        "http://digital.cjh.org/1368619",
+        "http://digital.cjh.org/1368621",
+        "http://digital.cjh.org/1368625",
+        "http://digital.cjh.org/1368627",
+        "http://digital.cjh.org/1368629",
+        "http://digital.cjh.org/1368631",
+        "http://digital.cjh.org/1368633",
+        "http://digital.cjh.org/1368645",
+        "http://digital.cjh.org/1443429",
+        "http://digital.cjh.org/1443432",
+        "http://digital.cjh.org/1443435",
+        "http://digital.cjh.org/1443441",
+        "http://digital.cjh.org/1443444",
+        "http://digital.cjh.org/1443447",
+        "http://digital.cjh.org/1443450",
+        "http://digital.cjh.org/1443456",
+        "http://digital.cjh.org/1443465",
+        "http://digital.cjh.org/1443468",
+        "http://digital.cjh.org/1443471",
+        "http://digital.cjh.org/1443477",
+        "http://digital.cjh.org/1443480",
+        "http://digital.cjh.org/1443483",
+        "http://digital.cjh.org/1443486",
+        "http://digital.cjh.org/1443489",
+        "http://digital.cjh.org/1443492",
+        "http://digital.cjh.org/1443504",
+        "http://digital.cjh.org/1443507",
+        "http://digital.cjh.org/1443510",
+        "http://digital.cjh.org/1443513",
+        "http://digital.cjh.org/1443516",
+        "http://digital.cjh.org/1443519",
+        "http://digital.cjh.org/1443525",
+        "http://digital.cjh.org/1443528",
+        "http://digital.cjh.org/1443531",
+        "http://digital.cjh.org/1443534",
+        "http://digital.cjh.org/1443537",
+        "http://digital.cjh.org/1443540",
+        "http://digital.cjh.org/1443543",
+        "http://digital.cjh.org/1443546",
+        "http://digital.cjh.org/1443549",
+        "http://digital.cjh.org/1443552",
+        "http://digital.cjh.org/1443555",
+        "http://digital.cjh.org/1443558",
+        "http://digital.cjh.org/1443561",
+        "http://digital.cjh.org/1443570",
+        "http://digital.cjh.org/1443594",
+        "http://digital.cjh.org/1443633",
+        "http://digital.cjh.org/1443651",
+        "http://digital.cjh.org/1443768",
+        "http://digital.cjh.org/1443783",
+        "http://digital.cjh.org/1443846",
+        "http://digital.cjh.org/1443852",
+        "http://digital.cjh.org/1443855",
+        "http://digital.cjh.org/1443858",
+        "http://digital.cjh.org/1443870",
+        "http://digital.cjh.org/1443876",
+        "http://digital.cjh.org/1443882",
+        "http://digital.cjh.org/1443891",
+        "http://digital.cjh.org/1443894",
+        "http://digital.cjh.org/1443897",
+        "http://digital.cjh.org/1443900",
+        "http://digital.cjh.org/1443921",
+        "http://digital.cjh.org/1443942",
+        "http://digital.cjh.org/1443972",
+        "http://digital.cjh.org/1444090",
+        "http://digital.cjh.org/1444096",
+        "http://digital.cjh.org/1444102",
+        "http://digital.cjh.org/1444105",
+        "http://digital.cjh.org/1444108",
+        "http://digital.cjh.org/1444111",
+        "http://digital.cjh.org/1444114",
+        "http://digital.cjh.org/1444117",
+        "http://digital.cjh.org/1444120",
+        "http://digital.cjh.org/1444123",
+        "http://digital.cjh.org/1444126",
+        "http://digital.cjh.org/1444129",
+        "http://digital.cjh.org/1444132",
+        "http://digital.cjh.org/1444135",
+        "http://digital.cjh.org/1444138",
+        "http://digital.cjh.org/1444141",
+        "http://digital.cjh.org/1444144",
+        "http://digital.cjh.org/1444153",
+        "http://digital.cjh.org/1444159",
+        "http://digital.cjh.org/1444165",
+        "http://digital.cjh.org/1444168",
+        "http://digital.cjh.org/1444174",
+        "http://digital.cjh.org/1444177",
+        "http://digital.cjh.org/1444180",
+        "http://digital.cjh.org/1444183",
+        "http://digital.cjh.org/1444186",
+        "http://digital.cjh.org/1444189",
+        "http://digital.cjh.org/1444198",
+        "http://digital.cjh.org/1444201",
+        "http://digital.cjh.org/1444204",
+        "http://digital.cjh.org/1503693",
+        "http://digital.cjh.org/1503705",
+        "http://digital.cjh.org/1503729",
+        "http://digital.cjh.org/1506369",
+        "http://digital.cjh.org/1506390",
+        "http://digital.cjh.org/1525009",
+        "http://digital.cjh.org/1571336",
+        "http://digital.cjh.org/1571348",
+        "http://digital.cjh.org/1571357",
+        "http://digital.cjh.org/1571363",
+        "http://digital.cjh.org/1571384",
+        "http://digital.cjh.org/1571402",
+        "http://digital.cjh.org/1571408",
+        "http://digital.cjh.org/1571423",
+        "http://digital.cjh.org/1571429",
+        "http://digital.cjh.org/1680730",
+        "http://digital.cjh.org/1680733",
+        "http://digital.cjh.org/1680850",
+        "http://digital.cjh.org/1682167",
+        "http://digital.cjh.org/1682170",
+        "http://digital.cjh.org/1682173",
+        "http://digital.cjh.org/1682179",
+        "http://digital.cjh.org/1682182",
+        "http://digital.cjh.org/1682188",
+        "http://digital.cjh.org/1682191",
+        "http://digital.cjh.org/1682194",
+        "http://digital.cjh.org/1682197",
+        "http://digital.cjh.org/1682326",
+        "http://digital.cjh.org/1682329",
+        "http://digital.cjh.org/1682335",
+        "http://digital.cjh.org/1682353",
+        "http://digital.cjh.org/1682356",
+        "http://digital.cjh.org/1682359",
+        "http://digital.cjh.org/1682374",
+        "http://digital.cjh.org/1682383",
+        "http://digital.cjh.org/1684259",
+        "http://digital.cjh.org/1684337",
+        "http://digital.cjh.org/1684340",
+        "http://digital.cjh.org/1684346",
+        "http://digital.cjh.org/1684349",
+        "http://digital.cjh.org/1684352",
+        "http://digital.cjh.org/1684355",
+        "http://digital.cjh.org/1684361",
+        "http://digital.cjh.org/1684367",
+        "http://digital.cjh.org/1684370",
+        "http://digital.cjh.org/1734582",
+        "http://digital.cjh.org/1734585",
+        "http://digital.cjh.org/1734591",
+        "http://digital.cjh.org/1734597",
+        "http://digital.cjh.org/1734606",
+        "http://digital.cjh.org/1734609",
+        "http://digital.cjh.org/1734612",
+        "http://digital.cjh.org/1734615",
+        "http://digital.cjh.org/1734627",
+        "http://digital.cjh.org/1734630",
+        "http://digital.cjh.org/1736765",
+        "http://digital.cjh.org/1736948",
+        "http://digital.cjh.org/1736963",
+        "http://digital.cjh.org/3357266",
+        "http://digital.cjh.org/3357291",
+        "http://digital.cjh.org/4303710" ;
+    owl:sameAs <http://catalogue.bnf.fr/ark:/12148/cb145296820>,
+        <http://d-nb.info/gnd/119515865>,
+        <http://d-nb.info/gnd/119515865/about>,
+        <http://data.judaicalink.org/data/dbpedia/Hermann_Struck>,
+        <http://data.judaicalink.org/data/gnd/119515865>,
+        <http://dbpedia.org/resource/Hermann_Struck>,
+        <http://de.dbpedia.org/resource/Hermann_Struck_(Maler)>,
+        <http://fr.dbpedia.org/resource/Hermann_Struck>,
+        <http://hub.culturegraph.org/entityfacts/119515865>,
+        <http://id.loc.gov/authorities/nr96035392>,
+        <http://it.dbpedia.org/resource/Hermann_Struck>,
+        <http://kalliope-verbund.info/gnd/119515865>,
+        <http://rdf.freebase.com/ns/m.02pqqrs>,
+        <http://viaf.org/viaf/61783179>,
+        <http://wikidata.dbpedia.org/resource/Q473771>,
+        <http://www.filmportal.de/person/1758E35A126144749F8D73C2DCA62458>,
+        <http://www.isni.org/0000000109078822>,
+        <http://www.wikidata.org/entity/Q473771>,
+        <http://yago-knowledge.org/resource/Hermann_Struck>,
+        <https://de.wikipedia.org/wiki/Hermann_Struck_%28Maler%29>,
+        <https://en.wikipedia.org/wiki/Hermann_Struck>,
+        <https://www.deutsche-digitale-bibliothek.de/entity/119515865> ;
+    skos:altLabel "Hermann Struck",
+        "Hermann Struck (Maler)",
+        "Shṭruḳ, Herman",
+        "Struck, Chaim Aharon ben David",
+        "Struck, H.",
+        "Struck, Hermann",
+        "Штрук, Герман",
+        "שטרוק, הרמן" ;
+    skos:prefLabel "Struck, Hermann" .
+
+<https://data.jhn.ngo/persons/LBI_art/1006> a edm:Agent ;
+    gndo:gndIdentifier "119484129" ;
+    jl:birthLocation "Hanau" ;
+    jl:deathLocation "Frankfurt am Main" ;
+    rdaGr2:dateOfDeath "1882" ;
+    edm:identifier "http://digital.cjh.org/101660",
+        "http://digital.cjh.org/108847",
+        "http://digital.cjh.org/1503639",
+        "http://digital.cjh.org/2866928",
+        "http://digital.cjh.org/3989389",
+        "http://digital.cjh.org/3989392" ;
+    owl:sameAs <http://catalogue.bnf.fr/ark:/12148/cb15014612p>,
+        <http://d-nb.info/gnd/1090088566>,
+        <http://d-nb.info/gnd/119484129>,
+        <http://d-nb.info/gnd/119484129/about>,
+        <http://data.judaicalink.org/data/gnd/119484129>,
+        <http://dbpedia.org/resource/Moritz_Daniel_Oppenheim>,
+        <http://hub.culturegraph.org/entityfacts/119484129>,
+        <http://id.loc.gov/authorities/n85104670>,
+        <http://kalliope-verbund.info/gnd/119484129>,
+        <http://viaf.org/viaf/97547088>,
+        <http://www.deutsche-biographie.de/pnd119484129.html#adbcontent>,
+        <http://www.isni.org/0000000116910867>,
+        <http://www.lagis-hessen.de/pnd/119484129>,
+        <http://www.portraitindex.de/dokumente/pnd/119484129>,
+        <http://www.wikidata.org/entity/Q215073>,
+        <https://de.wikipedia.org/wiki/Moritz_Daniel_Oppenheim>,
+        <https://en.wikipedia.org/wiki/Moritz_Daniel_Oppenheim>,
+        <https://www.deutsche-digitale-bibliothek.de/entity/119484129> ;
+    skos:altLabel "MO",
+        "Openhaim, Morits Daniel",
+        "Oppenheim, Moritz",
+        "Oppenheim, Moriz" ;
+    skos:prefLabel "Oppenheim, Moritz Daniel" .
+
+<https://data.jhn.ngo/persons/LBI_art/1010> a edm:Agent ;
+    gndo:gndIdentifier "118572695" ;
+    jl:birthLocation "Berlin" ;
+    jl:deathLocation "Berlin" ;
+    rdaGr2:dateOfBirth "1847" ;
+    rdaGr2:dateOfDeath "1935" ;
+    edm:identifier "http://digital.cjh.org/108790",
+        "http://digital.cjh.org/108862",
+        "http://digital.cjh.org/161080",
+        "http://digital.cjh.org/1684253",
+        "http://digital.cjh.org/1684256",
+        "http://digital.cjh.org/3989356",
+        "http://digital.cjh.org/4303713",
+        "http://digital.cjh.org/4303731",
+        "http://digital.cjh.org/4359483",
+        "http://digital.cjh.org/4629539",
+        "http://digital.cjh.org/4629542",
+        "http://digital.cjh.org/4629545",
+        "http://digital.cjh.org/4629548",
+        "http://digital.cjh.org/4629551",
+        "http://digital.cjh.org/497237",
+        "http://digital.cjh.org/497239",
+        "http://digital.cjh.org/497241",
+        "http://digital.cjh.org/497243",
+        "http://digital.cjh.org/497245",
+        "http://digital.cjh.org/497247",
+        "http://digital.cjh.org/497249",
+        "http://digital.cjh.org/497251",
+        "http://digital.cjh.org/497253",
+        "http://digital.cjh.org/497255",
+        "http://digital.cjh.org/497257",
+        "http://digital.cjh.org/497259",
+        "http://digital.cjh.org/497261",
+        "http://digital.cjh.org/497265",
+        "http://digital.cjh.org/497267",
+        "http://digital.cjh.org/497269",
+        "http://digital.cjh.org/497271",
+        "http://digital.cjh.org/497273",
+        "http://digital.cjh.org/497277",
+        "http://digital.cjh.org/497279",
+        "http://digital.cjh.org/497281",
+        "http://digital.cjh.org/497283",
+        "http://digital.cjh.org/497285",
+        "http://digital.cjh.org/497287",
+        "http://digital.cjh.org/497289",
+        "http://digital.cjh.org/497291",
+        "http://digital.cjh.org/497293",
+        "http://digital.cjh.org/497295",
+        "http://digital.cjh.org/497297",
+        "http://digital.cjh.org/497299",
+        "http://digital.cjh.org/497303",
+        "http://digital.cjh.org/497305",
+        "http://digital.cjh.org/497307" ;
+    owl:sameAs <http://catalogue.bnf.fr/ark:/12148/cb11956143w>,
+        <http://d-nb.info/gnd/118572695>,
+        <http://d-nb.info/gnd/118572695/about>,
+        <http://data.judaicalink.org/data/gnd/118572695>,
+        <http://dbpedia.org/resource/Max_Liebermann>,
+        <http://dfg-viewer.de/show/?tx_dlf%5Bid%5D=http://zbw.eu/beta/pm20mets/pe/0114xx/011414.xml>,
+        <http://hub.culturegraph.org/entityfacts/118572695>,
+        <http://id.loc.gov/authorities/n50050133>,
+        <http://kalliope-verbund.info/gnd/118572695>,
+        <http://purl.org/pressemappe20/folder/pe/011414>,
+        <http://viaf.org/viaf/32004869>,
+        <http://www.deutsche-biographie.de/pnd118572695.html#ndbcontent>,
+        <http://www.filmportal.de/person/68E7BDE76E5D4AF4BC0DDE678376C63A>,
+        <http://www.isni.org/0000000120958679>,
+        <http://www.portraitindex.de/dokumente/pnd/118572695>,
+        <http://www.wikidata.org/entity/Q158062>,
+        <https://de.wikipedia.org/wiki/Max_Liebermann>,
+        <https://de.wikisource.org/wiki/Max_Liebermann>,
+        <https://en.wikipedia.org/wiki/Max_Liebermann>,
+        <https://www.deutsche-digitale-bibliothek.de/entity/118572695> ;
+    skos:altLabel "ליברמן, מקס" ;
+    skos:prefLabel "Liebermann, Max" .
+
+<https://data.jhn.ngo/persons/LBI_art/1015> a edm:Agent ;
+    gndo:gndIdentifier "117209503" ;
+    jl:birthLocation "Wilna" ;
+    jl:deathLocation "Auschwitz" ;
+    rdaGr2:dateOfBirth "1878" ;
+    rdaGr2:dateOfDeath "1943" ;
+    edm:identifier "http://digital.cjh.org/108850",
+        "http://digital.cjh.org/1368774",
+        "http://digital.cjh.org/1368778",
+        "http://digital.cjh.org/1368780",
+        "http://digital.cjh.org/1368784",
+        "http://digital.cjh.org/1368786",
+        "http://digital.cjh.org/1368788",
+        "http://digital.cjh.org/1368796",
+        "http://digital.cjh.org/1448020",
+        "http://digital.cjh.org/1448161",
+        "http://digital.cjh.org/1736762" ;
+    owl:sameAs <http://catalogue.bnf.fr/ark:/12148/cb12866908r>,
+        <http://d-nb.info/gnd/117209503>,
+        <http://d-nb.info/gnd/117209503/about>,
+        <http://data.judaicalink.org/data/dbpedia/Arno_Nadel>,
+        <http://dbpedia.org/resource/Arno_Nadel>,
+        <http://de.dbpedia.org/resource/Arno_Nadel>,
+        <http://hub.culturegraph.org/entityfacts/117209503>,
+        <http://id.loc.gov/authorities/no98131205>,
+        <http://kalliope-verbund.info/gnd/117209503>,
+        <http://viaf.org/viaf/93394987>,
+        <http://wikidata.dbpedia.org/resource/Q694433>,
+        <http://www.filmportal.de/person/AABBAAE951764B95B89BC488BF9D907A>,
+        <http://www.isni.org/000000008165943X>,
+        <http://www.wikidata.org/entity/Q694433>,
+        <https://de.wikipedia.org/wiki/Arno_Nadel>,
+        <https://en.wikipedia.org/wiki/Arno_Nadel>,
+        <https://www.deutsche-digitale-bibliothek.de/entity/117209503> ;
+    skos:altLabel "Arno Nadel" ;
+    skos:prefLabel "Nadel, Arno" .
+
+<https://data.jhn.ngo/persons/LBI_art/1025> a edm:Agent ;
+    gndo:gndIdentifier "118590243" ;
+    jl:birthLocation "Prag" ;
+    jl:deathLocation "Berlin" ;
+    rdaGr2:dateOfBirth "1870" ;
+    rdaGr2:dateOfDeath "1932" ;
+    edm:identifier "http://digital.cjh.org/1484875",
+        "http://digital.cjh.org/1525024",
+        "http://digital.cjh.org/1682284",
+        "http://digital.cjh.org/1682287",
+        "http://digital.cjh.org/1736945",
+        "http://digital.cjh.org/4303725",
+        "http://digital.cjh.org/519868",
+        "http://digital.cjh.org/519870",
+        "http://digital.cjh.org/519872",
+        "http://digital.cjh.org/519874",
+        "http://digital.cjh.org/519876",
+        "http://digital.cjh.org/519878",
+        "http://digital.cjh.org/519890",
+        "http://digital.cjh.org/519898",
+        "http://digital.cjh.org/519900",
+        "http://digital.cjh.org/519902",
+        "http://digital.cjh.org/519904",
+        "http://digital.cjh.org/519906",
+        "http://digital.cjh.org/519908",
+        "http://digital.cjh.org/519910",
+        "http://digital.cjh.org/519912",
+        "http://digital.cjh.org/519914",
+        "http://digital.cjh.org/519920",
+        "http://digital.cjh.org/519922",
+        "http://digital.cjh.org/519928",
+        "http://digital.cjh.org/6377463" ;
+    owl:sameAs <http://catalogue.bnf.fr/ark:/12148/cb13568596v>,
+        <http://d-nb.info/gnd/118590243>,
+        <http://d-nb.info/gnd/118590243/about>,
+        <http://data.judaicalink.org/data/gnd/118590243>,
+        <http://dbpedia.org/resource/Emil_Orl%C3%ADk>,
+        <http://dfg-viewer.de/show/?tx_dlf%5Bid%5D=http://zbw.eu/beta/pm20mets/pe/0228xx/022817.xml>,
+        <http://hub.culturegraph.org/entityfacts/118590243>,
+        <http://id.loc.gov/authorities/n82165925>,
+        <http://kalliope-verbund.info/gnd/118590243>,
+        <http://kulturportal-west-ost.eu/persons/orlik-emil/>,
+        <http://purl.org/pressemappe20/folder/pe/022817>,
+        <http://viaf.org/viaf/49390293>,
+        <http://www.biographien.ac.at/oebl/oebl_O/Orlik_Emil_1870_1932.xml?frames=yes>,
+        <http://www.deutsche-biographie.de/pnd118590243.html#ndbcontent>,
+        <http://www.isni.org/0000000108993252>,
+        <http://www.wikidata.org/entity/Q379150>,
+        <https://de.wikipedia.org/wiki/Emil_Orlik>,
+        <https://en.wikipedia.org/wiki/Emil_Orl%C3%ADk>,
+        <https://www.deutsche-digitale-bibliothek.de/entity/118590243> ;
+    skos:altLabel "Orlik, ...",
+        "Orurikku, Emīru" ;
+    skos:prefLabel "Orlik, Emil" .
+
+<https://data.jhn.ngo/persons/LBI_art/1031> a edm:Agent ;
+    gndo:gndIdentifier "118623915" ;
+    jl:birthLocation "Prag" ;
+    rdaGr2:dateOfBirth "1890" ;
+    rdaGr2:dateOfDeath "1951" ;
+    edm:identifier "http://digital.cjh.org/1490400",
+        "http://digital.cjh.org/1490484" ;
+    owl:sameAs <http://catalogue.bnf.fr/ark:/12148/cb11927086h>,
+        <http://d-nb.info/gnd/118623915>,
+        <http://d-nb.info/gnd/118623915/about>,
+        <http://d-nb.info/gnd/177743271>,
+        <http://d-nb.info/gnd/181765012>,
+        <http://data.judaicalink.org/data/gnd/118623915>,
+        <http://dbpedia.org/resource/Walter_Trier>,
+        <http://hub.culturegraph.org/entityfacts/118623915>,
+        <http://id.loc.gov/authorities/n80131219>,
+        <http://kalliope-verbund.info/gnd/118623915>,
+        <http://viaf.org/viaf/12315918>,
+        <http://www.filmportal.de/person/93A25F267AF744DC836915F419AA236D>,
+        <http://www.isni.org/0000000120956024>,
+        <http://www.wikidata.org/entity/Q214138>,
+        <https://de.wikipedia.org/wiki/Walter_Trier>,
+        <https://en.wikipedia.org/wiki/Walter_Trier>,
+        <https://www.deutsche-digitale-bibliothek.de/entity/118623915> ;
+    skos:altLabel "Hua te Te li er",
+        "Huate-Telier",
+        "Telier, Huate",
+        "Telier, Waerte",
+        "Trier, Valtherus",
+        "Trir, Valter",
+        "Trirer, Valʹter",
+        "Triyar, Wāltar",
+        "Triyar, Wāltir",
+        "Trī'ir, Wāltir",
+        "Trīr, Fāltir",
+        "Trīr, Wāltar",
+        "Trīr, Wāltir",
+        "Trīrs, Valters",
+        "Tryras, V.",
+        "Wa er te Te li er",
+        "Wa'erte Teli'er",
+        "Waerte Telier",
+        "Waerte-Telier",
+        "טריאר, ולטר",
+        "טריר, ולטר",
+        "トリヤー, ヴァルター" ;
+    skos:prefLabel "Trier, Walter" .
+
+<https://data.jhn.ngo/persons/LBI_art/1078> a edm:Agent ;
+    gndo:gndIdentifier "134084446" ;
+    rdaGr2:dateOfBirth "1888" ;
+    rdaGr2:dateOfDeath "1940" ;
+    edm:identifier "http://digital.cjh.org/1524958",
+        "http://digital.cjh.org/1524961",
+        "http://digital.cjh.org/1524964",
+        "http://digital.cjh.org/1524967",
+        "http://digital.cjh.org/1524970",
+        "http://digital.cjh.org/1524973",
+        "http://digital.cjh.org/1524976",
+        "http://digital.cjh.org/1524979",
+        "http://digital.cjh.org/1524982",
+        "http://digital.cjh.org/1524985",
+        "http://digital.cjh.org/1524988",
+        "http://digital.cjh.org/1524991",
+        "http://digital.cjh.org/1682314",
+        "http://digital.cjh.org/1682317",
+        "http://digital.cjh.org/1682320",
+        "http://digital.cjh.org/1684376",
+        "http://digital.cjh.org/1684379",
+        "http://digital.cjh.org/1684382",
+        "http://digital.cjh.org/1684385",
+        "http://digital.cjh.org/1684388",
+        "http://digital.cjh.org/1684391",
+        "http://digital.cjh.org/1684394",
+        "http://digital.cjh.org/1684397",
+        "http://digital.cjh.org/1691126",
+        "http://digital.cjh.org/3989320" ;
+    owl:sameAs <http://catalogue.bnf.fr/ark:/12148/cb14500803t>,
+        <http://d-nb.info/gnd/134084446>,
+        <http://d-nb.info/gnd/134084446/about>,
+        <http://data.judaicalink.org/data/gnd/134084446>,
+        <http://data.judaicalink.org/data/nli/Budko_Joseph>,
+        <http://hub.culturegraph.org/entityfacts/134084446>,
+        <http://id.loc.gov/authorities/n85228086>,
+        <http://viaf.org/viaf/5316400>,
+        <http://www.isni.org/0000000107966893>,
+        <http://www.wikidata.org/entity/Q4098136>,
+        <https://de.wikipedia.org/wiki/Joseph_Budko>,
+        <https://www.deutsche-digitale-bibliothek.de/entity/134084446> ;
+    skos:altLabel "Budko, Josef",
+        "Budko, Józef",
+        "Budḳo, Yosef",
+        "Budḳoh, Yosef",
+        "בודקה, יוסף",
+        "בודקו, יוסף," ;
+    skos:prefLabel "Budko, Joseph" .
+
+<https://data.jhn.ngo/persons/LBI_art/1079> a edm:Agent ;
+    gndo:gndIdentifier "118625624" ;
+    rdaGr2:dateOfBirth "1861" ;
+    rdaGr2:dateOfDeath "1931" ;
+    edm:identifier "http://digital.cjh.org/1524994",
+        "http://digital.cjh.org/1682278",
+        "http://digital.cjh.org/1682293",
+        "http://digital.cjh.org/1682296",
+        "http://digital.cjh.org/1682299",
+        "http://digital.cjh.org/1682302",
+        "http://digital.cjh.org/1682305",
+        "http://digital.cjh.org/1682308",
+        "http://digital.cjh.org/1682311",
+        "http://digital.cjh.org/2866938",
+        "http://digital.cjh.org/4525545" ;
+    owl:sameAs <http://catalogue.bnf.fr/ark:/12148/cb144913590>,
+        <http://d-nb.info/gnd/118625624>,
+        <http://d-nb.info/gnd/118625624/about>,
+        <http://data.judaicalink.org/data/gnd/118625624>,
+        <http://dbpedia.org/resource/Lesser_Ury>,
+        <http://hub.culturegraph.org/entityfacts/118625624>,
+        <http://id.loc.gov/authorities/n83020086>,
+        <http://kalliope-verbund.info/gnd/118625624>,
+        <http://kulturportal-west-ost.eu/persons/ury-lesser/>,
+        <http://viaf.org/viaf/25395586>,
+        <http://www.isni.org/0000000110469476>,
+        <http://www.wikidata.org/entity/Q512596>,
+        <https://de.wikipedia.org/wiki/Lesser_Ury>,
+        <https://en.wikipedia.org/wiki/Lesser_Ury>,
+        <https://www.deutsche-digitale-bibliothek.de/entity/118625624> ;
+    skos:altLabel "Ury, Leo Lesser" ;
+    skos:prefLabel "Ury, Lesser" .
+
+<https://data.jhn.ngo/persons/LBI_art/1080> a edm:Agent ;
+    rdaGr2:dateOfBirth "1867" ;
+    rdaGr2:dateOfDeath "1929" ;
+    edm:identifier "http://digital.cjh.org/1524997",
+        "http://digital.cjh.org/1682281",
+        "http://digital.cjh.org/548524",
+        "http://digital.cjh.org/548576",
+        "http://digital.cjh.org/548606" ;
+    owl:sameAs <http://data.judaicalink.org/data/nli/Oppler_Ernst> ;
+    skos:altLabel "אופלר, ארנסט," ;
+    skos:prefLabel "Oppler, Ernst" .
+
+<https://data.jhn.ngo/persons/LBI_art/1088> a edm:Agent ;
+    gndo:gndIdentifier "118736426" ;
+    jl:birthLocation "Wien" ;
+    jl:deathLocation "New York, NY" ;
+    rdaGr2:dateOfBirth "1885" ;
+    rdaGr2:dateOfDeath "1954" ;
+    edm:identifier "http://digital.cjh.org/1525039" ;
+    owl:sameAs <http://catalogue.bnf.fr/ark:/12148/cb14563148t>,
+        <http://d-nb.info/gnd/118736426>,
+        <http://d-nb.info/gnd/118736426/about>,
+        <http://data.judaicalink.org/data/gnd/118736426>,
+        <http://hub.culturegraph.org/entityfacts/118736426>,
+        <http://id.loc.gov/authorities/nr95005761>,
+        <http://kalliope-verbund.info/gnd/118736426>,
+        <http://viaf.org/viaf/52484674>,
+        <http://www.deutsche-biographie.de/pnd118736426.html#ndbcontent>,
+        <http://www.filmportal.de/person/3BE421BC6A0442738AC3F19C8543093E>,
+        <http://www.isni.org/0000000110627569>,
+        <http://www.wikidata.org/entity/Q216480>,
+        <https://de.wikipedia.org/wiki/Max_Oppenheimer>,
+        <https://www.deutsche-digitale-bibliothek.de/entity/118736426> ;
+    skos:altLabel "Mopp",
+        "Mopp, Maximilian" ;
+    skos:prefLabel "Oppenheimer, Max" .
+
+<https://data.jhn.ngo/persons/LBI_art/1095> a edm:Agent ;
+    gndo:gndIdentifier "118732579" ;
+    jl:birthLocation "Bernstadt (Niederschlesien)" ;
+    jl:deathLocation "Darmstadt" ;
+    rdaGr2:dateOfBirth "1884" ;
+    rdaGr2:dateOfDeath "1966" ;
+    edm:identifier "http://digital.cjh.org/160616",
+        "http://digital.cjh.org/3315353",
+        "http://digital.cjh.org/519892",
+        "http://digital.cjh.org/519894",
+        "http://digital.cjh.org/519896",
+        "http://digital.cjh.org/519924" ;
+    owl:sameAs <http://catalogue.bnf.fr/ark:/12148/cb14416320h>,
+        <http://d-nb.info/gnd/118732579>,
+        <http://d-nb.info/gnd/118732579/about>,
+        <http://data.judaicalink.org/data/gnd/118732579>,
+        <http://dbpedia.org/resource/Ludwig_Meidner>,
+        <http://hub.culturegraph.org/entityfacts/118732579>,
+        <http://id.loc.gov/authorities/n80144545>,
+        <http://kalliope-verbund.info/gnd/118732579>,
+        <http://kulturportal-west-ost.eu/persons/meidner-ludwig/>,
+        <http://viaf.org/viaf/7603180>,
+        <http://www.deutsche-biographie.de/pnd118732579.html#ndbcontent>,
+        <http://www.filmportal.de/person/05FDBE18C06C46CAA766A30FF029BA78>,
+        <http://www.isni.org/0000000080870436>,
+        <http://www.lagis-hessen.de/pnd/118732579>,
+        <http://www.wikidata.org/entity/Q213727>,
+        <https://de.wikipedia.org/wiki/Ludwig_Meidner>,
+        <https://en.wikipedia.org/wiki/Ludwig_Meidner>,
+        <https://www.deutsche-digitale-bibliothek.de/entity/118732579> ;
+    skos:altLabel "Meidner, L." ;
+    skos:prefLabel "Meidner, Ludwig" .
+
+<https://data.jhn.ngo/persons/LBI_art/1106> a edm:Agent ;
+    gndo:gndIdentifier "118572938" ;
+    jl:birthLocation "Drogobytsch" ;
+    jl:deathLocation "Badenweiler" ;
+    rdaGr2:dateOfBirth "1874" ;
+    edm:identifier "http://digital.cjh.org/1682164",
+        "http://digital.cjh.org/1736933",
+        "http://digital.cjh.org/1736942" ;
+    owl:sameAs <http://d-nb.info/gnd/112251008X>,
+        <http://d-nb.info/gnd/118572938>,
+        <http://d-nb.info/gnd/118572938/about>,
+        <http://data.judaicalink.org/data/gnd/118572938>,
+        <http://dbpedia.org/resource/Ephraim_Moses_Lilien>,
+        <http://hub.culturegraph.org/entityfacts/118572938>,
+        <http://id.loc.gov/authorities/n81093755>,
+        <http://kalliope-verbund.info/gnd/118572938>,
+        <http://viaf.org/viaf/59876406>,
+        <http://www.biographien.ac.at/oebl/oebl_L/Lilien_Efraim_1874_1925.xml?frames=yes>,
+        <http://www.deutsche-biographie.de/pnd118572938.html#ndbcontent>,
+        <http://www.isni.org/0000000110651227>,
+        <http://www.wikidata.org/entity/Q1273537>,
+        <https://de.wikipedia.org/wiki/E._M._Lilien>,
+        <https://en.wikipedia.org/wiki/Ephraim_Moses_Lilien>,
+        <https://www.deutsche-digitale-bibliothek.de/entity/118572938> ;
+    skos:altLabel "Lilian, Ephraim M.",
+        "Lilien, E. M.",
+        "Lilien, Ephraim Moses",
+        "Lilien, Maurycy",
+        "Lilien, Maurycy Ephraim Moses",
+        "Lilien, Maurycy Mojżesz",
+        "Lilijen, Efraïm Moše",
+        "Lilijen, Mavrycij Mojsej",
+        "Liliyan, Efrayim Mosheh",
+        "Lilyan, Efrayim Mosheh",
+        "Lilyen, Efrayim Moše",
+        "Lîlîyen, E. M.",
+        "ליליאן, אפרים משה" ;
+    skos:prefLabel "Lilien, Ephraim Mose" .
+
+<https://data.jhn.ngo/persons/LBI_art/1126> a edm:Agent ;
+    gndo:gndIdentifier "13158104X" ;
+    rdaGr2:dateOfBirth "1873" ;
+    rdaGr2:dateOfDeath "1944" ;
+    edm:identifier "http://digital.cjh.org/1682257" ;
+    owl:sameAs <http://d-nb.info/gnd/13158104X>,
+        <http://data.judaicalink.org/data/dbpedia/Alexander_Beer>,
+        <http://dbpedia.org/resource/Alexander_Beer>,
+        <http://de.dbpedia.org/resource/Alexander_Beer>,
+        <http://rdf.freebase.com/ns/m.0c_0yj>,
+        <http://viaf.org/viaf/25740508>,
+        <http://wikidata.dbpedia.org/resource/Q121830>,
+        <http://www.wikidata.org/entity/Q121830>,
+        <http://yago-knowledge.org/resource/Alexander_Beer> ;
+    skos:altLabel "Alexander Beer",
+        "Beer, Alex",
+        "Beer, Alexander" ;
+    skos:prefLabel "Beer, Alexander" .
+
+<https://data.jhn.ngo/persons/LBI_art/1164> a edm:Agent ;
+    gndo:gndIdentifier "118687271" ;
+    jl:birthLocation "Buczkowice" ;
+    rdaGr2:dateOfBirth "1884" ;
+    rdaGr2:dateOfDeath "1943" ;
+    edm:identifier "http://digital.cjh.org/3302483",
+        "http://digital.cjh.org/3314643",
+        "http://digital.cjh.org/3314648",
+        "http://digital.cjh.org/3314653",
+        "http://digital.cjh.org/3314658",
+        "http://digital.cjh.org/3314663",
+        "http://digital.cjh.org/3314668",
+        "http://digital.cjh.org/3314673" ;
+    owl:sameAs <http://d-nb.info/gnd/1076266851>,
+        <http://d-nb.info/gnd/118687271>,
+        <http://d-nb.info/gnd/118687271/about>,
+        <http://d-nb.info/gnd/128286040>,
+        <http://d-nb.info/gnd/175509042>,
+        <http://data.judaicalink.org/data/gnd/118687271>,
+        <http://hub.culturegraph.org/entityfacts/118687271>,
+        <http://id.loc.gov/authorities/n84223743>,
+        <http://kalliope-verbund.info/gnd/118687271>,
+        <http://viaf.org/viaf/15563713>,
+        <http://www.filmportal.de/person/84E312E103E14D2286956B929018ED84>,
+        <http://www.isni.org/000000012209005X>,
+        <http://www.wikidata.org/entity/Q1930725>,
+        <https://de.wikipedia.org/wiki/Michel_Fingesten> ;
+    skos:altLabel "Fingesten, Michael",
+        "Fingesten, Michaele",
+        "Fingesten, Michele",
+        "Fingesten, Michl",
+        "Finkelstein, Michel" ;
+    skos:prefLabel "Fingesten, Michel" .
+
+<https://data.jhn.ngo/persons/LBI_art/1171> a edm:Agent ;
+    rdaGr2:dateOfBirth "1875" ;
+    rdaGr2:dateOfDeath "1942" ;
+    edm:identifier "http://digital.cjh.org/3314633" ;
+    owl:sameAs <http://data.judaicalink.org/data/nli/Wachtel_Wilhelm> ;
+    skos:altLabel "וכטל, וילהלם," ;
+    skos:prefLabel "Wachtel, Wilhelm" .
+
+<https://data.jhn.ngo/persons/LBI_art/1173> a edm:Agent ;
+    gndo:gndIdentifier "116926716" ;
+    jl:birthLocation "Darmstadt" ;
+    jl:deathLocation "London" ;
+    rdaGr2:dateOfDeath "1945" ;
+    edm:identifier "http://digital.cjh.org/3314688" ;
+    owl:sameAs <http://d-nb.info/gnd/116926716>,
+        <http://d-nb.info/gnd/116926716/about>,
+        <http://data.judaicalink.org/data/gnd/116926716>,
+        <http://hub.culturegraph.org/entityfacts/116926716>,
+        <http://id.loc.gov/authorities/nb2007019604>,
+        <http://kalliope-verbund.info/gnd/116926716>,
+        <http://viaf.org/viaf/42601678>,
+        <http://www.isni.org/0000000043810442>,
+        <http://www.lagis-hessen.de/pnd/116926716>,
+        <http://www.wikidata.org/entity/Q1358393>,
+        <https://de.wikipedia.org/wiki/Ernst_Gundolf>,
+        <https://www.deutsche-digitale-bibliothek.de/entity/116926716> ;
+    skos:altLabel "Ernst Gundolf",
+        "Gundelfinger, Ernst" ;
+    skos:prefLabel "Gundolf, Ernst" .
+
+<https://data.jhn.ngo/persons/LBI_art/1204> a edm:Agent ;
+    gndo:gndIdentifier "116373229" ;
+    jl:birthLocation "Zinten" ;
+    rdaGr2:dateOfBirth "1878" ;
+    edm:identifier "http://digital.cjh.org/3357351" ;
+    owl:sameAs <http://d-nb.info/gnd/116373229>,
+        <http://d-nb.info/gnd/116373229/about>,
+        <http://d-nb.info/gnd/175720797>,
+        <http://d-nb.info/gnd/181109131>,
+        <http://data.judaicalink.org/data/gnd/116373229>,
+        <http://hub.culturegraph.org/entityfacts/116373229>,
+        <http://kalliope-verbund.info/gnd/116373229>,
+        <http://viaf.org/viaf/97833699>,
+        <http://www.isni.org/0000000078196972>,
+        <http://www.wikidata.org/entity/Q2655148>,
+        <https://de.wikipedia.org/wiki/Arthur_Galliner> ;
+    skos:altLabel "Galliner, A." ;
+    skos:prefLabel "Galliner, Arthur" .
+
+<https://data.jhn.ngo/persons/LBI_art/1248> a edm:Agent ;
+    rdaGr2:dateOfBirth "-" ;
+    rdaGr2:dateOfDeath "-" ;
+    edm:identifier "http://digital.cjh.org/3992016" ;
+    owl:sameAs <http://data.judaicalink.org/data/nli/Werdigier_Wolf> ;
+    skos:altLabel "ڤيرديچير، ڤولف" ;
+    skos:prefLabel "Werdigier, Wolf" .
+
+<https://data.jhn.ngo/persons/LBI_art/1255> a edm:Agent ;
+    gndo:gndIdentifier "119321734" ;
+    jl:birthLocation "Margonin" ;
+    jl:deathLocation "Jerusalem" ;
+    rdaGr2:dateOfBirth "1891" ;
+    rdaGr2:dateOfDeath "1968" ;
+    edm:identifier "http://digital.cjh.org/4303704" ;
+    owl:sameAs <http://catalogue.bnf.fr/ark:/12148/cb16547004r>,
+        <http://d-nb.info/gnd/119321734>,
+        <http://d-nb.info/gnd/119321734/about>,
+        <http://data.judaicalink.org/data/gnd/119321734>,
+        <http://hub.culturegraph.org/entityfacts/119321734>,
+        <http://id.loc.gov/authorities/nr95018801>,
+        <http://kalliope-verbund.info/gnd/119321734>,
+        <http://kulturportal-west-ost.eu/persons/aschheim-isidor/>,
+        <http://viaf.org/viaf/19569049>,
+        <http://www.isni.org/0000000078595797>,
+        <http://www.wikidata.org/entity/Q12403756>,
+        <https://de.wikipedia.org/wiki/Isidor_Aschheim>,
+        <https://en.wikipedia.org/wiki/Isidor_Ascheim> ;
+    skos:altLabel "Ashhaim, Izidor",
+        "Ašhaim, Îzîdôr",
+        "Isidor Aschheim" ;
+    skos:prefLabel "Aschheim, Isidor" .
+
+<https://data.jhn.ngo/persons/LBI_art/1275> a edm:Agent ;
+    gndo:gndIdentifier "118816292" ;
+    jl:birthLocation "Wien" ;
+    jl:deathLocation "Neu-Isenburg" ;
+    rdaGr2:dateOfBirth "1859" ;
+    rdaGr2:dateOfDeath "1936" ;
+    edm:identifier "http://digital.cjh.org/4481509",
+        "http://digital.cjh.org/4481515" ;
+    owl:sameAs <http://catalogue.bnf.fr/ark:/12148/cb120572221>,
+        <http://d-nb.info/gnd/118816292>,
+        <http://d-nb.info/gnd/118816292/about>,
+        <http://data.judaicalink.org/data/gnd/118816292>,
+        <http://dbpedia.org/resource/Bertha_Pappenheim>,
+        <http://frankfurter-personenlexikon.de/beacon/beacon.php?118816292>,
+        <http://hub.culturegraph.org/entityfacts/118816292>,
+        <http://id.loc.gov/authorities/n82127203>,
+        <http://kalliope-verbund.info/gnd/118816292>,
+        <http://viaf.org/viaf/68949627>,
+        <http://www.deutsche-biographie.de/pnd118816292.html#ndbcontent>,
+        <http://www.isni.org/0000000083912099>,
+        <http://www.lagis-hessen.de/pnd/118816292>,
+        <http://www.wikidata.org/entity/Q61178>,
+        <https://de.wikipedia.org/wiki/Bertha_Pappenheim>,
+        <https://de.wikisource.org/wiki/Bertha_Pappenheim>,
+        <https://en.wikipedia.org/wiki/Bertha_Pappenheim>,
+        <https://www.deutsche-digitale-bibliothek.de/entity/118816292> ;
+    skos:altLabel "Anna, O.",
+        "Berthold, B.",
+        "Berthold, P.",
+        "O., Anna",
+        "Pappenheim, Berta",
+        "Pappenheim, Berthold" ;
+    skos:prefLabel "Pappenheim, Bertha" .
+
+<https://data.jhn.ngo/persons/LBI_art/1281> a edm:Agent ;
+    gndo:gndIdentifier "118529943" ;
+    jl:birthLocation "Dortmund" ;
+    jl:deathLocation "London" ;
+    rdaGr2:dateOfBirth "1877" ;
+    rdaGr2:dateOfDeath "1960" ;
+    edm:identifier "http://digital.cjh.org/4483145" ;
+    owl:sameAs <http://d-nb.info/gnd/118529943>,
+        <http://d-nb.info/gnd/118529943/about>,
+        <http://data.judaicalink.org/data/dbpedia/Benno_Elkan>,
+        <http://dbpedia.org/resource/Benno_Elkan>,
+        <http://de.dbpedia.org/resource/Benno_Elkan>,
+        <http://fr.dbpedia.org/resource/Benno_Elkan>,
+        <http://hub.culturegraph.org/entityfacts/118529943>,
+        <http://id.loc.gov/authorities/n86033051>,
+        <http://kalliope-verbund.info/gnd/118529943>,
+        <http://rdf.freebase.com/ns/m.0280wlk>,
+        <http://viaf.org/viaf/69721183>,
+        <http://wikidata.dbpedia.org/resource/Q215597>,
+        <http://www.isni.org/000000012138390X>,
+        <http://www.wikidata.org/entity/Q215597>,
+        <http://yago-knowledge.org/resource/Benno_Elkan>,
+        <https://de.wikipedia.org/wiki/Benno_Elkan>,
+        <https://en.wikipedia.org/wiki/Benno_Elkan>,
+        <https://www.deutsche-digitale-bibliothek.de/entity/118529943> ;
+    skos:altLabel "Benno Elkan",
+        "Элькан, Бенно" ;
+    skos:prefLabel "Elkan, Benno" .
+
+<https://data.jhn.ngo/persons/LBI_art/1307> a edm:Agent ;
+    gndo:gndIdentifier "118738828" ;
+    jl:birthLocation "Remscheid" ;
+    jl:deathLocation "Frankfurt am Main" ;
+    rdaGr2:dateOfBirth "1904" ;
+    rdaGr2:dateOfDeath "1968" ;
+    edm:identifier "http://digital.cjh.org/4627819",
+        "http://digital.cjh.org/4627822",
+        "http://digital.cjh.org/4627825",
+        "http://digital.cjh.org/4627828",
+        "http://digital.cjh.org/4627831",
+        "http://digital.cjh.org/4627834" ;
+    owl:sameAs <http://catalogue.bnf.fr/ark:/12148/cb14693900t>,
+        <http://d-nb.info/gnd/118738828>,
+        <http://d-nb.info/gnd/118738828/about>,
+        <http://d-nb.info/gnd/174254415>,
+        <http://data.judaicalink.org/data/gnd/118738828>,
+        <http://dbpedia.org/resource/Teo_Otto>,
+        <http://hub.culturegraph.org/entityfacts/118738828>,
+        <http://id.loc.gov/authorities/n97865082>,
+        <http://kalliope-verbund.info/gnd/118738828>,
+        <http://viaf.org/viaf/96225612>,
+        <http://www.deutsche-biographie.de/pnd118738828.html#ndbcontent>,
+        <http://www.filmportal.de/person/1C50D0765EEA4A28B08491B5DD93D2A5>,
+        <http://www.hls-dhs-dss.ch/textes/d/D9537.php>,
+        <http://www.isni.org/0000000116906796>,
+        <http://www.wikidata.org/entity/Q124839>,
+        <https://de.wikipedia.org/wiki/Teo_Otto>,
+        <https://en.wikipedia.org/wiki/Teo_Otto>,
+        <https://www.deutsche-digitale-bibliothek.de/entity/118738828> ;
+    skos:altLabel "Otto, Theo",
+        "Otto, Theodor Carl",
+        "Otto, Theodor Karl" ;
+    skos:prefLabel "Otto, Teo" .
+
+<https://data.jhn.ngo/persons/LBI_art/1312> a edm:Agent ;
+    gndo:gndIdentifier "13882343X" ;
+    jl:birthLocation "Brooklyn, NY" ;
+    rdaGr2:dateOfBirth "1932" ;
+    rdaGr2:dateOfDeath "-" ;
+    edm:identifier "http://digital.cjh.org/4852235",
+        "http://digital.cjh.org/4852238" ;
+    owl:sameAs <http://catalogue.bnf.fr/ark:/12148/cb14979648j>,
+        <http://d-nb.info/gnd/13882343X>,
+        <http://d-nb.info/gnd/13882343X/about>,
+        <http://data.judaicalink.org/data/gnd/13882343X>,
+        <http://hub.culturegraph.org/entityfacts/13882343X>,
+        <http://id.loc.gov/authorities/n98004995>,
+        <http://viaf.org/viaf/49498945>,
+        <http://www.isni.org/0000000114722934>,
+        <http://www.wikidata.org/entity/Q55284032> ;
+    skos:altLabel "Greenfield, Yitzhak",
+        "Grinfild, Yitshaḳ",
+        "Yitzchak Greenfield" ;
+    skos:prefLabel "Greenfield, Yitzchak" .
+
+<https://data.jhn.ngo/persons/LBI_art/1324> a edm:Agent ;
+    rdaGr2:dateOfBirth "1927" ;
+    rdaGr2:dateOfDeath "2015" ;
+    edm:identifier "http://digital.cjh.org/4852405" ;
+    owl:sameAs <http://data.judaicalink.org/data/nli/Soshana_> ;
+    skos:altLabel "שושנה," ;
+    skos:prefLabel "Soshana," .
+
+<https://data.jhn.ngo/persons/LBI_art/1349> a edm:Agent ;
+    gndo:gndIdentifier "128627980" ;
+    jl:birthLocation "Mährisch-Ostrau" ;
+    jl:deathLocation "Saint Louis, Mo." ;
+    rdaGr2:dateOfBirth "1893" ;
+    rdaGr2:dateOfDeath "1980" ;
+    edm:identifier "http://digital.cjh.org/5629129",
+        "http://digital.cjh.org/5629132" ;
+    owl:sameAs <http://d-nb.info/gnd/128627980>,
+        <http://d-nb.info/gnd/128627980/about>,
+        <http://data.judaicalink.org/data/gnd/128627980>,
+        <http://hub.culturegraph.org/entityfacts/128627980>,
+        <http://id.loc.gov/authorities/no97046659>,
+        <http://viaf.org/viaf/40433639>,
+        <http://www.isni.org/0000000071025169>,
+        <http://www.wikidata.org/entity/Q14544964>,
+        <https://de.wikipedia.org/wiki/David_Friedmann_%28K%C3%BCnstler%29>,
+        <https://www.deutsche-digitale-bibliothek.de/entity/128627980> ;
+    skos:altLabel "Friedman, David" ;
+    skos:prefLabel "Friedmann, David" .
+
+<https://data.jhn.ngo/persons/LBI_art/1358> a edm:Agent ;
+    gndo:gndIdentifier "118856030" ;
+    jl:birthLocation "Buchen (Odenwald)" ;
+    jl:deathLocation "Ramat Gan" ;
+    rdaGr2:dateOfBirth "1897" ;
+    rdaGr2:dateOfDeath "1983" ;
+    edm:identifier "http://digital.cjh.org/6344421" ;
+    owl:sameAs <http://d-nb.info/gnd/118856030>,
+        <http://d-nb.info/gnd/118856030/about>,
+        <http://data.judaicalink.org/data/gnd/118856030>,
+        <http://hub.culturegraph.org/entityfacts/118856030>,
+        <http://id.loc.gov/authorities/n96078554>,
+        <http://kalliope-verbund.info/gnd/118856030>,
+        <http://viaf.org/viaf/40175727>,
+        <http://www.isni.org/0000000119608137>,
+        <http://www.wikidata.org/entity/Q1875003>,
+        <https://de.wikipedia.org/wiki/Ludwig_Schwerin>,
+        <https://www.deutsche-digitale-bibliothek.de/entity/118856030> ;
+    skos:altLabel "Ludwig Schwerin",
+        "Schwerin, Ludwig von" ;
+    skos:prefLabel "Schwerin, Ludwig" .
+
+<https://data.jhn.ngo/persons/LBI_art/1368> a edm:Agent ;
+    rdaGr2:dateOfBirth "1738" ;
+    rdaGr2:dateOfDeath "1815" ;
+    edm:identifier "http://digital.cjh.org/101588",
+        "http://digital.cjh.org/3357166" ;
+    skos:prefLabel "Frisch, Johann Christoph" .
+
+<https://data.jhn.ngo/persons/LBI_art/1369> a edm:Agent ;
+    rdaGr2:dateOfBirth "1747" ;
+    rdaGr2:dateOfDeath "1830" ;
+    edm:identifier "http://digital.cjh.org/101588" ;
+    skos:prefLabel "Mueller, Johann Gotthard" .
+
+<https://data.jhn.ngo/persons/LBI_art/1370> a edm:Agent ;
+    rdaGr2:dateOfBirth "1891" ;
+    rdaGr2:dateOfDeath "1957" ;
+    edm:identifier "http://digital.cjh.org/101615" ;
+    skos:prefLabel "Segall, Lasar" .
+
+<https://data.jhn.ngo/persons/LBI_art/1371> a edm:Agent ;
+    rdaGr2:dateOfBirth "1901" ;
+    rdaGr2:dateOfDeath "1988" ;
+    edm:identifier "http://digital.cjh.org/101618",
+        "http://digital.cjh.org/101696",
+        "http://digital.cjh.org/3314693" ;
+    skos:prefLabel "Lesser, Rudi" .
+
+<https://data.jhn.ngo/persons/LBI_art/1374> a edm:Agent ;
+    rdaGr2:dateOfBirth "1793" ;
+    rdaGr2:dateOfDeath "1877" ;
+    edm:identifier "http://digital.cjh.org/101660",
+        "http://digital.cjh.org/3357116" ;
+    skos:prefLabel "Veit, Philipp" .
+
+<https://data.jhn.ngo/persons/LBI_art/1378> a edm:Agent ;
+    rdaGr2:dateOfBirth "1785" ;
+    rdaGr2:dateOfDeath "1865" ;
+    edm:identifier "http://digital.cjh.org/108811",
+        "http://digital.cjh.org/160831" ;
+    skos:prefLabel "Henschel, Wilhelm" .
+
+<https://data.jhn.ngo/persons/LBI_art/1379> a edm:Agent ;
+    rdaGr2:dateOfBirth "1883" ;
+    rdaGr2:dateOfDeath "1954" ;
+    edm:identifier "http://digital.cjh.org/108823" ;
+    skos:prefLabel "Bloch, Martin" .
+
+<https://data.jhn.ngo/persons/LBI_art/1383> a edm:Agent ;
+    rdaGr2:dateOfBirth "1874" ;
+    rdaGr2:dateOfDeath "1972" ;
+    edm:identifier "http://digital.cjh.org/108853",
+        "http://digital.cjh.org/1490334",
+        "http://digital.cjh.org/1503654",
+        "http://digital.cjh.org/3999755",
+        "http://digital.cjh.org/3999764",
+        "http://digital.cjh.org/3999785",
+        "http://digital.cjh.org/519884",
+        "http://digital.cjh.org/519886",
+        "http://digital.cjh.org/519888",
+        "http://digital.cjh.org/519916",
+        "http://digital.cjh.org/519918",
+        "http://digital.cjh.org/519926",
+        "http://digital.cjh.org/5629153" ;
+    skos:prefLabel "Spiro, Eugen" .
+
+<https://data.jhn.ngo/persons/LBI_art/1384> a edm:Agent ;
+    rdaGr2:dateOfBirth "1904" ;
+    rdaGr2:dateOfDeath "1983" ;
+    edm:identifier "http://digital.cjh.org/108901",
+        "http://digital.cjh.org/1485545" ;
+    skos:prefLabel "BureÅ¡ovÃ¡, Charlotta" .
+
+<https://data.jhn.ngo/persons/LBI_art/1385> a edm:Agent ;
+    rdaGr2:dateOfBirth "1881" ;
+    rdaGr2:dateOfDeath "1970" ;
+    edm:identifier "http://digital.cjh.org/108922",
+        "http://digital.cjh.org/160846",
+        "http://digital.cjh.org/1682419",
+        "http://digital.cjh.org/1736840",
+        "http://digital.cjh.org/3302459",
+        "http://digital.cjh.org/3302477",
+        "http://digital.cjh.org/3315338",
+        "http://digital.cjh.org/3999771" ;
+    skos:prefLabel "SchÃ¼lein, Julius W Julius Wolfgang" .
+
+<https://data.jhn.ngo/persons/LBI_art/1386> a edm:Agent ;
+    rdaGr2:dateOfBirth "1904" ;
+    rdaGr2:dateOfDeath "1944" ;
+    edm:identifier "http://digital.cjh.org/108934",
+        "http://digital.cjh.org/108937" ;
+    skos:prefLabel "Nussbaum, Felix" .
+
+<https://data.jhn.ngo/persons/LBI_art/1387> a edm:Agent ;
+    rdaGr2:dateOfBirth "1880" ;
+    rdaGr2:dateOfDeath "1945" ;
+    edm:identifier "http://digital.cjh.org/108949",
+        "http://digital.cjh.org/1269655",
+        "http://digital.cjh.org/1285718",
+        "http://digital.cjh.org/1285720",
+        "http://digital.cjh.org/1285724",
+        "http://digital.cjh.org/1285726",
+        "http://digital.cjh.org/1285728",
+        "http://digital.cjh.org/1285736",
+        "http://digital.cjh.org/1285738",
+        "http://digital.cjh.org/1285740",
+        "http://digital.cjh.org/1285744",
+        "http://digital.cjh.org/1285758",
+        "http://digital.cjh.org/1285760",
+        "http://digital.cjh.org/1285762",
+        "http://digital.cjh.org/1285764",
+        "http://digital.cjh.org/1292725",
+        "http://digital.cjh.org/1292767",
+        "http://digital.cjh.org/1682350",
+        "http://digital.cjh.org/1684247",
+        "http://digital.cjh.org/1684250",
+        "http://digital.cjh.org/3640941",
+        "http://digital.cjh.org/4852788",
+        "http://digital.cjh.org/4852791",
+        "http://digital.cjh.org/4852794",
+        "http://digital.cjh.org/4852797",
+        "http://digital.cjh.org/4852800",
+        "http://digital.cjh.org/4852803",
+        "http://digital.cjh.org/4852806",
+        "http://digital.cjh.org/4852809",
+        "http://digital.cjh.org/4852812",
+        "http://digital.cjh.org/4852815" ;
+    skos:prefLabel "SteinerPrag, Hugo" .
+
+<https://data.jhn.ngo/persons/LBI_art/1388> a edm:Agent ;
+    rdaGr2:dateOfBirth "1896" ;
+    rdaGr2:dateOfDeath "1981" ;
+    edm:identifier "http://digital.cjh.org/113893",
+        "http://digital.cjh.org/1485578",
+        "http://digital.cjh.org/1569442",
+        "http://digital.cjh.org/2967815",
+        "http://digital.cjh.org/2967825",
+        "http://digital.cjh.org/2967835",
+        "http://digital.cjh.org/2967840",
+        "http://digital.cjh.org/2967845",
+        "http://digital.cjh.org/2967850",
+        "http://digital.cjh.org/2967855",
+        "http://digital.cjh.org/2967860",
+        "http://digital.cjh.org/2967870",
+        "http://digital.cjh.org/2967875",
+        "http://digital.cjh.org/2967880",
+        "http://digital.cjh.org/2967885",
+        "http://digital.cjh.org/2967890",
+        "http://digital.cjh.org/2967900",
+        "http://digital.cjh.org/2979895",
+        "http://digital.cjh.org/3000858",
+        "http://digital.cjh.org/3186219",
+        "http://digital.cjh.org/3314873",
+        "http://digital.cjh.org/3314878",
+        "http://digital.cjh.org/3640946" ;
+    skos:prefLabel "Troller, Norbert" .
+
+<https://data.jhn.ngo/persons/LBI_art/1389> a edm:Agent ;
+    rdaGr2:dateOfBirth "1880" ;
+    rdaGr2:dateOfDeath "1967" ;
+    edm:identifier "http://digital.cjh.org/113896" ;
+    skos:prefLabel "BerendCorinth, Charlotte" .
+
+<https://data.jhn.ngo/persons/LBI_art/1390> a edm:Agent ;
+    rdaGr2:dateOfBirth "1897" ;
+    rdaGr2:dateOfDeath "1967" ;
+    edm:identifier "http://digital.cjh.org/1285672",
+        "http://digital.cjh.org/1285674",
+        "http://digital.cjh.org/1285676",
+        "http://digital.cjh.org/1285678",
+        "http://digital.cjh.org/1285680",
+        "http://digital.cjh.org/1285682",
+        "http://digital.cjh.org/1285684",
+        "http://digital.cjh.org/1285686",
+        "http://digital.cjh.org/1285688",
+        "http://digital.cjh.org/1285690",
+        "http://digital.cjh.org/1285692",
+        "http://digital.cjh.org/1285694",
+        "http://digital.cjh.org/1285696",
+        "http://digital.cjh.org/1285700",
+        "http://digital.cjh.org/1285702",
+        "http://digital.cjh.org/1285704",
+        "http://digital.cjh.org/1285708",
+        "http://digital.cjh.org/1285714",
+        "http://digital.cjh.org/1525045",
+        "http://digital.cjh.org/1684262",
+        "http://digital.cjh.org/1684268",
+        "http://digital.cjh.org/1684271",
+        "http://digital.cjh.org/1684274",
+        "http://digital.cjh.org/1736777",
+        "http://digital.cjh.org/1736813" ;
+    skos:prefLabel "Ritter, Lucie Marcus" .
+
+<https://data.jhn.ngo/persons/LBI_art/1393> a edm:Agent ;
+    rdaGr2:dateOfBirth "1883" ;
+    rdaGr2:dateOfDeath "1972" ;
+    edm:identifier "http://digital.cjh.org/1485323",
+        "http://digital.cjh.org/1485350",
+        "http://digital.cjh.org/1491693",
+        "http://digital.cjh.org/160750" ;
+    skos:prefLabel "CarvalloSchÃ¼lein, Susanne" .
+
+<https://data.jhn.ngo/persons/LBI_art/1394> a edm:Agent ;
+    rdaGr2:dateOfBirth "1898" ;
+    rdaGr2:dateOfDeath "-" ;
+    edm:identifier "http://digital.cjh.org/1485338",
+        "http://digital.cjh.org/1485341",
+        "http://digital.cjh.org/3357366",
+        "http://digital.cjh.org/4852280" ;
+    skos:prefLabel "Isenstein, Harald K" .
+
+<https://data.jhn.ngo/persons/LBI_art/1395> a edm:Agent ;
+    rdaGr2:dateOfBirth "1908" ;
+    rdaGr2:dateOfDeath "1945" ;
+    edm:identifier "http://digital.cjh.org/1485347",
+        "http://digital.cjh.org/1485371",
+        "http://digital.cjh.org/1485374",
+        "http://digital.cjh.org/1684319",
+        "http://digital.cjh.org/1736882",
+        "http://digital.cjh.org/1736885",
+        "http://digital.cjh.org/1736888",
+        "http://digital.cjh.org/1736891",
+        "http://digital.cjh.org/1736903",
+        "http://digital.cjh.org/1736906",
+        "http://digital.cjh.org/2979859" ;
+    skos:prefLabel "GÃ¶ndÃ¶r, Bertalan" .
+
+<https://data.jhn.ngo/persons/LBI_art/1396> a edm:Agent ;
+    rdaGr2:dateOfBirth "1897" ;
+    rdaGr2:dateOfDeath "1981" ;
+    edm:identifier "http://digital.cjh.org/1485416",
+        "http://digital.cjh.org/1485449",
+        "http://digital.cjh.org/1485515" ;
+    skos:prefLabel "Behr, Henry" .
+
+<https://data.jhn.ngo/persons/LBI_art/1399> a edm:Agent ;
+    rdaGr2:dateOfBirth "1790" ;
+    rdaGr2:dateOfDeath "1863" ;
+    edm:identifier "http://digital.cjh.org/1490403" ;
+    skos:prefLabel "Grimm, Ludwig Emil" .
+
+<https://data.jhn.ngo/persons/LBI_art/1400> a edm:Agent ;
+    rdaGr2:dateOfBirth "1820" ;
+    rdaGr2:dateOfDeath "1876" ;
+    edm:identifier "http://digital.cjh.org/1490451",
+        "http://digital.cjh.org/3357111" ;
+    skos:prefLabel "KÃ¶nig, Heribert" .
+
+<https://data.jhn.ngo/persons/LBI_art/1401> a edm:Agent ;
+    rdaGr2:dateOfBirth "1560" ;
+    rdaGr2:dateOfDeath "1632" ;
+    edm:identifier "http://digital.cjh.org/1497754",
+        "http://digital.cjh.org/1497760",
+        "http://digital.cjh.org/1497763" ;
+    skos:prefLabel "Sadeler, Raphael" .
+
+<https://data.jhn.ngo/persons/LBI_art/1402> a edm:Agent ;
+    rdaGr2:dateOfBirth "1665" ;
+    rdaGr2:dateOfDeath "1730" ;
+    edm:identifier "http://digital.cjh.org/1497757" ;
+    skos:prefLabel "Kilian, Jeremias" .
+
+<https://data.jhn.ngo/persons/LBI_art/1403> a edm:Agent ;
+    rdaGr2:dateOfBirth "1673" ;
+    rdaGr2:dateOfDeath "1733" ;
+    edm:identifier "http://digital.cjh.org/1497781",
+        "http://digital.cjh.org/1497784",
+        "http://digital.cjh.org/1497787",
+        "http://digital.cjh.org/1497790",
+        "http://digital.cjh.org/1497793",
+        "http://digital.cjh.org/1497796",
+        "http://digital.cjh.org/1497799",
+        "http://digital.cjh.org/1497802",
+        "http://digital.cjh.org/1497805",
+        "http://digital.cjh.org/1497808",
+        "http://digital.cjh.org/1497811",
+        "http://digital.cjh.org/1497814" ;
+    skos:prefLabel "Picart, Bernard" .
+
+<https://data.jhn.ngo/persons/LBI_art/1405> a edm:Agent ;
+    rdaGr2:dateOfBirth "1823" ;
+    rdaGr2:dateOfDeath "1892" ;
+    edm:identifier "http://digital.cjh.org/1497820",
+        "http://digital.cjh.org/1497850",
+        "http://digital.cjh.org/1503597" ;
+    skos:prefLabel "Weger, August" .
+
+<https://data.jhn.ngo/persons/LBI_art/1406> a edm:Agent ;
+    rdaGr2:dateOfBirth "1704" ;
+    rdaGr2:dateOfDeath "1767" ;
+    edm:identifier "http://digital.cjh.org/1497853" ;
+    skos:prefLabel "Haid, Johann Jacob" .
+
+<https://data.jhn.ngo/persons/LBI_art/1407> a edm:Agent ;
+    rdaGr2:dateOfBirth "1803" ;
+    rdaGr2:dateOfDeath "1879" ;
+    edm:identifier "http://digital.cjh.org/1497856" ;
+    skos:prefLabel "Engleheart, Timothy Stansfield" .
+
+<https://data.jhn.ngo/persons/LBI_art/1408> a edm:Agent ;
+    rdaGr2:dateOfBirth "1818" ;
+    rdaGr2:dateOfDeath "1852" ;
+    edm:identifier "http://digital.cjh.org/1497868" ;
+    skos:prefLabel "Afinger, Nikolaus" .
+
+<https://data.jhn.ngo/persons/LBI_art/1411> a edm:Agent ;
+    rdaGr2:dateOfBirth "1817" ;
+    rdaGr2:dateOfDeath "1894" ;
+    edm:identifier "http://digital.cjh.org/1497880" ;
+    skos:prefLabel "Engelbach, Georg" .
+
+<https://data.jhn.ngo/persons/LBI_art/1412> a edm:Agent ;
+    rdaGr2:dateOfBirth "1812" ;
+    rdaGr2:dateOfDeath "1865" ;
+    edm:identifier "http://digital.cjh.org/1497883" ;
+    skos:prefLabel "Rahl, Carl" .
+
+<https://data.jhn.ngo/persons/LBI_art/1414> a edm:Agent ;
+    rdaGr2:dateOfBirth "1817" ;
+    rdaGr2:dateOfDeath "1853" ;
+    edm:identifier "http://digital.cjh.org/1497886" ;
+    skos:prefLabel "Metz, Gustav Ferdinand" .
+
+<https://data.jhn.ngo/persons/LBI_art/1415> a edm:Agent ;
+    rdaGr2:dateOfBirth "1816" ;
+    rdaGr2:dateOfDeath "1885" ;
+    edm:identifier "http://digital.cjh.org/1497886" ;
+    skos:prefLabel "Eppelin, Carl" .
+
+<https://data.jhn.ngo/persons/LBI_art/1416> a edm:Agent ;
+    rdaGr2:dateOfBirth "1804" ;
+    rdaGr2:dateOfDeath "1877" ;
+    edm:identifier "http://digital.cjh.org/1497886" ;
+    skos:prefLabel "Hanfstaengl, Franz" .
+
+<https://data.jhn.ngo/persons/LBI_art/1417> a edm:Agent ;
+    rdaGr2:dateOfBirth "1768" ;
+    rdaGr2:dateOfDeath "1828" ;
+    edm:identifier "http://digital.cjh.org/1503600" ;
+    skos:prefLabel "Bendix, Benedict Heinrich" .
+
+<https://data.jhn.ngo/persons/LBI_art/1418> a edm:Agent ;
+    rdaGr2:dateOfBirth "1786" ;
+    rdaGr2:dateOfDeath "1864" ;
+    edm:identifier "http://digital.cjh.org/1503603" ;
+    skos:prefLabel "Bendixen, Siegfried" .
+
+<https://data.jhn.ngo/persons/LBI_art/1419> a edm:Agent ;
+    rdaGr2:dateOfBirth "1791" ;
+    rdaGr2:dateOfDeath "1867" ;
+    edm:identifier "http://digital.cjh.org/1503606" ;
+    skos:prefLabel "Walker, William" .
+
+<https://data.jhn.ngo/persons/LBI_art/1420> a edm:Agent ;
+    rdaGr2:dateOfBirth "1800" ;
+    rdaGr2:dateOfDeath "1876" ;
+    edm:identifier "http://digital.cjh.org/1503609",
+        "http://digital.cjh.org/1503645" ;
+    skos:prefLabel "Kriehuber, Josef" .
+
+<https://data.jhn.ngo/persons/LBI_art/1424> a edm:Agent ;
+    rdaGr2:dateOfBirth "1812" ;
+    rdaGr2:dateOfDeath "1890" ;
+    edm:identifier "http://digital.cjh.org/1503630",
+        "http://digital.cjh.org/3357176" ;
+    skos:prefLabel "Porges, IgnÃ¡c Josef" .
+
+<https://data.jhn.ngo/persons/LBI_art/1425> a edm:Agent ;
+    rdaGr2:dateOfBirth "1804" ;
+    rdaGr2:dateOfDeath "1864" ;
+    edm:identifier "http://digital.cjh.org/1503630" ;
+    skos:prefLabel "Å Ã­r, FrantiÅ¡ek" .
+
+<https://data.jhn.ngo/persons/LBI_art/1427> a edm:Agent ;
+    rdaGr2:dateOfBirth "1812" ;
+    rdaGr2:dateOfDeath "1883" ;
+    edm:identifier "http://digital.cjh.org/1503633" ;
+    skos:prefLabel "Seib, Jacob" .
+
+<https://data.jhn.ngo/persons/LBI_art/1428> a edm:Agent ;
+    rdaGr2:dateOfBirth "1787" ;
+    rdaGr2:dateOfDeath "1853" ;
+    edm:identifier "http://digital.cjh.org/1503639" ;
+    skos:prefLabel "Barth, Karl" .
+
+<https://data.jhn.ngo/persons/LBI_art/1429> a edm:Agent ;
+    rdaGr2:dateOfBirth "1729" ;
+    rdaGr2:dateOfDeath "1804" ;
+    edm:identifier "http://digital.cjh.org/1503642" ;
+    skos:prefLabel "Nothnagel, Johann Andreas Benjamin" .
+
+<https://data.jhn.ngo/persons/LBI_art/1431> a edm:Agent ;
+    rdaGr2:dateOfBirth "1836" ;
+    rdaGr2:dateOfDeath "1905" ;
+    edm:identifier "http://digital.cjh.org/1503648" ;
+    skos:prefLabel "Kreyher, Otto" .
+
+<https://data.jhn.ngo/persons/LBI_art/1432> a edm:Agent ;
+    rdaGr2:dateOfBirth "1871" ;
+    rdaGr2:dateOfDeath "-" ;
+    edm:identifier "http://digital.cjh.org/1503651" ;
+    skos:prefLabel "KauffmannMellin, Clara" .
+
+<https://data.jhn.ngo/persons/LBI_art/1433> a edm:Agent ;
+    rdaGr2:dateOfBirth "1884" ;
+    rdaGr2:dateOfDeath "1955" ;
+    edm:identifier "http://digital.cjh.org/1503657" ;
+    skos:prefLabel "Masjutyn, Wasyl" .
+
+<https://data.jhn.ngo/persons/LBI_art/1434> a edm:Agent ;
+    rdaGr2:dateOfBirth "1901" ;
+    rdaGr2:dateOfDeath "1979" ;
+    edm:identifier "http://digital.cjh.org/1503660",
+        "http://digital.cjh.org/1503696",
+        "http://digital.cjh.org/4492784",
+        "http://digital.cjh.org/4547452" ;
+    skos:prefLabel "Nathan, Helmuth" .
+
+<https://data.jhn.ngo/persons/LBI_art/1435> a edm:Agent ;
+    rdaGr2:dateOfBirth "1929" ;
+    rdaGr2:dateOfDeath "-" ;
+    edm:identifier "http://digital.cjh.org/1503663" ;
+    skos:prefLabel "Bacon, Yehuda" .
+
+<https://data.jhn.ngo/persons/LBI_art/1437> a edm:Agent ;
+    rdaGr2:dateOfBirth "1892" ;
+    rdaGr2:dateOfDeath "1970" ;
+    edm:identifier "http://digital.cjh.org/1503669" ;
+    skos:prefLabel "Kesting, Edmund" .
+
+<https://data.jhn.ngo/persons/LBI_art/1439> a edm:Agent ;
+    rdaGr2:dateOfBirth "1876" ;
+    rdaGr2:dateOfDeath "1966" ;
+    edm:identifier "http://digital.cjh.org/1503708",
+        "http://digital.cjh.org/1503711",
+        "http://digital.cjh.org/3989359",
+        "http://digital.cjh.org/3999749" ;
+    skos:prefLabel "Oppenheimer, Joseph" .
+
+<https://data.jhn.ngo/persons/LBI_art/1440> a edm:Agent ;
+    rdaGr2:dateOfBirth "1884" ;
+    rdaGr2:dateOfDeath "1939" ;
+    edm:identifier "http://digital.cjh.org/1503726" ;
+    skos:prefLabel "HÃ¶xter, John" .
+
+<https://data.jhn.ngo/persons/LBI_art/1441> a edm:Agent ;
+    rdaGr2:dateOfBirth "1895" ;
+    rdaGr2:dateOfDeath "1987" ;
+    edm:identifier "http://digital.cjh.org/1524931",
+        "http://digital.cjh.org/1524934",
+        "http://digital.cjh.org/1524940",
+        "http://digital.cjh.org/1524943",
+        "http://digital.cjh.org/3357281" ;
+    skos:prefLabel "Lichtenstein, Eva" .
+
+<https://data.jhn.ngo/persons/LBI_art/1442> a edm:Agent ;
+    rdaGr2:dateOfBirth "1903" ;
+    rdaGr2:dateOfDeath "1981" ;
+    edm:identifier "http://digital.cjh.org/1524946",
+        "http://digital.cjh.org/1684316",
+        "http://digital.cjh.org/1734633",
+        "http://digital.cjh.org/5629165",
+        "http://digital.cjh.org/5629168",
+        "http://digital.cjh.org/5629171",
+        "http://digital.cjh.org/5737485",
+        "http://digital.cjh.org/5737489",
+        "http://digital.cjh.org/5737491",
+        "http://digital.cjh.org/5737493",
+        "http://digital.cjh.org/5737495",
+        "http://digital.cjh.org/5737497",
+        "http://digital.cjh.org/5737559",
+        "http://digital.cjh.org/5737561",
+        "http://digital.cjh.org/5737585",
+        "http://digital.cjh.org/5737587",
+        "http://digital.cjh.org/5737589",
+        "http://digital.cjh.org/5737591" ;
+    skos:prefLabel "Feist, Herbert" .
+
+<https://data.jhn.ngo/persons/LBI_art/1443> a edm:Agent ;
+    rdaGr2:dateOfBirth "1887" ;
+    rdaGr2:dateOfDeath "1968" ;
+    edm:identifier "http://digital.cjh.org/1524949",
+        "http://digital.cjh.org/3353314" ;
+    skos:prefLabel "Steinhardt, Jacob" .
+
+<https://data.jhn.ngo/persons/LBI_art/1444> a edm:Agent ;
+    rdaGr2:dateOfBirth "1899" ;
+    rdaGr2:dateOfDeath "1976" ;
+    edm:identifier "http://digital.cjh.org/1524952",
+        "http://digital.cjh.org/1524955",
+        "http://digital.cjh.org/160628",
+        "http://digital.cjh.org/2979880",
+        "http://digital.cjh.org/3640961",
+        "http://digital.cjh.org/3640966",
+        "http://digital.cjh.org/3640971",
+        "http://digital.cjh.org/3640976",
+        "http://digital.cjh.org/3640981",
+        "http://digital.cjh.org/3640986",
+        "http://digital.cjh.org/3641036",
+        "http://digital.cjh.org/3641095",
+        "http://digital.cjh.org/3641106",
+        "http://digital.cjh.org/3641189",
+        "http://digital.cjh.org/3641201",
+        "http://digital.cjh.org/3641212" ;
+    skos:prefLabel "Busyn, Max" .
+
+<https://data.jhn.ngo/persons/LBI_art/1448> a edm:Agent ;
+    rdaGr2:dateOfBirth "1890" ;
+    rdaGr2:dateOfDeath "1966" ;
+    edm:identifier "http://digital.cjh.org/1525000",
+        "http://digital.cjh.org/3302538" ;
+    skos:prefLabel "LÃ¼thy Emil," .
+
+<https://data.jhn.ngo/persons/LBI_art/1449> a edm:Agent ;
+    rdaGr2:dateOfBirth "1900" ;
+    rdaGr2:dateOfDeath "1954" ;
+    edm:identifier "http://digital.cjh.org/1525003",
+        "http://digital.cjh.org/1525006" ;
+    skos:prefLabel "Kirszenbaum, J D Jecheskiel Dawid" .
+
+<https://data.jhn.ngo/persons/LBI_art/1450> a edm:Agent ;
+    rdaGr2:dateOfBirth "1898" ;
+    rdaGr2:dateOfDeath "1966" ;
+    edm:identifier "http://digital.cjh.org/1525012" ;
+    skos:prefLabel "Hiler, Hilaire" .
+
+<https://data.jhn.ngo/persons/LBI_art/1452> a edm:Agent ;
+    rdaGr2:dateOfBirth "1868" ;
+    rdaGr2:dateOfDeath "1929" ;
+    edm:identifier "http://digital.cjh.org/1525018",
+        "http://digital.cjh.org/161092",
+        "http://digital.cjh.org/6344733" ;
+    skos:prefLabel "Laboschin, Siegfried" .
+
+<https://data.jhn.ngo/persons/LBI_art/1453> a edm:Agent ;
+    rdaGr2:dateOfBirth "1883" ;
+    rdaGr2:dateOfDeath "1957" ;
+    edm:identifier "http://digital.cjh.org/1525021" ;
+    skos:prefLabel "Meid, Hans" .
+
+<https://data.jhn.ngo/persons/LBI_art/1454> a edm:Agent ;
+    rdaGr2:dateOfBirth "1886" ;
+    rdaGr2:dateOfDeath "1941" ;
+    edm:identifier "http://digital.cjh.org/1525030",
+        "http://digital.cjh.org/1525033",
+        "http://digital.cjh.org/1525036",
+        "http://digital.cjh.org/1682341",
+        "http://digital.cjh.org/1684244",
+        "http://digital.cjh.org/3000765",
+        "http://digital.cjh.org/4303701",
+        "http://digital.cjh.org/4525548" ;
+    skos:prefLabel "Stumpp, Emil" .
+
+<https://data.jhn.ngo/persons/LBI_art/1456> a edm:Agent ;
+    rdaGr2:dateOfBirth "1812" ;
+    rdaGr2:dateOfDeath "1888" ;
+    edm:identifier "http://digital.cjh.org/1525042" ;
+    skos:prefLabel "Seeberger, Gustav" .
+
+<https://data.jhn.ngo/persons/LBI_art/1459> a edm:Agent ;
+    rdaGr2:dateOfBirth "1881" ;
+    rdaGr2:dateOfDeath "1972" ;
+    edm:identifier "http://digital.cjh.org/1525051",
+        "http://digital.cjh.org/1525054",
+        "http://digital.cjh.org/1525057",
+        "http://digital.cjh.org/1525060" ;
+    skos:prefLabel "Landau, Charlotte" .
+
+<https://data.jhn.ngo/persons/LBI_art/1460> a edm:Agent ;
+    rdaGr2:dateOfBirth "1610" ;
+    rdaGr2:dateOfDeath "1690" ;
+    edm:identifier "http://digital.cjh.org/160607" ;
+    skos:prefLabel "TÃ©niers, David" .
+
+<https://data.jhn.ngo/persons/LBI_art/1461> a edm:Agent ;
+    rdaGr2:dateOfBirth "1629" ;
+    rdaGr2:dateOfDeath "1670" ;
+    edm:identifier "http://digital.cjh.org/160607" ;
+    skos:prefLabel "TÃ©niers, Abraham" .
+
+<https://data.jhn.ngo/persons/LBI_art/1463> a edm:Agent ;
+    rdaGr2:dateOfBirth "1879" ;
+    rdaGr2:dateOfDeath "1964" ;
+    edm:identifier "http://digital.cjh.org/160732",
+        "http://digital.cjh.org/1684295" ;
+    skos:prefLabel "StÃ¶ssel, Oskar" .
+
+<https://data.jhn.ngo/persons/LBI_art/1464> a edm:Agent ;
+    rdaGr2:dateOfBirth "1870" ;
+    rdaGr2:dateOfDeath "1934" ;
+    edm:identifier "http://digital.cjh.org/160777",
+        "http://digital.cjh.org/2866958",
+        "http://digital.cjh.org/3989290",
+        "http://digital.cjh.org/3999779",
+        "http://digital.cjh.org/4303768",
+        "http://digital.cjh.org/4852343" ;
+    skos:prefLabel "Erlanger, Philipp" .
+
+<https://data.jhn.ngo/persons/LBI_art/1465> a edm:Agent ;
+    rdaGr2:dateOfBirth "1857" ;
+    rdaGr2:dateOfDeath "1891" ;
+    edm:identifier "http://digital.cjh.org/160795" ;
+    skos:prefLabel "Stauffer, Karl" .
+
+<https://data.jhn.ngo/persons/LBI_art/1467> a edm:Agent ;
+    rdaGr2:dateOfBirth "1888" ;
+    rdaGr2:dateOfDeath "1972" ;
+    edm:identifier "http://digital.cjh.org/160861" ;
+    skos:prefLabel "Schmidt, Gustav" .
+
+<https://data.jhn.ngo/persons/LBI_art/1468> a edm:Agent ;
+    rdaGr2:dateOfBirth "1804" ;
+    rdaGr2:dateOfDeath "1866" ;
+    edm:identifier "http://digital.cjh.org/161023" ;
+    skos:prefLabel "Gavarni, Paul" .
+
+<https://data.jhn.ngo/persons/LBI_art/1470> a edm:Agent ;
+    rdaGr2:dateOfBirth "1892" ;
+    rdaGr2:dateOfDeath "1958" ;
+    edm:identifier "http://digital.cjh.org/161029" ;
+    skos:prefLabel "Kopf, Maxim" .
+
+<https://data.jhn.ngo/persons/LBI_art/1474> a edm:Agent ;
+    rdaGr2:dateOfBirth "1661" ;
+    rdaGr2:dateOfDeath "1726" ;
+    edm:identifier "http://digital.cjh.org/1682203" ;
+    skos:prefLabel "Weigel, Johann Christoph" .
+
+<https://data.jhn.ngo/persons/LBI_art/1475> a edm:Agent ;
+    rdaGr2:dateOfBirth "1892" ;
+    rdaGr2:dateOfDeath "1945" ;
+    edm:identifier "http://digital.cjh.org/1682209" ;
+    skos:prefLabel "Anger, Herbert" .
+
+<https://data.jhn.ngo/persons/LBI_art/1476> a edm:Agent ;
+    rdaGr2:dateOfBirth "1831" ;
+    rdaGr2:dateOfDeath "1880" ;
+    edm:identifier "http://digital.cjh.org/1682212" ;
+    skos:prefLabel "Oppler, Edwin" .
+
+<https://data.jhn.ngo/persons/LBI_art/1477> a edm:Agent ;
+    rdaGr2:dateOfBirth "1816" ;
+    rdaGr2:dateOfDeath "1898" ;
+    edm:identifier "http://digital.cjh.org/1682215",
+        "http://digital.cjh.org/1682245" ;
+    skos:prefLabel "Kandler, Wilhelm" .
+
+<https://data.jhn.ngo/persons/LBI_art/1479> a edm:Agent ;
+    rdaGr2:dateOfBirth "1807" ;
+    rdaGr2:dateOfDeath "1876" ;
+    edm:identifier "http://digital.cjh.org/1682221",
+        "http://digital.cjh.org/4359476" ;
+    skos:prefLabel "WÃ¼rbs, Karl" .
+
+<https://data.jhn.ngo/persons/LBI_art/1480> a edm:Agent ;
+    rdaGr2:dateOfBirth "1772" ;
+    rdaGr2:dateOfDeath "1841" ;
+    edm:identifier "http://digital.cjh.org/1682221" ;
+    skos:prefLabel "Langer, Sebastian" .
+
+<https://data.jhn.ngo/persons/LBI_art/1481> a edm:Agent ;
+    rdaGr2:dateOfBirth "1809" ;
+    rdaGr2:dateOfDeath "1885" ;
+    edm:identifier "http://digital.cjh.org/1682224",
+        "http://digital.cjh.org/4303734" ;
+    skos:prefLabel "Dielmann, Jakob Furchtegott" .
+
+<https://data.jhn.ngo/persons/LBI_art/1483> a edm:Agent ;
+    rdaGr2:dateOfBirth "1805" ;
+    rdaGr2:dateOfDeath "1880" ;
+    edm:identifier "http://digital.cjh.org/1682227" ;
+    skos:prefLabel "Strack, Johann Heinrich" .
+
+<https://data.jhn.ngo/persons/LBI_art/1484> a edm:Agent ;
+    rdaGr2:dateOfBirth "1827" ;
+    rdaGr2:dateOfDeath "1876" ;
+    edm:identifier "http://digital.cjh.org/1682227",
+        "http://digital.cjh.org/1682239",
+        "http://digital.cjh.org/3989383" ;
+    skos:prefLabel "Loeillot, Wilhelm" .
+
+<https://data.jhn.ngo/persons/LBI_art/1485> a edm:Agent ;
+    rdaGr2:dateOfBirth "1801" ;
+    rdaGr2:dateOfDeath "1865" ;
+    edm:identifier "http://digital.cjh.org/1682239" ;
+    skos:prefLabel "Knoblauch, Eduard" .
+
+<https://data.jhn.ngo/persons/LBI_art/1486> a edm:Agent ;
+    rdaGr2:dateOfBirth "1754" ;
+    rdaGr2:dateOfDeath "1813" ;
+    edm:identifier "http://digital.cjh.org/1682242" ;
+    skos:prefLabel "Schweyer, Jeremias Paul" .
+
+<https://data.jhn.ngo/persons/LBI_art/1487> a edm:Agent ;
+    rdaGr2:dateOfBirth "1817" ;
+    rdaGr2:dateOfDeath "1872" ;
+    edm:identifier "http://digital.cjh.org/1682245" ;
+    skos:prefLabel "RybiÄka, Josef" .
+
+<https://data.jhn.ngo/persons/LBI_art/1488> a edm:Agent ;
+    rdaGr2:dateOfBirth "1824" ;
+    rdaGr2:dateOfDeath "1893" ;
+    edm:identifier "http://digital.cjh.org/1682251" ;
+    skos:prefLabel "Rohbock, Ludwig" .
+
+<https://data.jhn.ngo/persons/LBI_art/1489> a edm:Agent ;
+    rdaGr2:dateOfBirth "1815" ;
+    rdaGr2:dateOfDeath "1883" ;
+    edm:identifier "http://digital.cjh.org/1682251" ;
+    skos:prefLabel "Kurz, Georg Michael" .
+
+<https://data.jhn.ngo/persons/LBI_art/1491> a edm:Agent ;
+    rdaGr2:dateOfBirth "1827" ;
+    rdaGr2:dateOfDeath "1916" ;
+    edm:identifier "http://digital.cjh.org/1682254" ;
+    skos:prefLabel "Krone, Hermann" .
+
+<https://data.jhn.ngo/persons/LBI_art/1494> a edm:Agent ;
+    rdaGr2:dateOfBirth "1904" ;
+    rdaGr2:dateOfDeath "1991" ;
+    edm:identifier "http://digital.cjh.org/1682260" ;
+    skos:prefLabel "Gross, Chaim" .
+
+<https://data.jhn.ngo/persons/LBI_art/1495> a edm:Agent ;
+    rdaGr2:dateOfBirth "1877" ;
+    rdaGr2:dateOfDeath "1967" ;
+    edm:identifier "http://digital.cjh.org/1682266" ;
+    skos:prefLabel "Fabian, Fritz" .
+
+<https://data.jhn.ngo/persons/LBI_art/1498> a edm:Agent ;
+    rdaGr2:dateOfBirth "1887" ;
+    rdaGr2:dateOfDeath "1942" ;
+    edm:identifier "http://digital.cjh.org/1682275",
+        "http://digital.cjh.org/3314698",
+        "http://digital.cjh.org/3314703" ;
+    skos:prefLabel "Mundlak, Regina" .
+
+<https://data.jhn.ngo/persons/LBI_art/1500> a edm:Agent ;
+    rdaGr2:dateOfBirth "1824" ;
+    rdaGr2:dateOfDeath "1911" ;
+    edm:identifier "http://digital.cjh.org/1682500",
+        "http://digital.cjh.org/1736963" ;
+    skos:prefLabel "IsraÃ«ls, Jozef" .
+
+<https://data.jhn.ngo/persons/LBI_art/1501> a edm:Agent ;
+    rdaGr2:dateOfBirth "1862" ;
+    rdaGr2:dateOfDeath "1914" ;
+    edm:identifier "http://digital.cjh.org/1684289" ;
+    skos:prefLabel "Gentz, IsmaÃ«l" .
+
+<https://data.jhn.ngo/persons/LBI_art/1502> a edm:Agent ;
+    rdaGr2:dateOfBirth "1607" ;
+    rdaGr2:dateOfDeath "1677" ;
+    edm:identifier "http://digital.cjh.org/1684292" ;
+    skos:prefLabel "Hollar, Wenceslaus" .
+
+<https://data.jhn.ngo/persons/LBI_art/1504> a edm:Agent ;
+    rdaGr2:dateOfBirth "1885" ;
+    rdaGr2:dateOfDeath "1915" ;
+    edm:identifier "http://digital.cjh.org/1684301",
+        "http://digital.cjh.org/1684304",
+        "http://digital.cjh.org/1684307" ;
+    skos:prefLabel "Jung, Moriz" .
+
+<https://data.jhn.ngo/persons/LBI_art/1505> a edm:Agent ;
+    rdaGr2:dateOfBirth "1890" ;
+    rdaGr2:dateOfDeath "1963" ;
+    edm:identifier "http://digital.cjh.org/1684310" ;
+    skos:prefLabel "Perl, Gertrud" .
+
+<https://data.jhn.ngo/persons/LBI_art/1508> a edm:Agent ;
+    rdaGr2:dateOfBirth "1771" ;
+    rdaGr2:dateOfDeath "1842" ;
+    edm:identifier "http://digital.cjh.org/1684322" ;
+    skos:prefLabel "Suhr, Christoph" .
+
+<https://data.jhn.ngo/persons/LBI_art/1509> a edm:Agent ;
+    rdaGr2:dateOfBirth "1902" ;
+    rdaGr2:dateOfDeath "1942" ;
+    edm:identifier "http://digital.cjh.org/1684325" ;
+    skos:prefLabel "Rosenwald, Ludwig" .
+
+<https://data.jhn.ngo/persons/LBI_art/1510> a edm:Agent ;
+    rdaGr2:dateOfBirth "1866" ;
+    rdaGr2:dateOfDeath "1937" ;
+    edm:identifier "http://digital.cjh.org/1684331",
+        "http://digital.cjh.org/4852328" ;
+    skos:prefLabel "Marx, Johann" .
+
+<https://data.jhn.ngo/persons/LBI_art/1511> a edm:Agent ;
+    rdaGr2:dateOfBirth "1887" ;
+    rdaGr2:dateOfDeath "1971" ;
+    edm:identifier "http://digital.cjh.org/1684406",
+        "http://digital.cjh.org/3315348" ;
+    skos:prefLabel "Colin, Richard" .
+
+<https://data.jhn.ngo/persons/LBI_art/1512> a edm:Agent ;
+    rdaGr2:dateOfBirth "1811" ;
+    rdaGr2:dateOfDeath "1882" ;
+    edm:identifier "http://digital.cjh.org/1684595",
+        "http://digital.cjh.org/1684601" ;
+    skos:prefLabel "Jacob, Julius" .
+
+<https://data.jhn.ngo/persons/LBI_art/1513> a edm:Agent ;
+    rdaGr2:dateOfBirth "1887" ;
+    rdaGr2:dateOfDeath "1930" ;
+    edm:identifier "http://digital.cjh.org/1736759" ;
+    skos:prefLabel "Faistauer, Anton" .
+
+<https://data.jhn.ngo/persons/LBI_art/1514> a edm:Agent ;
+    rdaGr2:dateOfBirth "1826" ;
+    rdaGr2:dateOfDeath "1908" ;
+    edm:identifier "http://digital.cjh.org/1736831" ;
+    skos:prefLabel "Rosenzweig, Adam" .
+
+<https://data.jhn.ngo/persons/LBI_art/1516> a edm:Agent ;
+    rdaGr2:dateOfBirth "1789" ;
+    rdaGr2:dateOfDeath "1872" ;
+    edm:identifier "http://digital.cjh.org/1736912" ;
+    skos:prefLabel "Vigneron, Pierre Roch" .
+
+<https://data.jhn.ngo/persons/LBI_art/1518> a edm:Agent ;
+    rdaGr2:dateOfBirth "1914" ;
+    rdaGr2:dateOfDeath "-" ;
+    edm:identifier "http://digital.cjh.org/1736915",
+        "http://digital.cjh.org/1736954" ;
+    skos:prefLabel "GlÃ¼ckselig, Leo" .
+
+<https://data.jhn.ngo/persons/LBI_art/1519> a edm:Agent ;
+    rdaGr2:dateOfBirth "1898" ;
+    rdaGr2:dateOfDeath "1967" ;
+    edm:identifier "http://digital.cjh.org/1736927",
+        "http://digital.cjh.org/2979856",
+        "http://digital.cjh.org/3989353",
+        "http://digital.cjh.org/4525536",
+        "http://digital.cjh.org/4525539",
+        "http://digital.cjh.org/4525542" ;
+    skos:prefLabel "Schames, Samson" .
+
+<https://data.jhn.ngo/persons/LBI_art/1522> a edm:Agent ;
+    rdaGr2:dateOfBirth "1890" ;
+    rdaGr2:dateOfDeath "1977" ;
+    edm:identifier "http://digital.cjh.org/2866943" ;
+    skos:prefLabel "Edinger, Dora" .
+
+<https://data.jhn.ngo/persons/LBI_art/1525> a edm:Agent ;
+    rdaGr2:dateOfBirth "1740" ;
+    rdaGr2:dateOfDeath "1774" ;
+    edm:identifier "http://digital.cjh.org/3302435" ;
+    skos:prefLabel "Schleuen, Johann David" .
+
+<https://data.jhn.ngo/persons/LBI_art/1527> a edm:Agent ;
+    rdaGr2:dateOfBirth "1827" ;
+    rdaGr2:dateOfDeath "1898" ;
+    edm:identifier "http://digital.cjh.org/3302453" ;
+    skos:prefLabel "Humbert, August" .
+
+<https://data.jhn.ngo/persons/LBI_art/1528> a edm:Agent ;
+    rdaGr2:dateOfBirth "1904" ;
+    rdaGr2:dateOfDeath "2004" ;
+    edm:identifier "http://digital.cjh.org/3302456" ;
+    skos:prefLabel "Lewinsky, Susi" .
+
+<https://data.jhn.ngo/persons/LBI_art/1532> a edm:Agent ;
+    rdaGr2:dateOfBirth "1906" ;
+    rdaGr2:dateOfDeath "2001" ;
+    edm:identifier "http://digital.cjh.org/3302498",
+        "http://digital.cjh.org/3302526",
+        "http://digital.cjh.org/3314813",
+        "http://digital.cjh.org/3314818",
+        "http://digital.cjh.org/3314828",
+        "http://digital.cjh.org/3314833",
+        "http://digital.cjh.org/3314838",
+        "http://digital.cjh.org/3314843",
+        "http://digital.cjh.org/3314853",
+        "http://digital.cjh.org/3340676" ;
+    skos:prefLabel "Barosin, Jacob Judey" .
+
+<https://data.jhn.ngo/persons/LBI_art/1533> a edm:Agent ;
+    rdaGr2:dateOfBirth "1890" ;
+    rdaGr2:dateOfDeath "1970" ;
+    edm:identifier "http://digital.cjh.org/3302547" ;
+    skos:prefLabel "Wolf, Grete" .
+
+<https://data.jhn.ngo/persons/LBI_art/1536> a edm:Agent ;
+    rdaGr2:dateOfBirth "1894" ;
+    rdaGr2:dateOfDeath "1971" ;
+    edm:identifier "http://digital.cjh.org/3314618" ;
+    skos:prefLabel "Ziegler, Siegfried" .
+
+<https://data.jhn.ngo/persons/LBI_art/1537> a edm:Agent ;
+    rdaGr2:dateOfBirth "1799" ;
+    rdaGr2:dateOfDeath "1872" ;
+    edm:identifier "http://digital.cjh.org/3314628",
+        "http://digital.cjh.org/3989375" ;
+    skos:prefLabel "Magnus, Eduard" .
+
+<https://data.jhn.ngo/persons/LBI_art/1539> a edm:Agent ;
+    rdaGr2:dateOfBirth "1897" ;
+    rdaGr2:dateOfDeath "1986" ;
+    edm:identifier "http://digital.cjh.org/3314678",
+        "http://digital.cjh.org/3314708",
+        "http://digital.cjh.org/3314713" ;
+    skos:prefLabel "Fechenbach, Hermann" .
+
+<https://data.jhn.ngo/persons/LBI_art/1542> a edm:Agent ;
+    rdaGr2:dateOfBirth "1875" ;
+    rdaGr2:dateOfDeath "1944" ;
+    edm:identifier "http://digital.cjh.org/3315318",
+        "http://digital.cjh.org/3315323" ;
+    skos:prefLabel "Segal, Arthur" .
+
+<https://data.jhn.ngo/persons/LBI_art/1543> a edm:Agent ;
+    rdaGr2:dateOfBirth "1894" ;
+    rdaGr2:dateOfDeath "1977" ;
+    edm:identifier "http://digital.cjh.org/3315328",
+        "http://digital.cjh.org/3315333" ;
+    skos:prefLabel "Floch, Joseph" .
+
+<https://data.jhn.ngo/persons/LBI_art/1544> a edm:Agent ;
+    rdaGr2:dateOfBirth "1550" ;
+    rdaGr2:dateOfDeath "1600" ;
+    edm:identifier "http://digital.cjh.org/3357131" ;
+    skos:prefLabel "Sadeler, Jan" .
+
+<https://data.jhn.ngo/persons/LBI_art/1545> a edm:Agent ;
+    rdaGr2:dateOfBirth "1532" ;
+    rdaGr2:dateOfDeath "1603" ;
+    edm:identifier "http://digital.cjh.org/3357131" ;
+    skos:prefLabel "Vos, Maarten de" .
+
+<https://data.jhn.ngo/persons/LBI_art/1547> a edm:Agent ;
+    rdaGr2:dateOfBirth "1742" ;
+    rdaGr2:dateOfDeath "1794" ;
+    edm:identifier "http://digital.cjh.org/3357146" ;
+    skos:prefLabel "Kleinhard, Johann" .
+
+<https://data.jhn.ngo/persons/LBI_art/1548> a edm:Agent ;
+    rdaGr2:dateOfBirth "1738" ;
+    rdaGr2:dateOfDeath "1799" ;
+    edm:identifier "http://digital.cjh.org/3357146" ;
+    skos:prefLabel "Balzer, Johann" .
+
+<https://data.jhn.ngo/persons/LBI_art/1549> a edm:Agent ;
+    rdaGr2:dateOfBirth "1800" ;
+    rdaGr2:dateOfDeath "1864" ;
+    edm:identifier "http://digital.cjh.org/3357151" ;
+    skos:prefLabel "KÃ¼stner, Gottfried" .
+
+<https://data.jhn.ngo/persons/LBI_art/1550> a edm:Agent ;
+    rdaGr2:dateOfBirth "1791" ;
+    rdaGr2:dateOfDeath "1858" ;
+    edm:identifier "http://digital.cjh.org/3357156" ;
+    skos:prefLabel "Steinla, Moritz" .
+
+<https://data.jhn.ngo/persons/LBI_art/1552> a edm:Agent ;
+    rdaGr2:dateOfBirth "1744" ;
+    rdaGr2:dateOfDeath "1824" ;
+    edm:identifier "http://digital.cjh.org/3357166" ;
+    skos:prefLabel "Berger, Daniel" .
+
+<https://data.jhn.ngo/persons/LBI_art/1553> a edm:Agent ;
+    rdaGr2:dateOfBirth "1754" ;
+    rdaGr2:dateOfDeath "1812" ;
+    edm:identifier "http://digital.cjh.org/3357171" ;
+    skos:prefLabel "StÃ¶ttrup, Andreas" .
+
+<https://data.jhn.ngo/persons/LBI_art/1554> a edm:Agent ;
+    rdaGr2:dateOfBirth "1846" ;
+    rdaGr2:dateOfDeath "1919" ;
+    edm:identifier "http://digital.cjh.org/3357181" ;
+    skos:prefLabel "Meyer, Hans" .
+
+<https://data.jhn.ngo/persons/LBI_art/1555> a edm:Agent ;
+    rdaGr2:dateOfBirth "1815" ;
+    rdaGr2:dateOfDeath "1892" ;
+    edm:identifier "http://digital.cjh.org/3357186",
+        "http://digital.cjh.org/4852355" ;
+    skos:prefLabel "Kietz, Ernst Benedikt" .
+
+<https://data.jhn.ngo/persons/LBI_art/1558> a edm:Agent ;
+    rdaGr2:dateOfBirth "1836" ;
+    rdaGr2:dateOfDeath "1908" ;
+    edm:identifier "http://digital.cjh.org/3357211" ;
+    skos:prefLabel "LÃ¼ders, Hermann" .
+
+<https://data.jhn.ngo/persons/LBI_art/1559> a edm:Agent ;
+    rdaGr2:dateOfBirth "1816" ;
+    rdaGr2:dateOfDeath "1884" ;
+    edm:identifier "http://digital.cjh.org/3357211" ;
+    skos:prefLabel "Popper, Isidor" .
+
+<https://data.jhn.ngo/persons/LBI_art/1560> a edm:Agent ;
+    rdaGr2:dateOfBirth "1777" ;
+    rdaGr2:dateOfDeath "1825" ;
+    edm:identifier "http://digital.cjh.org/3357216" ;
+    skos:prefLabel "Bollinger, Friedrich Wilhelm" .
+
+<https://data.jhn.ngo/persons/LBI_art/1561> a edm:Agent ;
+    rdaGr2:dateOfBirth "1884" ;
+    rdaGr2:dateOfDeath "1965" ;
+    edm:identifier "http://digital.cjh.org/3357221",
+        "http://digital.cjh.org/3357316" ;
+    skos:prefLabel "Feigl, Friedrich" .
+
+<https://data.jhn.ngo/persons/LBI_art/1562> a edm:Agent ;
+    rdaGr2:dateOfBirth "1853" ;
+    rdaGr2:dateOfDeath "1923" ;
+    edm:identifier "http://digital.cjh.org/3357226" ;
+    skos:prefLabel "Halm, Peter" .
+
+<https://data.jhn.ngo/persons/LBI_art/1563> a edm:Agent ;
+    rdaGr2:dateOfBirth "1877" ;
+    rdaGr2:dateOfDeath "1957" ;
+    edm:identifier "http://digital.cjh.org/3357231",
+        "http://digital.cjh.org/3357271" ;
+    skos:prefLabel "Jacobi, Jacques" .
+
+<https://data.jhn.ngo/persons/LBI_art/1565> a edm:Agent ;
+    rdaGr2:dateOfBirth "1886" ;
+    rdaGr2:dateOfDeath "1962" ;
+    edm:identifier "http://digital.cjh.org/3357251" ;
+    skos:prefLabel "Lang, Erwin" .
+
+<https://data.jhn.ngo/persons/LBI_art/1566> a edm:Agent ;
+    rdaGr2:dateOfBirth "1870" ;
+    rdaGr2:dateOfDeath "1962" ;
+    edm:identifier "http://digital.cjh.org/3357256" ;
+    skos:prefLabel "Herrmann, Rudolf" .
+
+<https://data.jhn.ngo/persons/LBI_art/1567> a edm:Agent ;
+    rdaGr2:dateOfBirth "1857" ;
+    rdaGr2:dateOfDeath "1922" ;
+    edm:identifier "http://digital.cjh.org/3357261" ;
+    skos:prefLabel "Lepsius, Reinhold" .
+
+<https://data.jhn.ngo/persons/LBI_art/1569> a edm:Agent ;
+    rdaGr2:dateOfBirth "1882" ;
+    rdaGr2:dateOfDeath "1911" ;
+    edm:identifier "http://digital.cjh.org/3357296",
+        "http://digital.cjh.org/3357301",
+        "http://digital.cjh.org/3357306",
+        "http://digital.cjh.org/3357311",
+        "http://digital.cjh.org/3357416" ;
+    skos:prefLabel "Kahler, Eugen von" .
+
+<https://data.jhn.ngo/persons/LBI_art/1570> a edm:Agent ;
+    rdaGr2:dateOfBirth "1888" ;
+    rdaGr2:dateOfDeath "1916" ;
+    edm:identifier "http://digital.cjh.org/3357326" ;
+    skos:prefLabel "Thylmann, Karl" .
+
+<https://data.jhn.ngo/persons/LBI_art/1572> a edm:Agent ;
+    rdaGr2:dateOfBirth "1873" ;
+    rdaGr2:dateOfDeath "1936" ;
+    edm:identifier "http://digital.cjh.org/3357356" ;
+    skos:prefLabel "Nussbaum, Jakob" .
+
+<https://data.jhn.ngo/persons/LBI_art/1573> a edm:Agent ;
+    rdaGr2:dateOfBirth "1883" ;
+    rdaGr2:dateOfDeath "1964" ;
+    edm:identifier "http://digital.cjh.org/3357361" ;
+    skos:prefLabel "MÃ¶ller, Otto" .
+
+<https://data.jhn.ngo/persons/LBI_art/1574> a edm:Agent ;
+    rdaGr2:dateOfBirth "1884" ;
+    rdaGr2:dateOfDeath "1945" ;
+    edm:identifier "http://digital.cjh.org/3357371" ;
+    skos:prefLabel "Hasler, Bernhard" .
+
+<https://data.jhn.ngo/persons/LBI_art/1575> a edm:Agent ;
+    rdaGr2:dateOfBirth "1867" ;
+    rdaGr2:dateOfDeath "1952" ;
+    edm:identifier "http://digital.cjh.org/3357376" ;
+    skos:prefLabel "Hey, Paul" .
+
+<https://data.jhn.ngo/persons/LBI_art/1576> a edm:Agent ;
+    rdaGr2:dateOfBirth "1886" ;
+    rdaGr2:dateOfDeath "1977" ;
+    edm:identifier "http://digital.cjh.org/3357386" ;
+    skos:prefLabel "Nowak, Willi" .
+
+<https://data.jhn.ngo/persons/LBI_art/1577> a edm:Agent ;
+    rdaGr2:dateOfBirth "1869" ;
+    rdaGr2:dateOfDeath "1932" ;
+    edm:identifier "http://digital.cjh.org/3357391",
+        "http://digital.cjh.org/3357396",
+        "http://digital.cjh.org/3357401" ;
+    skos:prefLabel "Herstein, Adolf Edward" .
+
+<https://data.jhn.ngo/persons/LBI_art/1578> a edm:Agent ;
+    rdaGr2:dateOfBirth "1875" ;
+    rdaGr2:dateOfDeath "1911" ;
+    edm:identifier "http://digital.cjh.org/3357406" ;
+    skos:prefLabel "Graetzer, Alfred" .
+
+<https://data.jhn.ngo/persons/LBI_art/1579> a edm:Agent ;
+    rdaGr2:dateOfBirth "1916" ;
+    rdaGr2:dateOfDeath "2005" ;
+    edm:identifier "http://digital.cjh.org/3357411" ;
+    skos:prefLabel "Gurewitsch, Anatol" .
+
+<https://data.jhn.ngo/persons/LBI_art/1580> a edm:Agent ;
+    rdaGr2:dateOfBirth "1879" ;
+    rdaGr2:dateOfDeath "1958" ;
+    edm:identifier "http://digital.cjh.org/3357421" ;
+    skos:prefLabel "Behmer, Marcus" .
+
+<https://data.jhn.ngo/persons/LBI_art/1581> a edm:Agent ;
+    rdaGr2:dateOfBirth "1871" ;
+    rdaGr2:dateOfDeath "1936" ;
+    edm:identifier "http://digital.cjh.org/3357426",
+        "http://digital.cjh.org/5283548" ;
+    skos:prefLabel "Plessner, Jacob" .
+
+<https://data.jhn.ngo/persons/LBI_art/1582> a edm:Agent ;
+    rdaGr2:dateOfBirth "1888" ;
+    rdaGr2:dateOfDeath "1972" ;
+    edm:identifier "http://digital.cjh.org/3357431",
+        "http://digital.cjh.org/3357436" ;
+    skos:prefLabel "Degner, Arthur" .
+
+<https://data.jhn.ngo/persons/LBI_art/1583> a edm:Agent ;
+    rdaGr2:dateOfBirth "1885" ;
+    rdaGr2:dateOfDeath "1972" ;
+    edm:identifier "http://digital.cjh.org/3357441" ;
+    skos:prefLabel "RÃ¶ssner, Georg Walter" .
+
+<https://data.jhn.ngo/persons/LBI_art/1584> a edm:Agent ;
+    rdaGr2:dateOfBirth "1885" ;
+    rdaGr2:dateOfDeath "1919" ;
+    edm:identifier "http://digital.cjh.org/3357446" ;
+    skos:prefLabel "Krayn, Hugo" .
+
+<https://data.jhn.ngo/persons/LBI_art/1586> a edm:Agent ;
+    rdaGr2:dateOfBirth "1790" ;
+    rdaGr2:dateOfDeath "1854" ;
+    edm:identifier "http://digital.cjh.org/3357497" ;
+    skos:prefLabel "Veit, Johannes" .
+
+<https://data.jhn.ngo/persons/LBI_art/1587> a edm:Agent ;
+    rdaGr2:dateOfBirth "1808" ;
+    rdaGr2:dateOfDeath "1879" ;
+    edm:identifier "http://digital.cjh.org/3357508" ;
+    skos:prefLabel "Daumier, HonorÃ©" .
+
+<https://data.jhn.ngo/persons/LBI_art/1589> a edm:Agent ;
+    rdaGr2:dateOfBirth "1910" ;
+    rdaGr2:dateOfDeath "2002" ;
+    edm:identifier "http://digital.cjh.org/3640916",
+        "http://digital.cjh.org/3640951",
+        "http://digital.cjh.org/3640990" ;
+    skos:prefLabel "Bloch, David Ludwig" .
+
+<https://data.jhn.ngo/persons/LBI_art/1590> a edm:Agent ;
+    rdaGr2:dateOfBirth "1916" ;
+    rdaGr2:dateOfDeath "-" ;
+    edm:identifier "http://digital.cjh.org/3640921" ;
+    skos:prefLabel "Lewin, Saul" .
+
+<https://data.jhn.ngo/persons/LBI_art/1591> a edm:Agent ;
+    rdaGr2:dateOfBirth "1900" ;
+    rdaGr2:dateOfDeath "1978" ;
+    edm:identifier "http://digital.cjh.org/3640926",
+        "http://digital.cjh.org/3640931",
+        "http://digital.cjh.org/3640936" ;
+    skos:prefLabel "Spier, Joseph" .
+
+<https://data.jhn.ngo/persons/LBI_art/1593> a edm:Agent ;
+    rdaGr2:dateOfBirth "1915" ;
+    rdaGr2:dateOfDeath "2005" ;
+    edm:identifier "http://digital.cjh.org/3989293" ;
+    skos:prefLabel "Schultze, Bernard" .
+
+<https://data.jhn.ngo/persons/LBI_art/1594> a edm:Agent ;
+    rdaGr2:dateOfBirth "1851" ;
+    rdaGr2:dateOfDeath "1898" ;
+    edm:identifier "http://digital.cjh.org/3989296" ;
+    skos:prefLabel "Bellenger, ClÃ©ment Ãdouard" .
+
+<https://data.jhn.ngo/persons/LBI_art/1595> a edm:Agent ;
+    rdaGr2:dateOfBirth "1877" ;
+    rdaGr2:dateOfDeath "1944" ;
+    edm:identifier "http://digital.cjh.org/3989299" ;
+    skos:prefLabel "Kratky, Richard" .
+
+<https://data.jhn.ngo/persons/LBI_art/1597> a edm:Agent ;
+    rdaGr2:dateOfBirth "1619" ;
+    rdaGr2:dateOfDeath "1688" ;
+    edm:identifier "http://digital.cjh.org/3989305" ;
+    skos:prefLabel "Koninck, Philips de" .
+
+<https://data.jhn.ngo/persons/LBI_art/1599> a edm:Agent ;
+    rdaGr2:dateOfBirth "1903" ;
+    rdaGr2:dateOfDeath "1977" ;
+    edm:identifier "http://digital.cjh.org/3989323",
+        "http://digital.cjh.org/3991986",
+        "http://digital.cjh.org/4852244",
+        "http://digital.cjh.org/4852352",
+        "http://digital.cjh.org/4852358" ;
+    skos:prefLabel "Dreyfuss, Ernst" .
+
+<https://data.jhn.ngo/persons/LBI_art/1601> a edm:Agent ;
+    rdaGr2:dateOfBirth "1822" ;
+    rdaGr2:dateOfDeath "1885" ;
+    edm:identifier "http://digital.cjh.org/3989338" ;
+    skos:prefLabel "Rosenzweig, Amalie Ehrenberg" .
+
+<https://data.jhn.ngo/persons/LBI_art/1603> a edm:Agent ;
+    rdaGr2:dateOfBirth "1874" ;
+    rdaGr2:dateOfDeath "1958" ;
+    edm:identifier "http://digital.cjh.org/3989347" ;
+    skos:prefLabel "Reuter, Wilhelm" .
+
+<https://data.jhn.ngo/persons/LBI_art/1605> a edm:Agent ;
+    rdaGr2:dateOfBirth "1911" ;
+    rdaGr2:dateOfDeath "1981" ;
+    edm:identifier "http://digital.cjh.org/3989362",
+        "http://digital.cjh.org/3992001",
+        "http://digital.cjh.org/3992004",
+        "http://digital.cjh.org/3992007",
+        "http://digital.cjh.org/3992028",
+        "http://digital.cjh.org/4496175",
+        "http://digital.cjh.org/4496197",
+        "http://digital.cjh.org/4496241",
+        "http://digital.cjh.org/4499633",
+        "http://digital.cjh.org/4629521",
+        "http://digital.cjh.org/4629524",
+        "http://digital.cjh.org/4852298",
+        "http://digital.cjh.org/4852301",
+        "http://digital.cjh.org/4852304",
+        "http://digital.cjh.org/4852346",
+        "http://digital.cjh.org/4852433",
+        "http://digital.cjh.org/4852439",
+        "http://digital.cjh.org/4852443",
+        "http://digital.cjh.org/4852446",
+        "http://digital.cjh.org/4852452",
+        "http://digital.cjh.org/4852455",
+        "http://digital.cjh.org/4852458",
+        "http://digital.cjh.org/4852464" ;
+    skos:prefLabel "Kolin, Sacha" .
+
+<https://data.jhn.ngo/persons/LBI_art/1606> a edm:Agent ;
+    rdaGr2:dateOfBirth "1926" ;
+    rdaGr2:dateOfDeath "-" ;
+    edm:identifier "http://digital.cjh.org/3989380" ;
+    skos:prefLabel "Sznajderman, Marius" .
+
+<https://data.jhn.ngo/persons/LBI_art/1607> a edm:Agent ;
+    rdaGr2:dateOfBirth "1825" ;
+    rdaGr2:dateOfDeath "1884" ;
+    edm:identifier "http://digital.cjh.org/3989383" ;
+    skos:prefLabel "Burger, Ludwig" .
+
+<https://data.jhn.ngo/persons/LBI_art/1609> a edm:Agent ;
+    rdaGr2:dateOfBirth "1921" ;
+    rdaGr2:dateOfDeath "1996" ;
+    edm:identifier "http://digital.cjh.org/3989395" ;
+    skos:prefLabel "Kocherthaler, Mina" .
+
+<https://data.jhn.ngo/persons/LBI_art/1610> a edm:Agent ;
+    rdaGr2:dateOfBirth "1892" ;
+    rdaGr2:dateOfDeath "1959" ;
+    edm:identifier "http://digital.cjh.org/3991983" ;
+    skos:prefLabel "Ziegler, Adolf" .
+
+<https://data.jhn.ngo/persons/LBI_art/1611> a edm:Agent ;
+    rdaGr2:dateOfBirth "1896" ;
+    rdaGr2:dateOfDeath "1983" ;
+    edm:identifier "http://digital.cjh.org/3991989" ;
+    skos:prefLabel "Margulies, Joseph" .
+
+<https://data.jhn.ngo/persons/LBI_art/1612> a edm:Agent ;
+    rdaGr2:dateOfBirth "1815" ;
+    rdaGr2:dateOfDeath "1898" ;
+    edm:identifier "http://digital.cjh.org/3991995",
+        "http://digital.cjh.org/3992013" ;
+    skos:prefLabel "Thiem, Conrad" .
+
+<https://data.jhn.ngo/persons/LBI_art/1613> a edm:Agent ;
+    rdaGr2:dateOfBirth "1895" ;
+    rdaGr2:dateOfDeath "1977" ;
+    edm:identifier "http://digital.cjh.org/3991998" ;
+    skos:prefLabel "Lerch, Franz" .
+
+<https://data.jhn.ngo/persons/LBI_art/1614> a edm:Agent ;
+    rdaGr2:dateOfBirth "1838" ;
+    rdaGr2:dateOfDeath "1911" ;
+    edm:identifier "http://digital.cjh.org/3992010" ;
+    skos:prefLabel "Hom, Georg" .
+
+<https://data.jhn.ngo/persons/LBI_art/1616> a edm:Agent ;
+    rdaGr2:dateOfBirth "1918" ;
+    rdaGr2:dateOfDeath "2016" ;
+    edm:identifier "http://digital.cjh.org/3992019" ;
+    skos:prefLabel "Lewen, Si" .
+
+<https://data.jhn.ngo/persons/LBI_art/1617> a edm:Agent ;
+    rdaGr2:dateOfBirth "1882" ;
+    rdaGr2:dateOfDeath "1971" ;
+    edm:identifier "http://digital.cjh.org/3992031" ;
+    skos:prefLabel "Westfeld, Max" .
+
+<https://data.jhn.ngo/persons/LBI_art/1619> a edm:Agent ;
+    rdaGr2:dateOfBirth "1915" ;
+    rdaGr2:dateOfDeath "1994" ;
+    edm:identifier "http://digital.cjh.org/3999761" ;
+    skos:prefLabel "Dzubas, Friedel" .
+
+<https://data.jhn.ngo/persons/LBI_art/1620> a edm:Agent ;
+    rdaGr2:dateOfBirth "1829" ;
+    rdaGr2:dateOfDeath "1880" ;
+    edm:identifier "http://digital.cjh.org/4239403" ;
+    skos:prefLabel "Feuerbach, Anselm Friedrich" .
+
+<https://data.jhn.ngo/persons/LBI_art/1621> a edm:Agent ;
+    rdaGr2:dateOfBirth "1808" ;
+    rdaGr2:dateOfDeath "1868" ;
+    edm:identifier "http://digital.cjh.org/4303692" ;
+    skos:prefLabel "Lange, L Ludwig" .
+
+<https://data.jhn.ngo/persons/LBI_art/1623> a edm:Agent ;
+    rdaGr2:dateOfBirth "1874" ;
+    rdaGr2:dateOfDeath "1924" ;
+    edm:identifier "http://digital.cjh.org/4303716" ;
+    skos:prefLabel "Moser, Richard" .
+
+<https://data.jhn.ngo/persons/LBI_art/1624> a edm:Agent ;
+    rdaGr2:dateOfBirth "1691" ;
+    rdaGr2:dateOfDeath "1759" ;
+    edm:identifier "http://digital.cjh.org/4303719" ;
+    skos:prefLabel "Heumann, Georg Daniel" .
+
+<https://data.jhn.ngo/persons/LBI_art/1625> a edm:Agent ;
+    rdaGr2:dateOfBirth "1700" ;
+    rdaGr2:dateOfDeath "1761" ;
+    edm:identifier "http://digital.cjh.org/4303719" ;
+    skos:prefLabel "Kleiner, Salomon" .
+
+<https://data.jhn.ngo/persons/LBI_art/1627> a edm:Agent ;
+    rdaGr2:dateOfBirth "1593" ;
+    rdaGr2:dateOfDeath "1650" ;
+    edm:identifier "http://digital.cjh.org/4303737" ;
+    skos:prefLabel "Merian, Matthaeus" .
+
+<https://data.jhn.ngo/persons/LBI_art/1628> a edm:Agent ;
+    rdaGr2:dateOfBirth "1801" ;
+    rdaGr2:dateOfDeath "1863" ;
+    edm:identifier "http://digital.cjh.org/4303740" ;
+    skos:prefLabel "Georgin, FranÃ§ois" .
+
+<https://data.jhn.ngo/persons/LBI_art/1629> a edm:Agent ;
+    rdaGr2:dateOfBirth "1894" ;
+    rdaGr2:dateOfDeath "1973" ;
+    edm:identifier "http://digital.cjh.org/4303743" ;
+    skos:prefLabel "Enders, Richard" .
+
+<https://data.jhn.ngo/persons/LBI_art/1631> a edm:Agent ;
+    rdaGr2:dateOfBirth "1863" ;
+    rdaGr2:dateOfDeath "1938" ;
+    edm:identifier "http://digital.cjh.org/4303773" ;
+    skos:prefLabel "Lancelot, Marcelle RenÃ©e" .
+
+<https://data.jhn.ngo/persons/LBI_art/1632> a edm:Agent ;
+    rdaGr2:dateOfBirth "1821" ;
+    rdaGr2:dateOfDeath "1878" ;
+    edm:identifier "http://digital.cjh.org/4359476" ;
+    skos:prefLabel "Riegel, Jobst" .
+
+<https://data.jhn.ngo/persons/LBI_art/1636> a edm:Agent ;
+    rdaGr2:dateOfBirth "1910" ;
+    rdaGr2:dateOfDeath "-" ;
+    edm:identifier "http://digital.cjh.org/4359560" ;
+    skos:prefLabel "Ganz, Fedor" .
+
+<https://data.jhn.ngo/persons/LBI_art/1637> a edm:Agent ;
+    rdaGr2:dateOfBirth "1756" ;
+    rdaGr2:dateOfDeath "1830" ;
+    edm:identifier "http://digital.cjh.org/4359602" ;
+    skos:prefLabel "Quenedey, Edme" .
+
+<https://data.jhn.ngo/persons/LBI_art/1638> a edm:Agent ;
+    rdaGr2:dateOfBirth "1874" ;
+    rdaGr2:dateOfDeath "1959" ;
+    edm:identifier "http://digital.cjh.org/4359609" ;
+    skos:prefLabel "Biberfeld, Arthur" .
+
+<https://data.jhn.ngo/persons/LBI_art/1639> a edm:Agent ;
+    rdaGr2:dateOfBirth "1884" ;
+    rdaGr2:dateOfDeath "1942" ;
+    edm:identifier "http://digital.cjh.org/4359637",
+        "http://digital.cjh.org/4359644" ;
+    skos:prefLabel "Winkler, Rolf" .
+
+<https://data.jhn.ngo/persons/LBI_art/1640> a edm:Agent ;
+    rdaGr2:dateOfBirth "1840" ;
+    rdaGr2:dateOfDeath "1920" ;
+    edm:identifier "http://digital.cjh.org/4359707",
+        "http://digital.cjh.org/4359728" ;
+    skos:prefLabel "Mayer, Wilhelm" .
+
+<https://data.jhn.ngo/persons/LBI_art/1641> a edm:Agent ;
+    rdaGr2:dateOfBirth "1846" ;
+    rdaGr2:dateOfDeath "1938" ;
+    edm:identifier "http://digital.cjh.org/4359707",
+        "http://digital.cjh.org/4359728" ;
+    skos:prefLabel "Wilhelm, Franz" .
+
+<https://data.jhn.ngo/persons/LBI_art/1643> a edm:Agent ;
+    rdaGr2:dateOfBirth "1866" ;
+    rdaGr2:dateOfDeath "1939" ;
+    edm:identifier "http://digital.cjh.org/4482900",
+        "http://digital.cjh.org/4483152" ;
+    skos:prefLabel "Starck, Constantin" .
+
+<https://data.jhn.ngo/persons/LBI_art/1644> a edm:Agent ;
+    rdaGr2:dateOfBirth "1830" ;
+    rdaGr2:dateOfDeath "1917" ;
+    edm:identifier "http://digital.cjh.org/4483089" ;
+    skos:prefLabel "Liebreich, Richard" .
+
+<https://data.jhn.ngo/persons/LBI_art/1646> a edm:Agent ;
+    rdaGr2:dateOfBirth "1884" ;
+    rdaGr2:dateOfDeath "1943" ;
+    edm:identifier "http://digital.cjh.org/4483110" ;
+    skos:prefLabel "Zadikow, Arnold" .
+
+<https://data.jhn.ngo/persons/LBI_art/1647> a edm:Agent ;
+    rdaGr2:dateOfBirth "1860" ;
+    rdaGr2:dateOfDeath "1911" ;
+    edm:identifier "http://digital.cjh.org/4483138",
+        "http://digital.cjh.org/6344741" ;
+    skos:prefLabel "Kowarzik, Joseph" .
+
+<https://data.jhn.ngo/persons/LBI_art/1649> a edm:Agent ;
+    rdaGr2:dateOfBirth "1754" ;
+    rdaGr2:dateOfDeath "1811" ;
+    edm:identifier "http://digital.cjh.org/4485388" ;
+    skos:prefLabel "Abramson, Abraham" .
+
+<https://data.jhn.ngo/persons/LBI_art/1650> a edm:Agent ;
+    rdaGr2:dateOfBirth "1759" ;
+    rdaGr2:dateOfDeath "1839" ;
+    edm:identifier "http://digital.cjh.org/4492763" ;
+    skos:prefLabel "Pinhas, Solomon" .
+
+<https://data.jhn.ngo/persons/LBI_art/1653> a edm:Agent ;
+    rdaGr2:dateOfBirth "1869" ;
+    rdaGr2:dateOfDeath "1937" ;
+    edm:identifier "http://digital.cjh.org/4515707",
+        "http://digital.cjh.org/548604" ;
+    skos:prefLabel "Oppler, Alexander" .
+
+<https://data.jhn.ngo/persons/LBI_art/1657> a edm:Agent ;
+    rdaGr2:dateOfBirth "1881" ;
+    rdaGr2:dateOfDeath "1968" ;
+    edm:identifier "http://digital.cjh.org/4529032" ;
+    skos:prefLabel "Bleeker, Bernhard" .
+
+<https://data.jhn.ngo/persons/LBI_art/1659> a edm:Agent ;
+    rdaGr2:dateOfBirth "1832" ;
+    rdaGr2:dateOfDeath "1887" ;
+    edm:identifier "http://digital.cjh.org/4529102" ;
+    skos:prefLabel "Wiener, Charles" .
+
+<https://data.jhn.ngo/persons/LBI_art/1660> a edm:Agent ;
+    rdaGr2:dateOfBirth "1815" ;
+    rdaGr2:dateOfDeath "1899" ;
+    edm:identifier "http://digital.cjh.org/4529137" ;
+    skos:prefLabel "Wiener, Jakob" .
+
+<https://data.jhn.ngo/persons/LBI_art/1663> a edm:Agent ;
+    rdaGr2:dateOfBirth "1879" ;
+    rdaGr2:dateOfDeath "1967" ;
+    edm:identifier "http://digital.cjh.org/4529340" ;
+    skos:prefLabel "FedernStaudinger, Luise" .
+
+<https://data.jhn.ngo/persons/LBI_art/1664> a edm:Agent ;
+    rdaGr2:dateOfBirth "1855" ;
+    rdaGr2:dateOfDeath "1934" ;
+    edm:identifier "http://digital.cjh.org/4532514" ;
+    skos:prefLabel "Hannaux, Emmanuel" .
+
+<https://data.jhn.ngo/persons/LBI_art/1667> a edm:Agent ;
+    rdaGr2:dateOfBirth "1875" ;
+    rdaGr2:dateOfDeath "1958" ;
+    edm:identifier "http://digital.cjh.org/4546736" ;
+    skos:prefLabel "Hosaeus, Hermann Kurt" .
+
+<https://data.jhn.ngo/persons/LBI_art/1675> a edm:Agent ;
+    rdaGr2:dateOfBirth "1905" ;
+    rdaGr2:dateOfDeath "1977" ;
+    edm:identifier "http://digital.cjh.org/4629554",
+        "http://digital.cjh.org/4629557",
+        "http://digital.cjh.org/5273635",
+        "http://digital.cjh.org/5273638" ;
+    skos:prefLabel "Langhammer, Walter" .
+
+<https://data.jhn.ngo/persons/LBI_art/1676> a edm:Agent ;
+    rdaGr2:dateOfBirth "1862" ;
+    rdaGr2:dateOfDeath "1945" ;
+    edm:identifier "http://digital.cjh.org/4852223" ;
+    skos:prefLabel "Pasternak, Leonid Osipovich" .
+
+<https://data.jhn.ngo/persons/LBI_art/1680> a edm:Agent ;
+    rdaGr2:dateOfBirth "1903" ;
+    rdaGr2:dateOfDeath "1997" ;
+    edm:identifier "http://digital.cjh.org/4852241",
+        "http://digital.cjh.org/4852307",
+        "http://digital.cjh.org/4852334",
+        "http://digital.cjh.org/4852349",
+        "http://digital.cjh.org/4852373",
+        "http://digital.cjh.org/4852468",
+        "http://digital.cjh.org/4852471" ;
+    skos:prefLabel "Ratkowski, Anne" .
+
+<https://data.jhn.ngo/persons/LBI_art/1686> a edm:Agent ;
+    rdaGr2:dateOfBirth "1811" ;
+    rdaGr2:dateOfDeath "1889" ;
+    edm:identifier "http://digital.cjh.org/4852283" ;
+    skos:prefLabel "Bendemann, Eduard" .
+
+<https://data.jhn.ngo/persons/LBI_art/1690> a edm:Agent ;
+    rdaGr2:dateOfBirth "1865" ;
+    rdaGr2:dateOfDeath "1951" ;
+    edm:identifier "http://digital.cjh.org/4852376" ;
+    skos:prefLabel "Heustis, Louise Lyons" .
+
+<https://data.jhn.ngo/persons/LBI_art/1692> a edm:Agent ;
+    rdaGr2:dateOfBirth "1864" ;
+    rdaGr2:dateOfDeath "-" ;
+    edm:identifier "http://digital.cjh.org/4852411" ;
+    skos:prefLabel "Kron, Margarete" .
+
+<https://data.jhn.ngo/persons/LBI_art/1693> a edm:Agent ;
+    rdaGr2:dateOfBirth "1728" ;
+    rdaGr2:dateOfDeath "1781" ;
+    edm:identifier "http://digital.cjh.org/4852414" ;
+    skos:prefLabel "Chodowiecki, G Gottfried" .
+
+<https://data.jhn.ngo/persons/LBI_art/1695> a edm:Agent ;
+    rdaGr2:dateOfBirth "1868" ;
+    rdaGr2:dateOfDeath "1938" ;
+    edm:identifier "http://digital.cjh.org/4852436" ;
+    skos:prefLabel "GozdawaKawecki, Roman" .
+
+<https://data.jhn.ngo/persons/LBI_art/1703> a edm:Agent ;
+    rdaGr2:dateOfBirth "1901" ;
+    rdaGr2:dateOfDeath "1987" ;
+    edm:identifier "http://digital.cjh.org/519882" ;
+    skos:prefLabel "Meidner, Else" .
+
+<https://data.jhn.ngo/persons/LBI_art/1705> a edm:Agent ;
+    rdaGr2:dateOfBirth "1769" ;
+    rdaGr2:dateOfDeath "1841" ;
+    edm:identifier "http://digital.cjh.org/5273640",
+        "http://digital.cjh.org/5273642",
+        "http://digital.cjh.org/5273644",
+        "http://digital.cjh.org/5273646",
+        "http://digital.cjh.org/5273648" ;
+    skos:prefLabel "Sohn, Anton" .
+
+<https://data.jhn.ngo/persons/LBI_art/1706> a edm:Agent ;
+    rdaGr2:dateOfBirth "1881" ;
+    rdaGr2:dateOfDeath "1969" ;
+    edm:identifier "http://digital.cjh.org/5273707" ;
+    skos:prefLabel "Hanusch, Karl" .
+
+<https://data.jhn.ngo/persons/LBI_art/1707> a edm:Agent ;
+    rdaGr2:dateOfBirth "1846" ;
+    rdaGr2:dateOfDeath "1912" ;
+    edm:identifier "http://digital.cjh.org/5273734" ;
+    skos:prefLabel "Weckwerth, Hermann" .
+
+<https://data.jhn.ngo/persons/LBI_art/1712> a edm:Agent ;
+    rdaGr2:dateOfBirth "1938" ;
+    rdaGr2:dateOfDeath "1979" ;
+    edm:identifier "http://digital.cjh.org/5283506" ;
+    skos:prefLabel "Kulka, Dan" .
+
+<https://data.jhn.ngo/persons/LBI_art/1714> a edm:Agent ;
+    rdaGr2:dateOfBirth "1895" ;
+    rdaGr2:dateOfDeath "1995" ;
+    edm:identifier "http://digital.cjh.org/5283910",
+        "http://digital.cjh.org/5644400" ;
+    skos:prefLabel "Salinger, Trude Gertrude" .
+
+<https://data.jhn.ngo/persons/LBI_art/1715> a edm:Agent ;
+    rdaGr2:dateOfBirth "1904" ;
+    rdaGr2:dateOfDeath "1996" ;
+    edm:identifier "http://digital.cjh.org/5284582" ;
+    skos:prefLabel "Weill, Erna" .
+
+<https://data.jhn.ngo/persons/LBI_art/1717> a edm:Agent ;
+    rdaGr2:dateOfBirth "1850" ;
+    rdaGr2:dateOfDeath "1920" ;
+    edm:identifier "http://digital.cjh.org/5629147" ;
+    skos:prefLabel "Kaulbach, Fritz August von" .
+
+<https://data.jhn.ngo/persons/LBI_art/1718> a edm:Agent ;
+    rdaGr2:dateOfBirth "1870" ;
+    rdaGr2:dateOfDeath "1939" ;
+    edm:identifier "http://digital.cjh.org/5629162" ;
+    skos:prefLabel "Wilckens, August" .
+
+<https://data.jhn.ngo/persons/LBI_art/1721> a edm:Agent ;
+    rdaGr2:dateOfBirth "1856" ;
+    rdaGr2:dateOfDeath "1909" ;
+    edm:identifier "http://digital.cjh.org/5737175" ;
+    skos:prefLabel "Elimeyer, Moritz" .
+
+<https://data.jhn.ngo/persons/LBI_art/1729> a edm:Agent ;
+    rdaGr2:dateOfBirth "1874" ;
+    rdaGr2:dateOfDeath "1958" ;
+    edm:identifier "http://digital.cjh.org/6649034" ;
+    skos:prefLabel "Meyer, Johanna" .
+
+<https://data.jhn.ngo/persons/LBI_art/1731> a edm:Agent ;
+    rdaGr2:dateOfBirth "1862" ;
+    rdaGr2:dateOfDeath "1928" ;
+    edm:identifier "http://digital.cjh.org/6649043" ;
+    skos:prefLabel "May, Henriette" .
+

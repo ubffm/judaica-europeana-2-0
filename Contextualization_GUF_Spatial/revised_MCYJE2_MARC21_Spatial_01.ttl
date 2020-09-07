@@ -1,0 +1,137 @@
+@prefix edm: <http://www.europeana.eu/schemas/edm/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix gndo: <http://d-nb.info/standards/elementset/gnd#> .
+@prefix jl: <http://data.judaicalink.org/ontology/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdaGr2: <http://rdvocab.info/ElementsGr2/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://data.jhn.ngo/spatial/MCYJE2_MARC21/1004> a edm:Place ;
+    edm:identifier "#REB01:000154677",
+        "#REB01:000154727" ;
+    owl:sameAs "http://d-nb.info/gnd/1005809-6",
+        "http://sws.geonames.org/2643743",
+        "http://viaf.org/viaf/148434292",
+        "http://viaf.org/viaf/261467287" ;
+    skos:altLabel "Augusta Trinobantum",
+        "Cuvette de Londres",
+        "Drundras",
+        "Dunderas",
+        "Dundras",
+        "Dundres",
+        "Dundris",
+        "Landan",
+        "Londen",
+        "Londinium",
+        "Londinum",
+        "London (Great Britain)",
+        "Londra",
+        "Londras",
+        "Londres",
+        "Londyn",
+        "Lundonia",
+        "Lundr",
+        "Lundras",
+        "Lundrias",
+        "Lundris",
+        "Lundro",
+        "Lundun",
+        "Luntras",
+        "Pays de Londres",
+        "Val de Londres",
+        "Vallon de Londres",
+        "Villa Dondras",
+        "Westminster" ;
+    skos:prefLabel "Londres" .
+
+<https://data.jhn.ngo/spatial/MCYJE2_MARC21/1006> a edm:Place ;
+    edm:identifier "#REB01:000154788",
+        "#REB01:000154789",
+        "#REB01:000154824",
+        "#REB01:000154887",
+        "#REB01:000154888",
+        "#REB01:000155283",
+        "#REB01:000155284",
+        "#REB01:000155288",
+        "#REB01:000155289",
+        "#REB01:000155290",
+        "#REB01:000155291",
+        "#REB01:000167469",
+        "#REB01:000217827",
+        "#REB01:000230123",
+        "#REB01:000231875",
+        "#REB01:000231876",
+        "#REB01:000231878" ;
+    owl:sameAs "http://d-nb.info/gnd/1019630-4",
+        "http://sws.geonames.org/2988507",
+        "http://viaf.org/viaf/265224327" ;
+    skos:altLabel "Bali (Paris)",
+        "Bārīs",
+        "Commune de Paris",
+        "Loticia Parisiorum",
+        "Lutecia",
+        "Lutetia",
+        "Lutetia Parisiorum",
+        "Lutèce",
+        "Lutitia",
+        "P'ariz",
+        "Pa-li",
+        "Parigi",
+        "Parijs",
+        "Parisia",
+        "Parisii",
+        "Parisius",
+        "Pariž",
+        "Parrhisius",
+        "Paryžius",
+        "Paříž",
+        "Ville de Paris" ;
+    skos:prefLabel "Paris" .
+
+<https://data.jhn.ngo/spatial/MCYJE2_MARC21/1007> a edm:Place ;
+    edm:identifier "#REB01:000155294" ;
+    owl:sameAs "http://d-nb.info/gnd/1026870-4",
+        "http://sws.geonames.org/756135",
+        "http://viaf.org/viaf/146267734" ;
+    skos:altLabel "Miasto Stołeczne Warszawa",
+        "Varsavia",
+        "Varsovia",
+        "Varsovie",
+        "Varsó",
+        "Varssavi",
+        "Varšava",
+        "Varšavaq",
+        "Varšuva",
+        "Warsaw",
+        "Warszawa",
+        "Warszowa" ;
+    skos:prefLabel "Warschau" .
+
+<https://data.jhn.ngo/spatial/MCYJE2_MARC21/1011> a edm:Place ;
+    edm:identifier "#REB01:000217827",
+        "#REB01:000230123",
+        "#REB01:000231875",
+        "#REB01:000231876",
+        "#REB01:000231878" ;
+    owl:sameAs "http://d-nb.info/gnd/35061-8",
+        "http://sws.geonames.org/3017382",
+        "http://viaf.org/viaf/265271214" ;
+    skos:altLabel "Empire Français",
+        "France",
+        "France (Royaume)",
+        "Francija",
+        "Frankreich (Kaiserreich)",
+        "Frankreich (Königreich)",
+        "Französische Republik",
+        "Fränkische Republik",
+        "La France",
+        "Repubblica Francese",
+        "République Française",
+        "Royaume Français",
+        "Ṣārfat" ;
+    skos:prefLabel "France" .
+

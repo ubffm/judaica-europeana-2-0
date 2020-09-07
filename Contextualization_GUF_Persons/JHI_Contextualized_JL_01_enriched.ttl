@@ -1,0 +1,838 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix edm: <http://www.europeana.eu/schemas/edm/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix gndo: <http://d-nb.info/standards/elementset/gnd#> .
+@prefix jl: <http://data.judaicalink.org/ontology/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdaGr2: <http://rdvocab.info/ElementsGr2/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://data.jhn.ngo/persons/JHI/10007> a edm:Agent ;
+    rdaGr2:dateOfBirth "1684" ;
+    rdaGr2:dateOfDeath "1765" ;
+    edm:identifier "http://cbj.jhi.pl/documents/81010/0/" ;
+    skos:prefLabel "Jungendres, Sebastian Jacob " .
+
+<https://data.jhn.ngo/persons/JHI/10009> a edm:Agent ;
+    rdaGr2:dateOfBirth "1680" ;
+    rdaGr2:dateOfDeath "1749" ;
+    edm:identifier "http://cbj.jhi.pl/documents/81010/0/" ;
+    skos:prefLabel "Puschner, Johann Georg " .
+
+<https://data.jhn.ngo/persons/JHI/10011> a edm:Agent ;
+    rdaGr2:dateOfBirth "1610" ;
+    rdaGr2:dateOfDeath "1685" ;
+    edm:identifier "http://cbj.jhi.pl/documents/81040/0/" ;
+    skos:prefLabel "Voisin, Joseph de " .
+
+<https://data.jhn.ngo/persons/JHI/10033> a edm:Agent ;
+    rdaGr2:dateOfBirth "1599" ;
+    rdaGr2:dateOfDeath "1664" ;
+    edm:identifier "http://cbj.jhi.pl/documents/81565/0/" ;
+    skos:prefLabel "Buxtorf, Johann młodszy " .
+
+<https://data.jhn.ngo/persons/JHI/10149> a edm:Agent ;
+    rdaGr2:dateOfBirth "1633" ;
+    rdaGr2:dateOfDeath "1705" ;
+    edm:identifier "http://cbj.jhi.pl/documents/82848/0/" ;
+    skos:prefLabel "Wagenseil Johann Christoph " .
+
+<https://data.jhn.ngo/persons/JHI/10150> a edm:Agent ;
+    rdaGr2:dateOfBirth "1445" ;
+    rdaGr2:dateOfDeath "1516" ;
+    edm:identifier "http://cbj.jhi.pl/documents/82848/0/" ;
+    skos:prefLabel "Ibn Chabib Jaakow ben Szlomo " .
+
+<https://data.jhn.ngo/persons/JHI/10151> a edm:Agent ;
+    rdaGr2:dateOfBirth "14" ;
+    rdaGr2:dateOfDeath "15" ;
+    edm:identifier "http://cbj.jhi.pl/documents/82848/0/" ;
+    skos:prefLabel "Mülhausen Jom Tow Lipmann " .
+
+<https://data.jhn.ngo/persons/JHI/10175> a edm:Agent ;
+    rdaGr2:dateOfBirth "1530" ;
+    rdaGr2:dateOfDeath "1593" ;
+    edm:identifier "http://cbj.jhi.pl/documents/84504/0/" ;
+    skos:prefLabel "מוסקאטו, יהודה בן יוסף " .
+
+<https://data.jhn.ngo/persons/JHI/10176> a edm:Agent ;
+    rdaGr2:dateOfBirth "1120" ;
+    rdaGr2:dateOfDeath "1190" ;
+    edm:identifier "http://cbj.jhi.pl/documents/84504/0/" ;
+    skos:prefLabel "יהודה אבן תבון " .
+
+<https://data.jhn.ngo/persons/JHI/10327> a edm:Agent ;
+    rdaGr2:dateOfBirth "1638" ;
+    rdaGr2:dateOfDeath "1721" ;
+    edm:identifier "http://cbj.jhi.pl/documents/92747/0/" ;
+    skos:prefLabel "Simon, Richard " .
+
+<https://data.jhn.ngo/persons/JHI/10375> a edm:Agent ;
+    rdaGr2:dateOfBirth "1437" ;
+    rdaGr2:dateOfDeath "1508" ;
+    edm:identifier "http://cbj.jhi.pl/documents/93723/0/" ;
+    skos:prefLabel "אברבנאל, יצחק בן יהודה " .
+
+<https://data.jhn.ngo/persons/JHI/10378> a edm:Agent ;
+    rdaGr2:dateOfBirth "1525" ;
+    rdaGr2:dateOfDeath "1572" ;
+    edm:identifier "http://cbj.jhi.pl/documents/138503/0/",
+        "http://cbj.jhi.pl/documents/93811/0/" ;
+    skos:prefLabel "איסרלש, משה בן ישראל רמ\"א " .
+
+<https://data.jhn.ngo/persons/JHI/10411> a edm:Agent ;
+    rdaGr2:dateOfBirth "1603" ;
+    rdaGr2:dateOfDeath "1669" ;
+    edm:identifier "http://cbj.jhi.pl/documents/94348/0/" ;
+    skos:prefLabel "Cocceius, Johannes " .
+
+<https://data.jhn.ngo/persons/JHI/10429> a edm:Agent ;
+    rdaGr2:dateOfBirth "1612" ;
+    rdaGr2:dateOfDeath "1642" ;
+    edm:identifier "http://cbj.jhi.pl/documents/94615/0/" ;
+    skos:prefLabel "Vossius Dionysius " .
+
+<https://data.jhn.ngo/persons/JHI/10434> a edm:Agent ;
+    rdaGr2:dateOfBirth "1507" ;
+    rdaGr2:dateOfDeath "1572" ;
+    edm:identifier "http://cbj.jhi.pl/documents/94793/0/" ;
+    skos:prefLabel "Chevalier, Antoine Rodolphe " .
+
+<https://data.jhn.ngo/persons/JHI/10593> a edm:Agent ;
+    rdaGr2:dateOfBirth "43" ;
+    rdaGr2:dateOfDeath "21" ;
+    edm:identifier "http://cbj.jhi.pl/documents/973689/0/" ;
+    skos:prefLabel """d Na dole podpis nieczytelny ołówek
+Na odwrocie inf ołówek „Ogr[Ogrodowa]""" .
+
+<https://data.jhn.ngo/persons/JHI/1122> a edm:Agent ;
+    rdaGr2:dateOfBirth "-" ;
+    rdaGr2:dateOfDeath "-" ;
+    edm:identifier "http://cbj.jhi.pl/documents/106041/0/",
+        "http://cbj.jhi.pl/documents/54522/0/",
+        "http://cbj.jhi.pl/documents/55318/0/",
+        "http://cbj.jhi.pl/documents/72056/0/",
+        "http://cbj.jhi.pl/documents/72968/0/" ;
+    owl:sameAs <http://data.judaicalink.org/data/nli/Cicero_MarcusTullius> ;
+    skos:altLabel "قيقرو، مرقوص طوليوس" ;
+    skos:prefLabel "Cicero, Marcus Tullius" .
+
+<https://data.jhn.ngo/persons/JHI/1287> a edm:Agent ;
+    rdaGr2:dateOfBirth "-" ;
+    rdaGr2:dateOfDeath "-" ;
+    edm:identifier "http://cbj.jhi.pl/documents/119031/0/",
+        "http://cbj.jhi.pl/documents/47503/0/" ;
+    owl:sameAs <http://data.judaicalink.org/data/nli/רבקש_משהבןנפתליהירש> ;
+    skos:altLabel "רבקש, משה בן נפתלי הירש." ;
+    skos:prefLabel "רבקש, משה בן נפתלי הירש" .
+
+<https://data.jhn.ngo/persons/JHI/1309> a edm:Agent ;
+    rdaGr2:dateOfBirth "-" ;
+    rdaGr2:dateOfDeath "-" ;
+    edm:identifier "http://cbj.jhi.pl/documents/121436/0/",
+        "http://cbj.jhi.pl/documents/138602/0/" ;
+    owl:sameAs <http://data.judaicalink.org/data/nli/Bartolocci_Giulio> ;
+    skos:altLabel "ברטולוצ'י, ג'וליו" ;
+    skos:prefLabel "Bartolocci, Giulio" .
+
+<https://data.jhn.ngo/persons/JHI/1315> a edm:Agent ;
+    gndo:gndIdentifier "100362176" ;
+    jl:birthLocation "Mailand" ;
+    rdaGr2:dateOfBirth "-" ;
+    edm:identifier "http://cbj.jhi.pl/documents/122522/0/",
+        "http://cbj.jhi.pl/documents/138602/0/" ;
+    owl:sameAs <http://d-nb.info/gnd/100362176>,
+        <http://d-nb.info/gnd/100362176/about>,
+        <http://data.judaicalink.org/data/gnd/100362176>,
+        <http://hub.culturegraph.org/entityfacts/100362176>,
+        <http://id.loc.gov/authorities/nb2007026081>,
+        <http://viaf.org/viaf/16755325>,
+        <http://www.isni.org/0000000066309271>,
+        <http://www.portraitindex.de/dokumente/pnd/100362176>,
+        <http://www.wikidata.org/entity/Q3659443>,
+        <https://de.wikipedia.org/wiki/Carlo_Giuseppe_Imbonati>,
+        <https://en.wikipedia.org/wiki/Carlo_Giuseppe_Imbonati>,
+        <https://www.deutsche-digitale-bibliothek.de/entity/100362176> ;
+    skos:altLabel "Imbonati, Carl J.",
+        "Imbonati, Carl Joseph",
+        "Imbonati, Carlo G.",
+        "Imbonati, Carlo Guiseppe",
+        "Imbonati, Carolus J.",
+        "Imbonati, Carolus Joseph",
+        "Imbonati, Carolus Josephus",
+        "Imbonati, Karl J.",
+        "Imbonatus, Carolus J.",
+        "Imbonatus, Carolus Josephus" ;
+    skos:prefLabel "Imbonati, Carlo Giuseppe" .
+
+<https://data.jhn.ngo/persons/JHI/1341> a edm:Agent ;
+    rdaGr2:dateOfBirth "-" ;
+    rdaGr2:dateOfDeath "-" ;
+    edm:identifier "http://cbj.jhi.pl/documents/124193/0/" ;
+    owl:sameAs <http://data.judaicalink.org/data/nli/אהרןבןשמואל> ;
+    skos:altLabel "אהרן בן שמואל" ;
+    skos:prefLabel "אהרן בן שמואל" .
+
+<https://data.jhn.ngo/persons/JHI/1496> a edm:Agent ;
+    rdaGr2:dateOfBirth "-" ;
+    rdaGr2:dateOfDeath "-" ;
+    edm:identifier "http://cbj.jhi.pl/documents/136866/0/" ;
+    owl:sameAs <http://data.judaicalink.org/data/nli/מרדכיבןנפתליהירש> ;
+    skos:altLabel "מרדכי בן נפתלי הירש" ;
+    skos:prefLabel "מרדכי בן נפתלי הירש" .
+
+<https://data.jhn.ngo/persons/JHI/1638> a edm:Agent ;
+    rdaGr2:dateOfBirth "-" ;
+    rdaGr2:dateOfDeath "-" ;
+    edm:identifier "http://cbj.jhi.pl/documents/165223/0/" ;
+    owl:sameAs <http://data.judaicalink.org/data/nli/Stein_Joseph> ;
+    skos:altLabel "שטין, יוסף," ;
+    skos:prefLabel "Stein, Joseph" .
+
+<https://data.jhn.ngo/persons/JHI/4138> a edm:Agent ;
+    rdaGr2:dateOfBirth "-" ;
+    rdaGr2:dateOfDeath "-" ;
+    edm:identifier "http://cbj.jhi.pl/documents/537502/0/" ;
+    owl:sameAs <http://data.judaicalink.org/data/nli/Michelstadt_Israel> ;
+    skos:altLabel "ישראל מ\"ש," ;
+    skos:prefLabel "Michelstadt, Israel" .
+
+<https://data.jhn.ngo/persons/JHI/4720> a edm:Agent ;
+    rdaGr2:dateOfBirth "-" ;
+    rdaGr2:dateOfDeath "-" ;
+    edm:identifier "http://cbj.jhi.pl/documents/735584/0/" ;
+    owl:sameAs <http://data.judaicalink.org/data/nli/Millie> ;
+    skos:altLabel "מילי" ;
+    skos:prefLabel "Millie" .
+
+<https://data.jhn.ngo/persons/JHI/5192> a edm:Agent ;
+    gndo:gndIdentifier "108072169" ;
+    rdaGr2:dateOfBirth "-" ;
+    rdaGr2:dateOfDeath "-" ;
+    edm:identifier "http://cbj.jhi.pl/documents/81010/0/" ;
+    owl:sameAs <http://catalogue.bnf.fr/ark:/12148/cb13737551c>,
+        <http://d-nb.info/gnd/108072169>,
+        <http://d-nb.info/gnd/108072169/about>,
+        <http://data.judaicalink.org/data/gnd/108072169>,
+        <http://data.judaicalink.org/data/nli/Kirchner_PaulChristian>,
+        <http://hub.culturegraph.org/entityfacts/108072169>,
+        <http://id.loc.gov/authorities/no96016481>,
+        <http://viaf.org/viaf/10025485>,
+        <http://www.isni.org/0000000066535498>,
+        <https://www.deutsche-digitale-bibliothek.de/entity/108072169> ;
+    skos:altLabel "Kirchner, Paul C.",
+        "קירכנר, פאול כריסטין" ;
+    skos:prefLabel "Kirchner, Paul Christian" .
+
+<https://data.jhn.ngo/persons/JHI/5702> a edm:Agent ;
+    gndo:gndIdentifier "118605836" ;
+    rdaGr2:dateOfBirth "-" ;
+    rdaGr2:dateOfDeath "-" ;
+    edm:identifier "http://cbj.jhi.pl/documents/349216/0/",
+        "http://cbj.jhi.pl/documents/352450/0/",
+        "http://cbj.jhi.pl/documents/357276/0/",
+        "http://cbj.jhi.pl/documents/360069/0/",
+        "http://cbj.jhi.pl/documents/375652/0/",
+        "http://cbj.jhi.pl/documents/377577/0/",
+        "http://cbj.jhi.pl/documents/377906/0/",
+        "http://cbj.jhi.pl/documents/391344/0/",
+        "http://cbj.jhi.pl/documents/417617/0/",
+        "http://cbj.jhi.pl/documents/429475/0/",
+        "http://cbj.jhi.pl/documents/478979/0/",
+        "http://cbj.jhi.pl/documents/483199/0/",
+        "http://cbj.jhi.pl/documents/490257/0/",
+        "http://cbj.jhi.pl/documents/74968/0/",
+        "http://cbj.jhi.pl/documents/76209/0/",
+        "http://cbj.jhi.pl/documents/786634/0/",
+        "http://cbj.jhi.pl/documents/965040/0/" ;
+    owl:sameAs <http://cs.dbpedia.org/resource/Saul>,
+        <http://d-nb.info/gnd/118605836>,
+        <http://d-nb.info/gnd/118605836/about>,
+        <http://data.judaicalink.org/data/dbpedia/Saul>,
+        <http://dbpedia.org/resource/Saul>,
+        <http://de.dbpedia.org/resource/Saul>,
+        <http://es.dbpedia.org/resource/Saúl>,
+        <http://eu.dbpedia.org/resource/Saul>,
+        <http://fr.dbpedia.org/resource/Saül>,
+        <http://hub.culturegraph.org/entityfacts/118605836>,
+        <http://id.dbpedia.org/resource/Saul>,
+        <http://it.dbpedia.org/resource/Saul>,
+        <http://ja.dbpedia.org/resource/サウル>,
+        <http://ko.dbpedia.org/resource/사울>,
+        <http://nl.dbpedia.org/resource/Saul>,
+        <http://pl.dbpedia.org/resource/Saul_(król_Izraela)>,
+        <http://pt.dbpedia.org/resource/Saul_(rei)>,
+        <http://rdf.freebase.com/ns/m.070hm>,
+        <http://sw.cyc.com/concept/Mx4r7Wi2hFa-EdqAAAACs6hnmQ>,
+        <http://viaf.org/viaf/13100048>,
+        <http://wikidata.dbpedia.org/resource/Q28730>,
+        <http://www.isni.org/0000000419587788>,
+        <http://www.wikidata.org/entity/Q28730>,
+        <http://yago-knowledge.org/resource/Saul>,
+        <https://de.wikipedia.org/wiki/Saul>,
+        <https://en.wikipedia.org/wiki/Saul>,
+        <https://www.deutsche-digitale-bibliothek.de/entity/118605836> ;
+    skos:altLabel "Saul",
+        "Saul (król Izraela)",
+        "Saul (rei)",
+        "Saúl",
+        "Saül",
+        "Саул",
+        "شاول الملك",
+        "サウル",
+        "掃羅王" ;
+    skos:prefLabel "Saul" .
+
+<https://data.jhn.ngo/persons/JHI/5714> a edm:Agent ;
+    rdaGr2:dateOfBirth "-" ;
+    rdaGr2:dateOfDeath "-" ;
+    edm:identifier "http://cbj.jhi.pl/documents/966188/0/" ;
+    owl:sameAs <http://data.europa.eu/euodp/jrc-names/Ben_Horowitz>,
+        <http://data.judaicalink.org/data/dbpedia/Ben_Horowitz>,
+        <http://dbpedia.org/resource/Ben_Horowitz>,
+        <http://rdf.freebase.com/ns/m.07s9g_6>,
+        <http://wikidata.dbpedia.org/resource/Q4885859>,
+        <http://www.wikidata.org/entity/Q4885859>,
+        <http://yago-knowledge.org/resource/Ben_Horowitz> ;
+    skos:altLabel "Ben Horowitz" ;
+    skos:prefLabel "Horowitz, Ben" .
+
+<https://data.jhn.ngo/persons/JHI/5781> a edm:Agent ;
+    rdaGr2:dateOfBirth "-" ;
+    rdaGr2:dateOfDeath "-" ;
+    edm:identifier "http://cbj.jhi.pl/documents/102721/0/",
+        "http://cbj.jhi.pl/documents/97636/0/" ;
+    owl:sameAs <http://data.judaicalink.org/data/nli/פרנקפורט_משהבןשמעון> ;
+    skos:altLabel "פרנקפורט, משה בן שמעון" ;
+    skos:prefLabel "פרנקפורט, משה בן שמעון" .
+
+<https://data.jhn.ngo/persons/JHI/5867> a edm:Agent ;
+    rdaGr2:dateOfBirth "1952" ;
+    rdaGr2:dateOfDeath "-" ;
+    edm:identifier "http://cbj.jhi.pl/documents/1016569/0/" ;
+    skos:prefLabel "Doktór, Jan " .
+
+<https://data.jhn.ngo/persons/JHI/5926> a edm:Agent ;
+    rdaGr2:dateOfBirth "1700" ;
+    rdaGr2:dateOfDeath "1766" ;
+    edm:identifier "http://cbj.jhi.pl/documents/105090/0/" ;
+    skos:prefLabel "Gottsched Johann Christoph " .
+
+<https://data.jhn.ngo/persons/JHI/5931> a edm:Agent ;
+    rdaGr2:dateOfBirth "1706" ;
+    rdaGr2:dateOfDeath "1757" ;
+    edm:identifier "http://cbj.jhi.pl/documents/105594/0/" ;
+    skos:prefLabel "Baumgarten Siegmund Jakob " .
+
+<https://data.jhn.ngo/persons/JHI/5932> a edm:Agent ;
+    rdaGr2:dateOfBirth "1708" ;
+    rdaGr2:dateOfDeath "1775" ;
+    edm:identifier "http://cbj.jhi.pl/documents/105594/0/" ;
+    skos:prefLabel "Rambach Friedrich Eberhard " .
+
+<https://data.jhn.ngo/persons/JHI/5948> a edm:Agent ;
+    rdaGr2:dateOfBirth "1686" ;
+    rdaGr2:dateOfDeath "1756" ;
+    edm:identifier "http://cbj.jhi.pl/documents/108223/0/" ;
+    skos:prefLabel "Hebenstreit Johann Christian " .
+
+<https://data.jhn.ngo/persons/JHI/5962> a edm:Agent ;
+    rdaGr2:dateOfBirth "1488" ;
+    rdaGr2:dateOfDeath "1575" ;
+    edm:identifier "http://cbj.jhi.pl/documents/110794/0/",
+        "http://cbj.jhi.pl/documents/119031/0/" ;
+    skos:prefLabel "קארו, יוסף " .
+
+<https://data.jhn.ngo/persons/JHI/5965> a edm:Agent ;
+    rdaGr2:dateOfBirth "1661" ;
+    rdaGr2:dateOfDeath "1732" ;
+    edm:identifier "http://cbj.jhi.pl/documents/111405/0/" ;
+    skos:prefLabel "Otte Johann Baptist" .
+
+<https://data.jhn.ngo/persons/JHI/5968> a edm:Agent ;
+    rdaGr2:dateOfBirth "1697" ;
+    rdaGr2:dateOfDeath "1777" ;
+    edm:identifier "http://cbj.jhi.pl/documents/111405/0/" ;
+    skos:prefLabel "Herrliberger David " .
+
+<https://data.jhn.ngo/persons/JHI/6038> a edm:Agent ;
+    rdaGr2:dateOfBirth "1640" ;
+    rdaGr2:dateOfDeath "1698" ;
+    edm:identifier "http://cbj.jhi.pl/documents/116767/0/" ;
+    skos:prefLabel "Pfeiffer August " .
+
+<https://data.jhn.ngo/persons/JHI/6039> a edm:Agent ;
+    rdaGr2:dateOfBirth "1656" ;
+    rdaGr2:dateOfDeath "-" ;
+    edm:identifier "http://cbj.jhi.pl/documents/116767/0/" ;
+    skos:prefLabel "Christiani Friedrich Albrecht " .
+
+<https://data.jhn.ngo/persons/JHI/6069> a edm:Agent ;
+    rdaGr2:dateOfBirth "1630" ;
+    rdaGr2:dateOfDeath "1695" ;
+    edm:identifier "http://cbj.jhi.pl/documents/117860/0/" ;
+    skos:prefLabel "אבנדאנה, יעקב בן יוסף " .
+
+<https://data.jhn.ngo/persons/JHI/6070> a edm:Agent ;
+    rdaGr2:dateOfBirth "1564" ;
+    rdaGr2:dateOfDeath "1629" ;
+    edm:identifier "http://cbj.jhi.pl/documents/117860/0/",
+        "http://cbj.jhi.pl/documents/81565/0/" ;
+    skos:prefLabel "Buxtorf, Johann " .
+
+<https://data.jhn.ngo/persons/JHI/6071> a edm:Agent ;
+    rdaGr2:dateOfBirth "1613" ;
+    rdaGr2:dateOfDeath "1686" ;
+    edm:identifier "http://cbj.jhi.pl/documents/117860/0/" ;
+    skos:prefLabel "Abrahamus Heydanus " .
+
+<https://data.jhn.ngo/persons/JHI/6073> a edm:Agent ;
+    rdaGr2:dateOfBirth "1596" ;
+    rdaGr2:dateOfDeath "1667" ;
+    edm:identifier "http://cbj.jhi.pl/documents/117860/0/" ;
+    skos:prefLabel "Jacobus Golius " .
+
+<https://data.jhn.ngo/persons/JHI/6074> a edm:Agent ;
+    rdaGr2:dateOfBirth "1603" ;
+    rdaGr2:dateOfDeath "1669" ;
+    edm:identifier "http://cbj.jhi.pl/documents/117860/0/" ;
+    skos:prefLabel "Johannes Cocceius " .
+
+<https://data.jhn.ngo/persons/JHI/6084> a edm:Agent ;
+    rdaGr2:dateOfBirth "1534" ;
+    rdaGr2:dateOfDeath "1572" ;
+    edm:identifier "http://cbj.jhi.pl/documents/118774/0/" ;
+    skos:prefLabel "Luria, Icchak " .
+
+<https://data.jhn.ngo/persons/JHI/6121> a edm:Agent ;
+    rdaGr2:dateOfBirth "1639" ;
+    rdaGr2:dateOfDeath "1699" ;
+    edm:identifier "http://cbj.jhi.pl/documents/121336/0/",
+        "http://cbj.jhi.pl/documents/81040/0/" ;
+    skos:prefLabel "Carpzov, Johann Benedict " .
+
+<https://data.jhn.ngo/persons/JHI/6127> a edm:Agent ;
+    rdaGr2:dateOfBirth "1540" ;
+    rdaGr2:dateOfDeath "1609" ;
+    edm:identifier "http://cbj.jhi.pl/documents/121969/0/" ;
+    skos:prefLabel "Scaliger, Joseph Juste " .
+
+<https://data.jhn.ngo/persons/JHI/6130> a edm:Agent ;
+    rdaGr2:dateOfBirth "1650" ;
+    rdaGr2:dateOfDeath "1697" ;
+    edm:identifier "http://cbj.jhi.pl/documents/122522/0/",
+        "http://cbj.jhi.pl/documents/138602/0/" ;
+    skos:prefLabel "Imbonati, Carlo Giuseppe " .
+
+<https://data.jhn.ngo/persons/JHI/6132> a edm:Agent ;
+    rdaGr2:dateOfBirth "1572" ;
+    rdaGr2:dateOfDeath "-" ;
+    edm:identifier "http://cbj.jhi.pl/documents/122898/0/",
+        "http://cbj.jhi.pl/documents/137519/0/" ;
+    skos:prefLabel "Victorius, Marianus zm" .
+
+<https://data.jhn.ngo/persons/JHI/6170> a edm:Agent ;
+    rdaGr2:dateOfBirth "1120" ;
+    rdaGr2:dateOfDeath "1190" ;
+    edm:identifier "http://cbj.jhi.pl/documents/124474/0/" ;
+    skos:prefLabel "Jehuda ibn Tibbon " .
+
+<https://data.jhn.ngo/persons/JHI/6171> a edm:Agent ;
+    rdaGr2:dateOfBirth "1564" ;
+    rdaGr2:dateOfDeath "1629" ;
+    edm:identifier "http://cbj.jhi.pl/documents/124474/0/" ;
+    skos:prefLabel "Buxtorf Johann " .
+
+<https://data.jhn.ngo/persons/JHI/6267> a edm:Agent ;
+    rdaGr2:dateOfBirth "1710" ;
+    rdaGr2:dateOfDeath "1798" ;
+    edm:identifier "http://cbj.jhi.pl/documents/129860/0/",
+        "http://cbj.jhi.pl/documents/130445/0/",
+        "http://cbj.jhi.pl/documents/130623/0/",
+        "http://cbj.jhi.pl/documents/131195/0/",
+        "http://cbj.jhi.pl/documents/131674/0/" ;
+    skos:prefLabel "Rabe Johann Jacob " .
+
+<https://data.jhn.ngo/persons/JHI/6271> a edm:Agent ;
+    rdaGr2:dateOfBirth "1710" ;
+    rdaGr2:dateOfDeath "1798" ;
+    edm:identifier "http://cbj.jhi.pl/documents/131271/0/" ;
+    skos:prefLabel "Rabe, Johann Jacob " .
+
+<https://data.jhn.ngo/persons/JHI/6279> a edm:Agent ;
+    rdaGr2:dateOfBirth "1620" ;
+    rdaGr2:dateOfDeath "1667" ;
+    edm:identifier "http://cbj.jhi.pl/documents/133254/0/" ;
+    skos:prefLabel "Hottinger Johann Heinrich " .
+
+<https://data.jhn.ngo/persons/JHI/6286> a edm:Agent ;
+    rdaGr2:dateOfBirth "1715" ;
+    rdaGr2:dateOfDeath "1770" ;
+    edm:identifier "http://cbj.jhi.pl/documents/134687/0/" ;
+    skos:prefLabel "Eichler Gottfried " .
+
+<https://data.jhn.ngo/persons/JHI/6287> a edm:Agent ;
+    rdaGr2:dateOfBirth "1713" ;
+    rdaGr2:dateOfDeath "1776" ;
+    edm:identifier "http://cbj.jhi.pl/documents/134687/0/" ;
+    skos:prefLabel "Nusbiegel Georg Paul " .
+
+<https://data.jhn.ngo/persons/JHI/6288> a edm:Agent ;
+    rdaGr2:dateOfBirth "1728" ;
+    rdaGr2:dateOfDeath "1785" ;
+    edm:identifier "http://cbj.jhi.pl/documents/134687/0/" ;
+    skos:prefLabel "Müller Johann Conrad " .
+
+<https://data.jhn.ngo/persons/JHI/6323> a edm:Agent ;
+    rdaGr2:dateOfBirth "1467" ;
+    rdaGr2:dateOfDeath "1536" ;
+    edm:identifier "http://cbj.jhi.pl/documents/137519/0/",
+        "http://cbj.jhi.pl/documents/95023/0/" ;
+    skos:prefLabel "Erasmus Desiderius, Rotterodamus " .
+
+<https://data.jhn.ngo/persons/JHI/6324> a edm:Agent ;
+    rdaGr2:dateOfBirth "1552" ;
+    rdaGr2:dateOfDeath "-" ;
+    edm:identifier "http://cbj.jhi.pl/documents/137519/0/" ;
+    skos:prefLabel "Grave, Heinrich zm" .
+
+<https://data.jhn.ngo/persons/JHI/6325> a edm:Agent ;
+    rdaGr2:dateOfBirth "1641" ;
+    rdaGr2:dateOfDeath "1687" ;
+    edm:identifier "http://cbj.jhi.pl/documents/137519/0/" ;
+    skos:prefLabel "Tribbechow, Adam " .
+
+<https://data.jhn.ngo/persons/JHI/6358> a edm:Agent ;
+    rdaGr2:dateOfBirth "1483" ;
+    rdaGr2:dateOfDeath "1546" ;
+    edm:identifier "http://cbj.jhi.pl/documents/140530/0/" ;
+    skos:prefLabel "Luther Martin " .
+
+<https://data.jhn.ngo/persons/JHI/6359> a edm:Agent ;
+    rdaGr2:dateOfBirth "1572" ;
+    rdaGr2:dateOfDeath "1634" ;
+    edm:identifier "http://cbj.jhi.pl/documents/140530/0/" ;
+    skos:prefLabel "Tossanus Paul " .
+
+<https://data.jhn.ngo/persons/JHI/6360> a edm:Agent ;
+    rdaGr2:dateOfBirth "1576" ;
+    rdaGr2:dateOfDeath "1649" ;
+    edm:identifier "http://cbj.jhi.pl/documents/140530/0/" ;
+    skos:prefLabel "Diodati Giovanni " .
+
+<https://data.jhn.ngo/persons/JHI/6361> a edm:Agent ;
+    rdaGr2:dateOfBirth "1511" ;
+    rdaGr2:dateOfDeath "1564" ;
+    edm:identifier "http://cbj.jhi.pl/documents/140530/0/" ;
+    skos:prefLabel "Hyperius Andreas " .
+
+<https://data.jhn.ngo/persons/JHI/6614> a edm:Agent ;
+    rdaGr2:dateOfBirth "1891" ;
+    rdaGr2:dateOfDeath "1941" ;
+    edm:identifier "http://cbj.jhi.pl/documents/34598/0/",
+        "http://cbj.jhi.pl/documents/34641/0/",
+        "http://cbj.jhi.pl/documents/34728/0/",
+        "http://cbj.jhi.pl/documents/34750/0/",
+        "http://cbj.jhi.pl/documents/34761/0/",
+        "http://cbj.jhi.pl/documents/34764/0/",
+        "http://cbj.jhi.pl/documents/34829/0/",
+        "http://cbj.jhi.pl/documents/34833/0/" ;
+    skos:prefLabel "Bastomski, Sz " .
+
+<https://data.jhn.ngo/persons/JHI/7946> a edm:Agent ;
+    rdaGr2:dateOfBirth "1673" ;
+    rdaGr2:dateOfDeath "1734" ;
+    edm:identifier "http://cbj.jhi.pl/documents/43571/0/" ;
+    skos:prefLabel "Green Georg Sigismund " .
+
+<https://data.jhn.ngo/persons/JHI/8038> a edm:Agent ;
+    rdaGr2:dateOfBirth "1688" ;
+    rdaGr2:dateOfDeath "1732" ;
+    edm:identifier "http://cbj.jhi.pl/documents/44230/0/" ;
+    skos:prefLabel "Majus Johann Heinrich " .
+
+<https://data.jhn.ngo/persons/JHI/8039> a edm:Agent ;
+    rdaGr2:dateOfBirth "1683" ;
+    rdaGr2:dateOfDeath "1734" ;
+    edm:identifier "http://cbj.jhi.pl/documents/44230/0/" ;
+    skos:prefLabel "Uffenbach Zacharias Konrad von " .
+
+<https://data.jhn.ngo/persons/JHI/8251> a edm:Agent ;
+    rdaGr2:dateOfBirth "1588" ;
+    rdaGr2:dateOfDeath "1674" ;
+    edm:identifier "http://cbj.jhi.pl/documents/45716/0/",
+        "http://cbj.jhi.pl/documents/46094/0/" ;
+    skos:prefLabel "Arnauld D'Andilly, Robert " .
+
+<https://data.jhn.ngo/persons/JHI/8391> a edm:Agent ;
+    rdaGr2:dateOfBirth "1588" ;
+    rdaGr2:dateOfDeath "1674" ;
+    edm:identifier "http://cbj.jhi.pl/documents/46773/0/",
+        "http://cbj.jhi.pl/documents/47116/0/",
+        "http://cbj.jhi.pl/documents/47557/0/" ;
+    skos:prefLabel "Arnauld d'Andilly, Robert " .
+
+<https://data.jhn.ngo/persons/JHI/8733> a edm:Agent ;
+    rdaGr2:dateOfBirth "1614" ;
+    rdaGr2:dateOfDeath "1680" ;
+    edm:identifier "http://cbj.jhi.pl/documents/49189/0/" ;
+    skos:prefLabel "Geier, Martin " .
+
+<https://data.jhn.ngo/persons/JHI/8945> a edm:Agent ;
+    rdaGr2:dateOfBirth "1750" ;
+    rdaGr2:dateOfDeath "1785" ;
+    edm:identifier "http://cbj.jhi.pl/documents/53455/0/" ;
+    skos:prefLabel "Stroth Friedrich Andreas " .
+
+<https://data.jhn.ngo/persons/JHI/8984> a edm:Agent ;
+    rdaGr2:dateOfBirth "1751" ;
+    rdaGr2:dateOfDeath "1816" ;
+    edm:identifier "http://cbj.jhi.pl/documents/54522/0/",
+        "http://cbj.jhi.pl/documents/55318/0/" ;
+    skos:prefLabel "Borheck August Christian " .
+
+<https://data.jhn.ngo/persons/JHI/9006> a edm:Agent ;
+    rdaGr2:dateOfBirth "1250" ;
+    rdaGr2:dateOfDeath "1327" ;
+    edm:identifier "http://cbj.jhi.pl/documents/559873/0/" ;
+    skos:prefLabel "Aszer ben Jechiel ok" .
+
+<https://data.jhn.ngo/persons/JHI/9007> a edm:Agent ;
+    rdaGr2:dateOfBirth "1518" ;
+    rdaGr2:dateOfDeath "1592" ;
+    edm:identifier "http://cbj.jhi.pl/documents/560496/0/" ;
+    skos:prefLabel "Vidas, Eliyahu de " .
+
+<https://data.jhn.ngo/persons/JHI/9009> a edm:Agent ;
+    rdaGr2:dateOfBirth "1508" ;
+    rdaGr2:dateOfDeath "-" ;
+    edm:identifier "http://cbj.jhi.pl/documents/561097/0/",
+        "http://cbj.jhi.pl/documents/563017/0/",
+        "http://cbj.jhi.pl/documents/563080/0/" ;
+    skos:prefLabel "Saba, Abraham ben Jakub zm ok" .
+
+<https://data.jhn.ngo/persons/JHI/9012> a edm:Agent ;
+    rdaGr2:dateOfBirth "1807" ;
+    rdaGr2:dateOfDeath "1883" ;
+    edm:identifier "http://cbj.jhi.pl/documents/561539/0/" ;
+    skos:prefLabel "Stern, Solomon Gottlieb " .
+
+<https://data.jhn.ngo/persons/JHI/9013> a edm:Agent ;
+    rdaGr2:dateOfBirth "1534" ;
+    rdaGr2:dateOfDeath "1572" ;
+    edm:identifier "http://cbj.jhi.pl/documents/561642/0/" ;
+    skos:prefLabel "Luria, Izaak ben Salomon " .
+
+<https://data.jhn.ngo/persons/JHI/9014> a edm:Agent ;
+    rdaGr2:dateOfBirth "1821" ;
+    rdaGr2:dateOfDeath "1893" ;
+    edm:identifier "http://cbj.jhi.pl/documents/561748/0/" ;
+    skos:prefLabel "Jellinek Adolf " .
+
+<https://data.jhn.ngo/persons/JHI/9018> a edm:Agent ;
+    rdaGr2:dateOfBirth "13" ;
+    rdaGr2:dateOfDeath "14" ;
+    edm:identifier "http://cbj.jhi.pl/documents/562264/0/" ;
+    skos:prefLabel "Ibn Gaon, Szem Tow ben Abraham " .
+
+<https://data.jhn.ngo/persons/JHI/9021> a edm:Agent ;
+    rdaGr2:dateOfBirth "1542" ;
+    rdaGr2:dateOfDeath "1620" ;
+    edm:identifier "http://cbj.jhi.pl/documents/562610/0/" ;
+    skos:prefLabel "Vital, Chaim ben Josef " .
+
+<https://data.jhn.ngo/persons/JHI/9023> a edm:Agent ;
+    rdaGr2:dateOfBirth "13" ;
+    rdaGr2:dateOfDeath "14" ;
+    edm:identifier "http://cbj.jhi.pl/documents/562807/0/" ;
+    skos:prefLabel "Izaak ben Samuel, z Akki " .
+
+<https://data.jhn.ngo/persons/JHI/9024> a edm:Agent ;
+    rdaGr2:dateOfBirth "1414" ;
+    rdaGr2:dateOfDeath "-" ;
+    edm:identifier "http://cbj.jhi.pl/documents/563192/0/",
+        "http://cbj.jhi.pl/documents/563499/0/",
+        "http://cbj.jhi.pl/documents/563611/0/" ;
+    skos:prefLabel "Duran, Profiat zm ok" .
+
+<https://data.jhn.ngo/persons/JHI/9026> a edm:Agent ;
+    rdaGr2:dateOfBirth "1361" ;
+    rdaGr2:dateOfDeath "1444" ;
+    edm:identifier "http://cbj.jhi.pl/documents/563219/0/" ;
+    skos:prefLabel "Duran, Szymon ben Cemach " .
+
+<https://data.jhn.ngo/persons/JHI/9029> a edm:Agent ;
+    rdaGr2:dateOfBirth "1240" ;
+    rdaGr2:dateOfDeath "1305" ;
+    edm:identifier "http://cbj.jhi.pl/documents/563253/0/" ;
+    skos:prefLabel "Mojżesz ben Szem Tow de Leon ok" .
+
+<https://data.jhn.ngo/persons/JHI/9030> a edm:Agent ;
+    rdaGr2:dateOfBirth "1220" ;
+    rdaGr2:dateOfDeath "1298" ;
+    edm:identifier "http://cbj.jhi.pl/documents/563266/0/",
+        "http://cbj.jhi.pl/documents/563401/0/" ;
+    skos:prefLabel "Abulafia, Todros ben Josef haLewi ok" .
+
+<https://data.jhn.ngo/persons/JHI/9031> a edm:Agent ;
+    rdaGr2:dateOfBirth "1238" ;
+    rdaGr2:dateOfDeath "1245" ;
+    edm:identifier "http://cbj.jhi.pl/documents/563301/0/" ;
+    skos:prefLabel "Ezdrasz ben Salomon zm" .
+
+<https://data.jhn.ngo/persons/JHI/9034> a edm:Agent ;
+    rdaGr2:dateOfBirth "1745" ;
+    rdaGr2:dateOfDeath "1831" ;
+    edm:identifier "http://cbj.jhi.pl/documents/56968/0/" ;
+    skos:prefLabel "Oberthür Franz " .
+
+<https://data.jhn.ngo/persons/JHI/9035> a edm:Agent ;
+    rdaGr2:dateOfBirth "1684" ;
+    rdaGr2:dateOfDeath "1742" ;
+    edm:identifier "http://cbj.jhi.pl/documents/56968/0/" ;
+    skos:prefLabel "Haverkamp Siwart " .
+
+<https://data.jhn.ngo/persons/JHI/9036> a edm:Agent ;
+    rdaGr2:dateOfBirth "1662" ;
+    rdaGr2:dateOfDeath "1719" ;
+    edm:identifier "http://cbj.jhi.pl/documents/56968/0/" ;
+    skos:prefLabel "Hudson John " .
+
+<https://data.jhn.ngo/persons/JHI/9037> a edm:Agent ;
+    rdaGr2:dateOfBirth "1750" ;
+    rdaGr2:dateOfDeath "1834" ;
+    edm:identifier "http://cbj.jhi.pl/documents/57039/0/" ;
+    skos:prefLabel "Friedländer David " .
+
+<https://data.jhn.ngo/persons/JHI/9040> a edm:Agent ;
+    rdaGr2:dateOfBirth "1729" ;
+    rdaGr2:dateOfDeath "1786" ;
+    edm:identifier "http://cbj.jhi.pl/documents/57144/0/",
+        "http://cbj.jhi.pl/documents/57939/0/",
+        "http://cbj.jhi.pl/documents/58153/0/",
+        "http://cbj.jhi.pl/documents/75441/0/",
+        "http://cbj.jhi.pl/documents/75995/0/",
+        "http://cbj.jhi.pl/documents/76231/0/" ;
+    skos:prefLabel "Mendelssohn Moses " .
+
+<https://data.jhn.ngo/persons/JHI/9044> a edm:Agent ;
+    rdaGr2:dateOfBirth "1632" ;
+    rdaGr2:dateOfDeath "1677" ;
+    edm:identifier "http://cbj.jhi.pl/documents/57326/0/",
+        "http://cbj.jhi.pl/documents/75441/0/",
+        "http://cbj.jhi.pl/documents/75715/0/" ;
+    skos:prefLabel "Spinoza Baruch " .
+
+<https://data.jhn.ngo/persons/JHI/9051> a edm:Agent ;
+    rdaGr2:dateOfBirth "1724" ;
+    rdaGr2:dateOfDeath "1819" ;
+    edm:identifier "http://cbj.jhi.pl/documents/57777/0/" ;
+    skos:prefLabel "Müchler Johann Georg " .
+
+<https://data.jhn.ngo/persons/JHI/9059> a edm:Agent ;
+    rdaGr2:dateOfBirth "1724" ;
+    rdaGr2:dateOfDeath "1804" ;
+    edm:identifier "http://cbj.jhi.pl/documents/58454/0/" ;
+    skos:prefLabel "Kant, Immanuel " .
+
+<https://data.jhn.ngo/persons/JHI/9172> a edm:Agent ;
+    rdaGr2:dateOfBirth "1752" ;
+    rdaGr2:dateOfDeath "1807" ;
+    edm:identifier "http://cbj.jhi.pl/documents/66256/0/" ;
+    skos:prefLabel "Cramer Carl Friedrich " .
+
+<https://data.jhn.ngo/persons/JHI/9173> a edm:Agent ;
+    rdaGr2:dateOfBirth "1746" ;
+    rdaGr2:dateOfDeath "1818" ;
+    edm:identifier "http://cbj.jhi.pl/documents/66256/0/" ;
+    skos:prefLabel "Campe Joachim Heinrich " .
+
+<https://data.jhn.ngo/persons/JHI/9232> a edm:Agent ;
+    rdaGr2:dateOfBirth "1463" ;
+    rdaGr2:dateOfDeath "1494" ;
+    edm:identifier "http://cbj.jhi.pl/documents/692954/0/" ;
+    skos:prefLabel "Pico della Mirandola, Giovanni" .
+
+<https://data.jhn.ngo/persons/JHI/9233> a edm:Agent ;
+    rdaGr2:dateOfBirth "1601" ;
+    rdaGr2:dateOfDeath "1681" ;
+    edm:identifier "http://cbj.jhi.pl/documents/692954/0/" ;
+    skos:prefLabel "Gaffarel, Jacques " .
+
+<https://data.jhn.ngo/persons/JHI/9270> a edm:Agent ;
+    rdaGr2:dateOfBirth "1742" ;
+    rdaGr2:dateOfDeath "1789" ;
+    edm:identifier "http://cbj.jhi.pl/documents/71154/0/" ;
+    skos:prefLabel "Marcus Johann Friedrich " .
+
+<https://data.jhn.ngo/persons/JHI/9437> a edm:Agent ;
+    rdaGr2:dateOfBirth "1752" ;
+    rdaGr2:dateOfDeath "1813" ;
+    edm:identifier "http://cbj.jhi.pl/documents/72854/0/" ;
+    skos:prefLabel "Kaltwasser Johann Friedrich Salomon " .
+
+<https://data.jhn.ngo/persons/JHI/9591> a edm:Agent ;
+    rdaGr2:dateOfBirth "1746" ;
+    rdaGr2:dateOfDeath "1818" ;
+    edm:identifier "http://cbj.jhi.pl/documents/74881/0/" ;
+    skos:prefLabel "Campe, Joachim Heinrich " .
+
+<https://data.jhn.ngo/persons/JHI/9673> a edm:Agent ;
+    rdaGr2:dateOfBirth "1729" ;
+    rdaGr2:dateOfDeath "1781" ;
+    edm:identifier "http://cbj.jhi.pl/documents/76231/0/" ;
+    skos:prefLabel "Lessing Gotthold Ephraim " .
+
+<https://data.jhn.ngo/persons/JHI/9674> a edm:Agent ;
+    rdaGr2:dateOfBirth "1743" ;
+    rdaGr2:dateOfDeath "1819" ;
+    edm:identifier "http://cbj.jhi.pl/documents/76231/0/" ;
+    skos:prefLabel "Jacobi Friedrich Heinrich " .
+
+<https://data.jhn.ngo/persons/JHI/9796> a edm:Agent ;
+    rdaGr2:dateOfBirth "1891" ;
+    rdaGr2:dateOfDeath "1942" ;
+    edm:identifier "http://cbj.jhi.pl/documents/778781/0/" ;
+    skos:prefLabel "זשיטניצקי, הערש לייב " .
+
+<https://data.jhn.ngo/persons/JHI/9797> a edm:Agent ;
+    rdaGr2:dateOfBirth "1891" ;
+    rdaGr2:dateOfDeath "1942" ;
+    edm:identifier "http://cbj.jhi.pl/documents/778781/0/" ;
+    skos:prefLabel "Żytnicki, Hersz Lejb " .
+
+<https://data.jhn.ngo/persons/JHI/9880> a edm:Agent ;
+    rdaGr2:dateOfBirth "1644" ;
+    rdaGr2:dateOfDeath "1648" ;
+    edm:identifier "http://cbj.jhi.pl/documents/78619/0/" ;
+    skos:prefLabel "אמשטרדם סדר נזיקין " .
+
+<https://data.jhn.ngo/persons/JHI/9882> a edm:Agent ;
+    rdaGr2:dateOfBirth "1894" ;
+    rdaGr2:dateOfDeath "1950" ;
+    edm:identifier "http://cbj.jhi.pl/documents/786634/0/" ;
+    skos:prefLabel "Appenszlak, Jakub " .
+
+<https://data.jhn.ngo/persons/JHI/9883> a edm:Agent ;
+    rdaGr2:dateOfBirth "1898" ;
+    rdaGr2:dateOfDeath "1996" ;
+    edm:identifier "http://cbj.jhi.pl/documents/786634/0/" ;
+    skos:prefLabel "Szwalbe, Stanisław " .
+
+<https://data.jhn.ngo/persons/JHI/9884> a edm:Agent ;
+    rdaGr2:dateOfBirth "1893" ;
+    rdaGr2:dateOfDeath "1945" ;
+    edm:identifier "http://cbj.jhi.pl/documents/786634/0/" ;
+    skos:prefLabel "Wagman, Saul " .
+
+<https://data.jhn.ngo/persons/JHI/9996> a edm:Agent ;
+    rdaGr2:dateOfBirth "1555" ;
+    rdaGr2:dateOfDeath "1614" ;
+    edm:identifier "http://cbj.jhi.pl/documents/80509/0/" ;
+    skos:prefLabel "יהושע פאלק בן אלכסנדר הכהן ‬ " .
+

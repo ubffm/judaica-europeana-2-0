@@ -1,0 +1,140 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix edm: <http://www.europeana.eu/schemas/edm/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix gndo: <http://d-nb.info/standards/elementset/gnd#> .
+@prefix jl: <http://data.judaicalink.org/ontology/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdaGr2: <http://rdvocab.info/ElementsGr2/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://data.jhn.ngo/persons/GUF_mshebr/1002> a edm:Agent ;
+    rdaGr2:dateOfBirth "-" ;
+    rdaGr2:dateOfDeath "-" ;
+    edm:identifier "http://nbn-resolving.de/urn:nbn:de:hebis:30:2-496" ;
+    owl:sameAs <http://data.judaicalink.org/data/nli/הללבןאליקים> ;
+    skos:altLabel "הלל בן אליקים" ;
+    skos:prefLabel "הלל בן אליקים" .
+
+<https://data.jhn.ngo/persons/GUF_mshebr/1013> a edm:Agent ;
+    rdaGr2:dateOfBirth "-" ;
+    rdaGr2:dateOfDeath "-" ;
+    edm:identifier "http://nbn-resolving.de/urn:nbn:de:hebis:30:2-567",
+        "http://nbn-resolving.de/urn:nbn:de:hebis:30:2-9249",
+        "http://nbn-resolving.de/urn:nbn:de:hebis:30:2-9357" ;
+    owl:sameAs <http://data.judaicalink.org/data/nli/בןמאיר> ;
+    skos:altLabel "בן מאיר" ;
+    skos:prefLabel "בן מאיר" .
+
+<https://data.jhn.ngo/persons/GUF_mshebr/1028> a edm:Agent ;
+    gndo:gndIdentifier "137563833" ;
+    rdaGr2:dateOfBirth "-" ;
+    edm:identifier "http://nbn-resolving.de/urn:nbn:de:hebis:30:2-8132" ;
+    owl:sameAs <http://d-nb.info/gnd/137563833>,
+        <http://d-nb.info/gnd/137563833/about>,
+        <http://data.judaicalink.org/data/gnd/137563833>,
+        <http://hub.culturegraph.org/entityfacts/137563833>,
+        <http://viaf.org/viaf/81738685> ;
+    skos:altLabel "Hess, Josef",
+        "Hess, Yosef" ;
+    skos:prefLabel "Heß, Joseph" .
+
+<https://data.jhn.ngo/persons/GUF_mshebr/1058> a edm:Agent ;
+    rdaGr2:dateOfBirth "-" ;
+    rdaGr2:dateOfDeath "-" ;
+    edm:identifier "http://nbn-resolving.de/urn:nbn:de:hebis:30:2-8451",
+        "http://nbn-resolving.de/urn:nbn:de:hebis:30:2-8535" ;
+    owl:sameAs <http://data.judaicalink.org/data/nli/המאירי_מנחםבןשלמה> ;
+    skos:altLabel "המאירי, מנחם בן שלמה." ;
+    skos:prefLabel "המאירי, מנחם בן שלמה" .
+
+<https://data.jhn.ngo/persons/GUF_mshebr/1087> a edm:Agent ;
+    gndo:gndIdentifier "1015365760" ;
+    rdaGr2:dateOfBirth "-" ;
+    edm:identifier "http://nbn-resolving.de/urn:nbn:de:hebis:30:2-8744" ;
+    owl:sameAs <http://d-nb.info/gnd/1015365760>,
+        <http://d-nb.info/gnd/1015365760/about>,
+        <http://d-nb.info/gnd/103345531>,
+        <http://data.judaicalink.org/data/gnd/1015365760>,
+        <http://hub.culturegraph.org/entityfacts/1015365760>,
+        <http://id.loc.gov/authorities/n96057015>,
+        <http://viaf.org/viaf/100212483>,
+        <http://www.isni.org/0000000118278826>,
+        <http://www.wikidata.org/entity/Q15462109>,
+        <https://en.wikipedia.org/wiki/Judah_Uziel>,
+        <https://www.deutsche-digitale-bibliothek.de/entity/1015365760> ;
+    skos:altLabel "Uziel, Judah",
+        "Uzieʾel, Yehudah",
+        "Ûzî'ēl, Yehûdā",
+        "ʹUzziʾēl, Jehūdā",
+        "ʹUzziʾēl, Jehūdā ben Šemū'ēl",
+        "עוזיאל, יהודה בן שמואל" ;
+    skos:prefLabel "Uziʾel, Yehudah" .
+
+<https://data.jhn.ngo/persons/GUF_mshebr/1102> a edm:Agent ;
+    rdaGr2:dateOfBirth "-" ;
+    rdaGr2:dateOfDeath "-" ;
+    edm:identifier "http://nbn-resolving.de/urn:nbn:de:hebis:30:2-8917" ;
+    owl:sameAs <http://data.judaicalink.org/data/nli/דורן_יצחקבןמשה> ;
+    skos:altLabel "דורן, יצחק בן משה" ;
+    skos:prefLabel "דורן, יצחק בן משה" .
+
+<https://data.jhn.ngo/persons/GUF_mshebr/1173> a edm:Agent ;
+    rdaGr2:dateOfBirth "-" ;
+    rdaGr2:dateOfDeath "-" ;
+    edm:identifier "http://nbn-resolving.de/urn:nbn:de:hebis:30:2-9839" ;
+    owl:sameAs <http://data.judaicalink.org/data/nli/כהן_מאיר> ;
+    skos:altLabel "כהן, מאיר" ;
+    skos:prefLabel "כהן, מאיר" .
+
+<https://data.jhn.ngo/persons/GUF_mshebr/1187> a edm:Agent ;
+    gndo:gndIdentifier "132169223" ;
+    jl:birthLocation "Prag" ;
+    jl:deathLocation "Frankfurt am Main" ;
+    rdaGr2:dateOfBirth "-" ;
+    edm:identifier "http://nbn-resolving.de/urn:nbn:de:hebis:30:2-10045" ;
+    owl:sameAs <http://d-nb.info/gnd/1090297459>,
+        <http://d-nb.info/gnd/132169223>,
+        <http://d-nb.info/gnd/132169223/about>,
+        <http://data.judaicalink.org/data/gnd/132169223>,
+        <http://hub.culturegraph.org/entityfacts/132169223>,
+        <http://id.loc.gov/authorities/nr00020393>,
+        <http://viaf.org/viaf/45455107>,
+        <http://www.isni.org/0000000078773768> ;
+    skos:altLabel "Jakob ben Benjamin Kohen Poppers",
+        "Jaʿaqōb Ben-Binjāmin",
+        "Jaʿaqōb Ben-Binjāmin Kaṣ",
+        "Jaʿaqōb Ben-Binjāmin Kaṣ, mi-Prag",
+        "Kaṣ, Jaʿaqōb Ben-Binjāmin",
+        "Kaṣ, Yaʿaqov Ben-Binyamin",
+        "Kats Popersh, Yaʿaḳov",
+        "Kats, Yaʿaḳov ben Binyamin",
+        "Popers, Jacob Ben Benjamin",
+        "Popers, Jaʿaqōb Kohn",
+        "Popersh, Yaʿaḳov Kats",
+        "Poperś, Yaʿaḳov ben Binyamin",
+        "Yaʿaḳov Ben Binyamin Kats",
+        "Yaʿaḳov ben Binyamin",
+        "Yaʿaḳov ben Binyamin Kats, mi-Prag",
+        "Yaʿaqov Ben-Binyamin",
+        "Yaʿaqov Ben-Binyamin Kaṣ",
+        "Yaʿaqov Ben-Binyamin Kaṣ, mi-Prag",
+        "יעקב בן בנימין",
+        "יעקב בן בנימן כ״ץ מפראג",
+        "יעקב בן בנימן כ״ץ, מפראג",
+        "כ״ץ, יעקב בן בנימין",
+        "פופרש, יעקב בן בנימין, הכהן" ;
+    skos:prefLabel "Poppers, Jacob Ben Benjamin" .
+
+<https://data.jhn.ngo/persons/GUF_mshebr/1241> a edm:Agent ;
+    rdaGr2:dateOfBirth "-" ;
+    rdaGr2:dateOfDeath "-" ;
+    edm:identifier "http://nbn-resolving.de/urn:nbn:de:hebis:30:2-11496" ;
+    owl:sameAs <http://data.judaicalink.org/data/nli/קמחי_דוד> ;
+    skos:altLabel "קמחי, דוד" ;
+    skos:prefLabel "קמחי, דוד" .
+

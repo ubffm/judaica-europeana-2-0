@@ -1,0 +1,4685 @@
+@prefix edm: <http://www.europeana.eu/schemas/edm/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://data.jhn.ngo/spatial/LBI_books/1001> a edm:Place ;
+    edm:identifier "http://digital.cjh.org/1019005",
+        "http://digital.cjh.org/1019236",
+        "http://digital.cjh.org/111239",
+        "http://digital.cjh.org/1181342",
+        "http://digital.cjh.org/1181714",
+        "http://digital.cjh.org/1183342",
+        "http://digital.cjh.org/1183480",
+        "http://digital.cjh.org/1183597",
+        "http://digital.cjh.org/1183951",
+        "http://digital.cjh.org/1184115",
+        "http://digital.cjh.org/1193277",
+        "http://digital.cjh.org/1193337",
+        "http://digital.cjh.org/1193783",
+        "http://digital.cjh.org/1194178",
+        "http://digital.cjh.org/1194567",
+        "http://digital.cjh.org/1269751",
+        "http://digital.cjh.org/133977",
+        "http://digital.cjh.org/1370254",
+        "http://digital.cjh.org/1374932",
+        "http://digital.cjh.org/1375517",
+        "http://digital.cjh.org/1376049",
+        "http://digital.cjh.org/1376418",
+        "http://digital.cjh.org/1377526",
+        "http://digital.cjh.org/1382412",
+        "http://digital.cjh.org/1450842",
+        "http://digital.cjh.org/1451639",
+        "http://digital.cjh.org/167435",
+        "http://digital.cjh.org/1990056",
+        "http://digital.cjh.org/209045",
+        "http://digital.cjh.org/2167918",
+        "http://digital.cjh.org/2198156",
+        "http://digital.cjh.org/2201090",
+        "http://digital.cjh.org/2201215",
+        "http://digital.cjh.org/2201616",
+        "http://digital.cjh.org/2202698",
+        "http://digital.cjh.org/2203176",
+        "http://digital.cjh.org/2208306",
+        "http://digital.cjh.org/2209567",
+        "http://digital.cjh.org/2242093",
+        "http://digital.cjh.org/2261894",
+        "http://digital.cjh.org/2264788",
+        "http://digital.cjh.org/2266921",
+        "http://digital.cjh.org/2267909",
+        "http://digital.cjh.org/2268448",
+        "http://digital.cjh.org/2268621",
+        "http://digital.cjh.org/2269238",
+        "http://digital.cjh.org/2272695",
+        "http://digital.cjh.org/2276037",
+        "http://digital.cjh.org/2281815",
+        "http://digital.cjh.org/2287017",
+        "http://digital.cjh.org/2293258",
+        "http://digital.cjh.org/2294402",
+        "http://digital.cjh.org/2294491",
+        "http://digital.cjh.org/2294604",
+        "http://digital.cjh.org/2294723",
+        "http://digital.cjh.org/2295580",
+        "http://digital.cjh.org/2295712",
+        "http://digital.cjh.org/2298987",
+        "http://digital.cjh.org/2299117",
+        "http://digital.cjh.org/2299650",
+        "http://digital.cjh.org/2299727",
+        "http://digital.cjh.org/2300470",
+        "http://digital.cjh.org/2300571",
+        "http://digital.cjh.org/2300959",
+        "http://digital.cjh.org/2302455",
+        "http://digital.cjh.org/2303887",
+        "http://digital.cjh.org/2306065",
+        "http://digital.cjh.org/2307653",
+        "http://digital.cjh.org/2309420",
+        "http://digital.cjh.org/2310797",
+        "http://digital.cjh.org/2313310",
+        "http://digital.cjh.org/2316489",
+        "http://digital.cjh.org/2316763",
+        "http://digital.cjh.org/2321416",
+        "http://digital.cjh.org/2321734",
+        "http://digital.cjh.org/2324198",
+        "http://digital.cjh.org/2329292",
+        "http://digital.cjh.org/2334833",
+        "http://digital.cjh.org/2335264",
+        "http://digital.cjh.org/2338362",
+        "http://digital.cjh.org/2339175",
+        "http://digital.cjh.org/2340001",
+        "http://digital.cjh.org/2344368",
+        "http://digital.cjh.org/2345695",
+        "http://digital.cjh.org/2346980",
+        "http://digital.cjh.org/2347458",
+        "http://digital.cjh.org/2347535",
+        "http://digital.cjh.org/2354836",
+        "http://digital.cjh.org/2355326",
+        "http://digital.cjh.org/2356803",
+        "http://digital.cjh.org/2357089",
+        "http://digital.cjh.org/2357637",
+        "http://digital.cjh.org/2359344",
+        "http://digital.cjh.org/2360810",
+        "http://digital.cjh.org/2361115",
+        "http://digital.cjh.org/2372758",
+        "http://digital.cjh.org/2380676",
+        "http://digital.cjh.org/2407240",
+        "http://digital.cjh.org/2408510",
+        "http://digital.cjh.org/2409261",
+        "http://digital.cjh.org/243421",
+        "http://digital.cjh.org/277886",
+        "http://digital.cjh.org/277907",
+        "http://digital.cjh.org/29564",
+        "http://digital.cjh.org/306937",
+        "http://digital.cjh.org/3070343",
+        "http://digital.cjh.org/307195",
+        "http://digital.cjh.org/309429",
+        "http://digital.cjh.org/310489",
+        "http://digital.cjh.org/310866",
+        "http://digital.cjh.org/310895",
+        "http://digital.cjh.org/311523",
+        "http://digital.cjh.org/314085",
+        "http://digital.cjh.org/3210954",
+        "http://digital.cjh.org/3211031",
+        "http://digital.cjh.org/3219530",
+        "http://digital.cjh.org/3234314",
+        "http://digital.cjh.org/3239022",
+        "http://digital.cjh.org/3240047",
+        "http://digital.cjh.org/3240395",
+        "http://digital.cjh.org/3241471",
+        "http://digital.cjh.org/3250032",
+        "http://digital.cjh.org/3252685",
+        "http://digital.cjh.org/3252818",
+        "http://digital.cjh.org/3255963",
+        "http://digital.cjh.org/3258360",
+        "http://digital.cjh.org/3262112",
+        "http://digital.cjh.org/3264390",
+        "http://digital.cjh.org/3270171",
+        "http://digital.cjh.org/3271570",
+        "http://digital.cjh.org/3273440",
+        "http://digital.cjh.org/3274471",
+        "http://digital.cjh.org/3275424",
+        "http://digital.cjh.org/3278401",
+        "http://digital.cjh.org/3278695",
+        "http://digital.cjh.org/3280323",
+        "http://digital.cjh.org/3280501",
+        "http://digital.cjh.org/3281189",
+        "http://digital.cjh.org/3287050",
+        "http://digital.cjh.org/328757",
+        "http://digital.cjh.org/3288231",
+        "http://digital.cjh.org/3291769",
+        "http://digital.cjh.org/329199",
+        "http://digital.cjh.org/3292739",
+        "http://digital.cjh.org/3293179",
+        "http://digital.cjh.org/3293243",
+        "http://digital.cjh.org/3297691",
+        "http://digital.cjh.org/329858",
+        "http://digital.cjh.org/3299572",
+        "http://digital.cjh.org/3304133",
+        "http://digital.cjh.org/330540",
+        "http://digital.cjh.org/33102",
+        "http://digital.cjh.org/3311330",
+        "http://digital.cjh.org/3312761",
+        "http://digital.cjh.org/3318399",
+        "http://digital.cjh.org/3319814",
+        "http://digital.cjh.org/334139",
+        "http://digital.cjh.org/3351435",
+        "http://digital.cjh.org/339464",
+        "http://digital.cjh.org/341800",
+        "http://digital.cjh.org/343283",
+        "http://digital.cjh.org/3479787",
+        "http://digital.cjh.org/3519706",
+        "http://digital.cjh.org/3522289",
+        "http://digital.cjh.org/3525182",
+        "http://digital.cjh.org/3536011",
+        "http://digital.cjh.org/3541274",
+        "http://digital.cjh.org/3541864",
+        "http://digital.cjh.org/3543147",
+        "http://digital.cjh.org/3543816",
+        "http://digital.cjh.org/3546319",
+        "http://digital.cjh.org/3548064",
+        "http://digital.cjh.org/3548583",
+        "http://digital.cjh.org/3564441",
+        "http://digital.cjh.org/3564697",
+        "http://digital.cjh.org/3568248",
+        "http://digital.cjh.org/3569165",
+        "http://digital.cjh.org/3569819",
+        "http://digital.cjh.org/3578145",
+        "http://digital.cjh.org/3595325",
+        "http://digital.cjh.org/3596915",
+        "http://digital.cjh.org/3596946",
+        "http://digital.cjh.org/3597786",
+        "http://digital.cjh.org/3598649",
+        "http://digital.cjh.org/3599145",
+        "http://digital.cjh.org/3599192",
+        "http://digital.cjh.org/3600494",
+        "http://digital.cjh.org/3606000",
+        "http://digital.cjh.org/3606047",
+        "http://digital.cjh.org/3606102",
+        "http://digital.cjh.org/3608309",
+        "http://digital.cjh.org/3609229",
+        "http://digital.cjh.org/3619496",
+        "http://digital.cjh.org/3622277",
+        "http://digital.cjh.org/3622713",
+        "http://digital.cjh.org/3624731",
+        "http://digital.cjh.org/3638685",
+        "http://digital.cjh.org/3661348",
+        "http://digital.cjh.org/3670708",
+        "http://digital.cjh.org/3692534",
+        "http://digital.cjh.org/3711975",
+        "http://digital.cjh.org/3712331",
+        "http://digital.cjh.org/3774634",
+        "http://digital.cjh.org/3807169",
+        "http://digital.cjh.org/3807737",
+        "http://digital.cjh.org/3807884",
+        "http://digital.cjh.org/3815626",
+        "http://digital.cjh.org/3817430",
+        "http://digital.cjh.org/3818167",
+        "http://digital.cjh.org/3827868",
+        "http://digital.cjh.org/3828179",
+        "http://digital.cjh.org/3848719",
+        "http://digital.cjh.org/3849087",
+        "http://digital.cjh.org/3849100",
+        "http://digital.cjh.org/3851939",
+        "http://digital.cjh.org/3852224",
+        "http://digital.cjh.org/3862168",
+        "http://digital.cjh.org/3863145",
+        "http://digital.cjh.org/3863248",
+        "http://digital.cjh.org/3864021",
+        "http://digital.cjh.org/3864068",
+        "http://digital.cjh.org/3864948",
+        "http://digital.cjh.org/3881959",
+        "http://digital.cjh.org/4012310",
+        "http://digital.cjh.org/4050139",
+        "http://digital.cjh.org/4063564",
+        "http://digital.cjh.org/4142098",
+        "http://digital.cjh.org/4142942",
+        "http://digital.cjh.org/4176770",
+        "http://digital.cjh.org/4177567",
+        "http://digital.cjh.org/4216677",
+        "http://digital.cjh.org/4231780",
+        "http://digital.cjh.org/4257931",
+        "http://digital.cjh.org/4264260",
+        "http://digital.cjh.org/4275801",
+        "http://digital.cjh.org/4278872",
+        "http://digital.cjh.org/4280672",
+        "http://digital.cjh.org/4281180",
+        "http://digital.cjh.org/4283206",
+        "http://digital.cjh.org/4290814",
+        "http://digital.cjh.org/4300216",
+        "http://digital.cjh.org/4321035",
+        "http://digital.cjh.org/4332493",
+        "http://digital.cjh.org/4339352",
+        "http://digital.cjh.org/4339784",
+        "http://digital.cjh.org/4340084",
+        "http://digital.cjh.org/4341264",
+        "http://digital.cjh.org/4341315",
+        "http://digital.cjh.org/4341502",
+        "http://digital.cjh.org/4341550",
+        "http://digital.cjh.org/4350821",
+        "http://digital.cjh.org/4355905",
+        "http://digital.cjh.org/4367460",
+        "http://digital.cjh.org/4374826",
+        "http://digital.cjh.org/4375884",
+        "http://digital.cjh.org/4566404",
+        "http://digital.cjh.org/48730",
+        "http://digital.cjh.org/48809",
+        "http://digital.cjh.org/49840",
+        "http://digital.cjh.org/513729",
+        "http://digital.cjh.org/516529",
+        "http://digital.cjh.org/55096",
+        "http://digital.cjh.org/56370",
+        "http://digital.cjh.org/5657712",
+        "http://digital.cjh.org/60913",
+        "http://digital.cjh.org/796193",
+        "http://digital.cjh.org/796757",
+        "http://digital.cjh.org/803132",
+        "http://digital.cjh.org/807259",
+        "http://digital.cjh.org/94264" ;
+    owl:sameAs "http://d-nb.info/gnd/2004272-3",
+        "http://d-nb.info/gnd/7761961-4",
+        "http://sws.geonames.org/2950157",
+        "http://viaf.org/viaf/122530980" ;
+    skos:altLabel "\"Besonderes Gebiet\" Berlin",
+        "Barlīn",
+        "Berlin (1945-1948)",
+        "Berlino",
+        "Berlinum",
+        "Berolino",
+        "Berolinon",
+        "Berolinum",
+        "Birlīn",
+        "Colonia Brandenburgica",
+        "Colonia Marchica",
+        "Coloniae Brandenburgicae",
+        "Cölln an der Spree",
+        "Cöln an der Spree",
+        "Gross-Berlin",
+        "Groß-Berlin",
+        "Großberlin",
+        "Haupt- und Residenz-Stadt Berlin",
+        "Hauptstadt Berlin",
+        "Land Berlin",
+        "Reichshauptstadt Berlin",
+        "Stadtgemeinde Berlin",
+        "Verolino" ;
+    skos:prefLabel "Berlin" .
+
+<https://data.jhn.ngo/spatial/LBI_books/1002> a edm:Place ;
+    edm:identifier "http://digital.cjh.org/101920",
+        "http://digital.cjh.org/2287964",
+        "http://digital.cjh.org/2301048",
+        "http://digital.cjh.org/258840",
+        "http://digital.cjh.org/3276891",
+        "http://digital.cjh.org/3541509",
+        "http://digital.cjh.org/3565192",
+        "http://digital.cjh.org/3566602",
+        "http://digital.cjh.org/3605906",
+        "http://digital.cjh.org/3605953",
+        "http://digital.cjh.org/4177359",
+        "http://digital.cjh.org/4197581",
+        "http://digital.cjh.org/4216566" ;
+    owl:sameAs "http://d-nb.info/gnd/2027583-3",
+        "http://sws.geonames.org/2825297",
+        "http://viaf.org/viaf/150032508" ;
+    skos:altLabel "Capital City Stuttgart",
+        "Estugarda",
+        "Estugarola",
+        "Groß-Stuttgart",
+        "Landeshauptstadt Stuttgart",
+        "Shutsuttogaruto",
+        "Stadt Stuttgart",
+        "Stadt der Auslandsdeutschen",
+        "Stadt-Gemeinde Stuttgart",
+        "Stadtgemeinde Stuttgart",
+        "State Capital of Stuttgart",
+        "Stoccarda",
+        "Stoutgart",
+        "Stuotgarten",
+        "Stutgard",
+        "Stutgardia",
+        "Stuttgard",
+        "Stuttgardt",
+        "Štutgart",
+        "Unicef-Kinderstadt Stuttgart" ;
+    skos:prefLabel "Stuttgart" .
+
+<https://data.jhn.ngo/spatial/LBI_books/1004> a edm:Place ;
+    edm:identifier "http://digital.cjh.org/113905",
+        "http://digital.cjh.org/1375818",
+        "http://digital.cjh.org/1682503",
+        "http://digital.cjh.org/2168026",
+        "http://digital.cjh.org/2193523",
+        "http://digital.cjh.org/2199726",
+        "http://digital.cjh.org/2207404",
+        "http://digital.cjh.org/2237601",
+        "http://digital.cjh.org/2240843",
+        "http://digital.cjh.org/2263384",
+        "http://digital.cjh.org/2263652",
+        "http://digital.cjh.org/2266179",
+        "http://digital.cjh.org/2267163",
+        "http://digital.cjh.org/2267533",
+        "http://digital.cjh.org/2270723",
+        "http://digital.cjh.org/2279358",
+        "http://digital.cjh.org/2283569",
+        "http://digital.cjh.org/2284101",
+        "http://digital.cjh.org/2284262",
+        "http://digital.cjh.org/2284813",
+        "http://digital.cjh.org/2292803",
+        "http://digital.cjh.org/2297573",
+        "http://digital.cjh.org/2298628",
+        "http://digital.cjh.org/2304967",
+        "http://digital.cjh.org/2307035",
+        "http://digital.cjh.org/2307910",
+        "http://digital.cjh.org/2316686",
+        "http://digital.cjh.org/2318196",
+        "http://digital.cjh.org/2329483",
+        "http://digital.cjh.org/2329769",
+        "http://digital.cjh.org/2332277",
+        "http://digital.cjh.org/2332438",
+        "http://digital.cjh.org/2339600",
+        "http://digital.cjh.org/2344457",
+        "http://digital.cjh.org/2355566",
+        "http://digital.cjh.org/2360427",
+        "http://digital.cjh.org/2361462",
+        "http://digital.cjh.org/2362031",
+        "http://digital.cjh.org/2372907",
+        "http://digital.cjh.org/2406131",
+        "http://digital.cjh.org/2406353",
+        "http://digital.cjh.org/2406539",
+        "http://digital.cjh.org/2413923",
+        "http://digital.cjh.org/3070345",
+        "http://digital.cjh.org/309158",
+        "http://digital.cjh.org/3219106",
+        "http://digital.cjh.org/3244027",
+        "http://digital.cjh.org/3256312",
+        "http://digital.cjh.org/3279707",
+        "http://digital.cjh.org/3282247",
+        "http://digital.cjh.org/3298222",
+        "http://digital.cjh.org/3299054",
+        "http://digital.cjh.org/3320011",
+        "http://digital.cjh.org/3343894",
+        "http://digital.cjh.org/3362305",
+        "http://digital.cjh.org/3367375",
+        "http://digital.cjh.org/3419822",
+        "http://digital.cjh.org/3522439",
+        "http://digital.cjh.org/3523781",
+        "http://digital.cjh.org/3536610",
+        "http://digital.cjh.org/3536773",
+        "http://digital.cjh.org/3542260",
+        "http://digital.cjh.org/3545500",
+        "http://digital.cjh.org/3566522",
+        "http://digital.cjh.org/3610509",
+        "http://digital.cjh.org/3620826",
+        "http://digital.cjh.org/3624394",
+        "http://digital.cjh.org/3629588",
+        "http://digital.cjh.org/3642085",
+        "http://digital.cjh.org/3711346",
+        "http://digital.cjh.org/3806785",
+        "http://digital.cjh.org/3816406",
+        "http://digital.cjh.org/3823620",
+        "http://digital.cjh.org/3862593",
+        "http://digital.cjh.org/3880376",
+        "http://digital.cjh.org/3883207",
+        "http://digital.cjh.org/4011006",
+        "http://digital.cjh.org/4012421",
+        "http://digital.cjh.org/4063620",
+        "http://digital.cjh.org/4065506",
+        "http://digital.cjh.org/4066545",
+        "http://digital.cjh.org/4076425",
+        "http://digital.cjh.org/4172575",
+        "http://digital.cjh.org/4173887",
+        "http://digital.cjh.org/4280169",
+        "http://digital.cjh.org/4280751",
+        "http://digital.cjh.org/4299432",
+        "http://digital.cjh.org/4306095",
+        "http://digital.cjh.org/4308363",
+        "http://digital.cjh.org/4333321",
+        "http://digital.cjh.org/4354262",
+        "http://digital.cjh.org/4355239",
+        "http://digital.cjh.org/4373617",
+        "http://digital.cjh.org/515472",
+        "http://digital.cjh.org/92164" ;
+    owl:sameAs "http://d-nb.info/gnd/16279298-0",
+        "http://d-nb.info/gnd/16282472-5",
+        "http://d-nb.info/gnd/2029042-1",
+        "http://sws.geonames.org/2879139",
+        "http://viaf.org/viaf/166540853" ;
+    skos:altLabel "Gross-Leipzig",
+        "Groß-Leipzig",
+        "Leipsia",
+        "Leipsic",
+        "Leipsig",
+        "Leiptzk",
+        "Leipzic",
+        "Lejpcig",
+        "Lejpzjg",
+        "Leyptzick",
+        "Leyptzigk",
+        "Lipsia",
+        "Lipsk",
+        "Liptzk",
+        "Lipzi",
+        "Messestadt Leipzig",
+        "Oberbürgermeister der Stadt Leipzig",
+        "Reichsmessestadt Leipzig",
+        "Stadt Leipzig",
+        "Urbs Lipzi" ;
+    skos:prefLabel "Leipzig" .
+
+<https://data.jhn.ngo/spatial/LBI_books/1005> a edm:Place ;
+    edm:identifier "http://digital.cjh.org/114837",
+        "http://digital.cjh.org/1193337",
+        "http://digital.cjh.org/1193783",
+        "http://digital.cjh.org/1194178",
+        "http://digital.cjh.org/1194567",
+        "http://digital.cjh.org/1269751",
+        "http://digital.cjh.org/1342988",
+        "http://digital.cjh.org/1343305",
+        "http://digital.cjh.org/1345620",
+        "http://digital.cjh.org/1345891",
+        "http://digital.cjh.org/1367004",
+        "http://digital.cjh.org/1369062",
+        "http://digital.cjh.org/1375485",
+        "http://digital.cjh.org/2033732",
+        "http://digital.cjh.org/2262097",
+        "http://digital.cjh.org/2268621",
+        "http://digital.cjh.org/2292803",
+        "http://digital.cjh.org/2293401",
+        "http://digital.cjh.org/2294723",
+        "http://digital.cjh.org/2298628",
+        "http://digital.cjh.org/2301155",
+        "http://digital.cjh.org/2302825",
+        "http://digital.cjh.org/2321416",
+        "http://digital.cjh.org/2321734",
+        "http://digital.cjh.org/2321980",
+        "http://digital.cjh.org/2339175",
+        "http://digital.cjh.org/2349872",
+        "http://digital.cjh.org/2380676",
+        "http://digital.cjh.org/258841",
+        "http://digital.cjh.org/27408",
+        "http://digital.cjh.org/3211085",
+        "http://digital.cjh.org/3211368",
+        "http://digital.cjh.org/3217461",
+        "http://digital.cjh.org/3220350",
+        "http://digital.cjh.org/3276891",
+        "http://digital.cjh.org/329266",
+        "http://digital.cjh.org/3540649",
+        "http://digital.cjh.org/3543306",
+        "http://digital.cjh.org/3544344",
+        "http://digital.cjh.org/3545068",
+        "http://digital.cjh.org/3545771",
+        "http://digital.cjh.org/3546709",
+        "http://digital.cjh.org/354809",
+        "http://digital.cjh.org/3563174",
+        "http://digital.cjh.org/3563229",
+        "http://digital.cjh.org/3563738",
+        "http://digital.cjh.org/3564441",
+        "http://digital.cjh.org/3564497",
+        "http://digital.cjh.org/3565108",
+        "http://digital.cjh.org/3566602",
+        "http://digital.cjh.org/3567397",
+        "http://digital.cjh.org/3568493",
+        "http://digital.cjh.org/3570923",
+        "http://digital.cjh.org/3578145",
+        "http://digital.cjh.org/3595982",
+        "http://digital.cjh.org/3596946",
+        "http://digital.cjh.org/3597786",
+        "http://digital.cjh.org/3598563",
+        "http://digital.cjh.org/3606102",
+        "http://digital.cjh.org/3608309",
+        "http://digital.cjh.org/3609229",
+        "http://digital.cjh.org/3609596",
+        "http://digital.cjh.org/3610509",
+        "http://digital.cjh.org/3611545",
+        "http://digital.cjh.org/3619188",
+        "http://digital.cjh.org/3619417",
+        "http://digital.cjh.org/3620826",
+        "http://digital.cjh.org/3622277",
+        "http://digital.cjh.org/3624394",
+        "http://digital.cjh.org/3624575",
+        "http://digital.cjh.org/3624614",
+        "http://digital.cjh.org/3638724",
+        "http://digital.cjh.org/3641583",
+        "http://digital.cjh.org/3642085",
+        "http://digital.cjh.org/3660820",
+        "http://digital.cjh.org/3670827",
+        "http://digital.cjh.org/3671905",
+        "http://digital.cjh.org/3679202",
+        "http://digital.cjh.org/3687681",
+        "http://digital.cjh.org/3692534",
+        "http://digital.cjh.org/3692613",
+        "http://digital.cjh.org/3712308",
+        "http://digital.cjh.org/3773234",
+        "http://digital.cjh.org/3774154",
+        "http://digital.cjh.org/3804801",
+        "http://digital.cjh.org/3817430",
+        "http://digital.cjh.org/3817903",
+        "http://digital.cjh.org/3817950",
+        "http://digital.cjh.org/3826670",
+        "http://digital.cjh.org/3827868",
+        "http://digital.cjh.org/3849100",
+        "http://digital.cjh.org/3851939",
+        "http://digital.cjh.org/3856652",
+        "http://digital.cjh.org/3862168",
+        "http://digital.cjh.org/3863463",
+        "http://digital.cjh.org/3864948",
+        "http://digital.cjh.org/3880337",
+        "http://digital.cjh.org/3887940",
+        "http://digital.cjh.org/4142098",
+        "http://digital.cjh.org/4188751",
+        "http://digital.cjh.org/4232549",
+        "http://digital.cjh.org/4271955",
+        "http://digital.cjh.org/4278088",
+        "http://digital.cjh.org/4280672",
+        "http://digital.cjh.org/4283206",
+        "http://digital.cjh.org/4284127",
+        "http://digital.cjh.org/4306095",
+        "http://digital.cjh.org/4342178",
+        "http://digital.cjh.org/4349041",
+        "http://digital.cjh.org/4356850",
+        "http://digital.cjh.org/4374826",
+        "http://digital.cjh.org/4566404",
+        "http://digital.cjh.org/5657712",
+        "http://digital.cjh.org/6244724" ;
+    owl:sameAs "" ;
+    skos:altLabel "" ;
+    skos:prefLabel "Germany" .
+
+<https://data.jhn.ngo/spatial/LBI_books/1007> a edm:Place ;
+    edm:identifier "http://digital.cjh.org/1182226",
+        "http://digital.cjh.org/3547665",
+        "http://digital.cjh.org/526334" ;
+    owl:sameAs "http://d-nb.info/gnd/1085176266",
+        "http://d-nb.info/gnd/37172-5",
+        "http://sws.geonames.org/2935022",
+        "http://viaf.org/viaf/129163001" ;
+    skos:altLabel "Desde",
+        "Drážd'any",
+        "Dresda",
+        "Dresde",
+        "Dressden",
+        "Drezden",
+        "Drezdzany",
+        "Drezno",
+        "Dreßden",
+        "Friedrichstadt",
+        "Haupt- und Residenzstadt Dresden",
+        "Königliche Haupt- und Residenzstadt Dresden",
+        "Landeshauptstadt Dresden",
+        "Rat der Stadt Dresden",
+        "Stadt Dresden",
+        "Stadtverwaltung Dresden",
+        "State Capital Dresden" ;
+    skos:prefLabel "Dresden" .
+
+<https://data.jhn.ngo/spatial/LBI_books/1008> a edm:Place ;
+    edm:identifier "http://digital.cjh.org/1182713",
+        "http://digital.cjh.org/1358075",
+        "http://digital.cjh.org/1451485",
+        "http://digital.cjh.org/2199421",
+        "http://digital.cjh.org/2200235",
+        "http://digital.cjh.org/2222089",
+        "http://digital.cjh.org/2222722",
+        "http://digital.cjh.org/2222937",
+        "http://digital.cjh.org/2282300",
+        "http://digital.cjh.org/2282514",
+        "http://digital.cjh.org/2335581",
+        "http://digital.cjh.org/2372406",
+        "http://digital.cjh.org/3255825",
+        "http://digital.cjh.org/3292981",
+        "http://digital.cjh.org/3297930",
+        "http://digital.cjh.org/3306019",
+        "http://digital.cjh.org/3321644",
+        "http://digital.cjh.org/3343663",
+        "http://digital.cjh.org/3504859",
+        "http://digital.cjh.org/3542565",
+        "http://digital.cjh.org/3546709",
+        "http://digital.cjh.org/3559077",
+        "http://digital.cjh.org/3567397",
+        "http://digital.cjh.org/3570657",
+        "http://digital.cjh.org/3590747",
+        "http://digital.cjh.org/3607950",
+        "http://digital.cjh.org/3624614",
+        "http://digital.cjh.org/3672814",
+        "http://digital.cjh.org/3827586",
+        "http://digital.cjh.org/3828326",
+        "http://digital.cjh.org/3849032",
+        "http://digital.cjh.org/3849179",
+        "http://digital.cjh.org/3849226",
+        "http://digital.cjh.org/3849425",
+        "http://digital.cjh.org/3856272",
+        "http://digital.cjh.org/3879802",
+        "http://digital.cjh.org/3880944",
+        "http://digital.cjh.org/4167233",
+        "http://digital.cjh.org/4177009",
+        "http://digital.cjh.org/4281815",
+        "http://digital.cjh.org/4299640" ;
+    owl:sameAs "http://d-nb.info/gnd/2005949-8",
+        "http://d-nb.info/gnd/2026658-3",
+        "http://sws.geonames.org/3081368",
+        "http://viaf.org/viaf/145367499" ;
+    skos:altLabel "Brassel",
+        "Bresla",
+        "Bresslau",
+        "Breßlau",
+        "Breßlaw",
+        "Smirna",
+        "Vratislauiae",
+        "Vratislav",
+        "Vratislavia",
+        "Vroclav",
+        "Wratislava",
+        "Wratislavia",
+        "Wrocław",
+        "Wrotizla" ;
+    skos:prefLabel "Breslau" .
+
+<https://data.jhn.ngo/spatial/LBI_books/1012> a edm:Place ;
+    edm:identifier "http://digital.cjh.org/1184115",
+        "http://digital.cjh.org/124579",
+        "http://digital.cjh.org/125079",
+        "http://digital.cjh.org/129559",
+        "http://digital.cjh.org/1345863",
+        "http://digital.cjh.org/1345867",
+        "http://digital.cjh.org/1345871",
+        "http://digital.cjh.org/1345875",
+        "http://digital.cjh.org/1345887",
+        "http://digital.cjh.org/1345891",
+        "http://digital.cjh.org/1345895",
+        "http://digital.cjh.org/1345907",
+        "http://digital.cjh.org/1345911",
+        "http://digital.cjh.org/1345920",
+        "http://digital.cjh.org/1357377",
+        "http://digital.cjh.org/1364830",
+        "http://digital.cjh.org/1364992",
+        "http://digital.cjh.org/1366082",
+        "http://digital.cjh.org/1367004",
+        "http://digital.cjh.org/147987",
+        "http://digital.cjh.org/148073",
+        "http://digital.cjh.org/4180027",
+        "http://digital.cjh.org/4192793",
+        "http://digital.cjh.org/49532" ;
+    owl:sameAs "http://d-nb.info/gnd/2004272-3",
+        "http://d-nb.info/gnd/7761961-4",
+        "http://sws.geonames.org/2950157",
+        "http://viaf.org/viaf/122530980" ;
+    skos:altLabel "\"Besonderes Gebiet\" Berlin",
+        "Barlīn",
+        "Berlin (1945-1948)",
+        "Berlino",
+        "Berlinum",
+        "Berolino",
+        "Berolinon",
+        "Berolinum",
+        "Birlīn",
+        "Colonia Brandenburgica",
+        "Colonia Marchica",
+        "Coloniae Brandenburgicae",
+        "Cölln an der Spree",
+        "Cöln an der Spree",
+        "Gross-Berlin",
+        "Groß-Berlin",
+        "Großberlin",
+        "Haupt- und Residenz-Stadt Berlin",
+        "Hauptstadt Berlin",
+        "Land Berlin",
+        "Reichshauptstadt Berlin",
+        "Stadtgemeinde Berlin",
+        "Verolino" ;
+    skos:prefLabel "Berlin" .
+
+<https://data.jhn.ngo/spatial/LBI_books/1016> a edm:Place ;
+    edm:identifier "http://digital.cjh.org/1287383",
+        "http://digital.cjh.org/1345620",
+        "http://digital.cjh.org/1345916",
+        "http://digital.cjh.org/1375485",
+        "http://digital.cjh.org/2297573",
+        "http://digital.cjh.org/3206452",
+        "http://digital.cjh.org/3211123",
+        "http://digital.cjh.org/3219106",
+        "http://digital.cjh.org/3220388",
+        "http://digital.cjh.org/3220666",
+        "http://digital.cjh.org/3306019",
+        "http://digital.cjh.org/3578121",
+        "http://digital.cjh.org/3600494",
+        "http://digital.cjh.org/3607511",
+        "http://digital.cjh.org/3619496",
+        "http://digital.cjh.org/3773136",
+        "http://digital.cjh.org/4010653",
+        "http://digital.cjh.org/4012421",
+        "http://digital.cjh.org/4098594",
+        "http://digital.cjh.org/4151976",
+        "http://digital.cjh.org/4176507",
+        "http://digital.cjh.org/4177359",
+        "http://digital.cjh.org/4177432",
+        "http://digital.cjh.org/4180074",
+        "http://digital.cjh.org/4184835",
+        "http://digital.cjh.org/4197581",
+        "http://digital.cjh.org/4233499",
+        "http://digital.cjh.org/4300216",
+        "http://digital.cjh.org/4306095" ;
+    owl:sameAs "" ;
+    skos:altLabel "" ;
+    skos:prefLabel "Germany" .
+
+<https://data.jhn.ngo/spatial/LBI_books/1018> a edm:Place ;
+    edm:identifier "http://digital.cjh.org/129145",
+        "http://digital.cjh.org/2168439",
+        "http://digital.cjh.org/2221898",
+        "http://digital.cjh.org/2241932",
+        "http://digital.cjh.org/2243516",
+        "http://digital.cjh.org/2263461",
+        "http://digital.cjh.org/2284519",
+        "http://digital.cjh.org/2297310",
+        "http://digital.cjh.org/2309725",
+        "http://digital.cjh.org/2314303",
+        "http://digital.cjh.org/2314925",
+        "http://digital.cjh.org/2329704",
+        "http://digital.cjh.org/2331990",
+        "http://digital.cjh.org/2338252",
+        "http://digital.cjh.org/2341880",
+        "http://digital.cjh.org/2346780",
+        "http://digital.cjh.org/2347750",
+        "http://digital.cjh.org/2360230",
+        "http://digital.cjh.org/2413803",
+        "http://digital.cjh.org/249661",
+        "http://digital.cjh.org/3268316",
+        "http://digital.cjh.org/3284143",
+        "http://digital.cjh.org/3312654",
+        "http://digital.cjh.org/3518799",
+        "http://digital.cjh.org/3519483",
+        "http://digital.cjh.org/3521116",
+        "http://digital.cjh.org/3545736",
+        "http://digital.cjh.org/3547053",
+        "http://digital.cjh.org/3547497",
+        "http://digital.cjh.org/3548479",
+        "http://digital.cjh.org/3563296",
+        "http://digital.cjh.org/3563738",
+        "http://digital.cjh.org/3566562",
+        "http://digital.cjh.org/3569989",
+        "http://digital.cjh.org/3579443",
+        "http://digital.cjh.org/3580003",
+        "http://digital.cjh.org/3598931",
+        "http://digital.cjh.org/3600171",
+        "http://digital.cjh.org/3638981",
+        "http://digital.cjh.org/3641223",
+        "http://digital.cjh.org/3712245",
+        "http://digital.cjh.org/3818076",
+        "http://digital.cjh.org/3827824",
+        "http://digital.cjh.org/3848196",
+        "http://digital.cjh.org/3852090",
+        "http://digital.cjh.org/3881186",
+        "http://digital.cjh.org/3883931",
+        "http://digital.cjh.org/4034952",
+        "http://digital.cjh.org/4185221",
+        "http://digital.cjh.org/4189057",
+        "http://digital.cjh.org/4196457",
+        "http://digital.cjh.org/4198169",
+        "http://digital.cjh.org/4216955",
+        "http://digital.cjh.org/4232604",
+        "http://digital.cjh.org/4235787",
+        "http://digital.cjh.org/4272393",
+        "http://digital.cjh.org/4277021",
+        "http://digital.cjh.org/4281468",
+        "http://digital.cjh.org/4289805",
+        "http://digital.cjh.org/4295191",
+        "http://digital.cjh.org/4341124",
+        "http://digital.cjh.org/513564",
+        "http://digital.cjh.org/516559",
+        "http://digital.cjh.org/6524704" ;
+    owl:sameAs "http://d-nb.info/gnd/1012345-3",
+        "http://sws.geonames.org/2761367",
+        "http://viaf.org/viaf/137212727" ;
+    skos:altLabel "Beč",
+        "Bécs",
+        "Biennē",
+        "Bundeshauptstadt Wien",
+        "Bundesland Wien",
+        "Bundesunmittelbare Stadt Wien",
+        "Dunaj",
+        "Gemeinde Wien",
+        "K.K. Reichshaupt- und Residenzstadt Wien",
+        "Kaiserlich-Königliche Reichshaupt- und Residenzstadt Wien",
+        "Land Wien",
+        "Reichsgau Wien",
+        "Reichshaupt- und Residenzstadt Wien",
+        "Stadt Wien",
+        "Vena",
+        "Viedeň",
+        "Viena",
+        "Vienna",
+        "Vienna (Austriae)",
+        "Vienna Fluviorum",
+        "Vienna Pannoniae",
+        "Vienne",
+        "Vienne (Österreich)",
+        "Viennē",
+        "Vin",
+        "Vindobona",
+        "Vindobona (Wien)",
+        "Vinna",
+        "Vídeň",
+        "Vjenë",
+        "Wenia",
+        "Wiedeń (Wien)",
+        "Wienn",
+        "Wienna",
+        "Wīn" ;
+    skos:prefLabel "Wien" .
+
+<https://data.jhn.ngo/spatial/LBI_books/1019> a edm:Place ;
+    edm:identifier "http://digital.cjh.org/129473",
+        "http://digital.cjh.org/1345899",
+        "http://digital.cjh.org/1345916",
+        "http://digital.cjh.org/4243717" ;
+    owl:sameAs "http://d-nb.info/gnd/16279298-0",
+        "http://d-nb.info/gnd/16282472-5",
+        "http://d-nb.info/gnd/2029042-1",
+        "http://sws.geonames.org/2879139",
+        "http://viaf.org/viaf/166540853" ;
+    skos:altLabel "Gross-Leipzig",
+        "Groß-Leipzig",
+        "Leipsia",
+        "Leipsic",
+        "Leipsig",
+        "Leiptzk",
+        "Leipzic",
+        "Lejpcig",
+        "Lejpzjg",
+        "Leyptzick",
+        "Leyptzigk",
+        "Lipsia",
+        "Lipsk",
+        "Liptzk",
+        "Lipzi",
+        "Messestadt Leipzig",
+        "Oberbürgermeister der Stadt Leipzig",
+        "Reichsmessestadt Leipzig",
+        "Stadt Leipzig",
+        "Urbs Lipzi" ;
+    skos:prefLabel "Leipzig" .
+
+<https://data.jhn.ngo/spatial/LBI_books/1022> a edm:Place ;
+    edm:identifier "http://digital.cjh.org/1341819",
+        "http://digital.cjh.org/4243717" ;
+    owl:sameAs "http://d-nb.info/gnd/1085174514",
+        "http://d-nb.info/gnd/35434-X",
+        "http://sws.geonames.org/298795",
+        "http://viaf.org/viaf/244983681" ;
+    skos:altLabel "Republic of Turkey",
+        "Republik Türkei",
+        "République Turque",
+        "T'owrk'ia",
+        "Turkey",
+        "Turkish Republic",
+        "Turquie",
+        "Türkiye",
+        "Türkiye Cumhuriyeti" ;
+    skos:prefLabel "Turkey" .
+
+<https://data.jhn.ngo/spatial/LBI_books/1024> a edm:Place ;
+    edm:identifier "http://digital.cjh.org/1341819",
+        "http://digital.cjh.org/1341828",
+        "http://digital.cjh.org/1341833",
+        "http://digital.cjh.org/1341837",
+        "http://digital.cjh.org/1341849",
+        "http://digital.cjh.org/1341853",
+        "http://digital.cjh.org/1341857",
+        "http://digital.cjh.org/1341865",
+        "http://digital.cjh.org/1341869",
+        "http://digital.cjh.org/1341878",
+        "http://digital.cjh.org/1341882",
+        "http://digital.cjh.org/1341890",
+        "http://digital.cjh.org/1341894",
+        "http://digital.cjh.org/1341898",
+        "http://digital.cjh.org/1341911",
+        "http://digital.cjh.org/1341915",
+        "http://digital.cjh.org/1341919",
+        "http://digital.cjh.org/1341923",
+        "http://digital.cjh.org/1341931",
+        "http://digital.cjh.org/1341935",
+        "http://digital.cjh.org/1341939",
+        "http://digital.cjh.org/1342571",
+        "http://digital.cjh.org/1342575",
+        "http://digital.cjh.org/1342579",
+        "http://digital.cjh.org/1342583",
+        "http://digital.cjh.org/1342599",
+        "http://digital.cjh.org/1342611",
+        "http://digital.cjh.org/1342615",
+        "http://digital.cjh.org/1342631",
+        "http://digital.cjh.org/1342651",
+        "http://digital.cjh.org/1342655",
+        "http://digital.cjh.org/1342659",
+        "http://digital.cjh.org/1342746",
+        "http://digital.cjh.org/1342750",
+        "http://digital.cjh.org/1342758",
+        "http://digital.cjh.org/1342766",
+        "http://digital.cjh.org/1342770",
+        "http://digital.cjh.org/1342786",
+        "http://digital.cjh.org/1342790",
+        "http://digital.cjh.org/1342794",
+        "http://digital.cjh.org/1342798",
+        "http://digital.cjh.org/1342802",
+        "http://digital.cjh.org/1342806",
+        "http://digital.cjh.org/1342818",
+        "http://digital.cjh.org/1342822",
+        "http://digital.cjh.org/1342838",
+        "http://digital.cjh.org/1342842",
+        "http://digital.cjh.org/1342845",
+        "http://digital.cjh.org/1342849",
+        "http://digital.cjh.org/1342942",
+        "http://digital.cjh.org/1342946",
+        "http://digital.cjh.org/1342952",
+        "http://digital.cjh.org/1342956",
+        "http://digital.cjh.org/1342960",
+        "http://digital.cjh.org/1342964",
+        "http://digital.cjh.org/1342968",
+        "http://digital.cjh.org/1342972",
+        "http://digital.cjh.org/1342976",
+        "http://digital.cjh.org/1342980",
+        "http://digital.cjh.org/1342984",
+        "http://digital.cjh.org/1342988",
+        "http://digital.cjh.org/1343000",
+        "http://digital.cjh.org/1343004",
+        "http://digital.cjh.org/1343008",
+        "http://digital.cjh.org/1343016",
+        "http://digital.cjh.org/1343020",
+        "http://digital.cjh.org/1343024",
+        "http://digital.cjh.org/1343028",
+        "http://digital.cjh.org/1343034",
+        "http://digital.cjh.org/1343037",
+        "http://digital.cjh.org/1343041",
+        "http://digital.cjh.org/1343301",
+        "http://digital.cjh.org/1343305",
+        "http://digital.cjh.org/1343313",
+        "http://digital.cjh.org/1343317",
+        "http://digital.cjh.org/1343325",
+        "http://digital.cjh.org/1343330",
+        "http://digital.cjh.org/1343334",
+        "http://digital.cjh.org/1343338",
+        "http://digital.cjh.org/1343350",
+        "http://digital.cjh.org/1343358",
+        "http://digital.cjh.org/1343362",
+        "http://digital.cjh.org/1343366",
+        "http://digital.cjh.org/1343374",
+        "http://digital.cjh.org/1343378",
+        "http://digital.cjh.org/1343382",
+        "http://digital.cjh.org/1343386",
+        "http://digital.cjh.org/1343456",
+        "http://digital.cjh.org/1343459",
+        "http://digital.cjh.org/1343462",
+        "http://digital.cjh.org/1343473",
+        "http://digital.cjh.org/1343477",
+        "http://digital.cjh.org/1343481",
+        "http://digital.cjh.org/1343488",
+        "http://digital.cjh.org/1343492",
+        "http://digital.cjh.org/1343498",
+        "http://digital.cjh.org/1343502",
+        "http://digital.cjh.org/1343506",
+        "http://digital.cjh.org/1343514",
+        "http://digital.cjh.org/1343522",
+        "http://digital.cjh.org/1343526",
+        "http://digital.cjh.org/1343538",
+        "http://digital.cjh.org/1343604",
+        "http://digital.cjh.org/1343620",
+        "http://digital.cjh.org/1343628",
+        "http://digital.cjh.org/1343632",
+        "http://digital.cjh.org/1343636",
+        "http://digital.cjh.org/1343644",
+        "http://digital.cjh.org/1343653",
+        "http://digital.cjh.org/1343657",
+        "http://digital.cjh.org/1343661",
+        "http://digital.cjh.org/1343669",
+        "http://digital.cjh.org/1343681",
+        "http://digital.cjh.org/1343685",
+        "http://digital.cjh.org/1343697",
+        "http://digital.cjh.org/1343701",
+        "http://digital.cjh.org/1343709",
+        "http://digital.cjh.org/1343713",
+        "http://digital.cjh.org/1343717",
+        "http://digital.cjh.org/1345590",
+        "http://digital.cjh.org/1345598",
+        "http://digital.cjh.org/1345602",
+        "http://digital.cjh.org/1345606",
+        "http://digital.cjh.org/1345610",
+        "http://digital.cjh.org/1345614",
+        "http://digital.cjh.org/1345620",
+        "http://digital.cjh.org/1345632",
+        "http://digital.cjh.org/1345640",
+        "http://digital.cjh.org/1345644",
+        "http://digital.cjh.org/1345648",
+        "http://digital.cjh.org/1345656",
+        "http://digital.cjh.org/1345660",
+        "http://digital.cjh.org/1345668",
+        "http://digital.cjh.org/1345672",
+        "http://digital.cjh.org/1345676",
+        "http://digital.cjh.org/1345694",
+        "http://digital.cjh.org/1345698",
+        "http://digital.cjh.org/1345702",
+        "http://digital.cjh.org/1345798",
+        "http://digital.cjh.org/1345802",
+        "http://digital.cjh.org/1345806",
+        "http://digital.cjh.org/1345810",
+        "http://digital.cjh.org/1345814",
+        "http://digital.cjh.org/1345818",
+        "http://digital.cjh.org/1345822",
+        "http://digital.cjh.org/1345826",
+        "http://digital.cjh.org/1345830",
+        "http://digital.cjh.org/1345835",
+        "http://digital.cjh.org/1345843",
+        "http://digital.cjh.org/1345847",
+        "http://digital.cjh.org/1345851",
+        "http://digital.cjh.org/1345855",
+        "http://digital.cjh.org/1345859",
+        "http://digital.cjh.org/1354304",
+        "http://digital.cjh.org/5127656" ;
+    owl:sameAs "" ;
+    skos:altLabel "" ;
+    skos:prefLabel "NewYork" .
+
+<https://data.jhn.ngo/spatial/LBI_books/1028> a edm:Place ;
+    edm:identifier "http://digital.cjh.org/1341849",
+        "http://digital.cjh.org/1342968",
+        "http://digital.cjh.org/1343481",
+        "http://digital.cjh.org/1343681",
+        "http://digital.cjh.org/1345606",
+        "http://digital.cjh.org/1345614",
+        "http://digital.cjh.org/1345668",
+        "http://digital.cjh.org/1345891",
+        "http://digital.cjh.org/2298628",
+        "http://digital.cjh.org/2380676",
+        "http://digital.cjh.org/3565192",
+        "http://digital.cjh.org/3570923",
+        "http://digital.cjh.org/5657712",
+        "http://digital.cjh.org/6244724" ;
+    owl:sameAs "" ;
+    skos:altLabel "" ;
+    skos:prefLabel "UnitedStates" .
+
+<https://data.jhn.ngo/spatial/LBI_books/1039> a edm:Place ;
+    edm:identifier "http://digital.cjh.org/1342623" ;
+    owl:sameAs "http://d-nb.info/gnd/1029313-9",
+        "http://sws.geonames.org/6167865",
+        "http://viaf.org/viaf/105856875" ;
+    skos:altLabel "Metropolitan Toronto" ;
+    skos:prefLabel "Toronto" .
+
+<https://data.jhn.ngo/spatial/LBI_books/1043> a edm:Place ;
+    edm:identifier "http://digital.cjh.org/1342762" ;
+    owl:sameAs "http://d-nb.info/gnd/1028326-2",
+        "http://d-nb.info/gnd/5210124-1",
+        "http://d-nb.info/gnd/5210156-3",
+        "http://sws.geonames.org/281184",
+        "http://viaf.org/viaf/131280745" ;
+    skos:altLabel "Aelia Capitolina",
+        "Al- Quds As-̌Sǎrif̄",
+        "Bait al-Maqdis",
+        "Bayt al-Maqdis",
+        "El-Ḳuds",
+        "Elkuds",
+        "Erowsaġêm",
+        "Gerusalemme",
+        "Hierosolyma",
+        "Ierusalim",
+        "Jerusalén",
+        "Jeruschalajim",
+        "Jeruzalem (Jerusalem)",
+        "Jerūšālajīm",
+        "Kudüs",
+        "Qudüs",
+        "Ūrušalīm",
+        "Yerushalayim",
+        "Yerušalayim",
+        "Yerûšālayim",
+        "al- Jerūšālajīm",
+        "al- Quds",
+        "al-Quds",
+        "el- Kudüs",
+        "القدس",
+        "بيت المقدس" ;
+    skos:prefLabel "Jerusalem" .
+
+<https://data.jhn.ngo/spatial/LBI_books/1052> a edm:Place ;
+    edm:identifier "http://digital.cjh.org/1343028",
+        "http://digital.cjh.org/3563682",
+        "http://digital.cjh.org/4034952" ;
+    owl:sameAs "http://d-nb.info/gnd/1085176274",
+        "http://d-nb.info/gnd/16140245-8",
+        "http://d-nb.info/gnd/2016493-2",
+        "http://sws.geonames.org/3175395",
+        "http://viaf.org/viaf/152361066" ;
+    skos:altLabel "Italia",
+        "Italienische Republik",
+        "Italijos Respublika",
+        "Italiya Respublikasi",
+        "Italy",
+        "Königreich Italien",
+        "Olasz Koz͏̈taŕsasaǵ",
+        "Olaszorszaǵ",
+        "Regno d'Italia (1861-)",
+        "Repubblica Italiana",
+        "République Italienne",
+        "Yidali-gongheguo" ;
+    skos:prefLabel "Italy" .
+
+<https://data.jhn.ngo/spatial/LBI_books/1057> a edm:Place ;
+    edm:identifier "http://digital.cjh.org/1343362",
+        "http://digital.cjh.org/2287964",
+        "http://digital.cjh.org/4353590" ;
+    owl:sameAs "http://d-nb.info/gnd/15138-5",
+        "http://sws.geonames.org/6269131",
+        "http://viaf.org/viaf/142995804" ;
+    skos:altLabel "Angleterre",
+        "Engeland",
+        "Inghilterra",
+        "Inglaterra",
+        "Kingdom of England" ;
+    skos:prefLabel "England" .
+
+<https://data.jhn.ngo/spatial/LBI_books/1061> a edm:Place ;
+    edm:identifier "http://digital.cjh.org/1343518" ;
+    owl:sameAs "http://d-nb.info/gnd/37444-1",
+        "http://sws.geonames.org/1861060",
+        "http://viaf.org/viaf/159367111" ;
+    skos:altLabel "Dainihon",
+        "Dainippon",
+        "Empire du Japon",
+        "Japan (Nihon)",
+        "Japão",
+        "Japon",
+        "Nihon",
+        "Nihon (Staat)",
+        "Nihon-koku",
+        "Nippon",
+        "Nippon (Staat)",
+        "Yapan",
+        "Zen-Nihon",
+        "Zenkoku" ;
+    skos:prefLabel "Japan" .
+
+<https://data.jhn.ngo/spatial/LBI_books/1065> a edm:Place ;
+    edm:identifier "http://digital.cjh.org/1343632",
+        "http://digital.cjh.org/1345863" ;
+    owl:sameAs "http://d-nb.info/gnd/2006950-9",
+        "http://sws.geonames.org/1814991",
+        "http://viaf.org/viaf/312762965" ;
+    skos:altLabel "China (Diguo)",
+        "China (People's Republic)",
+        "China (Renmin-Gongheguo)",
+        "China (Republic : 1912-1949)",
+        "China (Volksrepublik)",
+        "Chine",
+        "Chinese People's Republic",
+        "Chinese People’s Republic",
+        "Chung-hua min kuo (1912-1949)",
+        "Chung-hua-jen-min-kung-ho-kuo",
+        "Chung-hua-min-kuo (1911-1949)",
+        "Chung-kuo",
+        "Chung-kuo (Renmin-Gongheguo)",
+        "Chung-kuo kuo min cheng fu",
+        "KNR (Kytajsʹkaja Narodnaja Respublika)",
+        "Kaiserreich China",
+        "Kaiserreich Zhongguo",
+        "Kytajsʹkaja Narodnaja Respublika",
+        "PRC (People's Republic of China)",
+        "People's Republic of China",
+        "Republic of China (1912-1949)",
+        "République populaire de Chine",
+        "Rotchina",
+        "Shinkoku",
+        "VR China",
+        "Volksrepublik China",
+        "Zhong guo",
+        "Zhongguo",
+        "Zhongguo (Diguo)",
+        "Zhongguo (Renmin-Gongheguo)",
+        "Zhongguo (Volksrepublik)",
+        "Zhongguo (renmin gongheguo)",
+        "Zhongguo-Diguo",
+        "Zhonghua (Renmin-Gongheguo)",
+        "Zhonghua renmin gongheguo",
+        "Zhonghua-Renmin-Gongheguo",
+        "Zhonghua-minguo (1911-1949)",
+        "中华人民共和国" ;
+    skos:prefLabel "China" .
+
+<https://data.jhn.ngo/spatial/LBI_books/1068> a edm:Place ;
+    edm:identifier "http://digital.cjh.org/1343697",
+        "http://digital.cjh.org/1343701" ;
+    owl:sameAs "http://d-nb.info/gnd/35478-8",
+        "http://sws.geonames.org/2077456",
+        "http://viaf.org/viaf/246500905" ;
+    skos:altLabel "Australia",
+        "Australie",
+        "Australien",
+        "Australischer Bund",
+        "Commonwealth of Australia",
+        "Neuholland" ;
+    skos:prefLabel "Australia" .
+
+<https://data.jhn.ngo/spatial/LBI_books/1074> a edm:Place ;
+    edm:identifier "http://digital.cjh.org/1345668" ;
+    owl:sameAs "http://viaf.org/viaf/127043766" ;
+    skos:altLabel "Africa Proconsularis",
+        "Afrika (Römische Provinz)",
+        "Afrika / Römische Provinz" ;
+    skos:prefLabel "Africa" .
+
+<https://data.jhn.ngo/spatial/LBI_books/1075> a edm:Place ;
+    edm:identifier "http://digital.cjh.org/1345668",
+        "http://digital.cjh.org/2338252",
+        "http://digital.cjh.org/2344368",
+        "http://digital.cjh.org/2345695",
+        "http://digital.cjh.org/2346780",
+        "http://digital.cjh.org/2346980",
+        "http://digital.cjh.org/2347535",
+        "http://digital.cjh.org/2356355",
+        "http://digital.cjh.org/2356714",
+        "http://digital.cjh.org/2356803",
+        "http://digital.cjh.org/2356916",
+        "http://digital.cjh.org/2357089",
+        "http://digital.cjh.org/2357637",
+        "http://digital.cjh.org/2357864",
+        "http://digital.cjh.org/2359344",
+        "http://digital.cjh.org/2359733",
+        "http://digital.cjh.org/2380676",
+        "http://digital.cjh.org/2407616",
+        "http://digital.cjh.org/2407726",
+        "http://digital.cjh.org/2415057",
+        "http://digital.cjh.org/3827633",
+        "http://digital.cjh.org/3881186",
+        "http://digital.cjh.org/4038355",
+        "http://digital.cjh.org/4216566",
+        "http://digital.cjh.org/4232604",
+        "http://digital.cjh.org/4280169",
+        "http://digital.cjh.org/4320956",
+        "http://digital.cjh.org/4335110",
+        "http://digital.cjh.org/4340084",
+        "http://digital.cjh.org/4341124",
+        "http://digital.cjh.org/4341264",
+        "http://digital.cjh.org/4341315",
+        "http://digital.cjh.org/4341502",
+        "http://digital.cjh.org/4341550",
+        "http://digital.cjh.org/4350821",
+        "http://digital.cjh.org/5657712" ;
+    owl:sameAs "" ;
+    skos:altLabel "" ;
+    skos:prefLabel "Palestine" .
+
+<https://data.jhn.ngo/spatial/LBI_books/1079> a edm:Place ;
+    edm:identifier "http://digital.cjh.org/1345806",
+        "http://digital.cjh.org/3543353" ;
+    owl:sameAs "http://d-nb.info/gnd/36407-1",
+        "http://sws.geonames.org/2510769",
+        "http://viaf.org/viaf/133609710" ;
+    skos:altLabel "Espagne",
+        "Espanja",
+        "España",
+        "Estado Español",
+        "Hispania",
+        "Isbāniyā",
+        "Spain" ;
+    skos:prefLabel "Spain" .
+
+<https://data.jhn.ngo/spatial/LBI_books/1082> a edm:Place ;
+    edm:identifier "http://digital.cjh.org/1345891",
+        "http://digital.cjh.org/2268448",
+        "http://digital.cjh.org/3565192",
+        "http://digital.cjh.org/3848672",
+        "http://digital.cjh.org/3864021",
+        "http://digital.cjh.org/3864068",
+        "http://digital.cjh.org/4026539" ;
+    owl:sameAs "http://d-nb.info/gnd/1085174751",
+        "http://d-nb.info/gnd/2019800-0",
+        "http://sws.geonames.org/2017370",
+        "http://viaf.org/viaf/140306806" ;
+    skos:altLabel "Empire de Russie",
+        "Federacja Rosyjska",
+        "Federazione Russa",
+        "Großrussland",
+        "Großrußland",
+        "Krievija",
+        "RF (Rossija)",
+        "Rosja",
+        "Rossija",
+        "Rossijskaja Federacija",
+        "Rossijskaja Imperija",
+        "Russia",
+        "Russia (-1917; 1992-)",
+        "Russian Federation",
+        "Russie",
+        "Russische Föderation",
+        "Russland (-1917 ; 1992-)",
+        "Rußland",
+        "РФ",
+        "Российская Империя",
+        "Российская Федерация" ;
+    skos:prefLabel "Russia" .
+
+<https://data.jhn.ngo/spatial/LBI_books/1083> a edm:Place ;
+    edm:identifier "http://digital.cjh.org/1345903" ;
+    owl:sameAs "http://d-nb.info/gnd/2017863-3",
+        "http://sws.geonames.org/2852458",
+        "http://viaf.org/viaf/158630486" ;
+    skos:altLabel "Bostampium",
+        "Bostanium",
+        "Landeshauptstadt Potsdam",
+        "Postampium",
+        "Potestampium",
+        "Potsdam-Sanssouci",
+        "Potsdamm",
+        "Potsdamum",
+        "Potzdam",
+        "Pozdam",
+        "Poztupimi",
+        "Residenzstadt Potsdam",
+        "Stadtgemeinde Potsdam" ;
+    skos:prefLabel "Potsdam" .
+
+<https://data.jhn.ngo/spatial/LBI_books/1085> a edm:Place ;
+    edm:identifier "http://digital.cjh.org/1357372",
+        "http://digital.cjh.org/2239504",
+        "http://digital.cjh.org/2269113",
+        "http://digital.cjh.org/2282836",
+        "http://digital.cjh.org/2317284",
+        "http://digital.cjh.org/2329244",
+        "http://digital.cjh.org/2331608",
+        "http://digital.cjh.org/2332653",
+        "http://digital.cjh.org/2337852",
+        "http://digital.cjh.org/2354937",
+        "http://digital.cjh.org/2356218",
+        "http://digital.cjh.org/2357864",
+        "http://digital.cjh.org/2359733",
+        "http://digital.cjh.org/2362228",
+        "http://digital.cjh.org/2362706",
+        "http://digital.cjh.org/2372609",
+        "http://digital.cjh.org/3255910",
+        "http://digital.cjh.org/3269515",
+        "http://digital.cjh.org/3278909",
+        "http://digital.cjh.org/3283010",
+        "http://digital.cjh.org/3288623",
+        "http://digital.cjh.org/3289813",
+        "http://digital.cjh.org/3293387",
+        "http://digital.cjh.org/3293679",
+        "http://digital.cjh.org/3298420",
+        "http://digital.cjh.org/3320240",
+        "http://digital.cjh.org/3323169",
+        "http://digital.cjh.org/3360140",
+        "http://digital.cjh.org/3362638",
+        "http://digital.cjh.org/3367162",
+        "http://digital.cjh.org/3541325",
+        "http://digital.cjh.org/3548706",
+        "http://digital.cjh.org/3562656",
+        "http://digital.cjh.org/3568493",
+        "http://digital.cjh.org/3596765",
+        "http://digital.cjh.org/3596888",
+        "http://digital.cjh.org/3598476",
+        "http://digital.cjh.org/3598610",
+        "http://digital.cjh.org/3599098",
+        "http://digital.cjh.org/3612743",
+        "http://digital.cjh.org/3619078",
+        "http://digital.cjh.org/3679202",
+        "http://digital.cjh.org/3686895",
+        "http://digital.cjh.org/3774952",
+        "http://digital.cjh.org/3817989",
+        "http://digital.cjh.org/3880178",
+        "http://digital.cjh.org/3882192",
+        "http://digital.cjh.org/3883896",
+        "http://digital.cjh.org/4047701",
+        "http://digital.cjh.org/4098594",
+        "http://digital.cjh.org/4217856",
+        "http://digital.cjh.org/4271618",
+        "http://digital.cjh.org/4281132",
+        "http://digital.cjh.org/4297336",
+        "http://digital.cjh.org/4335110",
+        "http://digital.cjh.org/4374169" ;
+    owl:sameAs "" ;
+    skos:altLabel "" ;
+    skos:prefLabel "FrankfurtamMain" .
+
+<https://data.jhn.ngo/spatial/LBI_books/1087> a edm:Place ;
+    edm:identifier "http://digital.cjh.org/1358082" ;
+    owl:sameAs "http://d-nb.info/gnd/16279298-0",
+        "http://d-nb.info/gnd/16282472-5",
+        "http://d-nb.info/gnd/2029042-1",
+        "http://sws.geonames.org/2879139",
+        "http://viaf.org/viaf/166540853" ;
+    skos:altLabel "Gross-Leipzig",
+        "Groß-Leipzig",
+        "Leipsia",
+        "Leipsic",
+        "Leipsig",
+        "Leiptzk",
+        "Leipzic",
+        "Lejpcig",
+        "Lejpzjg",
+        "Leyptzick",
+        "Leyptzigk",
+        "Lipsia",
+        "Lipsk",
+        "Liptzk",
+        "Lipzi",
+        "Messestadt Leipzig",
+        "Oberbürgermeister der Stadt Leipzig",
+        "Reichsmessestadt Leipzig",
+        "Stadt Leipzig",
+        "Urbs Lipzi" ;
+    skos:prefLabel "Leipzig" .
+
+<https://data.jhn.ngo/spatial/LBI_books/1090> a edm:Place ;
+    edm:identifier "http://digital.cjh.org/1363084",
+        "http://digital.cjh.org/1370581",
+        "http://digital.cjh.org/1371682",
+        "http://digital.cjh.org/2311738" ;
+    owl:sameAs "http://d-nb.info/gnd/42808-5",
+        "http://sws.geonames.org/2945024",
+        "http://viaf.org/viaf/122699973" ;
+    skos:altLabel "Brunonia",
+        "Brunopolis",
+        "Brunsuigium",
+        "Brunsvicium",
+        "Brunsvick",
+        "Brunsvig",
+        "Brunsviga",
+        "Brunswick",
+        "Brunswiek",
+        "Brunswyck",
+        "Brunswygk",
+        "Brunszwik",
+        "Stadt Braunschweig" ;
+    skos:prefLabel "Braunschweig" .
+
+<https://data.jhn.ngo/spatial/LBI_books/1092> a edm:Place ;
+    edm:identifier "http://digital.cjh.org/1369066" ;
+    owl:sameAs "http://d-nb.info/gnd/42808-5",
+        "http://sws.geonames.org/2945024",
+        "http://viaf.org/viaf/122699973" ;
+    skos:altLabel "Brunonia",
+        "Brunopolis",
+        "Brunsuigium",
+        "Brunsvicium",
+        "Brunsvick",
+        "Brunsvig",
+        "Brunsviga",
+        "Brunswick",
+        "Brunswiek",
+        "Brunswyck",
+        "Brunswygk",
+        "Brunszwik",
+        "Stadt Braunschweig" ;
+    skos:prefLabel "Braunschweig" .
+
+<https://data.jhn.ngo/spatial/LBI_books/1093> a edm:Place ;
+    edm:identifier "http://digital.cjh.org/1370101",
+        "http://digital.cjh.org/147677",
+        "http://digital.cjh.org/147759",
+        "http://digital.cjh.org/147887",
+        "http://digital.cjh.org/219448",
+        "http://digital.cjh.org/225286",
+        "http://digital.cjh.org/236228",
+        "http://digital.cjh.org/4038355" ;
+    owl:sameAs "http://d-nb.info/gnd/1012345-3",
+        "http://sws.geonames.org/2761367",
+        "http://viaf.org/viaf/137212727" ;
+    skos:altLabel "Beč",
+        "Bécs",
+        "Biennē",
+        "Bundeshauptstadt Wien",
+        "Bundesland Wien",
+        "Bundesunmittelbare Stadt Wien",
+        "Dunaj",
+        "Gemeinde Wien",
+        "K.K. Reichshaupt- und Residenzstadt Wien",
+        "Kaiserlich-Königliche Reichshaupt- und Residenzstadt Wien",
+        "Land Wien",
+        "Reichsgau Wien",
+        "Reichshaupt- und Residenzstadt Wien",
+        "Stadt Wien",
+        "Vena",
+        "Viedeň",
+        "Viena",
+        "Vienna",
+        "Vienna (Austriae)",
+        "Vienna Fluviorum",
+        "Vienna Pannoniae",
+        "Vienne",
+        "Vienne (Österreich)",
+        "Viennē",
+        "Vin",
+        "Vindobona",
+        "Vindobona (Wien)",
+        "Vinna",
+        "Vídeň",
+        "Vjenë",
+        "Wenia",
+        "Wiedeń (Wien)",
+        "Wienn",
+        "Wienna",
+        "Wīn" ;
+    skos:prefLabel "Wien" .
+
+<https://data.jhn.ngo/spatial/LBI_books/1108> a edm:Place ;
+    edm:identifier "http://digital.cjh.org/1591662",
+        "http://digital.cjh.org/236268",
+        "http://digital.cjh.org/4232549" ;
+    owl:sameAs "http://d-nb.info/gnd/2018680-0",
+        "http://sws.geonames.org/2874225",
+        "http://viaf.org/viaf/123738720" ;
+    skos:altLabel "Bürgermeisterei Mainz",
+        "Großherzogliche Bürgermeisterei Mainz",
+        "Hessische Bürgermeisterei Mainz",
+        "Landeshauptstadt Mainz",
+        "Magenza",
+        "Maguncia",
+        "Maience",
+        "Mayence",
+        "Mayntz",
+        "Mäyntz",
+        "Meintz",
+        "Meyntz",
+        "Mogontiacum",
+        "Mogonus",
+        "Moguncja",
+        "Moguntia",
+        "Moguntiacum",
+        "Stadt Mainz" ;
+    skos:prefLabel "Mainz" .
+
+<https://data.jhn.ngo/spatial/LBI_books/1109> a edm:Place ;
+    edm:identifier "http://digital.cjh.org/161461" ;
+    owl:sameAs "http://d-nb.info/gnd/1085176266",
+        "http://d-nb.info/gnd/37172-5",
+        "http://sws.geonames.org/2935022",
+        "http://viaf.org/viaf/129163001" ;
+    skos:altLabel "Desde",
+        "Drážd'any",
+        "Dresda",
+        "Dresde",
+        "Dressden",
+        "Drezden",
+        "Drezdzany",
+        "Drezno",
+        "Dreßden",
+        "Friedrichstadt",
+        "Haupt- und Residenzstadt Dresden",
+        "Königliche Haupt- und Residenzstadt Dresden",
+        "Landeshauptstadt Dresden",
+        "Rat der Stadt Dresden",
+        "Stadt Dresden",
+        "Stadtverwaltung Dresden",
+        "State Capital Dresden" ;
+    skos:prefLabel "Dresden" .
+
+<https://data.jhn.ngo/spatial/LBI_books/1120> a edm:Place ;
+    edm:identifier "http://digital.cjh.org/192449" ;
+    owl:sameAs "http://d-nb.info/gnd/1051135-0",
+        "http://sws.geonames.org/3188383",
+        "http://viaf.org/viaf/313030481" ;
+    skos:altLabel "Varasad",
+        "Varasdin",
+        "Warasdin" ;
+    skos:prefLabel "Warasdin" .
+
+<https://data.jhn.ngo/spatial/LBI_books/1121> a edm:Place ;
+    edm:identifier "http://digital.cjh.org/1944258",
+        "http://digital.cjh.org/2411831",
+        "http://digital.cjh.org/249835",
+        "http://digital.cjh.org/3069827",
+        "http://digital.cjh.org/3210993",
+        "http://digital.cjh.org/3217461",
+        "http://digital.cjh.org/3543524",
+        "http://digital.cjh.org/3562768",
+        "http://digital.cjh.org/3570526",
+        "http://digital.cjh.org/3598808",
+        "http://digital.cjh.org/3804840",
+        "http://digital.cjh.org/3863019",
+        "http://digital.cjh.org/4083379",
+        "http://digital.cjh.org/4136873",
+        "http://digital.cjh.org/4193792",
+        "http://digital.cjh.org/4205601",
+        "http://digital.cjh.org/4272372",
+        "http://digital.cjh.org/516598" ;
+    owl:sameAs "http://d-nb.info/gnd/1029151-9",
+        "http://d-nb.info/gnd/2045123-4",
+        "http://sws.geonames.org/3067696",
+        "http://viaf.org/viaf/124497561" ;
+    skos:altLabel "Bezirk Prag",
+        "Hauptstadt Prag",
+        "Hlavni Město Praha",
+        "Praag",
+        "Prag (Kraj)",
+        "Praga",
+        "Prague",
+        "Praha" ;
+    skos:prefLabel "Prag" .
+
+<https://data.jhn.ngo/spatial/LBI_books/1125> a edm:Place ;
+    edm:identifier "http://digital.cjh.org/2167589",
+        "http://digital.cjh.org/249497" ;
+    owl:sameAs "http://d-nb.info/gnd/2048384-3",
+        "http://sws.geonames.org/2911296",
+        "http://viaf.org/viaf/26145376480583720832" ;
+    skos:altLabel "Altenau",
+        "Altona (Hamburg)",
+        "Altona an der Elbe",
+        "Altona/Elbe",
+        "Altonavia",
+        "Groß-Altona",
+        "Hamburg-Altona" ;
+    skos:prefLabel "Altona" .
+
+<https://data.jhn.ngo/spatial/LBI_books/1127> a edm:Place ;
+    edm:identifier "http://digital.cjh.org/2200474" ;
+    owl:sameAs "http://d-nb.info/gnd/1028486-2",
+        "http://sws.geonames.org/765876",
+        "http://viaf.org/viaf/166279695" ;
+    skos:altLabel "Ljublin",
+        "Lublin / Urza̜d Miejski",
+        "Urza̜d Miejski (Lublin)" ;
+    skos:prefLabel "Lublin" .
+
+<https://data.jhn.ngo/spatial/LBI_books/1128> a edm:Place ;
+    edm:identifier "http://digital.cjh.org/2200719",
+        "http://digital.cjh.org/2261522",
+        "http://digital.cjh.org/2267276",
+        "http://digital.cjh.org/2301155",
+        "http://digital.cjh.org/2302825",
+        "http://digital.cjh.org/2307005",
+        "http://digital.cjh.org/2331853",
+        "http://digital.cjh.org/2350621",
+        "http://digital.cjh.org/27042",
+        "http://digital.cjh.org/3240282",
+        "http://digital.cjh.org/3276357",
+        "http://digital.cjh.org/3277899",
+        "http://digital.cjh.org/3282079",
+        "http://digital.cjh.org/3298898",
+        "http://digital.cjh.org/3303152",
+        "http://digital.cjh.org/3540649",
+        "http://digital.cjh.org/3563229",
+        "http://digital.cjh.org/3564613",
+        "http://digital.cjh.org/3567745",
+        "http://digital.cjh.org/3598563",
+        "http://digital.cjh.org/3609596",
+        "http://digital.cjh.org/3624575",
+        "http://digital.cjh.org/3692613",
+        "http://digital.cjh.org/3773234",
+        "http://digital.cjh.org/3773305",
+        "http://digital.cjh.org/3832443",
+        "http://digital.cjh.org/3880337",
+        "http://digital.cjh.org/4177432",
+        "http://digital.cjh.org/4241564",
+        "http://digital.cjh.org/4271880",
+        "http://digital.cjh.org/4283563",
+        "http://digital.cjh.org/4284127",
+        "http://digital.cjh.org/4294186",
+        "http://digital.cjh.org/4297254",
+        "http://digital.cjh.org/4349041",
+        "http://digital.cjh.org/4356798" ;
+    owl:sameAs "http://d-nb.info/gnd/2013138-0",
+        "http://sws.geonames.org/2911297",
+        "http://viaf.org/viaf/133067777" ;
+    skos:altLabel "Amburgo",
+        "Augusta Gambriviorum",
+        "Bundesstaat Hamburg",
+        "Free and Hanseatic City of Hamburg",
+        "Freie Hansestadt Hamburg",
+        "Freie und Hansestadt Hamburg",
+        "Freistaat Hamburg",
+        "Gamburg (Hamburg)",
+        "Groß-Hamburg",
+        "Großhamburg",
+        "HH (Hansestadt Hamburg)",
+        "Hamborg",
+        "Hambourg",
+        "Hamburgh",
+        "Hamburgischer Staat",
+        "Hamburgisches Staatsgebiet",
+        "Hamburgo",
+        "Hamburgum",
+        "Hammipolis",
+        "Hammonia",
+        "Hammonia (Hamburg)",
+        "Hampuri",
+        "Hanbao",
+        "Hansestadt Hamburg",
+        "Kaiserliche Freie Reichsstadt Hamburg",
+        "Kayserliche Freye Reichs-Stadt Hamburg",
+        "Ville Libre et Hanséatique de Hambourg",
+        "Wolne i Hanzeatyckie Miasto Hamburg" ;
+    skos:prefLabel "Hamburg" .
+
+<https://data.jhn.ngo/spatial/LBI_books/1129> a edm:Place ;
+    edm:identifier "http://digital.cjh.org/2201861",
+        "http://digital.cjh.org/3862980" ;
+    owl:sameAs "http://d-nb.info/gnd/2027831-7",
+        "http://sws.geonames.org/2809346",
+        "http://viaf.org/viaf/166346632" ;
+    skos:altLabel "Aquae Mattiacorum",
+        "Landeshauptstadt Wiesbaden",
+        "Stadt Wiesbaden",
+        "Wisibada" ;
+    skos:prefLabel "Wiesbaden" .
+
+<https://data.jhn.ngo/spatial/LBI_books/1130> a edm:Place ;
+    edm:identifier "http://digital.cjh.org/2202189",
+        "http://digital.cjh.org/3546626",
+        "http://digital.cjh.org/3856362",
+        "http://digital.cjh.org/4022144" ;
+    owl:sameAs "http://d-nb.info/gnd/1025405-5",
+        "http://sws.geonames.org/3054643",
+        "http://viaf.org/viaf/154759119" ;
+    skos:altLabel "Aquincum",
+        "Boedapest",
+        "Buda",
+        "Budapest / Tanács",
+        "Budapesta",
+        "Budapestum",
+        "Budapeszt",
+        "Budapešt",
+        "Budapešta",
+        "Budimpešta",
+        "Haupt- und Residenzstadt Budapest",
+        "Ofen",
+        "Ofen-Pest",
+        "Ofenpest",
+        "Pest",
+        "Pest-Buda",
+        "Székesfőváros Budapest" ;
+    skos:prefLabel "Budapest" .
+
+<https://data.jhn.ngo/spatial/LBI_books/1131> a edm:Place ;
+    edm:identifier "http://digital.cjh.org/2203045",
+        "http://digital.cjh.org/2317322",
+        "http://digital.cjh.org/2341215" ;
+    owl:sameAs "http://d-nb.info/gnd/18834-7",
+        "http://sws.geonames.org/2907911",
+        "http://viaf.org/viaf/312586938" ;
+    skos:altLabel "Amt für Öffentlichkeitsarbeit (Heidelberg)",
+        "Haidelberg",
+        "Hāydalbīrġ",
+        "Heidelberga",
+        "Heydelberg",
+        "Mons Myrtorum",
+        "Myrtilletum",
+        "Myrtillorum mons",
+        "Oberbürgermeisterin (Heidelberg)",
+        "Stadt Heidelberg",
+        "UNESCO City of Literatur Heidelberg" ;
+    skos:prefLabel "Heidelberg" .
+
+<https://data.jhn.ngo/spatial/LBI_books/1135> a edm:Place ;
+    edm:identifier "http://digital.cjh.org/2222262",
+        "http://digital.cjh.org/3774841",
+        "http://digital.cjh.org/3823549" ;
+    owl:sameAs "http://d-nb.info/gnd/1001829-3",
+        "http://sws.geonames.org/2938913",
+        "http://viaf.org/viaf/153612989" ;
+    skos:altLabel "Darmundestat",
+        "Stadt Darmstadt",
+        "Wissenschaftsstadt Darmstadt" ;
+    skos:prefLabel "Darmstadt" .
+
+<https://data.jhn.ngo/spatial/LBI_books/1137> a edm:Place ;
+    edm:identifier "http://digital.cjh.org/2223110",
+        "http://digital.cjh.org/2225341",
+        "http://digital.cjh.org/3310475",
+        "http://digital.cjh.org/3321034",
+        "http://digital.cjh.org/3322073",
+        "http://digital.cjh.org/3544907",
+        "http://digital.cjh.org/3546514",
+        "http://digital.cjh.org/3565108",
+        "http://digital.cjh.org/3578121",
+        "http://digital.cjh.org/3600959",
+        "http://digital.cjh.org/3805227",
+        "http://digital.cjh.org/4010653",
+        "http://digital.cjh.org/4249843",
+        "http://digital.cjh.org/4278088" ;
+    owl:sameAs "" ;
+    skos:altLabel "" ;
+    skos:prefLabel "FrankfurtaM" .
+
+<https://data.jhn.ngo/spatial/LBI_books/1140> a edm:Place ;
+    edm:identifier "http://digital.cjh.org/2243158" ;
+    owl:sameAs "http://d-nb.info/gnd/2016639-4",
+        "http://sws.geonames.org/2895044",
+        "http://viaf.org/viaf/313003605" ;
+    skos:altLabel "City of Jena",
+        "Gena",
+        "Giena",
+        "Iena",
+        "Iéna",
+        "Ihena",
+        "Jehna",
+        "Jhena",
+        "Stadt Jena",
+        "Wenigenjena" ;
+    skos:prefLabel "Jena" .
+
+<https://data.jhn.ngo/spatial/LBI_books/1142> a edm:Place ;
+    edm:identifier "http://digital.cjh.org/2244289" ;
+    owl:sameAs "http://d-nb.info/gnd/1028438-2",
+        "http://sws.geonames.org/2751773",
+        "http://viaf.org/viaf/143615766" ;
+    skos:altLabel "Leide",
+        "Leyde",
+        "Leyden",
+        "Lugd. Bat.",
+        "Lugduni Batavorum",
+        "Lugduni-Batavorum",
+        "Lugdunum Batavorum" ;
+    skos:prefLabel "Leyde" .
+
+<https://data.jhn.ngo/spatial/LBI_books/1145> a edm:Place ;
+    edm:identifier "http://digital.cjh.org/225286",
+        "http://digital.cjh.org/3547497",
+        "http://digital.cjh.org/3579443",
+        "http://digital.cjh.org/3580003",
+        "http://digital.cjh.org/3598931",
+        "http://digital.cjh.org/4271618",
+        "http://digital.cjh.org/4272393",
+        "http://digital.cjh.org/4281468",
+        "http://digital.cjh.org/4289805",
+        "http://digital.cjh.org/4299574",
+        "http://digital.cjh.org/4355973" ;
+    owl:sameAs "http://d-nb.info/gnd/1085175685",
+        "http://d-nb.info/gnd/1087268060",
+        "http://d-nb.info/gnd/35878-2",
+        "http://sws.geonames.org/2782113",
+        "http://viaf.org/viaf/148842731" ;
+    skos:altLabel "Austria",
+        "Austrja",
+        "Austrya",
+        "Autriche",
+        "Bundesstaat Österreich",
+        "Cisleithanien",
+        "Deutschösterreich",
+        "Die im Reichsrat Vertretenen Königreiche und Länder (Österreich)",
+        "Habsburgermonarchie",
+        "Habsburgerreich",
+        "Kaiserthum Österreich",
+        "Kaisertum Österreich",
+        "Land Österreich",
+        "Ostmark",
+        "Ostmark (Österreich)",
+        "Österreich (Erste Republik)",
+        "Österreich (Zweite Republik)",
+        "Österreichische Monarchie",
+        "Republik Österreich",
+        "Staat Deutschösterreich",
+        "Zisleithanien" ;
+    skos:prefLabel "Austria" .
+
+<https://data.jhn.ngo/spatial/LBI_books/1146> a edm:Place ;
+    edm:identifier "http://digital.cjh.org/2261732" ;
+    owl:sameAs "http://d-nb.info/gnd/2031267-2",
+        "http://sws.geonames.org/2890504",
+        "http://viaf.org/viaf/129609211" ;
+    skos:altLabel "Stadt Kirchhain" ;
+    skos:prefLabel "Kirchhain" .
+
+<https://data.jhn.ngo/spatial/LBI_books/1147> a edm:Place ;
+    edm:identifier "http://digital.cjh.org/2261959",
+        "http://digital.cjh.org/2305531",
+        "http://digital.cjh.org/2331549",
+        "http://digital.cjh.org/2362915",
+        "http://digital.cjh.org/3234042",
+        "http://digital.cjh.org/3281499",
+        "http://digital.cjh.org/3302973",
+        "http://digital.cjh.org/3324323",
+        "http://digital.cjh.org/3369979",
+        "http://digital.cjh.org/3420692",
+        "http://digital.cjh.org/3538765",
+        "http://digital.cjh.org/3540578",
+        "http://digital.cjh.org/3543076",
+        "http://digital.cjh.org/3548775",
+        "http://digital.cjh.org/3563265",
+        "http://digital.cjh.org/3564681",
+        "http://digital.cjh.org/3570295",
+        "http://digital.cjh.org/3619417",
+        "http://digital.cjh.org/3639018",
+        "http://digital.cjh.org/3774185",
+        "http://digital.cjh.org/3774352",
+        "http://digital.cjh.org/3774467",
+        "http://digital.cjh.org/3804801",
+        "http://digital.cjh.org/3815368",
+        "http://digital.cjh.org/3827103",
+        "http://digital.cjh.org/3848838",
+        "http://digital.cjh.org/3865227",
+        "http://digital.cjh.org/4087737",
+        "http://digital.cjh.org/4140094",
+        "http://digital.cjh.org/4241465",
+        "http://digital.cjh.org/4332939",
+        "http://digital.cjh.org/4342178" ;
+    owl:sameAs "" ;
+    skos:altLabel "" ;
+    skos:prefLabel "FrankfurtaM" .
+
+<https://data.jhn.ngo/spatial/LBI_books/1149> a edm:Place ;
+    edm:identifier "http://digital.cjh.org/2263770",
+        "http://digital.cjh.org/4299605" ;
+    owl:sameAs "http://d-nb.info/gnd/108666177X",
+        "http://d-nb.info/gnd/2005630-8",
+        "http://sws.geonames.org/2952984",
+        "http://viaf.org/viaf/133632117" ;
+    skos:altLabel "Babenberg",
+        "Bamberga",
+        "City of Bamberg",
+        "Stadt Bamberg" ;
+    skos:prefLabel "Bamberg" .
+
+<https://data.jhn.ngo/spatial/LBI_books/1151> a edm:Place ;
+    edm:identifier "http://digital.cjh.org/2266316",
+        "http://digital.cjh.org/3299413",
+        "http://digital.cjh.org/4340650" ;
+    owl:sameAs "http://d-nb.info/gnd/1086246535",
+        "http://d-nb.info/gnd/39333-2",
+        "http://d-nb.info/gnd/39334-4",
+        "http://sws.geonames.org/2826184",
+        "http://sws.geonames.org/2973783",
+        "http://viaf.org/viaf/242716088",
+        "http://viaf.org/viaf/245643546" ;
+    skos:altLabel "Argentina",
+        "Argentorate",
+        "Argentoratum",
+        "Commune de Strasbourg",
+        "Estrasburgo",
+        "Strasberg",
+        "Strasbourg",
+        "Strasburg",
+        "Strasburgk",
+        "Straspergk",
+        "Strassburg",
+        "Strasspergk",
+        "Straszberg",
+        "Straszburg",
+        "Strateburgum",
+        "Stratisburgo",
+        "Strazberg",
+        "Strazburc",
+        "Strazperch",
+        "Straßberg",
+        "Straßberg (Plauen)",
+        "Straßbergh",
+        "Straßbergk",
+        "Straßbourg",
+        "Straßburgk",
+        "Straßperch",
+        "Straßperg",
+        "Strosperg",
+        "Strossburi",
+        "Ville de Strasbourg",
+        "Vogtland" ;
+    skos:prefLabel "Strasbourg" .
+
+<https://data.jhn.ngo/spatial/LBI_books/1152> a edm:Place ;
+    edm:identifier "http://digital.cjh.org/2267682",
+        "http://digital.cjh.org/4176547",
+        "http://digital.cjh.org/4257978",
+        "http://digital.cjh.org/63894",
+        "http://digital.cjh.org/85936",
+        "http://digital.cjh.org/89604" ;
+    owl:sameAs "http://d-nb.info/gnd/1085179494",
+        "http://d-nb.info/gnd/1086573579",
+        "http://d-nb.info/gnd/2013042-9",
+        "http://sws.geonames.org/2911522",
+        "http://viaf.org/viaf/140480972" ;
+    skos:altLabel "Galle (Zaale)",
+        "Hala Hermundurorum",
+        "Hala Magdeburgensis",
+        "Hala Magdeburgica",
+        "Hala Salica",
+        "Hala Saxonia",
+        "Hala Saxonum",
+        "Hala Saxorum",
+        "Hala Venedorum",
+        "Hala Venedum",
+        "Hala ad Salam",
+        "Hala prope Salam",
+        "Halae Magdeburgicae",
+        "Halae Saxonum",
+        "Halae ad Salam",
+        "Halla",
+        "Halle",
+        "Halle (Saale)",
+        "Halle an der Saale",
+        "Halle i.M.",
+        "Halle i.S.",
+        "Halle im Magdeburgischen",
+        "Halle in Sachsen",
+        "Halle-on-the-Saale",
+        "Stadt Halle (Saale)",
+        "Stadtkreis Halle" ;
+    skos:prefLabel "Halle" .
+
+<https://data.jhn.ngo/spatial/LBI_books/1155> a edm:Place ;
+    edm:identifier "http://digital.cjh.org/2272108",
+        "http://digital.cjh.org/3341578" ;
+    owl:sameAs "http://d-nb.info/gnd/16279298-0",
+        "http://d-nb.info/gnd/16282472-5",
+        "http://d-nb.info/gnd/2029042-1",
+        "http://sws.geonames.org/2879139",
+        "http://viaf.org/viaf/166540853" ;
+    skos:altLabel "Gross-Leipzig",
+        "Groß-Leipzig",
+        "Leipsia",
+        "Leipsic",
+        "Leipsig",
+        "Leiptzk",
+        "Leipzic",
+        "Lejpcig",
+        "Lejpzjg",
+        "Leyptzick",
+        "Leyptzigk",
+        "Lipsia",
+        "Lipsk",
+        "Liptzk",
+        "Lipzi",
+        "Messestadt Leipzig",
+        "Oberbürgermeister der Stadt Leipzig",
+        "Reichsmessestadt Leipzig",
+        "Stadt Leipzig",
+        "Urbs Lipzi" ;
+    skos:prefLabel "Leipzig" .
+
+<https://data.jhn.ngo/spatial/LBI_books/1157> a edm:Place ;
+    edm:identifier "http://digital.cjh.org/2280791",
+        "http://digital.cjh.org/4096538" ;
+    owl:sameAs "http://d-nb.info/gnd/2028044-0",
+        "http://viaf.org/viaf/153139306" ;
+    skos:altLabel "Aelia Augusta",
+        "Augsbourg",
+        "Augspurg",
+        "Augstburg",
+        "Augusta Vindelicorum",
+        "Augusta Vindelicum",
+        "Augustae-Vindelicorum",
+        "K.B. Kreishauptstadt Augsburg",
+        "Reichs-Stadt Augspurg",
+        "Stadt Augsburg",
+        "Vindelicorum" ;
+    skos:prefLabel "Augsburg" .
+
+<https://data.jhn.ngo/spatial/LBI_books/1159> a edm:Place ;
+    edm:identifier "http://digital.cjh.org/2282449",
+        "http://digital.cjh.org/2354465",
+        "http://digital.cjh.org/3543306" ;
+    owl:sameAs "http://d-nb.info/gnd/1028168-X",
+        "http://sws.geonames.org/2920512",
+        "http://viaf.org/viaf/136663133" ;
+    skos:altLabel "Ghiessa Cattorum",
+        "Giesen",
+        "Giessa Cattorum",
+        "Giessa Hassorum",
+        "Giessae",
+        "Giessae Hassorum",
+        "Giessen",
+        "Gissa Hassorum",
+        "Gissae",
+        "Universitätsstadt Gießen" ;
+    skos:prefLabel "Giessen" .
+
+<https://data.jhn.ngo/spatial/LBI_books/1160> a edm:Place ;
+    edm:identifier "http://digital.cjh.org/2282639" ;
+    owl:sameAs "http://d-nb.info/gnd/2012503-3",
+        "http://sws.geonames.org/2918752",
+        "http://viaf.org/viaf/136010878" ;
+    skos:altLabel "Gota",
+        "Gotha Residenzstadt",
+        "Residenzstadt Gotha",
+        "Stadt Gotha",
+        "Stadtverwaltung Gotha" ;
+    skos:prefLabel "Gotha" .
+
+<https://data.jhn.ngo/spatial/LBI_books/1162> a edm:Place ;
+    edm:identifier "http://digital.cjh.org/2284813",
+        "http://digital.cjh.org/4308363" ;
+    owl:sameAs "http://d-nb.info/gnd/35443-0",
+        "http://sws.geonames.org/390903",
+        "http://viaf.org/viaf/239627599" ;
+    skos:altLabel "Basileion tēs Hellados",
+        "Ellada",
+        "Ellas",
+        "Ellēnikē Dēmokratia",
+        "Elliniki Dimokratia",
+        "Elli̱niki̱ Di̱mokratia",
+        "Elli̲niki̲ Di̲mokratia",
+        "Greece",
+        "Grèce",
+        "Hellas",
+        "Hellenic Republic",
+        "Hellēnikē Demokratia",
+        "Hellēnikē Dēmokratia",
+        "République Hellénique",
+        "Royaume de Grèce",
+        "Vasileion ti̲s Ellados",
+        "Vasilion tis Ellados",
+        "Yunanistan" ;
+    skos:prefLabel "Greece" .
+
+<https://data.jhn.ngo/spatial/LBI_books/1164> a edm:Place ;
+    edm:identifier "http://digital.cjh.org/2287859" ;
+    owl:sameAs "http://d-nb.info/gnd/2013193-8",
+        "http://sws.geonames.org/2911665",
+        "http://viaf.org/viaf/136084347" ;
+    skos:altLabel "Halberstat",
+        "Hemipoli",
+        "Hemipolis",
+        "Stadtkreis Halberstadt" ;
+    skos:prefLabel "Halberstadt" .
+
+<https://data.jhn.ngo/spatial/LBI_books/1166> a edm:Place ;
+    edm:identifier "http://digital.cjh.org/2293401",
+        "http://digital.cjh.org/3661978" ;
+    owl:sameAs "http://d-nb.info/gnd/2013193-8",
+        "http://sws.geonames.org/2911665",
+        "http://viaf.org/viaf/136084347" ;
+    skos:altLabel "Halberstat",
+        "Hemipoli",
+        "Hemipolis",
+        "Stadtkreis Halberstadt" ;
+    skos:prefLabel "Halberstadt" .
+
+<https://data.jhn.ngo/spatial/LBI_books/1167> a edm:Place ;
+    edm:identifier "http://digital.cjh.org/2293988",
+        "http://digital.cjh.org/3774987",
+        "http://digital.cjh.org/3775042",
+        "http://digital.cjh.org/3775097",
+        "http://digital.cjh.org/4281022",
+        "http://digital.cjh.org/4281077",
+        "http://digital.cjh.org/4368492",
+        "http://digital.cjh.org/513103" ;
+    owl:sameAs "http://d-nb.info/gnd/2004272-3",
+        "http://d-nb.info/gnd/7761961-4",
+        "http://sws.geonames.org/2950157",
+        "http://viaf.org/viaf/122530980" ;
+    skos:altLabel "\"Besonderes Gebiet\" Berlin",
+        "Barlīn",
+        "Berlin (1945-1948)",
+        "Berlino",
+        "Berlinum",
+        "Berolino",
+        "Berolinon",
+        "Berolinum",
+        "Birlīn",
+        "Colonia Brandenburgica",
+        "Colonia Marchica",
+        "Coloniae Brandenburgicae",
+        "Cölln an der Spree",
+        "Cöln an der Spree",
+        "Gross-Berlin",
+        "Groß-Berlin",
+        "Großberlin",
+        "Haupt- und Residenz-Stadt Berlin",
+        "Hauptstadt Berlin",
+        "Land Berlin",
+        "Reichshauptstadt Berlin",
+        "Stadtgemeinde Berlin",
+        "Verolino" ;
+    skos:prefLabel "Berlin" .
+
+<https://data.jhn.ngo/spatial/LBI_books/1168> a edm:Place ;
+    edm:identifier "http://digital.cjh.org/2294836",
+        "http://digital.cjh.org/3547387",
+        "http://digital.cjh.org/3566015",
+        "http://digital.cjh.org/4353590" ;
+    owl:sameAs "http://d-nb.info/gnd/1005809-6",
+        "http://sws.geonames.org/2643743",
+        "http://viaf.org/viaf/261467287" ;
+    skos:altLabel "Augusta Trinobantum",
+        "Landan",
+        "Londen",
+        "Londinium",
+        "Londinum",
+        "London (Great Britain)",
+        "Londra",
+        "Londres",
+        "Londyn",
+        "Lundonia",
+        "Lundun",
+        "Westminster" ;
+    skos:prefLabel "London" .
+
+<https://data.jhn.ngo/spatial/LBI_books/1169> a edm:Place ;
+    edm:identifier "http://digital.cjh.org/2295793",
+        "http://digital.cjh.org/2336581",
+        "http://digital.cjh.org/2342485",
+        "http://digital.cjh.org/3541083",
+        "http://digital.cjh.org/4021456",
+        "http://digital.cjh.org/4026539",
+        "http://digital.cjh.org/4122462" ;
+    owl:sameAs "http://d-nb.info/gnd/1019630-4",
+        "http://sws.geonames.org/2988507",
+        "http://viaf.org/viaf/265224327" ;
+    skos:altLabel "Bali (Paris)",
+        "Bārīs",
+        "Commune de Paris",
+        "Loticia Parisiorum",
+        "Lutecia",
+        "Lutetia",
+        "Lutetia Parisiorum",
+        "Lutèce",
+        "Lutitia",
+        "P'ariz",
+        "Pa-li",
+        "Parigi",
+        "Parijs",
+        "Parisia",
+        "Parisii",
+        "Parisius",
+        "Pariž",
+        "Parrhisius",
+        "Paryžius",
+        "Paříž",
+        "Ville de Paris" ;
+    skos:prefLabel "Paris" .
+
+<https://data.jhn.ngo/spatial/LBI_books/1172> a edm:Place ;
+    edm:identifier "http://digital.cjh.org/2307312",
+        "http://digital.cjh.org/3538406",
+        "http://digital.cjh.org/4296046" ;
+    owl:sameAs "http://d-nb.info/gnd/39243-1",
+        "http://sws.geonames.org/2821164",
+        "http://viaf.org/viaf/135701727" ;
+    skos:altLabel "Augusta Treverorum",
+        "Augusta Trevirorum",
+        "Treveri",
+        "Treveris",
+        "Treviri",
+        "Treviris",
+        "Trewir",
+        "Trèves",
+        "Tréier",
+        "Tréveris" ;
+    skos:prefLabel "Trier" .
+
+<https://data.jhn.ngo/spatial/LBI_books/1176> a edm:Place ;
+    edm:identifier "http://digital.cjh.org/2316424",
+        "http://digital.cjh.org/3823549" ;
+    owl:sameAs "http://d-nb.info/gnd/20028-1",
+        "http://sws.geonames.org/2623032",
+        "http://viaf.org/viaf/312762729" ;
+    skos:altLabel "Danemarck",
+        "Danemark",
+        "Dania",
+        "Daniyah",
+        "Danmark",
+        "Dannemarc",
+        "Danyah",
+        "Denemarken",
+        "Denmark",
+        "Dennemarck",
+        "Kongeriget Danmark",
+        "Königreich Dänemark" ;
+    skos:prefLabel "Denmark" .
+
+<https://data.jhn.ngo/spatial/LBI_books/1178> a edm:Place ;
+    edm:identifier "http://digital.cjh.org/2320937",
+        "http://digital.cjh.org/3267625" ;
+    owl:sameAs "http://d-nb.info/gnd/1028438-2",
+        "http://sws.geonames.org/2751773",
+        "http://viaf.org/viaf/143615766" ;
+    skos:altLabel "Leide",
+        "Leyde",
+        "Leyden",
+        "Lugd. Bat.",
+        "Lugduni Batavorum",
+        "Lugduni-Batavorum",
+        "Lugdunum Batavorum" ;
+    skos:prefLabel "Leiden" .
+
+<https://data.jhn.ngo/spatial/LBI_books/1181> a edm:Place ;
+    edm:identifier "http://digital.cjh.org/2329023",
+        "http://digital.cjh.org/2357524",
+        "http://digital.cjh.org/3570054" ;
+    owl:sameAs "http://d-nb.info/gnd/1085174409",
+        "http://d-nb.info/gnd/2004253-X",
+        "http://viaf.org/viaf/148394447" ;
+    skos:altLabel "Arctopolis",
+        "Bärn",
+        "Berna",
+        "Berna Helvetiorum",
+        "Berne",
+        "Einwohnergemeinde Bern",
+        "Gemeinde Bern",
+        "Stadt Bern",
+        "Stadtrat (Bern)" ;
+    skos:prefLabel "Bern" .
+
+<https://data.jhn.ngo/spatial/LBI_books/1182> a edm:Place ;
+    edm:identifier "http://digital.cjh.org/2330008" ;
+    owl:sameAs "http://d-nb.info/gnd/16299087-X",
+        "http://d-nb.info/gnd/2031951-4",
+        "http://sws.geonames.org/2849483",
+        "http://viaf.org/viaf/248075075" ;
+    skos:altLabel "Castra Regina",
+        "Colonia Tiberia Augusta",
+        "Imbripolis",
+        "Ratisbona",
+        "Ratisbonne",
+        "Ratispona",
+        "Ratyzbona",
+        "Regenspurg",
+        "Reichs-Stadt Regensburg",
+        "Řezno",
+        "Stadt Regensburg" ;
+    skos:prefLabel "Regensburg" .
+
+<https://data.jhn.ngo/spatial/LBI_books/1184> a edm:Place ;
+    edm:identifier "http://digital.cjh.org/2338013",
+        "http://digital.cjh.org/4035052" ;
+    owl:sameAs "http://d-nb.info/gnd/2028615-6",
+        "http://sws.geonames.org/2892794",
+        "http://viaf.org/viaf/241322215" ;
+    skos:altLabel "Carlsruhe",
+        "Karlsrūe",
+        "Landeshauptstadt Karlsruhe",
+        "Residenzstadt Karlsruhe",
+        "Stadt Karlsruhe" ;
+    skos:prefLabel "Karlsruhe" .
+
+<https://data.jhn.ngo/spatial/LBI_books/1185> a edm:Place ;
+    edm:identifier "http://digital.cjh.org/2347673" ;
+    owl:sameAs "http://d-nb.info/gnd/35603-7",
+        "http://sws.geonames.org/294640",
+        "http://viaf.org/viaf/146498911" ;
+    skos:altLabel "Ereṣ Yiśraʾel",
+        "Ereṣ Yiśrāʾēl",
+        "Etat d'Israe͏̈l",
+        "Israe͏̈l",
+        "Isrāʾīl",
+        "Izrael",
+        "Medinat Jisrael",
+        "Medînat Yiśrā'ēl",
+        "State of Israel",
+        "Yiśraʾel",
+        "Yiśrāʾēl" ;
+    skos:prefLabel "Israel" .
+
+<https://data.jhn.ngo/spatial/LBI_books/1187> a edm:Place ;
+    edm:identifier "http://digital.cjh.org/2347750",
+        "http://digital.cjh.org/2355566",
+        "http://digital.cjh.org/329266" ;
+    owl:sameAs "http://d-nb.info/gnd/1030137-9",
+        "http://d-nb.info/gnd/16296779-2",
+        "http://sws.geonames.org/357994",
+        "http://viaf.org/viaf/4146635346841981376" ;
+    skos:altLabel "Arab Republic of Egypt",
+        "Arabiese Republiek Egipte",
+        "Arabische Republik Ägypten",
+        "Chibet",
+        "Dschumhūriyyat Misr al-ʿarabiyya",
+        "Egapt",
+        "Egitto",
+        "Egyiptomi Arab Köztársaság",
+        "Egypt",
+        "Egypte",
+        "Ghibt",
+        "Ghubt",
+        "Ǧumhūriyyat Miṣr al-ʿArabiyyah",
+        "Ǧumhūrīyat Miṣr al-ʿArabīya",
+        "Jumhuriyyat Miṣr al-ʿArabiyyah",
+        "Kingdom of Egypt",
+        "Maṣr",
+        "Miṣr",
+        "Mısır",
+        "Mısır Arap Cumhuriyeti",
+        "Repubblica Araba d'Egitto",
+        "Republic of Egypt",
+        "Republica Arabe de Egipto",
+        "República Árabe de Egipto",
+        "République arabe d'Égypte",
+        "République d'Egypte",
+        "Ŷumhūriyyat Miṣr Al-ʿArabiyyah",
+        "ad- Daula al-Miṣrīya",
+        "al- Mamlaka al-Miṣrīya" ;
+    skos:prefLabel "Egypt" .
+
+<https://data.jhn.ngo/spatial/LBI_books/1190> a edm:Place ;
+    edm:identifier "http://digital.cjh.org/2354579" ;
+    owl:sameAs "http://d-nb.info/gnd/37288-2",
+        "http://sws.geonames.org/2750405",
+        "http://viaf.org/viaf/122686887" ;
+    skos:altLabel "1940-1945)",
+        "Batavische Republik",
+        "Besetzte Niederländische Gebiete",
+        "Het Besette Nederlandsche Gebied",
+        "Holland (Königreich)",
+        "Holland (Niederlande)",
+        "Koninkrijk der Nederlanden",
+        "Königreich der Niederlande",
+        "Nederland",
+        "Nederland (Gebiet unter Deutscher Besatzung",
+        "Nederlanden",
+        "Netherlands",
+        "Pays-Bas (Niederlande)",
+        "Republik der Sieben Vereinigten Provinzen",
+        "Royaume des Pays-Bas",
+        "Staat Holland",
+        "Vereinigte Niederlande" ;
+    skos:prefLabel "Netherlands" .
+
+<https://data.jhn.ngo/spatial/LBI_books/1192> a edm:Place ;
+    edm:identifier "http://digital.cjh.org/2355050" ;
+    owl:sameAs "http://d-nb.info/gnd/2026494-X",
+        "http://sws.geonames.org/2810808",
+        "http://viaf.org/viaf/130220478" ;
+    skos:altLabel "Wernigerode / Magistrat" ;
+    skos:prefLabel "Wernigerode" .
+
+<https://data.jhn.ngo/spatial/LBI_books/1206> a edm:Place ;
+    edm:identifier "http://digital.cjh.org/2407240" ;
+    owl:sameAs "http://d-nb.info/gnd/1008571-3",
+        "http://sws.geonames.org/163843",
+        "http://viaf.org/viaf/154701530" ;
+    skos:altLabel "Arabische Republik Syrien",
+        "Arabische Republik Syrien (Syria)",
+        "Arabskiej Republiki Syryjskiej",
+        "Daulat Sūriyā",
+        "Province of Syria",
+        "RAS (République Arabe Syrienne)",
+        "Repubblica Araba Siriana",
+        "République Arab Syrienne (Syria)",
+        "République Arabe Syrienne",
+        "République Syrienne",
+        "SAR (Syrian Arab Republic)",
+        "SAR (Syrische Arabische Republik)",
+        "Siria",
+        "Sowria",
+        "Suriye",
+        "Sūriyā",
+        "Syria",
+        "Syria (ab 1961)",
+        "Syrian Arab Republic",
+        "Syrian Arab Republic (Syria)",
+        "Syrie",
+        "Syrie (Syria)",
+        "Syrie (ab 1961)",
+        "Syrien (Syria)",
+        "Syrien (ab 1961)",
+        "Syrische Arabische Republik",
+        "al- Ǧumhūrīya al-ʿArabīya as-Sūrīya",
+        "al- Ǧumhūrīya as-Sūrīya",
+        "al-Ǧumhūriyya al-ʿArabiyya as-Sūriyya (Syria)",
+        "al-Ǧumhūrīya al-ʿArabīya as-Sūrīya",
+        "al-Ǧumhūrīya as-Sūrīya" ;
+    skos:prefLabel "Syria" .
+
+<https://data.jhn.ngo/spatial/LBI_books/1212> a edm:Place ;
+    edm:identifier "http://digital.cjh.org/2414480",
+        "http://digital.cjh.org/4299574" ;
+    owl:sameAs "http://d-nb.info/gnd/1012345-3",
+        "http://sws.geonames.org/2761367",
+        "http://viaf.org/viaf/137212727" ;
+    skos:altLabel "Beč",
+        "Bécs",
+        "Biennē",
+        "Bundeshauptstadt Wien",
+        "Bundesland Wien",
+        "Bundesunmittelbare Stadt Wien",
+        "Dunaj",
+        "Gemeinde Wien",
+        "K.K. Reichshaupt- und Residenzstadt Wien",
+        "Kaiserlich-Königliche Reichshaupt- und Residenzstadt Wien",
+        "Land Wien",
+        "Reichsgau Wien",
+        "Reichshaupt- und Residenzstadt Wien",
+        "Stadt Wien",
+        "Vena",
+        "Viedeň",
+        "Viena",
+        "Vienna",
+        "Vienna (Austriae)",
+        "Vienna Fluviorum",
+        "Vienna Pannoniae",
+        "Vienne",
+        "Vienne (Österreich)",
+        "Viennē",
+        "Vin",
+        "Vindobona",
+        "Vindobona (Wien)",
+        "Vinna",
+        "Vídeň",
+        "Vjenë",
+        "Wenia",
+        "Wiedeń (Wien)",
+        "Wienn",
+        "Wienna",
+        "Wīn" ;
+    skos:prefLabel "Wien" .
+
+<https://data.jhn.ngo/spatial/LBI_books/1214> a edm:Place ;
+    edm:identifier "http://digital.cjh.org/2415621",
+        "http://digital.cjh.org/4355326" ;
+    owl:sameAs "http://d-nb.info/gnd/1086246535",
+        "http://d-nb.info/gnd/39333-2",
+        "http://d-nb.info/gnd/39334-4",
+        "http://sws.geonames.org/2826184",
+        "http://sws.geonames.org/2973783",
+        "http://viaf.org/viaf/242716088",
+        "http://viaf.org/viaf/245643546" ;
+    skos:altLabel "Argentina",
+        "Argentorate",
+        "Argentoratum",
+        "Commune de Strasbourg",
+        "Estrasburgo",
+        "Strasberg",
+        "Strasbourg",
+        "Strasburg",
+        "Strasburgk",
+        "Straspergk",
+        "Strassburg",
+        "Strasspergk",
+        "Straszberg",
+        "Straszburg",
+        "Strateburgum",
+        "Stratisburgo",
+        "Strazberg",
+        "Strazburc",
+        "Strazperch",
+        "Straßberg",
+        "Straßberg (Plauen)",
+        "Straßbergh",
+        "Straßbergk",
+        "Straßbourg",
+        "Straßburgk",
+        "Straßperch",
+        "Straßperg",
+        "Strosperg",
+        "Strossburi",
+        "Ville de Strasbourg",
+        "Vogtland" ;
+    skos:prefLabel "Strassburg" .
+
+<https://data.jhn.ngo/spatial/LBI_books/1216> a edm:Place ;
+    edm:identifier "http://digital.cjh.org/250827",
+        "http://digital.cjh.org/3611545",
+        "http://digital.cjh.org/4088104",
+        "http://digital.cjh.org/4142143" ;
+    owl:sameAs "http://d-nb.info/gnd/1063652308",
+        "http://d-nb.info/gnd/2029092-5",
+        "http://sws.geonames.org/2873891",
+        "http://viaf.org/viaf/135518763" ;
+    skos:altLabel "Badische Hauptstadt Mannheim",
+        "Großherzoglich Badische Hauptstadt Mannheim",
+        "Interamnium",
+        "Man(nhemium",
+        "Mannehemium",
+        "Mannem",
+        "Mannheim",
+        "Mannheim 2",
+        "Mannhemii",
+        "Stadt Mannheim",
+        "Stadt im Quadrat",
+        "Stadtgemeinde Mannheim" ;
+    skos:prefLabel "Mannheim" .
+
+<https://data.jhn.ngo/spatial/LBI_books/1219> a edm:Place ;
+    edm:identifier "http://digital.cjh.org/27164" ;
+    owl:sameAs "http://d-nb.info/gnd/2011431-X",
+        "http://sws.geonames.org/2906676",
+        "http://viaf.org/viaf/267241547" ;
+    skos:altLabel "Helmaestadium",
+        "Helmestadium",
+        "Helmstadium",
+        "Helmstadt",
+        "Helmstädt" ;
+    skos:prefLabel "Helmstedt" .
+
+<https://data.jhn.ngo/spatial/LBI_books/1222> a edm:Place ;
+    edm:identifier "http://digital.cjh.org/28408" ;
+    owl:sameAs "http://d-nb.info/gnd/42808-5",
+        "http://sws.geonames.org/2945024",
+        "http://viaf.org/viaf/122699973" ;
+    skos:altLabel "Brunonia",
+        "Brunopolis",
+        "Brunsuigium",
+        "Brunsvicium",
+        "Brunsvick",
+        "Brunsvig",
+        "Brunsviga",
+        "Brunswick",
+        "Brunswiek",
+        "Brunswyck",
+        "Brunswygk",
+        "Brunszwik",
+        "Stadt Braunschweig" ;
+    skos:prefLabel "Braunschweig" .
+
+<https://data.jhn.ngo/spatial/LBI_books/1223> a edm:Place ;
+    edm:identifier "http://digital.cjh.org/29418" ;
+    owl:sameAs "http://d-nb.info/gnd/1085178706",
+        "http://d-nb.info/gnd/2117050-2",
+        "http://sws.geonames.org/2904804",
+        "http://viaf.org/viaf/248548937" ;
+    skos:altLabel "Hilberhausen",
+        "Hildburghusa",
+        "Hilpertohusa",
+        "Hilperusia",
+        "Hilpurghaussen",
+        "Hilpurgkhaussen",
+        "Hilpürghausen",
+        "Hylperghausen",
+        "Stadt Hildburghausen" ;
+    skos:prefLabel "Hildburghausen" .
+
+<https://data.jhn.ngo/spatial/LBI_books/1226> a edm:Place ;
+    edm:identifier "http://digital.cjh.org/3069823" ;
+    owl:sameAs "http://d-nb.info/gnd/16316066-1",
+        "http://d-nb.info/gnd/2005687-4",
+        "http://viaf.org/viaf/130179400" ;
+    skos:altLabel "Athena Helveticorum",
+        "Athena Rauracorum",
+        "Athenae Helveticorum",
+        "Augusta Munatiana",
+        "Augusta Munatianae",
+        "Augusta Rauracorum",
+        "B le",
+        "Basel-Stadt",
+        "Basilea",
+        "Basilea Helvetiorum",
+        "Basilea Rauracorum",
+        "Basilia",
+        "Basle",
+        "Bâle",
+        "Colonia Munatiana",
+        "Colonia Munatianae",
+        "Colonia Planciana",
+        "Kanton Basel-Stadt",
+        "Stadt Basel" ;
+    skos:prefLabel "Basel" .
+
+<https://data.jhn.ngo/spatial/LBI_books/1228> a edm:Place ;
+    edm:identifier "http://digital.cjh.org/3070164" ;
+    owl:sameAs "http://d-nb.info/gnd/2011157-5",
+        "http://sws.geonames.org/2953456",
+        "http://viaf.org/viaf/244064731" ;
+    skos:altLabel "Gandersheim" ;
+    skos:prefLabel "Gandersheim" .
+
+<https://data.jhn.ngo/spatial/LBI_books/1234> a edm:Place ;
+    edm:identifier "http://digital.cjh.org/308919",
+        "http://digital.cjh.org/3250167",
+        "http://digital.cjh.org/335401",
+        "http://digital.cjh.org/3849803",
+        "http://digital.cjh.org/49695" ;
+    owl:sameAs "http://d-nb.info/gnd/2004272-3",
+        "http://d-nb.info/gnd/7761961-4",
+        "http://sws.geonames.org/2950157",
+        "http://viaf.org/viaf/122530980" ;
+    skos:altLabel "\"Besonderes Gebiet\" Berlin",
+        "Barlīn",
+        "Berlin (1945-1948)",
+        "Berlino",
+        "Berlinum",
+        "Berolino",
+        "Berolinon",
+        "Berolinum",
+        "Birlīn",
+        "Colonia Brandenburgica",
+        "Colonia Marchica",
+        "Coloniae Brandenburgicae",
+        "Cölln an der Spree",
+        "Cöln an der Spree",
+        "Gross-Berlin",
+        "Groß-Berlin",
+        "Großberlin",
+        "Haupt- und Residenz-Stadt Berlin",
+        "Hauptstadt Berlin",
+        "Land Berlin",
+        "Reichshauptstadt Berlin",
+        "Stadtgemeinde Berlin",
+        "Verolino" ;
+    skos:prefLabel "Berlin" .
+
+<https://data.jhn.ngo/spatial/LBI_books/1236> a edm:Place ;
+    edm:identifier "http://digital.cjh.org/3211085" ;
+    owl:sameAs "http://sws.geonames.org/3081324",
+        "http://viaf.org/viaf/133125961",
+        "http://viaf.org/viaf/147957788" ;
+    skos:altLabel "Września" ;
+    skos:prefLabel "Wreschen" .
+
+<https://data.jhn.ngo/spatial/LBI_books/1240> a edm:Place ;
+    edm:identifier "http://digital.cjh.org/3211452" ;
+    owl:sameAs "http://d-nb.info/gnd/26860-4",
+        "http://sws.geonames.org/425378",
+        "http://viaf.org/viaf/139550167",
+        "http://viaf.org/viaf/143663205" ;
+    skos:altLabel "Usumbura" ;
+    skos:prefLabel "Usumbura" .
+
+<https://data.jhn.ngo/spatial/LBI_books/1241> a edm:Place ;
+    edm:identifier "http://digital.cjh.org/3219060",
+        "http://digital.cjh.org/3538820",
+        "http://digital.cjh.org/4022144" ;
+    owl:sameAs "http://d-nb.info/gnd/2018783-X",
+        "http://sws.geonames.org/719819",
+        "http://viaf.org/viaf/233974236" ;
+    skos:altLabel "Die Länder der ungarischen Krone",
+        "Government of the Hungarian Republic",
+        "HPR (Hungarian People's Republic)",
+        "Hongrie",
+        "Hungarian People's Republic",
+        "Hungarian Republic",
+        "Hungary",
+        "Königreich Ungarn",
+        "Magyar Köztársaság",
+        "Magyar Népköztársaság",
+        "Magyar Tanácsköztársaság",
+        "Magyarország",
+        "Republic of Hungary",
+        "Republik Ungarn",
+        "République Populaire Hongroise",
+        "Transleithanien",
+        "Ungarische Räterepublik",
+        "Ungarische Republik",
+        "Ungarische VR",
+        "Ungarische Volksrepublik",
+        "Ungern",
+        "Vengerskaja Narodnaja Respublika",
+        "Vengrija",
+        "Volksrepublik Ungarn",
+        "Zemalja Ugarske Krune" ;
+    skos:prefLabel "Hungary" .
+
+<https://data.jhn.ngo/spatial/LBI_books/1244> a edm:Place ;
+    edm:identifier "http://digital.cjh.org/3219060",
+        "http://digital.cjh.org/3538820",
+        "http://digital.cjh.org/3816351" ;
+    owl:sameAs "http://d-nb.info/gnd/1025405-5",
+        "http://sws.geonames.org/3054643",
+        "http://viaf.org/viaf/154759119" ;
+    skos:altLabel "Aquincum",
+        "Boedapest",
+        "Buda",
+        "Budapest / Tanács",
+        "Budapesta",
+        "Budapestum",
+        "Budapeszt",
+        "Budapešt",
+        "Budapešta",
+        "Budimpešta",
+        "Haupt- und Residenzstadt Budapest",
+        "Ofen",
+        "Ofen-Pest",
+        "Ofenpest",
+        "Pest",
+        "Pest-Buda",
+        "Székesfőváros Budapest" ;
+    skos:prefLabel "Pest" .
+
+<https://data.jhn.ngo/spatial/LBI_books/1251> a edm:Place ;
+    edm:identifier "http://digital.cjh.org/3220388" ;
+    owl:sameAs "http://d-nb.info/gnd/2004272-3",
+        "http://d-nb.info/gnd/7761961-4",
+        "http://sws.geonames.org/2950157",
+        "http://viaf.org/viaf/122530980" ;
+    skos:altLabel "\"Besonderes Gebiet\" Berlin",
+        "Barlīn",
+        "Berlin (1945-1948)",
+        "Berlino",
+        "Berlinum",
+        "Berolino",
+        "Berolinon",
+        "Berolinum",
+        "Birlīn",
+        "Colonia Brandenburgica",
+        "Colonia Marchica",
+        "Coloniae Brandenburgicae",
+        "Cölln an der Spree",
+        "Cöln an der Spree",
+        "Gross-Berlin",
+        "Groß-Berlin",
+        "Großberlin",
+        "Haupt- und Residenz-Stadt Berlin",
+        "Hauptstadt Berlin",
+        "Land Berlin",
+        "Reichshauptstadt Berlin",
+        "Stadtgemeinde Berlin",
+        "Verolino" ;
+    skos:prefLabel "Berlin" .
+
+<https://data.jhn.ngo/spatial/LBI_books/1257> a edm:Place ;
+    edm:identifier "http://digital.cjh.org/3240492",
+        "http://digital.cjh.org/3624441",
+        "http://digital.cjh.org/3848668",
+        "http://digital.cjh.org/3848670",
+        "http://digital.cjh.org/4273171" ;
+    owl:sameAs "http://viaf.org/viaf/148299018" ;
+    skos:altLabel "Bratysława",
+        "Brezalauspurc",
+        "Hlavné Mesto SR Bratislava",
+        "Pisonium",
+        "Posonii",
+        "Posonium",
+        "Posony",
+        "Pozsony",
+        "Pozsony (1919-)",
+        "Pressburg",
+        "Preßburg",
+        "Preßburg (1919-)" ;
+    skos:prefLabel "Bratislava" .
+
+<https://data.jhn.ngo/spatial/LBI_books/1258> a edm:Place ;
+    edm:identifier "http://digital.cjh.org/3258315",
+        "http://digital.cjh.org/513145",
+        "http://digital.cjh.org/513440" ;
+    owl:sameAs "http://d-nb.info/gnd/2019833-4",
+        "http://sws.geonames.org/2994160",
+        "http://viaf.org/viaf/137746789" ;
+    skos:altLabel "Administration (Metz)",
+        "Conseil Municipal (Metz)",
+        "Dividunum",
+        "Divodurum",
+        "Maire (Metz)",
+        "Mediomatricum",
+        "Meti(s",
+        "Meties",
+        "Metium",
+        "Mettensis civitas",
+        "Metti(s",
+        "Mettis",
+        "Mettium",
+        "Metz / Administration",
+        "Metz / Conseil Municipal",
+        "Metz / Maire",
+        "Ville de Metz" ;
+    skos:prefLabel "Metz" .
+
+<https://data.jhn.ngo/spatial/LBI_books/1262> a edm:Place ;
+    edm:identifier "http://digital.cjh.org/3269090",
+        "http://digital.cjh.org/4271955" ;
+    owl:sameAs "http://d-nb.info/gnd/2028931-5",
+        "http://sws.geonames.org/2937958",
+        "http://sws.geonames.org/2937959",
+        "http://viaf.org/viaf/235892730",
+        "http://viaf.org/viaf/5006150085885215060007" ;
+    skos:altLabel "Dessau",
+        "Dessow" ;
+    skos:prefLabel "Dessau" .
+
+<https://data.jhn.ngo/spatial/LBI_books/1266> a edm:Place ;
+    edm:identifier "http://digital.cjh.org/3277201" ;
+    owl:sameAs "http://d-nb.info/gnd/1012345-3",
+        "http://sws.geonames.org/2761367",
+        "http://viaf.org/viaf/137212727" ;
+    skos:altLabel "Beč",
+        "Bécs",
+        "Biennē",
+        "Bundeshauptstadt Wien",
+        "Bundesland Wien",
+        "Bundesunmittelbare Stadt Wien",
+        "Dunaj",
+        "Gemeinde Wien",
+        "K.K. Reichshaupt- und Residenzstadt Wien",
+        "Kaiserlich-Königliche Reichshaupt- und Residenzstadt Wien",
+        "Land Wien",
+        "Reichsgau Wien",
+        "Reichshaupt- und Residenzstadt Wien",
+        "Stadt Wien",
+        "Vena",
+        "Viedeň",
+        "Viena",
+        "Vienna",
+        "Vienna (Austriae)",
+        "Vienna Fluviorum",
+        "Vienna Pannoniae",
+        "Vienne",
+        "Vienne (Österreich)",
+        "Viennē",
+        "Vin",
+        "Vindobona",
+        "Vindobona (Wien)",
+        "Vinna",
+        "Vídeň",
+        "Vjenë",
+        "Wenia",
+        "Wiedeń (Wien)",
+        "Wienn",
+        "Wienna",
+        "Wīn" ;
+    skos:prefLabel "Wien" .
+
+<https://data.jhn.ngo/spatial/LBI_books/1272> a edm:Place ;
+    edm:identifier "http://digital.cjh.org/3298160" ;
+    owl:sameAs "http://d-nb.info/gnd/2018847-X",
+        "http://sws.geonames.org/2848245",
+        "http://viaf.org/viaf/155939269" ;
+    skos:altLabel "Rendsborg",
+        "Rendsburg am Nord-Ostsee-Kanal",
+        "Stadt Rendsburg" ;
+    skos:prefLabel "Rendsburg" .
+
+<https://data.jhn.ngo/spatial/LBI_books/1273> a edm:Place ;
+    edm:identifier "http://digital.cjh.org/3298952",
+        "http://digital.cjh.org/3610051" ;
+    owl:sameAs "http://d-nb.info/gnd/108649816X",
+        "http://d-nb.info/gnd/15525-1",
+        "http://sws.geonames.org/2874545",
+        "http://viaf.org/viaf/138969780" ;
+    skos:altLabel "Landeshauptstadt Magdeburg",
+        "Magadoburg",
+        "Magdeburga",
+        "Magdeburgi",
+        "Magdeburgum",
+        "Meydeburg",
+        "Ottostadt Magdeburg",
+        "Parthenopolis",
+        "Stadt Magdeburg" ;
+    skos:prefLabel "Magdeburg" .
+
+<https://data.jhn.ngo/spatial/LBI_books/1276> a edm:Place ;
+    edm:identifier "http://digital.cjh.org/3306085",
+        "http://digital.cjh.org/3540522",
+        "http://digital.cjh.org/3817872",
+        "http://digital.cjh.org/3817950",
+        "http://digital.cjh.org/3826466",
+        "http://digital.cjh.org/3826529",
+        "http://digital.cjh.org/3827246",
+        "http://digital.cjh.org/4299519" ;
+    owl:sameAs "http://d-nb.info/gnd/2028615-6",
+        "http://sws.geonames.org/2892794",
+        "http://viaf.org/viaf/241322215" ;
+    skos:altLabel "Carlsruhe",
+        "Karlsrūe",
+        "Landeshauptstadt Karlsruhe",
+        "Residenzstadt Karlsruhe",
+        "Stadt Karlsruhe" ;
+    skos:prefLabel "Karlsruhe" .
+
+<https://data.jhn.ngo/spatial/LBI_books/1279> a edm:Place ;
+    edm:identifier "http://digital.cjh.org/334858",
+        "http://digital.cjh.org/4173532" ;
+    owl:sameAs "http://d-nb.info/gnd/2027981-4",
+        "http://sws.geonames.org/2812482",
+        "http://viaf.org/viaf/248973334" ;
+    skos:altLabel "Kreis Weimar-Stadt",
+        "Stadt Weimar",
+        "Vejmar",
+        "Vimaria",
+        "Vinaria",
+        "Weimar (Thüringen)",
+        "Wimares" ;
+    skos:prefLabel "Weimar" .
+
+<https://data.jhn.ngo/spatial/LBI_books/1290> a edm:Place ;
+    edm:identifier "http://digital.cjh.org/3518580" ;
+    owl:sameAs "http://d-nb.info/gnd/1001909-1",
+        "http://sws.geonames.org/2946447",
+        "http://viaf.org/viaf/242429635" ;
+    skos:altLabel "Bonna",
+        "Bundeshauptstadt Bonn",
+        "Bundesstadt Bonn",
+        "Castra Bonnensia",
+        "Stadt Bonn",
+        "Stadtkreis Bonn" ;
+    skos:prefLabel "Bonn" .
+
+<https://data.jhn.ngo/spatial/LBI_books/1292> a edm:Place ;
+    edm:identifier "http://digital.cjh.org/3519017",
+        "http://digital.cjh.org/4176507" ;
+    owl:sameAs "http://d-nb.info/gnd/2013198-7",
+        "http://sws.geonames.org/2910831",
+        "http://viaf.org/viaf/142200966" ;
+    skos:altLabel "Gannover",
+        "Hannovera",
+        "Hanover",
+        "Hanover (Niedersachsen)",
+        "Hanovera",
+        "Hanovere",
+        "Hauptstadt Hannover",
+        "Königliche Residenzstadt Hannover",
+        "Landeshauptstadt Hannover",
+        "Residenzstadt Hannover",
+        "Stadt Hannover" ;
+    skos:prefLabel "Hannover" .
+
+<https://data.jhn.ngo/spatial/LBI_books/1294> a edm:Place ;
+    edm:identifier "http://digital.cjh.org/3519833" ;
+    owl:sameAs "http://d-nb.info/gnd/127059-X",
+        "http://viaf.org/viaf/246641173" ;
+    skos:altLabel "Krotoszyn (Krotoschin)" ;
+    skos:prefLabel "Krotoschin" .
+
+<https://data.jhn.ngo/spatial/LBI_books/1295> a edm:Place ;
+    edm:identifier "http://digital.cjh.org/3522368" ;
+    owl:sameAs "http://d-nb.info/gnd/1028154-X",
+        "http://d-nb.info/gnd/15739-9",
+        "http://sws.geonames.org/3099434",
+        "http://viaf.org/viaf/123148700" ;
+    skos:altLabel "Dantiscum",
+        "Dantzig",
+        "Freie Stadt Danzig",
+        "Freistaat Danzig",
+        "Gdańsk",
+        "Gedanum",
+        "Gyddanzyc",
+        "Urza̧d Miejski w Gdańsku",
+        "Ville Libre de Dantzig",
+        "Ville Libre de Danzig" ;
+    skos:prefLabel "Danzig" .
+
+<https://data.jhn.ngo/spatial/LBI_books/1296> a edm:Place ;
+    edm:identifier "http://digital.cjh.org/3523442",
+        "http://digital.cjh.org/3543008",
+        "http://digital.cjh.org/3568720",
+        "http://digital.cjh.org/3569732",
+        "http://digital.cjh.org/3619188",
+        "http://digital.cjh.org/3773132",
+        "http://digital.cjh.org/3863463",
+        "http://digital.cjh.org/4069372",
+        "http://digital.cjh.org/4138184",
+        "http://digital.cjh.org/4192421" ;
+    owl:sameAs "http://d-nb.info/gnd/2018680-0",
+        "http://sws.geonames.org/2874225",
+        "http://viaf.org/viaf/123738720" ;
+    skos:altLabel "Bürgermeisterei Mainz",
+        "Großherzogliche Bürgermeisterei Mainz",
+        "Hessische Bürgermeisterei Mainz",
+        "Landeshauptstadt Mainz",
+        "Magenza",
+        "Maguncia",
+        "Maience",
+        "Mayence",
+        "Mayntz",
+        "Mäyntz",
+        "Meintz",
+        "Meyntz",
+        "Mogontiacum",
+        "Mogonus",
+        "Moguncja",
+        "Moguntia",
+        "Moguntiacum",
+        "Stadt Mainz" ;
+    skos:prefLabel "Mainz" .
+
+<https://data.jhn.ngo/spatial/LBI_books/1298> a edm:Place ;
+    edm:identifier "http://digital.cjh.org/3536215",
+        "http://digital.cjh.org/3547284",
+        "http://digital.cjh.org/3610458",
+        "http://digital.cjh.org/3865566",
+        "http://digital.cjh.org/4232875",
+        "http://digital.cjh.org/4355973",
+        "http://digital.cjh.org/48479",
+        "http://digital.cjh.org/796673" ;
+    owl:sameAs "http://d-nb.info/gnd/1029151-9",
+        "http://d-nb.info/gnd/2045123-4",
+        "http://sws.geonames.org/3067696",
+        "http://viaf.org/viaf/124497561" ;
+    skos:altLabel "Bezirk Prag",
+        "Hauptstadt Prag",
+        "Hlavni Město Praha",
+        "Praag",
+        "Prag (Kraj)",
+        "Praga",
+        "Prague",
+        "Praha" ;
+    skos:prefLabel "Praha" .
+
+<https://data.jhn.ngo/spatial/LBI_books/1300> a edm:Place ;
+    edm:identifier "http://digital.cjh.org/3538820" ;
+    owl:sameAs "http://d-nb.info/gnd/2018783-X",
+        "http://sws.geonames.org/719819",
+        "http://viaf.org/viaf/233974236" ;
+    skos:altLabel "Die Länder der ungarischen Krone",
+        "Government of the Hungarian Republic",
+        "HPR (Hungarian People's Republic)",
+        "Hongrie",
+        "Hungarian People's Republic",
+        "Hungarian Republic",
+        "Hungary",
+        "Königreich Ungarn",
+        "Magyar Köztársaság",
+        "Magyar Népköztársaság",
+        "Magyar Tanácsköztársaság",
+        "Magyarország",
+        "Republic of Hungary",
+        "Republik Ungarn",
+        "République Populaire Hongroise",
+        "Transleithanien",
+        "Ungarische Räterepublik",
+        "Ungarische Republik",
+        "Ungarische VR",
+        "Ungarische Volksrepublik",
+        "Ungern",
+        "Vengerskaja Narodnaja Respublika",
+        "Vengrija",
+        "Volksrepublik Ungarn",
+        "Zemalja Ugarske Krune" ;
+    skos:prefLabel "Hungary" .
+
+<https://data.jhn.ngo/spatial/LBI_books/1301> a edm:Place ;
+    edm:identifier "http://digital.cjh.org/3541083",
+        "http://digital.cjh.org/3543353",
+        "http://digital.cjh.org/5657712",
+        "http://digital.cjh.org/6243085",
+        "http://digital.cjh.org/6244724" ;
+    owl:sameAs "http://d-nb.info/gnd/35061-8",
+        "http://sws.geonames.org/3017382",
+        "http://viaf.org/viaf/265271214" ;
+    skos:altLabel "Empire Français",
+        "France",
+        "France (Royaume)",
+        "Francija",
+        "Frankreich (Kaiserreich)",
+        "Frankreich (Königreich)",
+        "Französische Republik",
+        "Fränkische Republik",
+        "La France",
+        "Repubblica Francese",
+        "République Française",
+        "Royaume Français",
+        "Ṣārfat" ;
+    skos:prefLabel "France" .
+
+<https://data.jhn.ngo/spatial/LBI_books/1302> a edm:Place ;
+    edm:identifier "http://digital.cjh.org/3541453" ;
+    owl:sameAs "http://d-nb.info/gnd/2027583-3",
+        "http://sws.geonames.org/2825297",
+        "http://viaf.org/viaf/150032508" ;
+    skos:altLabel "Capital City Stuttgart",
+        "Estugarda",
+        "Estugarola",
+        "Groß-Stuttgart",
+        "Landeshauptstadt Stuttgart",
+        "Shutsuttogaruto",
+        "Stadt Stuttgart",
+        "Stadt der Auslandsdeutschen",
+        "Stadt-Gemeinde Stuttgart",
+        "Stadtgemeinde Stuttgart",
+        "State Capital of Stuttgart",
+        "Stoccarda",
+        "Stoutgart",
+        "Stuotgarten",
+        "Stutgard",
+        "Stutgardia",
+        "Stuttgard",
+        "Stuttgardt",
+        "Štutgart",
+        "Unicef-Kinderstadt Stuttgart" ;
+    skos:prefLabel "Stuttgart" .
+
+<https://data.jhn.ngo/spatial/LBI_books/1303> a edm:Place ;
+    edm:identifier "http://digital.cjh.org/3541935" ;
+    owl:sameAs "http://d-nb.info/gnd/2023603-7",
+        "http://sws.geonames.org/2820256",
+        "http://viaf.org/viaf/247406865" ;
+    skos:altLabel "Alcimoe͏̈nnis",
+        "Stadt Ulm",
+        "Ulma" ;
+    skos:prefLabel "Ulm" .
+
+<https://data.jhn.ngo/spatial/LBI_books/1306> a edm:Place ;
+    edm:identifier "http://digital.cjh.org/3543736" ;
+    owl:sameAs "http://d-nb.info/gnd/42661-1",
+        "http://sws.geonames.org/2618425" ;
+    skos:altLabel "City of Copenhagen",
+        "Codania",
+        "Codonia",
+        "Copenaghen",
+        "Copenhaga",
+        "Copenhagen",
+        "Copenhague",
+        "Haffnia",
+        "Hafnia",
+        "Hafniæ",
+        "Haunia",
+        "Hauniae",
+        "Havnia",
+        "Kaupmannahöfn",
+        "Khavn",
+        "Kiöbenhavn",
+        "Kiøbenhavn",
+        "Kjøbenhavn",
+        "Kodaň",
+        "Kopengagen",
+        "Kopenhago",
+        "Kopenhavn",
+        "Koppenhagen",
+        "Köbmandshavn",
+        "Köpenhamn",
+        "København",
+        "Københavns Kommune",
+        "Vesterbro" ;
+    skos:prefLabel "Kopenhagen" .
+
+<https://data.jhn.ngo/spatial/LBI_books/1308> a edm:Place ;
+    edm:identifier "http://digital.cjh.org/3545068" ;
+    owl:sameAs "http://d-nb.info/gnd/2011764-4",
+        "http://sws.geonames.org/2953439",
+        "http://viaf.org/viaf/235464164",
+        "http://viaf.org/viaf/308729484" ;
+    skos:altLabel "Heresfelda",
+        "Herocampia",
+        "Herosveldensis Urbs",
+        "Herschfeld",
+        "Hersfeld",
+        "Hersfeld an der Fuld",
+        "Hersfeldae",
+        "Herssfeld",
+        "Hirschfeld",
+        "Hirsfeldia" ;
+    skos:prefLabel "Hersfeld" .
+
+<https://data.jhn.ngo/spatial/LBI_books/1309> a edm:Place ;
+    edm:identifier "http://digital.cjh.org/3545771" ;
+    owl:sameAs "http://d-nb.info/gnd/2020358-5",
+        "http://sws.geonames.org/2861982",
+        "http://viaf.org/viaf/242534170" ;
+    skos:altLabel "Harz",
+        "Nordhausen",
+        "Nordhausen am Harz",
+        "Northausen",
+        "Stadt Nordhausen" ;
+    skos:prefLabel "Nordhausen" .
+
+<https://data.jhn.ngo/spatial/LBI_books/1311> a edm:Place ;
+    edm:identifier "http://digital.cjh.org/3563006",
+        "http://digital.cjh.org/3563174" ;
+    owl:sameAs "http://d-nb.info/gnd/2026809-9",
+        "http://sws.geonames.org/2806142",
+        "http://viaf.org/viaf/158197473" ;
+    skos:altLabel "Borbetomagus",
+        "Civitas Vangionum",
+        "Guormatia",
+        "Stadt Worms",
+        "Vormatia",
+        "Warmatia",
+        "Wormacium",
+        "Wormatia",
+        "Wormbs" ;
+    skos:prefLabel "Worms" .
+
+<https://data.jhn.ngo/spatial/LBI_books/1313> a edm:Place ;
+    edm:identifier "http://digital.cjh.org/3563682" ;
+    owl:sameAs "http://d-nb.info/gnd/1030696-1",
+        "http://d-nb.info/gnd/1138374784",
+        "http://sws.geonames.org/3169070",
+        "http://viaf.org/viaf/273679855" ;
+    skos:altLabel "Città di Roma",
+        "Comune di Roma",
+        "Luoma",
+        "Rim",
+        "Roma",
+        "Roma Capitale",
+        "Rome",
+        "Rym",
+        "Rzym",
+        "Řím",
+        "Senatus Populusque Romanus" ;
+    skos:prefLabel "Roma" .
+
+<https://data.jhn.ngo/spatial/LBI_books/1315> a edm:Place ;
+    edm:identifier "http://digital.cjh.org/3570888",
+        "http://digital.cjh.org/3848985" ;
+    owl:sameAs "http://d-nb.info/gnd/15327-8",
+        "http://sws.geonames.org/2892518",
+        "http://viaf.org/viaf/236789692" ;
+    skos:altLabel "Casellae",
+        "Cassala",
+        "Cassel",
+        "Cassel (Hessen)",
+        "Cassel (Kassel)",
+        "Cassella",
+        "Cassla",
+        "Castellum ad Cattorum",
+        "Castellum ad Fuldam",
+        "Chassala",
+        "Chassalla",
+        "City of Kassel",
+        "Documenta-Stadt Kassel",
+        "Residenzstadt Cassel",
+        "Stadt Kassel" ;
+    skos:prefLabel "Kassel" .
+
+<https://data.jhn.ngo/spatial/LBI_books/1317> a edm:Place ;
+    edm:identifier "http://digital.cjh.org/3579464",
+        "http://digital.cjh.org/3863145" ;
+    owl:sameAs "http://sws.geonames.org/4560808",
+        "http://viaf.org/viaf/124251001" ;
+    skos:altLabel "Romanisches Sprachgebiet",
+        "Romanischsprachige Welt" ;
+    skos:prefLabel "Romania" .
+
+<https://data.jhn.ngo/spatial/LBI_books/1318> a edm:Place ;
+    edm:identifier "http://digital.cjh.org/3579464",
+        "http://digital.cjh.org/3641902" ;
+    owl:sameAs "http://d-nb.info/gnd/1029137-4",
+        "http://viaf.org/viaf/313404524" ;
+    skos:altLabel "Iassy",
+        "Iašii",
+        "Iaşi",
+        "Jassenmarkt",
+        "Jassy",
+        "Jászvásárhely",
+        "Yash",
+        "Yassi",
+        "Yaş" ;
+    skos:prefLabel "Jassy" .
+
+<https://data.jhn.ngo/spatial/LBI_books/1319> a edm:Place ;
+    edm:identifier "http://digital.cjh.org/35927" ;
+    owl:sameAs "http://d-nb.info/gnd/1029151-9",
+        "http://d-nb.info/gnd/2045123-4",
+        "http://sws.geonames.org/3067696",
+        "http://viaf.org/viaf/124497561" ;
+    skos:altLabel "Bezirk Prag",
+        "Hauptstadt Prag",
+        "Hlavni Město Praha",
+        "Praag",
+        "Prag (Kraj)",
+        "Praga",
+        "Prague",
+        "Praha" ;
+    skos:prefLabel "Prag" .
+
+<https://data.jhn.ngo/spatial/LBI_books/1322> a edm:Place ;
+    edm:identifier "http://digital.cjh.org/3607511" ;
+    owl:sameAs "http://d-nb.info/gnd/2069594-9",
+        "http://sws.geonames.org/2959508",
+        "http://viaf.org/viaf/235200818" ;
+    skos:altLabel "Stadt Adelsheim" ;
+    skos:prefLabel "Adelsheim" .
+
+<https://data.jhn.ngo/spatial/LBI_books/1323> a edm:Place ;
+    edm:identifier "http://digital.cjh.org/3610458",
+        "http://digital.cjh.org/3856239",
+        "http://digital.cjh.org/3863019",
+        "http://digital.cjh.org/4272372",
+        "http://digital.cjh.org/4273171" ;
+    owl:sameAs "http://d-nb.info/gnd/1003444-4",
+        "http://viaf.org/viaf/143697606",
+        "http://viaf.org/viaf/244551566" ;
+    skos:altLabel "Cecoslovacchia (ČSR)",
+        "Cecoslovacchia (ČSSR)",
+        "Checoeslovaquia (ČSR)",
+        "Checoeslovaquia (ČSSR)",
+        "Czechoslovak Socialist Republic",
+        "Czechoslovakia",
+        "Czechoslovakia (ČSR)",
+        "Czechoslovakia (ČSSR)",
+        "ČSFR",
+        "ČSR",
+        "ČSR (Československá Republika)",
+        "ČSSR",
+        "ČSSR (Československá Socialistická Republika)",
+        "Čechoslovakija (ČSR)",
+        "Čechoslovakija (ČSSR)",
+        "Čechoslovakische Republik",
+        "Čechoslovakische Republik ",
+        "Česká a Slovenská Federativní Republika",
+        "Československá Federativní Republika",
+        "Československá Federativní Republika ",
+        "Československá Republika",
+        "Československá Socialistická Republika",
+        "Československá republika (ČSR)",
+        "Československá socialistická republika (ČSSR)",
+        "Československo",
+        "Československo (ČSR)",
+        "Československo (ČSSR)",
+        "RČS",
+        "Republika Československá",
+        "République Tchécho-Slovaque",
+        "République Tchéco-Slovaque",
+        "République Tchéco-Slovaque ",
+        "République tchécoslovaque",
+        "Tchéchoslovaquie",
+        "Tchécoslovaquie",
+        "Tchécoslovaquie (ČSR)",
+        "Tchécoslovaquie (ČSSR)",
+        "Tchécoslovaquie ",
+        "Tschechische Republik (Československo)",
+        "Tschechische und Slowakische Föderative Republik",
+        "Tschechische und Slowakische Föderative Republik ",
+        "Tschechoslowakei",
+        "Tschechoslowakei (ČSR)",
+        "Tschechoslowakei (ČSSR)",
+        "Tschechoslowakische Republik",
+        "Tschechoslowakische Republik (ČSR)",
+        "Tschechoslowakische Republik ",
+        "Tschechoslowakische Sozialistische Republik",
+        "Tschechoslowakische Sozialistische Republik " ;
+    skos:prefLabel "Czechoslovakia" .
+
+<https://data.jhn.ngo/spatial/LBI_books/1324> a edm:Place ;
+    edm:identifier "http://digital.cjh.org/3614618" ;
+    owl:sameAs "http://d-nb.info/gnd/2017345-3",
+        "http://sws.geonames.org/3171728",
+        "http://viaf.org/viaf/137588063" ;
+    skos:altLabel "Comune di Padova",
+        "Padebe",
+        "Padoue",
+        "Padova",
+        "Padovia",
+        "Patavia",
+        "Patavium" ;
+    skos:prefLabel "Padova" .
+
+<https://data.jhn.ngo/spatial/LBI_books/1326> a edm:Place ;
+    edm:identifier "http://digital.cjh.org/3619535",
+        "http://digital.cjh.org/3826670" ;
+    owl:sameAs "http://d-nb.info/gnd/35746-7",
+        "http://sws.geonames.org/2944387",
+        "http://viaf.org/viaf/137159715" ;
+    skos:altLabel "Brema",
+        "Bremae",
+        "Bremeischer Staat",
+        "Bremensis civitas",
+        "Bremia",
+        "Bremischer Staat",
+        "Brême",
+        "Fabirana Saxonum",
+        "Fabiranum",
+        "Free Hanseatic City of Bremen",
+        "Freie Hansestadt Bremen",
+        "Freie und Hansestadt Bremen",
+        "Hansestadt Bremen",
+        "Heberanum",
+        "Land Bremen",
+        "Land Freie Hansestadt Bremen",
+        "Land und Stadtgemeinde Bremen",
+        "Phabiranum",
+        "Pregmensis civitas",
+        "Premensis civitas",
+        "Stadtgemeinde Bremen" ;
+    skos:prefLabel "Bremen" .
+
+<https://data.jhn.ngo/spatial/LBI_books/1327> a edm:Place ;
+    edm:identifier "http://digital.cjh.org/3619626" ;
+    owl:sameAs "http://d-nb.info/gnd/42661-1",
+        "http://sws.geonames.org/2618425" ;
+    skos:altLabel "City of Copenhagen",
+        "Codania",
+        "Codonia",
+        "Copenaghen",
+        "Copenhaga",
+        "Copenhagen",
+        "Copenhague",
+        "Haffnia",
+        "Hafnia",
+        "Hafniæ",
+        "Haunia",
+        "Hauniae",
+        "Havnia",
+        "Kaupmannahöfn",
+        "Khavn",
+        "Kiöbenhavn",
+        "Kiøbenhavn",
+        "Kjøbenhavn",
+        "Kodaň",
+        "Kopengagen",
+        "Kopenhago",
+        "Kopenhavn",
+        "Koppenhagen",
+        "Köbmandshavn",
+        "Köpenhamn",
+        "København",
+        "Københavns Kommune",
+        "Vesterbro" ;
+    skos:prefLabel "Copenhagen" .
+
+<https://data.jhn.ngo/spatial/LBI_books/1329> a edm:Place ;
+    edm:identifier "http://digital.cjh.org/3624575",
+        "http://digital.cjh.org/4151976" ;
+    owl:sameAs "http://d-nb.info/gnd/2013138-0",
+        "http://sws.geonames.org/2911297",
+        "http://viaf.org/viaf/133067777" ;
+    skos:altLabel "Amburgo",
+        "Augusta Gambriviorum",
+        "Bundesstaat Hamburg",
+        "Free and Hanseatic City of Hamburg",
+        "Freie Hansestadt Hamburg",
+        "Freie und Hansestadt Hamburg",
+        "Freistaat Hamburg",
+        "Gamburg (Hamburg)",
+        "Groß-Hamburg",
+        "Großhamburg",
+        "HH (Hansestadt Hamburg)",
+        "Hamborg",
+        "Hambourg",
+        "Hamburgh",
+        "Hamburgischer Staat",
+        "Hamburgisches Staatsgebiet",
+        "Hamburgo",
+        "Hamburgum",
+        "Hammipolis",
+        "Hammonia",
+        "Hammonia (Hamburg)",
+        "Hampuri",
+        "Hanbao",
+        "Hansestadt Hamburg",
+        "Kaiserliche Freie Reichsstadt Hamburg",
+        "Kayserliche Freye Reichs-Stadt Hamburg",
+        "Ville Libre et Hanséatique de Hambourg",
+        "Wolne i Hanzeatyckie Miasto Hamburg" ;
+    skos:prefLabel "Hamburg" .
+
+<https://data.jhn.ngo/spatial/LBI_books/1333> a edm:Place ;
+    edm:identifier "http://digital.cjh.org/3629588",
+        "http://digital.cjh.org/4295191" ;
+    owl:sameAs "http://d-nb.info/gnd/1085175685",
+        "http://d-nb.info/gnd/1087268060",
+        "http://d-nb.info/gnd/35878-2",
+        "http://sws.geonames.org/2782113",
+        "http://viaf.org/viaf/148842731" ;
+    skos:altLabel "Austria",
+        "Austrja",
+        "Austrya",
+        "Autriche",
+        "Bundesstaat Österreich",
+        "Cisleithanien",
+        "Deutschösterreich",
+        "Die im Reichsrat Vertretenen Königreiche und Länder (Österreich)",
+        "Habsburgermonarchie",
+        "Habsburgerreich",
+        "Kaiserthum Österreich",
+        "Kaisertum Österreich",
+        "Land Österreich",
+        "Ostmark",
+        "Ostmark (Österreich)",
+        "Österreich (Erste Republik)",
+        "Österreich (Zweite Republik)",
+        "Österreichische Monarchie",
+        "Republik Österreich",
+        "Staat Deutschösterreich",
+        "Zisleithanien" ;
+    skos:prefLabel "Austria" .
+
+<https://data.jhn.ngo/spatial/LBI_books/1334> a edm:Place ;
+    edm:identifier "http://digital.cjh.org/3638724",
+        "http://digital.cjh.org/4356850" ;
+    owl:sameAs "http://d-nb.info/gnd/1086020588",
+        "http://d-nb.info/gnd/2005439-7",
+        "http://sws.geonames.org/2951825",
+        "http://viaf.org/viaf/132490826" ;
+    skos:altLabel "Baireuth",
+        "Bareut",
+        "Baruthi",
+        "Baruthum",
+        "Burythum",
+        "Byruthi",
+        "Byruthum",
+        "Kreishauptstadt Bayreuth",
+        "Stadt Bayreuth" ;
+    skos:prefLabel "Bayreuth" .
+
+<https://data.jhn.ngo/spatial/LBI_books/1343> a edm:Place ;
+    edm:identifier "http://digital.cjh.org/3672374" ;
+    owl:sameAs "http://sws.geonames.org/3097257",
+        "http://viaf.org/viaf/139700831" ;
+    skos:altLabel "Herschbrich",
+        "Herschbrig",
+        "Hirschberg",
+        "Hirschberg im Riesengebirge",
+        "Hirschberg in Schlesien",
+        "Hiršberk",
+        "Hornšperk",
+        "Jelení Hora" ;
+    skos:prefLabel "Hirschberg" .
+
+<https://data.jhn.ngo/spatial/LBI_books/1345> a edm:Place ;
+    edm:identifier "http://digital.cjh.org/3687334",
+        "http://digital.cjh.org/4356889" ;
+    owl:sameAs "http://d-nb.info/gnd/2012649-9",
+        "http://sws.geonames.org/2917788",
+        "http://viaf.org/viaf/237228190" ;
+    skos:altLabel "Greifsvaldas",
+        "Gryfia",
+        "Gryphisvaldia",
+        "Gryphiswaldiae",
+        "Hansestadt Greifswald",
+        "Universitäts- und Hansestadt Greifswald" ;
+    skos:prefLabel "Greifswald" .
+
+<https://data.jhn.ngo/spatial/LBI_books/1349> a edm:Place ;
+    edm:identifier "http://digital.cjh.org/3692613" ;
+    owl:sameAs "http://d-nb.info/gnd/2013138-0",
+        "http://sws.geonames.org/2911297",
+        "http://viaf.org/viaf/133067777" ;
+    skos:altLabel "Amburgo",
+        "Augusta Gambriviorum",
+        "Bundesstaat Hamburg",
+        "Free and Hanseatic City of Hamburg",
+        "Freie Hansestadt Hamburg",
+        "Freie und Hansestadt Hamburg",
+        "Freistaat Hamburg",
+        "Gamburg (Hamburg)",
+        "Groß-Hamburg",
+        "Großhamburg",
+        "HH (Hansestadt Hamburg)",
+        "Hamborg",
+        "Hambourg",
+        "Hamburgh",
+        "Hamburgischer Staat",
+        "Hamburgisches Staatsgebiet",
+        "Hamburgo",
+        "Hamburgum",
+        "Hammipolis",
+        "Hammonia",
+        "Hammonia (Hamburg)",
+        "Hampuri",
+        "Hanbao",
+        "Hansestadt Hamburg",
+        "Kaiserliche Freie Reichsstadt Hamburg",
+        "Kayserliche Freye Reichs-Stadt Hamburg",
+        "Ville Libre et Hanséatique de Hambourg",
+        "Wolne i Hanzeatyckie Miasto Hamburg" ;
+    skos:prefLabel "Hamburg" .
+
+<https://data.jhn.ngo/spatial/LBI_books/1350> a edm:Place ;
+    edm:identifier "http://digital.cjh.org/3692812" ;
+    owl:sameAs "http://d-nb.info/gnd/2023010-2",
+        "http://d-nb.info/gnd/2023438-7",
+        "http://sws.geonames.org/3083829",
+        "http://viaf.org/viaf/150642325" ;
+    skos:altLabel "Alten Stettin",
+        "Groß Stettin",
+        "Olden Stettin",
+        "Sedinum",
+        "Stadtkreis Stettin",
+        "Stetina",
+        "Szczecin",
+        "Ščecinas",
+        "Štětín" ;
+    skos:prefLabel "Stettin" .
+
+<https://data.jhn.ngo/spatial/LBI_books/1353> a edm:Place ;
+    edm:identifier "http://digital.cjh.org/3773136",
+        "http://digital.cjh.org/63436" ;
+    owl:sameAs "http://d-nb.info/gnd/15327-8",
+        "http://d-nb.info/gnd/3021824-X",
+        "http://sws.geonames.org/2892518",
+        "http://sws.geonames.org/3028440",
+        "http://viaf.org/viaf/235648769",
+        "http://viaf.org/viaf/236789692" ;
+    skos:altLabel "Casellae",
+        "Cassala",
+        "Cassel",
+        "Cassel (Hessen)",
+        "Cassel (Kassel)",
+        "Cassella",
+        "Cassla",
+        "Castellum ad Cattorum",
+        "Castellum ad Fuldam",
+        "Chassala",
+        "Chassalla",
+        "City of Kassel",
+        "Documenta-Stadt Kassel",
+        "Residenzstadt Cassel",
+        "Stadt Kassel" ;
+    skos:prefLabel "Cassel" .
+
+<https://data.jhn.ngo/spatial/LBI_books/1354> a edm:Place ;
+    edm:identifier "http://digital.cjh.org/379837",
+        "http://digital.cjh.org/4047411",
+        "http://digital.cjh.org/513522" ;
+    owl:sameAs "http://d-nb.info/gnd/1012345-3",
+        "http://sws.geonames.org/2761367",
+        "http://viaf.org/viaf/137212727" ;
+    skos:altLabel "Beč",
+        "Bécs",
+        "Biennē",
+        "Bundeshauptstadt Wien",
+        "Bundesland Wien",
+        "Bundesunmittelbare Stadt Wien",
+        "Dunaj",
+        "Gemeinde Wien",
+        "K.K. Reichshaupt- und Residenzstadt Wien",
+        "Kaiserlich-Königliche Reichshaupt- und Residenzstadt Wien",
+        "Land Wien",
+        "Reichsgau Wien",
+        "Reichshaupt- und Residenzstadt Wien",
+        "Stadt Wien",
+        "Vena",
+        "Viedeň",
+        "Viena",
+        "Vienna",
+        "Vienna (Austriae)",
+        "Vienna Fluviorum",
+        "Vienna Pannoniae",
+        "Vienne",
+        "Vienne (Österreich)",
+        "Viennē",
+        "Vin",
+        "Vindobona",
+        "Vindobona (Wien)",
+        "Vinna",
+        "Vídeň",
+        "Vjenë",
+        "Wenia",
+        "Wiedeń (Wien)",
+        "Wienn",
+        "Wienna",
+        "Wīn" ;
+    skos:prefLabel "Vienna" .
+
+<https://data.jhn.ngo/spatial/LBI_books/1355> a edm:Place ;
+    edm:identifier "http://digital.cjh.org/3804523" ;
+    owl:sameAs "http://d-nb.info/gnd/2027905-X",
+        "http://sws.geonames.org/2820860",
+        "http://viaf.org/viaf/245608584" ;
+    skos:altLabel "Stadt Tübingen",
+        "Tjubingen",
+        "Tubinga",
+        "Tubingae",
+        "Tüwingen",
+        "Twingia",
+        "Universitätsstadt Tübingen" ;
+    skos:prefLabel "Tubingae" .
+
+<https://data.jhn.ngo/spatial/LBI_books/1356> a edm:Place ;
+    edm:identifier "http://digital.cjh.org/3804801" ;
+    owl:sameAs "http://d-nb.info/gnd/2012920-8",
+        "http://sws.geonames.org/2912829",
+        "http://viaf.org/viaf/123186397" ;
+    skos:altLabel "Hadamar / Magistrat",
+        "Magistrat (Hadamar)" ;
+    skos:prefLabel "Hadamar" .
+
+<https://data.jhn.ngo/spatial/LBI_books/1357> a edm:Place ;
+    edm:identifier "http://digital.cjh.org/3804801" ;
+    owl:sameAs "http://d-nb.info/gnd/2012920-8",
+        "http://sws.geonames.org/2912829",
+        "http://viaf.org/viaf/123186397" ;
+    skos:altLabel "Hadamar / Magistrat",
+        "Magistrat (Hadamar)" ;
+    skos:prefLabel "Hadamar" .
+
+<https://data.jhn.ngo/spatial/LBI_books/1358> a edm:Place ;
+    edm:identifier "http://digital.cjh.org/3804840" ;
+    owl:sameAs "http://d-nb.info/gnd/1029151-9",
+        "http://d-nb.info/gnd/2045123-4",
+        "http://sws.geonames.org/3067696",
+        "http://viaf.org/viaf/124497561" ;
+    skos:altLabel "Bezirk Prag",
+        "Hauptstadt Prag",
+        "Hlavni Město Praha",
+        "Praag",
+        "Prag (Kraj)",
+        "Praga",
+        "Prague",
+        "Praha" ;
+    skos:prefLabel "Prague" .
+
+<https://data.jhn.ngo/spatial/LBI_books/1359> a edm:Place ;
+    edm:identifier "http://digital.cjh.org/3815053" ;
+    owl:sameAs "http://d-nb.info/gnd/1003556-4",
+        "http://sws.geonames.org/2929567",
+        "http://viaf.org/viaf/144240409" ;
+    skos:altLabel "Erlangae",
+        "Stadt Erlangen" ;
+    skos:prefLabel "Erlangen" .
+
+<https://data.jhn.ngo/spatial/LBI_books/1365> a edm:Place ;
+    edm:identifier "http://digital.cjh.org/3817903" ;
+    owl:sameAs "http://d-nb.info/gnd/118280-8",
+        "http://sws.geonames.org/2879109",
+        "http://viaf.org/viaf/241477905" ;
+    skos:altLabel "Leisnick",
+        "Leysnick" ;
+    skos:prefLabel "Leisnig" .
+
+<https://data.jhn.ngo/spatial/LBI_books/1368> a edm:Place ;
+    edm:identifier "http://digital.cjh.org/3826868" ;
+    owl:sameAs "http://d-nb.info/gnd/1086114566",
+        "http://d-nb.info/gnd/2005087-2",
+        "http://sws.geonames.org/3865483",
+        "http://viaf.org/viaf/243874319",
+        "http://viaf.org/viaf/244956327" ;
+    skos:altLabel "Argentina",
+        "Argentinah",
+        "Argentine",
+        "Argentine Republic",
+        "Confederación Argentina",
+        "República Argentina",
+        "République Argentine" ;
+    skos:prefLabel "Argentine" .
+
+<https://data.jhn.ngo/spatial/LBI_books/1369> a edm:Place ;
+    edm:identifier "http://digital.cjh.org/3827309" ;
+    owl:sameAs "http://d-nb.info/gnd/2016698-9",
+        "http://sws.geonames.org/2953416",
+        "http://viaf.org/viaf/133170544" ;
+    skos:altLabel "Bad Creuznach",
+        "Creuznach",
+        "Heilbad Bad Kreunach",
+        "Kreuznach",
+        "Stadt Bad Kreuznach",
+        "Stadt Kreuznach" ;
+    skos:prefLabel "Kreuznach" .
+
+<https://data.jhn.ngo/spatial/LBI_books/1371> a edm:Place ;
+    edm:identifier "http://digital.cjh.org/3827476" ;
+    owl:sameAs "http://d-nb.info/gnd/2011242-7",
+        "http://sws.geonames.org/2923822",
+        "http://viaf.org/viaf/242520002" ;
+    skos:altLabel "Fuldae",
+        "Fuldense Coenobium",
+        "Fuldinsis",
+        "Stadt Fulda" ;
+    skos:prefLabel "Fulda" .
+
+<https://data.jhn.ngo/spatial/LBI_books/1372> a edm:Place ;
+    edm:identifier "http://digital.cjh.org/3827547" ;
+    owl:sameAs "http://d-nb.info/gnd/2028969-8",
+        "http://sws.geonames.org/2884509",
+        "http://viaf.org/viaf/137750346" ;
+    skos:altLabel "Crefeld",
+        "Stadt Crefeld",
+        "Stadt Krefeld" ;
+    skos:prefLabel "Crefeld" .
+
+<https://data.jhn.ngo/spatial/LBI_books/1373> a edm:Place ;
+    edm:identifier "http://digital.cjh.org/3827633" ;
+    owl:sameAs "http://d-nb.info/gnd/1008734-5",
+        "http://d-nb.info/gnd/19703-8",
+        "http://sws.geonames.org/3088171",
+        "http://viaf.org/viaf/241379661" ;
+    skos:altLabel "Miasto Stołeczne Poznań",
+        "Posna",
+        "Posnania",
+        "Poznań",
+        "Pozniań",
+        "Stołeczne Miasto Poznań" ;
+    skos:prefLabel "Posen" .
+
+<https://data.jhn.ngo/spatial/LBI_books/1375> a edm:Place ;
+    edm:identifier "http://digital.cjh.org/3827997",
+        "http://digital.cjh.org/3832443",
+        "http://digital.cjh.org/3848672",
+        "http://digital.cjh.org/4320894" ;
+    owl:sameAs "http://d-nb.info/gnd/36365-0",
+        "http://sws.geonames.org/798544",
+        "http://viaf.org/viaf/136799817" ;
+    skos:altLabel "Besetzte Polnische Gebiete",
+        "Besetztes Gebiet in Polen",
+        "Generalgouvernement Polen",
+        "Generalne Gubernatorstwo w Polsce",
+        "Gubernija Carstva Pol'skago",
+        "Lenkija",
+        "Obszary Okupowane w Polsce",
+        "Okupowane Polskie Obszary",
+        "Pol'skaja Narodnaja Respublika",
+        "Poland",
+        "Polen (Generalgouvernement)",
+        "Polen Links der Weichsel",
+        "Polija",
+        "Polish People's Republic",
+        "Pologne",
+        "Polska",
+        "Polska (Generalgouvernement)",
+        "Polska Rosyjska",
+        "Polska Rzeczpospolita (Polen)",
+        "Polska Rzeczpospolita Ludowa",
+        "Polska po Lewej Stronie Wisły",
+        "Republic Polen",
+        "Republik Polen",
+        "Respublika Pol'ša",
+        "République Polonaise",
+        "République de Pologne",
+        "Rzeczpospolita Polska",
+        "Volksrepublik Polen" ;
+    skos:prefLabel "Poland" .
+
+<https://data.jhn.ngo/spatial/LBI_books/1377> a edm:Place ;
+    edm:identifier "http://digital.cjh.org/3832443" ;
+    owl:sameAs "http://d-nb.info/gnd/36365-0",
+        "http://sws.geonames.org/798544",
+        "http://viaf.org/viaf/136799817" ;
+    skos:altLabel "Besetzte Polnische Gebiete",
+        "Besetztes Gebiet in Polen",
+        "Generalgouvernement Polen",
+        "Generalne Gubernatorstwo w Polsce",
+        "Gubernija Carstva Pol'skago",
+        "Lenkija",
+        "Obszary Okupowane w Polsce",
+        "Okupowane Polskie Obszary",
+        "Pol'skaja Narodnaja Respublika",
+        "Poland",
+        "Polen (Generalgouvernement)",
+        "Polen Links der Weichsel",
+        "Polija",
+        "Polish People's Republic",
+        "Pologne",
+        "Polska",
+        "Polska (Generalgouvernement)",
+        "Polska Rosyjska",
+        "Polska Rzeczpospolita (Polen)",
+        "Polska Rzeczpospolita Ludowa",
+        "Polska po Lewej Stronie Wisły",
+        "Republic Polen",
+        "Republik Polen",
+        "Respublika Pol'ša",
+        "République Polonaise",
+        "République de Pologne",
+        "Rzeczpospolita Polska",
+        "Volksrepublik Polen" ;
+    skos:prefLabel "Poland" .
+
+<https://data.jhn.ngo/spatial/LBI_books/1380> a edm:Place ;
+    edm:identifier "http://digital.cjh.org/3848668",
+        "http://digital.cjh.org/3848670" ;
+    owl:sameAs "http://d-nb.info/gnd/1009812-4",
+        "http://d-nb.info/gnd/1085174743",
+        "http://d-nb.info/gnd/1085975827",
+        "http://sws.geonames.org/3057568",
+        "http://viaf.org/viaf/133623644" ;
+    skos:altLabel "Oberungarn",
+        "République Slovaque",
+        "République Socialiste Slovaque",
+        "Slovak Republic",
+        "Slovak Socialist Republic",
+        "Slovakia",
+        "Slovaquie",
+        "Slovenská Republika",
+        "Slovenská SR",
+        "Slovenská Socialistická Republika",
+        "Slovensko",
+        "Slowakische Republik",
+        "Slowakische Sozialistische Republik" ;
+    skos:prefLabel "Slovakia" .
+
+<https://data.jhn.ngo/spatial/LBI_books/1385> a edm:Place ;
+    edm:identifier "http://digital.cjh.org/3852145",
+        "http://digital.cjh.org/3852224",
+        "http://digital.cjh.org/3852303",
+        "http://digital.cjh.org/3863145" ;
+    owl:sameAs "http://sws.geonames.org/4560808",
+        "http://viaf.org/viaf/124251001" ;
+    skos:altLabel "Romanisches Sprachgebiet",
+        "Romanischsprachige Welt" ;
+    skos:prefLabel "Romania" .
+
+<https://data.jhn.ngo/spatial/LBI_books/1387> a edm:Place ;
+    edm:identifier "http://digital.cjh.org/3856239" ;
+    owl:sameAs "http://d-nb.info/gnd/2006035-X",
+        "http://sws.geonames.org/2781503",
+        "http://viaf.org/viaf/157097748" ;
+    skos:altLabel "Brigantia",
+        "Brigantium",
+        "Landeshauptstadt Bregenz",
+        "Stadtgemeinde Bregenz" ;
+    skos:prefLabel "Bregenz" .
+
+<https://data.jhn.ngo/spatial/LBI_books/1388> a edm:Place ;
+    edm:identifier "http://digital.cjh.org/3856652" ;
+    owl:sameAs "http://d-nb.info/gnd/2017273-4",
+        "http://sws.geonames.org/2855745",
+        "http://viaf.org/viaf/155932362" ;
+    skos:altLabel "Padiborna",
+        "Patherbrunna",
+        "Stadt Paderborn" ;
+    skos:prefLabel "Paderborn" .
+
+<https://data.jhn.ngo/spatial/LBI_books/1390> a edm:Place ;
+    edm:identifier "http://digital.cjh.org/3861753" ;
+    owl:sameAs "http://d-nb.info/gnd/2009698-7",
+        "http://sws.geonames.org/2928810",
+        "http://viaf.org/viaf/125488872" ;
+    skos:altLabel "Assindia",
+        "Stadt Essen" ;
+    skos:prefLabel "Essen" .
+
+<https://data.jhn.ngo/spatial/LBI_books/1392> a edm:Place ;
+    edm:identifier "http://digital.cjh.org/3862363" ;
+    owl:sameAs "http://d-nb.info/gnd/1008734-5",
+        "http://d-nb.info/gnd/19703-8",
+        "http://sws.geonames.org/3088171",
+        "http://viaf.org/viaf/241379661" ;
+    skos:altLabel "Miasto Stołeczne Poznań",
+        "Posna",
+        "Posnania",
+        "Poznań",
+        "Pozniań",
+        "Stołeczne Miasto Poznań" ;
+    skos:prefLabel "Posen" .
+
+<https://data.jhn.ngo/spatial/LBI_books/1393> a edm:Place ;
+    edm:identifier "http://digital.cjh.org/3863074" ;
+    owl:sameAs "http://d-nb.info/gnd/1029759-5",
+        "http://sws.geonames.org/715429",
+        "http://viaf.org/viaf/137203033" ;
+    skos:altLabel "Seged",
+        "Szegedin" ;
+    skos:prefLabel "Szegedin" .
+
+<https://data.jhn.ngo/spatial/LBI_books/1395> a edm:Place ;
+    edm:identifier "http://digital.cjh.org/3883318" ;
+    owl:sameAs "http://d-nb.info/gnd/1028722-X",
+        "http://sws.geonames.org/3193935",
+        "http://viaf.org/viaf/158914361",
+        "http://viaf.org/viaf/249008706" ;
+    skos:altLabel "Colonia Aelia Mursa",
+        "Esseck",
+        "Esseg",
+        "Essek",
+        "Eszék",
+        "Eszék (Esseg)",
+        "Mursa",
+        "Osiek (Esseg)",
+        "Osiek (Kroatien)",
+        "Osijek (Esseg)",
+        "Osjek" ;
+    skos:prefLabel "Essek" .
+
+<https://data.jhn.ngo/spatial/LBI_books/1396> a edm:Place ;
+    edm:identifier "http://digital.cjh.org/3887940" ;
+    owl:sameAs "http://d-nb.info/gnd/2011859-4",
+        "http://sws.geonames.org/2905891",
+        "http://viaf.org/viaf/130155724" ;
+    skos:altLabel "Cherne",
+        "Stadt Herne",
+        "Stadtgemeinde Herne" ;
+    skos:prefLabel "Herne" .
+
+<https://data.jhn.ngo/spatial/LBI_books/1397> a edm:Place ;
+    edm:identifier "http://digital.cjh.org/4026539" ;
+    owl:sameAs "http://d-nb.info/gnd/1085174751",
+        "http://d-nb.info/gnd/2019800-0",
+        "http://sws.geonames.org/2017370",
+        "http://viaf.org/viaf/140306806" ;
+    skos:altLabel "Empire de Russie",
+        "Federacja Rosyjska",
+        "Federazione Russa",
+        "Großrussland",
+        "Großrußland",
+        "Krievija",
+        "RF (Rossija)",
+        "Rosja",
+        "Rossija",
+        "Rossijskaja Federacija",
+        "Rossijskaja Imperija",
+        "Russia",
+        "Russia (-1917; 1992-)",
+        "Russian Federation",
+        "Russie",
+        "Russische Föderation",
+        "Russland (-1917 ; 1992-)",
+        "Rußland",
+        "РФ",
+        "Российская Империя",
+        "Российская Федерация" ;
+    skos:prefLabel "Russia" .
+
+<https://data.jhn.ngo/spatial/LBI_books/1403> a edm:Place ;
+    edm:identifier "http://digital.cjh.org/4142960" ;
+    owl:sameAs "http://d-nb.info/gnd/2026318-1",
+        "http://sws.geonames.org/7303020",
+        "http://viaf.org/viaf/122634418" ;
+    skos:altLabel "Albiburgum",
+        "Albiorium",
+        "Lutherstadt Wittenberg",
+        "Stadt Wittenberg",
+        "Stadtkreis Wittenberg",
+        "Viteberga",
+        "Vitemberga",
+        "Witeberga",
+        "Witebergae",
+        "Witteberga",
+        "Wittebergae",
+        "Wittemberg",
+        "Wittenberg Lutherstadt",
+        "Wittenbergae",
+        "Wyttemberg" ;
+    skos:prefLabel "Wittenberg" .
+
+<https://data.jhn.ngo/spatial/LBI_books/1414> a edm:Place ;
+    edm:identifier "http://digital.cjh.org/4180074" ;
+    owl:sameAs "http://d-nb.info/gnd/2011816-8",
+        "http://sws.geonames.org/2904789",
+        "http://viaf.org/viaf/311114512" ;
+    skos:altLabel "Ascalingii",
+        "Hildesia",
+        "Hildesiae",
+        "Stadt Hildesheim" ;
+    skos:prefLabel "Hildesheim" .
+
+<https://data.jhn.ngo/spatial/LBI_books/1419> a edm:Place ;
+    edm:identifier "http://digital.cjh.org/4193072" ;
+    owl:sameAs "http://d-nb.info/gnd/301924-X",
+        "http://sws.geonames.org/3074199",
+        "http://viaf.org/viaf/141322547",
+        "http://viaf.org/viaf/246074140" ;
+    skos:altLabel "Iglau",
+        "Iglau (Jihlava)",
+        "Jihlavě",
+        "Statutarstadt Jihlava" ;
+    skos:prefLabel "Iglau" .
+
+<https://data.jhn.ngo/spatial/LBI_books/1421> a edm:Place ;
+    edm:identifier "http://digital.cjh.org/4216884" ;
+    owl:sameAs "http://d-nb.info/gnd/1001829-3",
+        "http://sws.geonames.org/2938913",
+        "http://viaf.org/viaf/153612989" ;
+    skos:altLabel "Darmundestat",
+        "Stadt Darmstadt",
+        "Wissenschaftsstadt Darmstadt" ;
+    skos:prefLabel "Darmstadt" .
+
+<https://data.jhn.ngo/spatial/LBI_books/1438> a edm:Place ;
+    edm:identifier "http://digital.cjh.org/4277873" ;
+    owl:sameAs "http://d-nb.info/gnd/16108546-5",
+        "http://d-nb.info/gnd/2003349-7",
+        "http://sws.geonames.org/2861650",
+        "http://viaf.org/viaf/148910146" ;
+    skos:altLabel "Freie Reichsstadt Nürnberg",
+        "Njurnberg",
+        "Noremberga",
+        "Noriberga",
+        "Noribergae",
+        "Norimberga",
+        "Norimbergae",
+        "Norimberk",
+        "Norinberga",
+        "Norymberga",
+        "Nuremberg",
+        "Nurmberg",
+        "Nürenberg",
+        "Nürmberg",
+        "Stadt Nürnberg",
+        "Stadt der Reichsparteitage",
+        "Stadt der Reichsparteitage Nürnberg",
+        "Stadtgemeinde Nürnberg" ;
+    skos:prefLabel "Nuremberg" .
+
+<https://data.jhn.ngo/spatial/LBI_books/1439> a edm:Place ;
+    edm:identifier "http://digital.cjh.org/4279882" ;
+    owl:sameAs "http://d-nb.info/gnd/1003444-4",
+        "http://viaf.org/viaf/143697606",
+        "http://viaf.org/viaf/244551566" ;
+    skos:altLabel "Cecoslovacchia (ČSR)",
+        "Cecoslovacchia (ČSSR)",
+        "Checoeslovaquia (ČSR)",
+        "Checoeslovaquia (ČSSR)",
+        "Czechoslovak Socialist Republic",
+        "Czechoslovakia",
+        "Czechoslovakia (ČSR)",
+        "Czechoslovakia (ČSSR)",
+        "ČSFR",
+        "ČSR",
+        "ČSR (Československá Republika)",
+        "ČSSR",
+        "ČSSR (Československá Socialistická Republika)",
+        "Čechoslovakija (ČSR)",
+        "Čechoslovakija (ČSSR)",
+        "Čechoslovakische Republik",
+        "Čechoslovakische Republik ",
+        "Česká a Slovenská Federativní Republika",
+        "Československá Federativní Republika",
+        "Československá Federativní Republika ",
+        "Československá Republika",
+        "Československá Socialistická Republika",
+        "Československá republika (ČSR)",
+        "Československá socialistická republika (ČSSR)",
+        "Československo",
+        "Československo (ČSR)",
+        "Československo (ČSSR)",
+        "RČS",
+        "Republika Československá",
+        "République Tchécho-Slovaque",
+        "République Tchéco-Slovaque",
+        "République Tchéco-Slovaque ",
+        "République tchécoslovaque",
+        "Tchéchoslovaquie",
+        "Tchécoslovaquie",
+        "Tchécoslovaquie (ČSR)",
+        "Tchécoslovaquie (ČSSR)",
+        "Tchécoslovaquie ",
+        "Tschechische Republik (Československo)",
+        "Tschechische und Slowakische Föderative Republik",
+        "Tschechische und Slowakische Föderative Republik ",
+        "Tschechoslowakei",
+        "Tschechoslowakei (ČSR)",
+        "Tschechoslowakei (ČSSR)",
+        "Tschechoslowakische Republik",
+        "Tschechoslowakische Republik (ČSR)",
+        "Tschechoslowakische Republik ",
+        "Tschechoslowakische Sozialistische Republik",
+        "Tschechoslowakische Sozialistische Republik " ;
+    skos:prefLabel "Czechoslovakia" .
+
+<https://data.jhn.ngo/spatial/LBI_books/1444> a edm:Place ;
+    edm:identifier "http://digital.cjh.org/4281468" ;
+    owl:sameAs "http://d-nb.info/gnd/1012345-3",
+        "http://sws.geonames.org/2761367",
+        "http://viaf.org/viaf/137212727" ;
+    skos:altLabel "Beč",
+        "Bécs",
+        "Biennē",
+        "Bundeshauptstadt Wien",
+        "Bundesland Wien",
+        "Bundesunmittelbare Stadt Wien",
+        "Dunaj",
+        "Gemeinde Wien",
+        "K.K. Reichshaupt- und Residenzstadt Wien",
+        "Kaiserlich-Königliche Reichshaupt- und Residenzstadt Wien",
+        "Land Wien",
+        "Reichsgau Wien",
+        "Reichshaupt- und Residenzstadt Wien",
+        "Stadt Wien",
+        "Vena",
+        "Viedeň",
+        "Viena",
+        "Vienna",
+        "Vienna (Austriae)",
+        "Vienna Fluviorum",
+        "Vienna Pannoniae",
+        "Vienne",
+        "Vienne (Österreich)",
+        "Viennē",
+        "Vin",
+        "Vindobona",
+        "Vindobona (Wien)",
+        "Vinna",
+        "Vídeň",
+        "Vjenë",
+        "Wenia",
+        "Wiedeń (Wien)",
+        "Wienn",
+        "Wienna",
+        "Wīn" ;
+    skos:prefLabel "Vienna" .
+
+<https://data.jhn.ngo/spatial/LBI_books/1445> a edm:Place ;
+    edm:identifier "http://digital.cjh.org/4281468" ;
+    owl:sameAs "http://d-nb.info/gnd/1012345-3",
+        "http://sws.geonames.org/2761367",
+        "http://viaf.org/viaf/137212727" ;
+    skos:altLabel "Beč",
+        "Bécs",
+        "Biennē",
+        "Bundeshauptstadt Wien",
+        "Bundesland Wien",
+        "Bundesunmittelbare Stadt Wien",
+        "Dunaj",
+        "Gemeinde Wien",
+        "K.K. Reichshaupt- und Residenzstadt Wien",
+        "Kaiserlich-Königliche Reichshaupt- und Residenzstadt Wien",
+        "Land Wien",
+        "Reichsgau Wien",
+        "Reichshaupt- und Residenzstadt Wien",
+        "Stadt Wien",
+        "Vena",
+        "Viedeň",
+        "Viena",
+        "Vienna",
+        "Vienna (Austriae)",
+        "Vienna Fluviorum",
+        "Vienna Pannoniae",
+        "Vienne",
+        "Vienne (Österreich)",
+        "Viennē",
+        "Vin",
+        "Vindobona",
+        "Vindobona (Wien)",
+        "Vinna",
+        "Vídeň",
+        "Vjenë",
+        "Wenia",
+        "Wiedeń (Wien)",
+        "Wienn",
+        "Wienna",
+        "Wīn" ;
+    skos:prefLabel "Vienna" .
+
+<https://data.jhn.ngo/spatial/LBI_books/1446> a edm:Place ;
+    edm:identifier "http://digital.cjh.org/4292757" ;
+    owl:sameAs "http://d-nb.info/gnd/1027644-0",
+        "http://sws.geonames.org/2759794",
+        "http://viaf.org/viaf/158824135" ;
+    skos:altLabel "Ambsterdam",
+        "Amisterdam",
+        "Amstelaedamum",
+        "Amsteldam",
+        "Amstelodamum",
+        "Amstelredam",
+        "Amstelredamum",
+        "Amsterodamum",
+        "Gemeente Amsterdam" ;
+    skos:prefLabel "Amsterdam" .
+
+<https://data.jhn.ngo/spatial/LBI_books/1447> a edm:Place ;
+    edm:identifier "http://digital.cjh.org/4294171" ;
+    owl:sameAs "http://d-nb.info/gnd/116720-0",
+        "http://d-nb.info/gnd/116817-4",
+        "http://d-nb.info/gnd/2044587-8",
+        "http://d-nb.info/gnd/5024667-7",
+        "http://sws.geonames.org/3064288",
+        "http://viaf.org/viaf/237704947" ;
+    skos:altLabel "Teplice",
+        "Teplice-Šanov",
+        "Teplitz-Schönau",
+        "Töplitz (Böhmen)" ;
+    skos:prefLabel "Teplice" .
+
+<https://data.jhn.ngo/spatial/LBI_books/1448> a edm:Place ;
+    edm:identifier "http://digital.cjh.org/4297289" ;
+    owl:sameAs "http://d-nb.info/gnd/1028168-X",
+        "http://sws.geonames.org/2920512",
+        "http://viaf.org/viaf/136663133" ;
+    skos:altLabel "Ghiessa Cattorum",
+        "Giesen",
+        "Giessa Cattorum",
+        "Giessa Hassorum",
+        "Giessae",
+        "Giessae Hassorum",
+        "Giessen",
+        "Gissa Hassorum",
+        "Gissae",
+        "Universitätsstadt Gießen" ;
+    skos:prefLabel "Giessen" .
+
+<https://data.jhn.ngo/spatial/LBI_books/1449> a edm:Place ;
+    edm:identifier "http://digital.cjh.org/4300247" ;
+    owl:sameAs "http://d-nb.info/gnd/1022726471",
+        "http://d-nb.info/gnd/2009558-2",
+        "http://sws.geonames.org/2929670",
+        "http://viaf.org/viaf/147124972" ;
+    skos:altLabel "Erfordiae",
+        "Erfurth",
+        "Erphesfurt",
+        "Erphordiae",
+        "Landeshauptstadt Erfurt",
+        "Magistrat (Erfurt)",
+        "Stadt Erfurt",
+        "Stadtkreis Erfurt" ;
+    skos:prefLabel "Erfurt" .
+
+<https://data.jhn.ngo/spatial/LBI_books/1450> a edm:Place ;
+    edm:identifier "http://digital.cjh.org/4300491" ;
+    owl:sameAs "http://d-nb.info/gnd/1029151-9",
+        "http://d-nb.info/gnd/2045123-4",
+        "http://sws.geonames.org/3067696",
+        "http://viaf.org/viaf/124497561" ;
+    skos:altLabel "Bezirk Prag",
+        "Hauptstadt Prag",
+        "Hlavni Město Praha",
+        "Praag",
+        "Prag (Kraj)",
+        "Praga",
+        "Prague",
+        "Praha" ;
+    skos:prefLabel "Prag" .
+
+<https://data.jhn.ngo/spatial/LBI_books/1460> a edm:Place ;
+    edm:identifier "http://digital.cjh.org/4332793" ;
+    owl:sameAs "http://d-nb.info/gnd/1012922-4",
+        "http://sws.geonames.org/2673730",
+        "http://viaf.org/viaf/153530943" ;
+    skos:altLabel "Estocolmo",
+        "Holma",
+        "Holmia",
+        "Stoccolma",
+        "Stockholma",
+        "Stockholms Kommun",
+        "Stockholms Stad",
+        "Stockholms stad",
+        "Stockolm",
+        "Stokgolĭm",
+        "Stokholm",
+        "Stokk-Holm",
+        "Stokolm",
+        "Tukholma" ;
+    skos:prefLabel "Stockholm" .
+
+<https://data.jhn.ngo/spatial/LBI_books/1461> a edm:Place ;
+    edm:identifier "http://digital.cjh.org/4332844" ;
+    owl:sameAs "http://d-nb.info/gnd/108649816X",
+        "http://d-nb.info/gnd/15525-1",
+        "http://sws.geonames.org/2874545",
+        "http://viaf.org/viaf/138969780" ;
+    skos:altLabel "Landeshauptstadt Magdeburg",
+        "Magadoburg",
+        "Magdeburga",
+        "Magdeburgi",
+        "Magdeburgum",
+        "Meydeburg",
+        "Ottostadt Magdeburg",
+        "Parthenopolis",
+        "Stadt Magdeburg" ;
+    skos:prefLabel "Magdeburg" .
+
+<https://data.jhn.ngo/spatial/LBI_books/1462> a edm:Place ;
+    edm:identifier "http://digital.cjh.org/4348663" ;
+    owl:sameAs "http://d-nb.info/gnd/667224-3",
+        "http://sws.geonames.org/2755845",
+        "http://viaf.org/viaf/236890875" ;
+    skos:altLabel "Franechera",
+        "Franekeradeel-Franeker",
+        "Franekerae",
+        "Franequera",
+        "Franequerae",
+        "Franica",
+        "Frentsjer",
+        "Frjentsjer" ;
+    skos:prefLabel "Franequerae" .
+
+<https://data.jhn.ngo/spatial/LBI_books/1464> a edm:Place ;
+    edm:identifier "http://digital.cjh.org/4364224" ;
+    owl:sameAs "http://d-nb.info/gnd/2013198-7",
+        "http://sws.geonames.org/2910831",
+        "http://viaf.org/viaf/142200966" ;
+    skos:altLabel "Gannover",
+        "Hannovera",
+        "Hanover",
+        "Hanover (Niedersachsen)",
+        "Hanovera",
+        "Hanovere",
+        "Hauptstadt Hannover",
+        "Königliche Residenzstadt Hannover",
+        "Landeshauptstadt Hannover",
+        "Residenzstadt Hannover",
+        "Stadt Hannover" ;
+    skos:prefLabel "Hannover" .
+
+<https://data.jhn.ngo/spatial/LBI_books/1465> a edm:Place ;
+    edm:identifier "http://digital.cjh.org/45173" ;
+    owl:sameAs "http://d-nb.info/gnd/1086246535",
+        "http://d-nb.info/gnd/39333-2",
+        "http://d-nb.info/gnd/39334-4",
+        "http://sws.geonames.org/2826184",
+        "http://sws.geonames.org/2973783",
+        "http://viaf.org/viaf/242716088",
+        "http://viaf.org/viaf/245643546" ;
+    skos:altLabel "Argentina",
+        "Argentorate",
+        "Argentoratum",
+        "Commune de Strasbourg",
+        "Estrasburgo",
+        "Strasberg",
+        "Strasbourg",
+        "Strasburg",
+        "Strasburgk",
+        "Straspergk",
+        "Strassburg",
+        "Strasspergk",
+        "Straszberg",
+        "Straszburg",
+        "Strateburgum",
+        "Stratisburgo",
+        "Strazberg",
+        "Strazburc",
+        "Strazperch",
+        "Straßberg",
+        "Straßberg (Plauen)",
+        "Straßbergh",
+        "Straßbergk",
+        "Straßbourg",
+        "Straßburgk",
+        "Straßperch",
+        "Straßperg",
+        "Strosperg",
+        "Strossburi",
+        "Ville de Strasbourg",
+        "Vogtland" ;
+    skos:prefLabel "Strassburg" .
+
+<https://data.jhn.ngo/spatial/LBI_books/1466> a edm:Place ;
+    edm:identifier "http://digital.cjh.org/48251" ;
+    owl:sameAs "http://d-nb.info/gnd/260508-9",
+        "http://d-nb.info/gnd/301895-7",
+        "http://d-nb.info/gnd/500241-2",
+        "http://d-nb.info/gnd/5089133-9",
+        "http://sws.geonames.org/702550",
+        "http://viaf.org/viaf/246515253" ;
+    skos:altLabel "L'viv",
+        "L'vov",
+        "Leontopolis",
+        "Leopoli",
+        "Leopolis",
+        "Léopol",
+        "Lviv",
+        "Lvovas",
+        "Lwiw",
+        "Lwow",
+        "Lwów",
+        "Lʹviv (vor 1919)" ;
+    skos:prefLabel "Lemberg" .
+
+<https://data.jhn.ngo/spatial/LBI_books/1470> a edm:Place ;
+    edm:identifier "http://digital.cjh.org/510820" ;
+    owl:sameAs "http://d-nb.info/gnd/2028615-6",
+        "http://sws.geonames.org/2892794",
+        "http://viaf.org/viaf/241322215" ;
+    skos:altLabel "Carlsruhe",
+        "Karlsrūe",
+        "Landeshauptstadt Karlsruhe",
+        "Residenzstadt Karlsruhe",
+        "Stadt Karlsruhe" ;
+    skos:prefLabel "Carlsruhe" .
+
+<https://data.jhn.ngo/spatial/LBI_books/1472> a edm:Place ;
+    edm:identifier "http://digital.cjh.org/513280",
+        "http://digital.cjh.org/515599" ;
+    owl:sameAs "http://d-nb.info/gnd/1063652308",
+        "http://d-nb.info/gnd/2029092-5",
+        "http://sws.geonames.org/2873891",
+        "http://viaf.org/viaf/135518763" ;
+    skos:altLabel "Badische Hauptstadt Mannheim",
+        "Großherzoglich Badische Hauptstadt Mannheim",
+        "Interamnium",
+        "Man(nhemium",
+        "Mannehemium",
+        "Mannem",
+        "Mannheim",
+        "Mannheim 2",
+        "Mannhemii",
+        "Stadt Mannheim",
+        "Stadt im Quadrat",
+        "Stadtgemeinde Mannheim" ;
+    skos:prefLabel "Mannheim" .
+
+<https://data.jhn.ngo/spatial/LBI_books/1473> a edm:Place ;
+    edm:identifier "http://digital.cjh.org/513495" ;
+    owl:sameAs "http://d-nb.info/gnd/2028336-2",
+        "http://sws.geonames.org/2911007",
+        "http://viaf.org/viaf/134967927" ;
+    skos:altLabel "Hanaw",
+        "Hannovia",
+        "Hanovia",
+        "Hauptamt (Hanau)",
+        "Stadt Hanau",
+        "Stadtverwaltung (Hanau)" ;
+    skos:prefLabel "Hanau" .
+
+<https://data.jhn.ngo/spatial/LBI_books/1495> a edm:Place ;
+    edm:identifier "http://digital.cjh.org/74602" ;
+    owl:sameAs "http://d-nb.info/gnd/1012345-3",
+        "http://sws.geonames.org/2761367",
+        "http://viaf.org/viaf/137212727" ;
+    skos:altLabel "Beč",
+        "Bécs",
+        "Biennē",
+        "Bundeshauptstadt Wien",
+        "Bundesland Wien",
+        "Bundesunmittelbare Stadt Wien",
+        "Dunaj",
+        "Gemeinde Wien",
+        "K.K. Reichshaupt- und Residenzstadt Wien",
+        "Kaiserlich-Königliche Reichshaupt- und Residenzstadt Wien",
+        "Land Wien",
+        "Reichsgau Wien",
+        "Reichshaupt- und Residenzstadt Wien",
+        "Stadt Wien",
+        "Vena",
+        "Viedeň",
+        "Viena",
+        "Vienna",
+        "Vienna (Austriae)",
+        "Vienna Fluviorum",
+        "Vienna Pannoniae",
+        "Vienne",
+        "Vienne (Österreich)",
+        "Viennē",
+        "Vin",
+        "Vindobona",
+        "Vindobona (Wien)",
+        "Vinna",
+        "Vídeň",
+        "Vjenë",
+        "Wenia",
+        "Wiedeń (Wien)",
+        "Wienn",
+        "Wienna",
+        "Wīn" ;
+    skos:prefLabel "Wienn" .
+
+<https://data.jhn.ngo/spatial/LBI_books/1496> a edm:Place ;
+    edm:identifier "http://digital.cjh.org/796979" ;
+    owl:sameAs "http://d-nb.info/gnd/1028326-2",
+        "http://d-nb.info/gnd/5210124-1",
+        "http://d-nb.info/gnd/5210156-3",
+        "http://sws.geonames.org/281184",
+        "http://viaf.org/viaf/131280745" ;
+    skos:altLabel "Aelia Capitolina",
+        "Al- Quds As-̌Sǎrif̄",
+        "Bait al-Maqdis",
+        "Bayt al-Maqdis",
+        "El-Ḳuds",
+        "Elkuds",
+        "Erowsaġêm",
+        "Gerusalemme",
+        "Hierosolyma",
+        "Ierusalim",
+        "Jerusalén",
+        "Jeruschalajim",
+        "Jeruzalem (Jerusalem)",
+        "Jerūšālajīm",
+        "Kudüs",
+        "Qudüs",
+        "Ūrušalīm",
+        "Yerushalayim",
+        "Yerušalayim",
+        "Yerûšālayim",
+        "al- Jerūšālajīm",
+        "al- Quds",
+        "al-Quds",
+        "el- Kudüs",
+        "القدس",
+        "بيت المقدس" ;
+    skos:prefLabel "Jerusalem" .
+
+<https://data.jhn.ngo/spatial/LBI_books/1498> a edm:Place ;
+    edm:identifier "http://digital.cjh.org/81354" ;
+    owl:sameAs "http://d-nb.info/gnd/16316066-1",
+        "http://d-nb.info/gnd/2005687-4",
+        "http://viaf.org/viaf/130179400" ;
+    skos:altLabel "Athena Helveticorum",
+        "Athena Rauracorum",
+        "Athenae Helveticorum",
+        "Augusta Munatiana",
+        "Augusta Munatianae",
+        "Augusta Rauracorum",
+        "B le",
+        "Basel-Stadt",
+        "Basilea",
+        "Basilea Helvetiorum",
+        "Basilea Rauracorum",
+        "Basilia",
+        "Basle",
+        "Bâle",
+        "Colonia Munatiana",
+        "Colonia Munatianae",
+        "Colonia Planciana",
+        "Kanton Basel-Stadt",
+        "Stadt Basel" ;
+    skos:prefLabel "Basel" .
+

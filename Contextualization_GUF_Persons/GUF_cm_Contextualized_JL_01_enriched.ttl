@@ -1,0 +1,3605 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix edm: <http://www.europeana.eu/schemas/edm/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix gndo: <http://d-nb.info/standards/elementset/gnd#> .
+@prefix jl: <http://data.judaicalink.org/ontology/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdaGr2: <http://rdvocab.info/ElementsGr2/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://data.jhn.ngo/persons/GUF_cm/1039> a edm:Agent ;
+    rdaGr2:dateOfBirth "-" ;
+    rdaGr2:dateOfDeath "-" ;
+    edm:identifier "system:343051702",
+        "system:343066068",
+        "system:343219115",
+        "system:343255952",
+        "system:343300265",
+        "system:343305216",
+        "system:343305887",
+        "system:343331357",
+        "system:343332183",
+        "system:343365642",
+        "system:343405199",
+        "system:343442833",
+        "system:343490641" ;
+    owl:sameAs <http://data.judaicalink.org/data/dbpedia/Sigmund_Feist>,
+        <http://dbpedia.org/resource/Sigmund_Feist>,
+        <http://it.dbpedia.org/resource/Sigmund_Feist>,
+        <http://rdf.freebase.com/ns/m.02qynsq>,
+        <http://viaf.org/viaf/36994891>,
+        <http://wikidata.dbpedia.org/resource/Q4480637>,
+        <http://www.wikidata.org/entity/Q4480637>,
+        <http://yago-knowledge.org/resource/Sigmund_Feist> ;
+    skos:altLabel "Sigmund Feist",
+        "Файст, Зигмунд" ;
+    skos:prefLabel "Feist, Sigmund" .
+
+<https://data.jhn.ngo/persons/GUF_cm/1056> a edm:Agent ;
+    gndo:gndIdentifier "116373229" ;
+    jl:birthLocation "Zinten" ;
+    rdaGr2:dateOfDeath "-" ;
+    edm:identifier "system:343050161",
+        "system:343050668",
+        "system:343066076",
+        "system:343238446",
+        "system:343238608",
+        "system:343334860" ;
+    owl:sameAs <http://d-nb.info/gnd/116373229>,
+        <http://d-nb.info/gnd/116373229/about>,
+        <http://d-nb.info/gnd/175720797>,
+        <http://d-nb.info/gnd/181109131>,
+        <http://data.judaicalink.org/data/gnd/116373229>,
+        <http://hub.culturegraph.org/entityfacts/116373229>,
+        <http://kalliope-verbund.info/gnd/116373229>,
+        <http://viaf.org/viaf/97833699>,
+        <http://www.isni.org/0000000078196972>,
+        <http://www.wikidata.org/entity/Q2655148>,
+        <https://de.wikipedia.org/wiki/Arthur_Galliner> ;
+    skos:altLabel "Galliner, A." ;
+    skos:prefLabel "Galliner, Arthur" .
+
+<https://data.jhn.ngo/persons/GUF_cm/1060> a edm:Agent ;
+    rdaGr2:dateOfBirth "-" ;
+    rdaGr2:dateOfDeath "-" ;
+    edm:identifier "system:343398060",
+        "system:343403196",
+        "system:343443090" ;
+    owl:sameAs <http://data.judaicalink.org/data/dbpedia/Julius_Brutzkus>,
+        <http://dbpedia.org/resource/Julius_Brutzkus>,
+        <http://pl.dbpedia.org/resource/Julius_Bruckus>,
+        <http://rdf.freebase.com/ns/m.026_c71>,
+        <http://viaf.org/viaf/243995101>,
+        <http://wikidata.dbpedia.org/resource/Q6309700>,
+        <http://www.wikidata.org/entity/Q6309700>,
+        <http://yago-knowledge.org/resource/Julius_Brutzkus> ;
+    skos:altLabel "Julius Bruckus",
+        "Julius Brutzkus",
+        "Бруцкус, Юлий Давидович" ;
+    skos:prefLabel "Brutzkus, Julius" .
+
+<https://data.jhn.ngo/persons/GUF_cm/1111> a edm:Agent ;
+    rdaGr2:dateOfBirth "-" ;
+    rdaGr2:dateOfDeath "-" ;
+    edm:identifier "system:343049252",
+        "system:343066483",
+        "system:343340259" ;
+    owl:sameAs <http://data.judaicalink.org/data/dbpedia/Hirsch_Jakob_Zimmels>,
+        <http://dbpedia.org/resource/Hirsch_Jakob_Zimmels>,
+        <http://rdf.freebase.com/ns/m.0138nfxt>,
+        <http://wikidata.dbpedia.org/resource/Q19975484>,
+        <http://www.wikidata.org/entity/Q19975484> ;
+    skos:altLabel "Hirsch Jakob Zimmels" ;
+    skos:prefLabel "Zimmels, Hirsch Jakob" .
+
+<https://data.jhn.ngo/persons/GUF_cm/1122> a edm:Agent ;
+    gndo:gndIdentifier "115279814" ;
+    rdaGr2:dateOfBirth "-" ;
+    rdaGr2:dateOfDeath "-" ;
+    edm:identifier "system:343444437" ;
+    owl:sameAs <http://d-nb.info/gnd/115279814>,
+        <http://d-nb.info/gnd/115279814/about>,
+        <http://data.judaicalink.org/data/gnd/115279814>,
+        <http://hub.culturegraph.org/entityfacts/115279814>,
+        <http://id.loc.gov/authorities/n87906532>,
+        <http://viaf.org/viaf/57340668> ;
+    skos:altLabel "Jakob Ben-Michael May Segal",
+        "May Segal, Jakob Ben-Michael",
+        "May Segal, Yaʿaḳov ben Mikhaʾel",
+        "May Segel, Yaʿaḳov ben Mikhaʾel",
+        "Segal, Yaʿaḳov ben Mikhaʾel May",
+        "Segel, Yaʿaḳov ben Mikhaʾel May",
+        "Yaʿaḳov ben Mikhaʾel May Segal",
+        "Yaʿaḳov ben Mikhaʾel May Segel",
+        "מיי סגל, יעקב בן מיכאל",
+        "סגל, יעקב בן מיכאל מיי" ;
+    skos:prefLabel "May, Jakob" .
+
+<https://data.jhn.ngo/persons/GUF_cm/1125> a edm:Agent ;
+    gndo:gndIdentifier "1053256566" ;
+    rdaGr2:dateOfDeath "-" ;
+    edm:identifier "system:343444380" ;
+    owl:sameAs <http://d-nb.info/gnd/1053256566>,
+        <http://d-nb.info/gnd/1053256566/about>,
+        <http://data.judaicalink.org/data/gnd/1053256566>,
+        <http://hub.culturegraph.org/entityfacts/1053256566>,
+        <http://id.loc.gov/authorities/no2003007688>,
+        <http://viaf.org/viaf/88085196>,
+        <http://www.isni.org/0000000071177453> ;
+    skos:altLabel "Stein, S." ;
+    skos:prefLabel "Stein, Siegfried" .
+
+<https://data.jhn.ngo/persons/GUF_cm/1140> a edm:Agent ;
+    rdaGr2:dateOfBirth "-" ;
+    rdaGr2:dateOfDeath "-" ;
+    edm:identifier "system:343066629",
+        "system:343189747",
+        "system:34318978X",
+        "system:343189801",
+        "system:343189860",
+        "system:343189887",
+        "system:343189895",
+        "system:343221969",
+        "system:343222086",
+        "system:343307677",
+        "system:343387794",
+        "system:343387824",
+        "system:343387921",
+        "system:343401045",
+        "system:343401053",
+        "system:343401223",
+        "system:343401401",
+        "system:343413779",
+        "system:343413892",
+        "system:34341497X",
+        "system:343415127",
+        "system:343415151",
+        "system:343415178",
+        "system:343415194",
+        "system:343442612",
+        "system:343442760",
+        "system:343442965",
+        "system:343443333",
+        "system:343443414",
+        "system:343443635",
+        "system:343443929",
+        "system:343443988",
+        "system:343444372",
+        "system:343444534",
+        "system:343444569",
+        "system:343444631",
+        "system:343444666",
+        "system:343444674",
+        "system:343444682",
+        "system:343444720",
+        "system:343444771",
+        "system:343444917",
+        "system:343445018",
+        "system:343445026",
+        "system:343445034",
+        "system:343445042",
+        "system:343465892" ;
+    owl:sameAs <http://data.judaicalink.org/data/nli/Stern_M> ;
+    skos:altLabel "שטרן, מ." ;
+    skos:prefLabel "Stern, M" .
+
+<https://data.jhn.ngo/persons/GUF_cm/1178> a edm:Agent ;
+    rdaGr2:dateOfBirth "-" ;
+    rdaGr2:dateOfDeath "-" ;
+    edm:identifier "system:343238837",
+        "system:343238977",
+        "system:343402874",
+        "system:343402955",
+        "system:34347994X" ;
+    owl:sameAs <http://d-nb.info/gnd/102171645>,
+        <http://data.judaicalink.org/data/dbpedia/Arthur_Biram>,
+        <http://data.judaicalink.org/data/gnd/102171645>,
+        <http://dbpedia.org/resource/Arthur_Biram>,
+        <http://rdf.freebase.com/ns/m.09gb5tk>,
+        <http://viaf.org/viaf/47147341>,
+        <http://wikidata.dbpedia.org/resource/Q4798009>,
+        <http://www.wikidata.org/entity/Q4798009>,
+        <http://yago-knowledge.org/resource/Arthur_Biram> ;
+    skos:altLabel "Arthur Biram" ;
+    skos:prefLabel "Biram, Arthur" .
+
+<https://data.jhn.ngo/persons/GUF_cm/1259> a edm:Agent ;
+    jl:hasPublication "https://www.haskala-library.net//books/קורות-שנות-קדם-א",
+        "https://www.haskala-library.net//books/קורות-שנות-קדם-ב" ;
+    rdaGr2:dateOfBirth "-" ;
+    rdaGr2:dateOfDeath "-" ;
+    edm:identifier "system:343221799",
+        "system:34342861X",
+        "system:343428636",
+        "system:343429799",
+        "system:34343024X" ;
+    owl:sameAs <http://data.judaicalink.org/data/haskala/Fischer_Markus>,
+        <https://www.haskala-library.net/people/fischer-markus-פישר-מאיר> ;
+    skos:altLabel "פישר, מאיר" ;
+    skos:prefLabel "Fischer, Markus" .
+
+<https://data.jhn.ngo/persons/GUF_cm/1331> a edm:Agent ;
+    rdaGr2:dateOfBirth "-" ;
+    rdaGr2:dateOfDeath "-" ;
+    edm:identifier "system:343431785",
+        "system:343431831",
+        "system:34343184X" ;
+    owl:sameAs <http://d-nb.info/gnd/141374365>,
+        <http://data.judaicalink.org/data/bhr/Hess_Mendel>,
+        <http://data.judaicalink.org/data/dbpedia/Mendel_Hess>,
+        <http://dbpedia.org/resource/Mendel_Hess>,
+        <http://rdf.freebase.com/ns/m.02rf9n1>,
+        <http://steinheim-institut.de:50580/cgi-bin/bhr?gnd=141374365>,
+        <http://steinheim-institut.de:50580/cgi-bin/bhr?id=713>,
+        <http://wikidata.dbpedia.org/resource/Q6816567>,
+        <http://www.wikidata.org/entity/Q6816567>,
+        <http://yago-knowledge.org/resource/Mendel_Hess> ;
+    skos:altLabel "Mendel Hess" ;
+    skos:prefLabel "Hess, Mendel" .
+
+<https://data.jhn.ngo/persons/GUF_cm/1381> a edm:Agent ;
+    gndo:gndIdentifier "1011416956" ;
+    jl:birthLocation "Tangerhütte- Klein Schwarzlosen" ;
+    rdaGr2:dateOfDeath "-" ;
+    edm:identifier "system:343242990" ;
+    owl:sameAs <http://d-nb.info/gnd/1011416956>,
+        <http://d-nb.info/gnd/1011416956/about>,
+        <http://data.judaicalink.org/data/gnd/1011416956>,
+        <http://hub.culturegraph.org/entityfacts/1011416956>,
+        <http://kalliope-verbund.info/gnd/1011416956>,
+        <http://viaf.org/viaf/170553327> ;
+    skos:altLabel "Pohlmann, Arnold Baldwin Walter" ;
+    skos:prefLabel "Pohlmann, Walter" .
+
+<https://data.jhn.ngo/persons/GUF_cm/1383> a edm:Agent ;
+    rdaGr2:dateOfBirth "-" ;
+    rdaGr2:dateOfDeath "-" ;
+    owl:sameAs <http://data.judaicalink.org/data/nli/AL> ;
+    skos:altLabel "לחמי, אהרן" ;
+    skos:prefLabel "A L" .
+
+<https://data.jhn.ngo/persons/GUF_cm/1699> a edm:Agent ;
+    gndo:gndIdentifier "117149527" ;
+    rdaGr2:dateOfDeath "-" ;
+    edm:identifier "system:343035618",
+        "system:343051230",
+        "system:343163977",
+        "system:343164140",
+        "system:343164191",
+        "system:343164213",
+        "system:34316423X",
+        "system:343232472",
+        "system:343255030",
+        "system:343436280",
+        "system:343436655",
+        "system:343436744",
+        "system:343436914",
+        "system:343437139",
+        "system:343438739",
+        "system:343438917",
+        "system:343439239",
+        "system:343440237",
+        "system:34344223X" ;
+    owl:sameAs <http://d-nb.info/gnd/117149527>,
+        <http://d-nb.info/gnd/117149527/about>,
+        <http://data.judaicalink.org/data/gnd/117149527>,
+        <http://hub.culturegraph.org/entityfacts/117149527>,
+        <http://kalliope-verbund.info/gnd/117149527>,
+        <http://viaf.org/viaf/112904477>,
+        <http://www.isni.org/0000000081804799>,
+        <https://www.deutsche-digitale-bibliothek.de/entity/117149527> ;
+    skos:altLabel "Wassermann, R.",
+        "Wassermann, Rud." ;
+    skos:prefLabel "Wassermann, Rudolf" .
+
+<https://data.jhn.ngo/persons/GUF_cm/1728> a edm:Agent ;
+    gndo:gndIdentifier "118605313" ;
+    rdaGr2:dateOfBirth "-" ;
+    rdaGr2:dateOfDeath "-" ;
+    edm:identifier "http://nbn-resolving.de/urn:nbn:de:hebis:30:1-144232",
+        "system:343027100",
+        "system:343027178",
+        "system:343027542",
+        "system:343027771",
+        "system:343028174",
+        "system:343028549",
+        "system:343035332",
+        "system:343040859",
+        "system:343047128",
+        "system:343047292",
+        "system:343047411",
+        "system:343047675",
+        "system:34304790X",
+        "system:343048124",
+        "system:343048272",
+        "system:343048582",
+        "system:343049171",
+        "system:343049317",
+        "system:343049422",
+        "system:34304949X",
+        "system:343049813",
+        "system:343049872",
+        "system:343049996",
+        "system:343050641",
+        "system:343050706",
+        "system:343050749",
+        "system:343051788",
+        "system:343051850",
+        "system:343051877",
+        "system:34305342X",
+        "system:343053500",
+        "system:343054566",
+        "system:34305471X",
+        "system:343055074",
+        "system:343055325",
+        "system:34305535X",
+        "system:343055511",
+        "system:343055597",
+        "system:343055619",
+        "system:343055783",
+        "system:343055856",
+        "system:343056011",
+        "system:343056488",
+        "system:343056860",
+        "system:343060329",
+        "system:343064812",
+        "system:343064847",
+        "system:343064871",
+        "system:343064901",
+        "system:343065010",
+        "system:34316373X",
+        "system:343169886",
+        "system:343175959",
+        "system:343176165",
+        "system:343176173",
+        "system:343176610",
+        "system:343176947",
+        "system:343177323",
+        "system:343177935",
+        "system:343177994",
+        "system:343178117",
+        "system:343178389",
+        "system:343184788",
+        "system:34318480X",
+        "system:343184818",
+        "system:343184923",
+        "system:343188023",
+        "system:343188031",
+        "system:34318804X",
+        "system:343188058",
+        "system:343188066",
+        "system:343188074",
+        "system:343188090",
+        "system:343188120",
+        "system:343192497",
+        "system:343193884",
+        "system:343193906",
+        "system:343193914",
+        "system:343193922",
+        "system:343193930",
+        "system:343193949",
+        "system:343193957",
+        "system:343193965",
+        "system:343193973",
+        "system:34319399X",
+        "system:343194015",
+        "system:343194023",
+        "system:343194031",
+        "system:343194058",
+        "system:343194066",
+        "system:343194082",
+        "system:343194090",
+        "system:343194104",
+        "system:343194112",
+        "system:343194120",
+        "system:343194139",
+        "system:343194147",
+        "system:343194163",
+        "system:343194171",
+        "system:34319418X",
+        "system:343194198",
+        "system:343194201",
+        "system:34319421X",
+        "system:343194228",
+        "system:343194260",
+        "system:34320102X",
+        "system:343201038",
+        "system:343201054",
+        "system:343201992",
+        "system:34320214X",
+        "system:343204878",
+        "system:343204886",
+        "system:343204894",
+        "system:343204908",
+        "system:343204932",
+        "system:343205041",
+        "system:343215136",
+        "system:343215241",
+        "system:34321525X",
+        "system:343219883",
+        "system:34323260X",
+        "system:343232936",
+        "system:343236656",
+        "system:343237741",
+        "system:343240130",
+        "system:343241803",
+        "system:343242672",
+        "system:343260336",
+        "system:343265680",
+        "system:343266229",
+        "system:343268086",
+        "system:343268310",
+        "system:343274868",
+        "system:343274906",
+        "system:343274981",
+        "system:34327499X",
+        "system:343275090",
+        "system:343275104",
+        "system:343275201",
+        "system:34327521X",
+        "system:343275317",
+        "system:343275414",
+        "system:34327549X",
+        "system:343275546",
+        "system:343275554",
+        "system:343275597",
+        "system:343275651",
+        "system:343275708",
+        "system:343275783",
+        "system:343275813",
+        "system:343275821",
+        "system:343275848",
+        "system:343275856",
+        "system:343275929",
+        "system:343275953",
+        "system:34327602X",
+        "system:343276119",
+        "system:343276127",
+        "system:343276135",
+        "system:343276143",
+        "system:343276216",
+        "system:343276240",
+        "system:343276283",
+        "system:343276313",
+        "system:343276437",
+        "system:343276518",
+        "system:343276569",
+        "system:343276631",
+        "system:343276658",
+        "system:343276836",
+        "system:343276844",
+        "system:343279126",
+        "system:343279150",
+        "system:343279177",
+        "system:343279282",
+        "system:343279371",
+        "system:34327938X",
+        "system:343279428",
+        "system:343279509",
+        "system:343279568",
+        "system:343279576",
+        "system:343280566",
+        "system:343280639",
+        "system:343280655",
+        "system:343280787",
+        "system:343280949",
+        "system:343281015",
+        "system:34328104X",
+        "system:34328118X",
+        "system:343281260",
+        "system:343281376",
+        "system:343281414",
+        "system:343281465",
+        "system:343281503",
+        "system:343281546",
+        "system:343281619",
+        "system:34328166X",
+        "system:343281686",
+        "system:343281694",
+        "system:343281864",
+        "system:343281872",
+        "system:343281880",
+        "system:34328202X",
+        "system:343282046",
+        "system:343282143",
+        "system:343282178",
+        "system:343282224",
+        "system:343282259",
+        "system:343282313",
+        "system:343282356",
+        "system:343282437",
+        "system:343282534",
+        "system:343282542",
+        "system:343282704",
+        "system:343283506",
+        "system:343283557",
+        "system:34328359X",
+        "system:343283689",
+        "system:34328376X",
+        "system:343283964",
+        "system:343284944",
+        "system:343284952",
+        "system:343287145",
+        "system:343287250",
+        "system:343287528",
+        "system:343287609",
+        "system:343288060",
+        "system:343288087",
+        "system:343288095",
+        "system:343288168",
+        "system:343288311",
+        "system:343288451",
+        "system:343288915",
+        "system:343289253",
+        "system:34328930X",
+        "system:343289407",
+        "system:343289571",
+        "system:343290243",
+        "system:343290251",
+        "system:343290677",
+        "system:343290863",
+        "system:343291371",
+        "system:343291401",
+        "system:343291444",
+        "system:34329155X",
+        "system:343291703",
+        "system:343291827",
+        "system:343291924",
+        "system:343292068",
+        "system:343292211",
+        "system:343292262",
+        "system:343292785",
+        "system:34329284X",
+        "system:343293277",
+        "system:343295229",
+        "system:343295245",
+        "system:343296217",
+        "system:343296675",
+        "system:34329690X",
+        "system:343296918",
+        "system:343299291",
+        "system:343299305",
+        "system:343300362",
+        "system:343300613",
+        "system:343300710",
+        "system:343302500",
+        "system:343304104",
+        "system:343307790",
+        "system:343307928",
+        "system:343308304",
+        "system:343308339",
+        "system:343308428",
+        "system:343331527",
+        "system:343331829",
+        "system:343331861",
+        "system:343332019",
+        "system:343332035",
+        "system:343332256",
+        "system:343332280",
+        "system:343332604",
+        "system:343332663",
+        "system:343332760",
+        "system:343332795",
+        "system:34333321X",
+        "system:343333295",
+        "system:343333333",
+        "system:343333392",
+        "system:343333538",
+        "system:343333546",
+        "system:343334283",
+        "system:343334399",
+        "system:34333478X",
+        "system:343334887",
+        "system:343335336",
+        "system:343337150",
+        "system:343337525",
+        "system:343337614",
+        "system:343337649",
+        "system:343337681",
+        "system:343337770",
+        "system:343337924",
+        "system:343337932",
+        "system:343338076",
+        "system:343338181",
+        "system:343338351",
+        "system:343338653",
+        "system:343338815",
+        "system:343339005",
+        "system:343339056",
+        "system:343339277",
+        "system:343339471",
+        "system:343339803",
+        "system:343340313",
+        "system:343340429",
+        "system:343340577",
+        "system:343340925",
+        "system:343341271",
+        "system:343342804",
+        "system:343346125",
+        "system:343346249",
+        "system:343347253",
+        "system:343347296",
+        "system:343347334",
+        "system:343347369",
+        "system:34334744X",
+        "system:343347679",
+        "system:343347733",
+        "system:343347768",
+        "system:343347784",
+        "system:343348640",
+        "system:343348942",
+        "system:343350955",
+        "system:343351978",
+        "system:343352087",
+        "system:34335215X",
+        "system:343352257",
+        "system:343352311",
+        "system:343352400",
+        "system:343352451",
+        "system:343352532",
+        "system:343352559",
+        "system:343352575",
+        "system:34335263X",
+        "system:343352648",
+        "system:343352672",
+        "system:343352729",
+        "system:343352761",
+        "system:34335277X",
+        "system:343352788",
+        "system:34335280X",
+        "system:343352842",
+        "system:343352893",
+        "system:343352915",
+        "system:343353237",
+        "system:343353296",
+        "system:343353326",
+        "system:343353601",
+        "system:343353709",
+        "system:343353830",
+        "system:343353881",
+        "system:343353911",
+        "system:343354098",
+        "system:343354128",
+        "system:343354187",
+        "system:343354217",
+        "system:343354241",
+        "system:343354365",
+        "system:343354373",
+        "system:343354454",
+        "system:343355027",
+        "system:343355159",
+        "system:343355221",
+        "system:343355272",
+        "system:343355396",
+        "system:343356694",
+        "system:343357348",
+        "system:343357402",
+        "system:343357917",
+        "system:343357933",
+        "system:343358387",
+        "system:343358913",
+        "system:343359200",
+        "system:343359359",
+        "system:343360713",
+        "system:343360810",
+        "system:343361426",
+        "system:343362619",
+        "system:343362988",
+        "system:343363089",
+        "system:343363259",
+        "system:343363321",
+        "system:343364050",
+        "system:343364557",
+        "system:343365499",
+        "system:34336574X",
+        "system:343366053",
+        "system:343366231",
+        "system:343366517",
+        "system:343366568",
+        "system:343369885",
+        "system:34337904X",
+        "system:343380889",
+        "system:343381621",
+        "system:343383411",
+        "system:343383446",
+        "system:34338356X",
+        "system:34338387X",
+        "system:34338390X",
+        "system:343384051",
+        "system:343384531",
+        "system:34338521X",
+        "system:343385295",
+        "system:343385309",
+        "system:343387476",
+        "system:343387670",
+        "system:343392909",
+        "system:34339426X",
+        "system:343394820",
+        "system:343395282",
+        "system:343395304",
+        "system:343395339",
+        "system:343395606",
+        "system:34339569X",
+        "system:34339720X",
+        "system:343397382",
+        "system:343397749",
+        "system:34339782X",
+        "system:343398362",
+        "system:343398761",
+        "system:34339880X",
+        "system:343398818",
+        "system:343398907",
+        "system:343399644",
+        "system:343399652",
+        "system:343399849",
+        "system:343400073",
+        "system:343400634",
+        "system:343400804",
+        "system:343401657",
+        "system:34340169X",
+        "system:343402475",
+        "system:343402963",
+        "system:343403153",
+        "system:343403587",
+        "system:343404419",
+        "system:343404583",
+        "system:343405601",
+        "system:343406470",
+        "system:343407035",
+        "system:343407043",
+        "system:343407272",
+        "system:343410761",
+        "system:343410893",
+        "system:343411040",
+        "system:343414325",
+        "system:343414643",
+        "system:343414716",
+        "system:343414880",
+        "system:343415771",
+        "system:343417448",
+        "system:34341841X",
+        "system:343418452",
+        "system:343418509",
+        "system:343426234",
+        "system:343435136",
+        "system:343435306",
+        "system:343435470",
+        "system:343443031",
+        "system:343443821",
+        "system:34344609X",
+        "system:343451298",
+        "system:343451727",
+        "system:343454068",
+        "system:343456079",
+        "system:343456923",
+        "system:343458225",
+        "system:343458357",
+        "system:343458705",
+        "system:343459744",
+        "system:343461323",
+        "system:343465507",
+        "system:343468433",
+        "system:343469650",
+        "system:343471922",
+        "system:343483254",
+        "system:343484366",
+        "system:34348465X",
+        "system:34348482X",
+        "system:343485354",
+        "system:343486105",
+        "system:343486202",
+        "system:343490498",
+        "system:343491206",
+        "system:343491486",
+        "system:343495627",
+        "system:343501465",
+        "system:343501643",
+        "system:343501724",
+        "system:343501791",
+        "system:343501899",
+        "system:343501902",
+        "system:343501910",
+        "system:343502003",
+        "system:343502089",
+        "system:343502100",
+        "system:343502127",
+        "system:343502151",
+        "system:343502186",
+        "system:343502208",
+        "system:343502232",
+        "system:343502240",
+        "system:343502275",
+        "system:343502585",
+        "system:343502615" ;
+    owl:sameAs <http://cs.dbpedia.org/resource/Samuel_(prorok)>,
+        <http://d-nb.info/gnd/118605313>,
+        <http://d-nb.info/gnd/118605313/about>,
+        <http://data.judaicalink.org/data/dbpedia/Samuel>,
+        <http://data.judaicalink.org/data/nli/Samuel>,
+        <http://dbpedia.org/resource/Samuel>,
+        <http://de.dbpedia.org/resource/Samuel_(Prophet)>,
+        <http://el.dbpedia.org/resource/Σαμουήλ>,
+        <http://es.dbpedia.org/resource/Samuel_(profeta)>,
+        <http://eu.dbpedia.org/resource/Samuel>,
+        <http://fr.dbpedia.org/resource/Samuel>,
+        <http://hub.culturegraph.org/entityfacts/118605313>,
+        <http://id.dbpedia.org/resource/Samuel>,
+        <http://id.loc.gov/authorities/n50060384>,
+        <http://it.dbpedia.org/resource/Samuele_(profeta)>,
+        <http://ja.dbpedia.org/resource/サムエル>,
+        <http://ko.dbpedia.org/resource/사무엘>,
+        <http://nl.dbpedia.org/resource/Samuel_(profeet)>,
+        <http://pl.dbpedia.org/resource/Samuel_(postać_biblijna)>,
+        <http://pt.dbpedia.org/resource/Samuel_(Bíblia)>,
+        <http://rdf.freebase.com/ns/m.070ng>,
+        <http://viaf.org/viaf/23387518>,
+        <http://wikidata.dbpedia.org/resource/Q6577515>,
+        <http://www.isni.org/0000000448838021>,
+        <http://www.wikidata.org/entity/Q6577515>,
+        <http://yago-knowledge.org/resource/Samuel>,
+        <https://de.wikipedia.org/wiki/Samuel_%28Prophet%29>,
+        <https://en.wikipedia.org/wiki/Samuel>,
+        <https://www.deutsche-digitale-bibliothek.de/entity/118605313> ;
+    skos:altLabel "Samuel",
+        "Samuel (Bíblia)",
+        "Samuel (Prophet)",
+        "Samuel (postać biblijna)",
+        "Samuel (profeet)",
+        "Samuel (profeta)",
+        "Samuele (profeta)",
+        "Самуил",
+        "שמואל,",
+        "صموئيل",
+        "サムエル",
+        "撒母耳" ;
+    skos:prefLabel "Samuel" .
+
+<https://data.jhn.ngo/persons/GUF_cm/1800> a edm:Agent ;
+    rdaGr2:dateOfBirth "-" ;
+    rdaGr2:dateOfDeath "-" ;
+    edm:identifier "system:343036657",
+        "system:343037688",
+        "system:343042029",
+        "system:343046806",
+        "system:343049325",
+        "system:34304997X",
+        "system:343053667",
+        "system:343053691",
+        "system:34305485X",
+        "system:343054906",
+        "system:343055953",
+        "system:343056119",
+        "system:343057034",
+        "system:343057069",
+        "system:34305745X",
+        "system:343057727",
+        "system:343058375",
+        "system:343061120",
+        "system:343063514",
+        "system:343163721",
+        "system:343163802",
+        "system:343165147",
+        "system:343172879",
+        "system:343172925",
+        "system:343177331",
+        "system:343179474",
+        "system:343182033",
+        "system:343182793",
+        "system:34318284X",
+        "system:343182858",
+        "system:343182920",
+        "system:343189216",
+        "system:343189224",
+        "system:343189232",
+        "system:343189275",
+        "system:343189291",
+        "system:343189305",
+        "system:343195984",
+        "system:343196077",
+        "system:34319810X",
+        "system:343204185",
+        "system:34320455X",
+        "system:343204630",
+        "system:343204649",
+        "system:343204665",
+        "system:343204673",
+        "system:34320469X",
+        "system:343204703",
+        "system:34320472X",
+        "system:343204738",
+        "system:343204746",
+        "system:343216078",
+        "system:343216124",
+        "system:343216450",
+        "system:343216507",
+        "system:343216523",
+        "system:343218887",
+        "system:343219298",
+        "system:343223473",
+        "system:343233789",
+        "system:343234327",
+        "system:343234807",
+        "system:34323761X",
+        "system:343239868",
+        "system:343247127",
+        "system:343253186",
+        "system:34325347X",
+        "system:343254158",
+        "system:343254239",
+        "system:343255286",
+        "system:343259257",
+        "system:34326059X",
+        "system:343260646",
+        "system:343265206",
+        "system:343276224",
+        "system:343276534",
+        "system:34327731X",
+        "system:343278448",
+        "system:343281422",
+        "system:343281449",
+        "system:343281570",
+        "system:343281651",
+        "system:343281716",
+        "system:34328409X",
+        "system:343285029",
+        "system:343291045",
+        "system:343292572",
+        "system:343293285",
+        "system:343293579",
+        "system:343294885",
+        "system:343299100",
+        "system:343300052",
+        "system:343301377",
+        "system:343301903",
+        "system:343303388",
+        "system:343303868",
+        "system:343305534",
+        "system:343305623",
+        "system:343305909",
+        "system:34330631X",
+        "system:343307510",
+        "system:343307812",
+        "system:343307936",
+        "system:343307995",
+        "system:343308037",
+        "system:343308460",
+        "system:343308479",
+        "system:343308525",
+        "system:34333481X",
+        "system:343337436",
+        "system:343337673",
+        "system:343338149",
+        "system:343338831",
+        "system:343338998",
+        "system:343339390",
+        "system:34333948X",
+        "system:343339722",
+        "system:343339773",
+        "system:343343150",
+        "system:343343290",
+        "system:343343371",
+        "system:343343460",
+        "system:343345005",
+        "system:343345099",
+        "system:343345102",
+        "system:343345137",
+        "system:343347563",
+        "system:343348241",
+        "system:343348489",
+        "system:343348748",
+        "system:343349302",
+        "system:34335084X",
+        "system:343350912",
+        "system:343351048",
+        "system:343351099",
+        "system:343351625",
+        "system:343351803",
+        "system:343352710",
+        "system:343352850",
+        "system:343352885",
+        "system:343352907",
+        "system:343352966",
+        "system:343353016",
+        "system:343353040",
+        "system:343353075",
+        "system:343353105",
+        "system:343353148",
+        "system:343353164",
+        "system:343353229",
+        "system:343353431",
+        "system:343353490",
+        "system:343358034",
+        "system:34335862X",
+        "system:343358999",
+        "system:343359596",
+        "system:343359642",
+        "system:343360152",
+        "system:343360608",
+        "system:343361574",
+        "system:343361876",
+        "system:343361965",
+        "system:343362473",
+        "system:343362503",
+        "system:343363615",
+        "system:343363720",
+        "system:343365146",
+        "system:343365219",
+        "system:343365227",
+        "system:343365995",
+        "system:343366002",
+        "system:343366428",
+        "system:343366444",
+        "system:343366606",
+        "system:343366630",
+        "system:34336669X",
+        "system:343366819",
+        "system:343366932",
+        "system:343367017",
+        "system:343367173",
+        "system:343367270",
+        "system:34336753X",
+        "system:343367688",
+        "system:343367742",
+        "system:343367785",
+        "system:343367831",
+        "system:343367947",
+        "system:343368129",
+        "system:343368307",
+        "system:343368560",
+        "system:343368722",
+        "system:343369176",
+        "system:343369613",
+        "system:343383489",
+        "system:343392852",
+        "system:343394537",
+        "system:343400936",
+        "system:343402149",
+        "system:343402750",
+        "system:34340642X",
+        "system:34340740X",
+        "system:343417863",
+        "system:343419327",
+        "system:343421453",
+        "system:343422867",
+        "system:343423006",
+        "system:343423286",
+        "system:343423324",
+        "system:343425106",
+        "system:343425238",
+        "system:343436841",
+        "system:343437252",
+        "system:343437295",
+        "system:343437392",
+        "system:34343766X",
+        "system:343437740",
+        "system:343438097",
+        "system:343438127",
+        "system:343438194",
+        "system:343438232",
+        "system:343438372",
+        "system:343438496",
+        "system:343438674",
+        "system:34343878X",
+        "system:343438801",
+        "system:343438844",
+        "system:343438925",
+        "system:343439123",
+        "system:343439190",
+        "system:343439271",
+        "system:343439328",
+        "system:343439344",
+        "system:343439417",
+        "system:343439492",
+        "system:34343962X",
+        "system:343439824",
+        "system:343439999",
+        "system:343440342",
+        "system:343440504",
+        "system:343440539",
+        "system:34344058X",
+        "system:343440806",
+        "system:343440830",
+        "system:343441004",
+        "system:34344108X",
+        "system:343441217",
+        "system:343441276",
+        "system:343441306",
+        "system:343441446",
+        "system:343441462",
+        "system:343441551",
+        "system:343441659",
+        "system:343441713",
+        "system:343441772",
+        "system:343441802",
+        "system:343441888",
+        "system:343441918",
+        "system:343442078",
+        "system:343442094",
+        "system:343442108",
+        "system:343442132",
+        "system:343442191",
+        "system:343442264",
+        "system:343442361",
+        "system:343442639",
+        "system:343443309",
+        "system:343443902",
+        "system:343445433",
+        "system:343445441",
+        "system:34344982X",
+        "system:343454297",
+        "system:34345601X",
+        "system:343458314",
+        "system:343458322",
+        "system:343459841",
+        "system:343460386",
+        "system:343461196",
+        "system:343462796",
+        "system:343468204",
+        "system:343468794",
+        "system:34346893X",
+        "system:343469197",
+        "system:343469251",
+        "system:343469448",
+        "system:34346957X",
+        "system:343469731",
+        "system:343469936",
+        "system:343470055",
+        "system:343470233",
+        "system:343470276",
+        "system:34347199X",
+        "system:343472422",
+        "system:343473461",
+        "system:343481782",
+        "system:343484412",
+        "system:343484854",
+        "system:343485079",
+        "system:343485176",
+        "system:343486350",
+        "system:343486822",
+        "system:343488256",
+        "system:343491958" ;
+    owl:sameAs <http://data.judaicalink.org/data/nli/Jacob> ;
+    skos:altLabel "יעקב," ;
+    skos:prefLabel "Jacob" .
+
+<https://data.jhn.ngo/persons/GUF_cm/1828> a edm:Agent ;
+    gndo:gndIdentifier "103529737X" ;
+    rdaGr2:dateOfBirth "-" ;
+    rdaGr2:dateOfDeath "-" ;
+    edm:identifier "system:343260131",
+        "system:343260344",
+        "system:343260638",
+        "system:343373750",
+        "system:343384159" ;
+    owl:sameAs <http://d-nb.info/gnd/103529737X>,
+        <http://d-nb.info/gnd/103529737X/about>,
+        <http://data.judaicalink.org/data/gnd/103529737X>,
+        <http://hub.culturegraph.org/entityfacts/103529737X>,
+        <http://viaf.org/viaf/301438208> ;
+    skos:altLabel "Stern, H." ;
+    skos:prefLabel "Stern, Heinrich" .
+
+<https://data.jhn.ngo/persons/GUF_cm/1883> a edm:Agent ;
+    rdaGr2:dateOfBirth "-" ;
+    rdaGr2:dateOfDeath "-" ;
+    edm:identifier "system:343385228" ;
+    owl:sameAs <http://data.judaicalink.org/data/dbpedia/David_de_Aaron_de_Sola>,
+        <http://dbpedia.org/resource/David_de_Aaron_de_Sola>,
+        <http://rdf.freebase.com/ns/m.026k5gk>,
+        <http://wikidata.dbpedia.org/resource/Q5241458>,
+        <http://www.wikidata.org/entity/Q5241458>,
+        <http://yago-knowledge.org/resource/David_de_Aaron_de_Sola> ;
+    skos:altLabel "David de Aaron de Sola" ;
+    skos:prefLabel "Sola, David de Aaron de" .
+
+<https://data.jhn.ngo/persons/GUF_cm/1979> a edm:Agent ;
+    rdaGr2:dateOfBirth "-" ;
+    rdaGr2:dateOfDeath "-" ;
+    edm:identifier "system:343390140",
+        "system:34339054X",
+        "system:343391074",
+        "system:343391112" ;
+    owl:sameAs <http://data.judaicalink.org/data/nli/Wolfson_J> ;
+    skos:altLabel "וולפזון, יוחנן" ;
+    skos:prefLabel "Wolfson, J" .
+
+<https://data.jhn.ngo/persons/GUF_cm/2110> a edm:Agent ;
+    rdaGr2:dateOfBirth "-" ;
+    rdaGr2:dateOfDeath "-" ;
+    owl:sameAs <http://data.judaicalink.org/data/nli/EM> ;
+    skos:altLabel "מלמד, אסתר" ;
+    skos:prefLabel "E M" .
+
+<https://data.jhn.ngo/persons/GUF_cm/2213> a edm:Agent ;
+    rdaGr2:dateOfBirth "-" ;
+    rdaGr2:dateOfDeath "-" ;
+    edm:identifier "system:343294370",
+        "system:343420090",
+        "system:34342147X",
+        "system:343422026" ;
+    owl:sameAs <http://data.judaicalink.org/data/nli/Buchmann_Max> ;
+    skos:altLabel "בוכמן, מקס" ;
+    skos:prefLabel "Buchmann, Max" .
+
+<https://data.jhn.ngo/persons/GUF_cm/2217> a edm:Agent ;
+    gndo:gndIdentifier "119542072" ;
+    rdaGr2:dateOfDeath "-" ;
+    edm:identifier "system:343420333",
+        "system:34342181X",
+        "system:343421895",
+        "system:343422166",
+        "system:343422239",
+        "system:343422344",
+        "system:343422573",
+        "system:343422824",
+        "system:343423596",
+        "system:343423944",
+        "system:343424975" ;
+    owl:sameAs <http://catalogue.bnf.fr/ark:/12148/cb11907737t>,
+        <http://d-nb.info/gnd/1090427395>,
+        <http://d-nb.info/gnd/119542072>,
+        <http://d-nb.info/gnd/119542072/about>,
+        <http://data.judaicalink.org/data/gnd/119542072>,
+        <http://hub.culturegraph.org/entityfacts/119542072>,
+        <http://id.loc.gov/authorities/n50030821>,
+        <http://kalliope-verbund.info/gnd/119542072>,
+        <http://viaf.org/viaf/292202505>,
+        <http://www.isni.org/0000000397128416>,
+        <http://www.wikidata.org/entity/Q722462>,
+        <https://de.wikipedia.org/wiki/David_Horowitz>,
+        <https://en.wikipedia.org/wiki/David_Horowitz> ;
+    skos:altLabel "Horovittsu, D.",
+        "Horowitz, D.",
+        "Horowitz, D. J.",
+        "Horowitz, David J.",
+        "Horowitz, David Joel" ;
+    skos:prefLabel "Horowitz, David" .
+
+<https://data.jhn.ngo/persons/GUF_cm/2311> a edm:Agent ;
+    gndo:gndIdentifier "119382822" ;
+    jl:birthLocation "Öhningen-Wangen" ;
+    rdaGr2:dateOfDeath "-" ;
+    edm:identifier "system:343423316",
+        "system:343423464" ;
+    owl:sameAs <http://d-nb.info/gnd/119382822>,
+        <http://d-nb.info/gnd/119382822/about>,
+        <http://data.judaicalink.org/data/gnd/119382822>,
+        <http://hub.culturegraph.org/entityfacts/119382822>,
+        <http://id.loc.gov/authorities/n86031741>,
+        <http://kalliope-verbund.info/gnd/119382822>,
+        <http://viaf.org/viaf/116389699>,
+        <http://www.isni.org/000000008413177X>,
+        <http://www.wikidata.org/entity/Q2900302>,
+        <https://de.wikipedia.org/wiki/Leo_Picard_%28Geologe%29>,
+        <https://en.wikipedia.org/wiki/Leo_Picard>,
+        <https://www.deutsche-digitale-bibliothek.de/entity/119382822> ;
+    skos:altLabel "Leo Picard",
+        "Picard, Leo",
+        "Picard, Leo Y.",
+        "Picard, Leo Yehuda",
+        "Pikard, Leʾo Yehudah",
+        "פיקרד, ליאו יהודה" ;
+    skos:prefLabel "Picard, Leo" .
+
+<https://data.jhn.ngo/persons/GUF_cm/2393> a edm:Agent ;
+    rdaGr2:dateOfBirth "-" ;
+    rdaGr2:dateOfDeath "-" ;
+    edm:identifier "system:343219786",
+        "system:343284030",
+        "system:343284707",
+        "system:343287307",
+        "system:343287781",
+        "system:343288834",
+        "system:343290219",
+        "system:343292718",
+        "system:343295296",
+        "system:34329544X",
+        "system:343297825",
+        "system:34330046X",
+        "system:343426137" ;
+    owl:sameAs <http://data.judaicalink.org/data/nli/Reiner_Markus> ;
+    skos:altLabel "רינר, מרקוס" ;
+    skos:prefLabel "Reiner, Markus" .
+
+<https://data.jhn.ngo/persons/GUF_cm/2425> a edm:Agent ;
+    gndo:gndIdentifier "119493578" ;
+    rdaGr2:dateOfBirth "-" ;
+    rdaGr2:dateOfDeath "-" ;
+    edm:identifier "vd18:90246713" ;
+    owl:sameAs <http://d-nb.info/gnd/119493578>,
+        <http://d-nb.info/gnd/119493578/about>,
+        <http://data.judaicalink.org/data/gnd/119493578>,
+        <http://hub.culturegraph.org/entityfacts/119493578>,
+        <http://id.loc.gov/authorities/n85049400>,
+        <http://kalliope-verbund.info/gnd/119493578>,
+        <http://viaf.org/viaf/32807864>,
+        <http://www.isni.org/0000000063181292>,
+        <https://www.deutsche-digitale-bibliothek.de/entity/119493578> ;
+    skos:altLabel "Selig, G. F." ;
+    skos:prefLabel "Selig, Gottfried" .
+
+<https://data.jhn.ngo/persons/GUF_cm/2463> a edm:Agent ;
+    rdaGr2:dateOfBirth "-" ;
+    rdaGr2:dateOfDeath "-" ;
+    edm:identifier "system:343186462",
+        "system:343186586",
+        "system:343198134" ;
+    owl:sameAs <http://data.judaicalink.org/data/nli/Flinck_Govaert> ;
+    skos:altLabel "פלינק, חוברט" ;
+    skos:prefLabel "Flinck, Govaert" .
+
+<https://data.jhn.ngo/persons/GUF_cm/2564> a edm:Agent ;
+    rdaGr2:dateOfBirth "-" ;
+    rdaGr2:dateOfDeath "-" ;
+    edm:identifier "system:343163705",
+        "system:343177439",
+        "system:343177447",
+        "system:343302977",
+        "system:343303205",
+        "system:343396890",
+        "system:343489813" ;
+    owl:sameAs <http://data.judaicalink.org/data/nli/Ruth> ;
+    skos:altLabel "רות," ;
+    skos:prefLabel "Ruth" .
+
+<https://data.jhn.ngo/persons/GUF_cm/2630> a edm:Agent ;
+    rdaGr2:dateOfBirth "-" ;
+    rdaGr2:dateOfDeath "-" ;
+    edm:identifier "system:343040883",
+        "system:343042134",
+        "system:343042150",
+        "system:343042177",
+        "system:343042274",
+        "system:343042347",
+        "system:343042428",
+        "system:343042533",
+        "system:34304255X",
+        "system:343042568",
+        "system:343042576",
+        "system:343042592",
+        "system:343042606",
+        "system:343042614",
+        "system:343042622",
+        "system:343042630",
+        "system:343042657",
+        "system:343042665",
+        "system:343042673",
+        "system:343042681",
+        "system:34304269X",
+        "system:34304742X",
+        "system:343047578",
+        "system:343049023",
+        "system:343051664",
+        "system:343051869",
+        "system:343052946",
+        "system:343052954",
+        "system:343053004",
+        "system:343053438",
+        "system:343053527",
+        "system:343053675",
+        "system:34305373X",
+        "system:343054108",
+        "system:343054159",
+        "system:343057832",
+        "system:343062062",
+        "system:343062070",
+        "system:343062097",
+        "system:343062100",
+        "system:343065452",
+        "system:343065509",
+        "system:343065533",
+        "system:34306555X",
+        "system:343170787",
+        "system:343172879",
+        "system:343172925",
+        "system:343175053",
+        "system:343175851",
+        "system:343176203",
+        "system:343177013",
+        "system:343180863",
+        "system:343191520",
+        "system:343191547",
+        "system:343191555",
+        "system:343191571",
+        "system:34319158X",
+        "system:343191598",
+        "system:343191601",
+        "system:343191628",
+        "system:343191679",
+        "system:343191687",
+        "system:343192578",
+        "system:34319371X",
+        "system:343199432",
+        "system:343199440",
+        "system:343199459",
+        "system:343199467",
+        "system:343199475",
+        "system:343199505",
+        "system:343202085",
+        "system:343202107",
+        "system:343202123",
+        "system:343205270",
+        "system:343215233",
+        "system:343218100",
+        "system:343220792",
+        "system:343222884",
+        "system:343229218",
+        "system:343236842",
+        "system:343236850",
+        "system:343245825",
+        "system:343249847",
+        "system:343253011",
+        "system:343265583",
+        "system:343266385",
+        "system:343266636",
+        "system:343266741",
+        "system:343266768",
+        "system:343266989",
+        "system:343267063",
+        "system:343267225",
+        "system:343267683",
+        "system:343267691",
+        "system:343268205",
+        "system:34326904X",
+        "system:343269066",
+        "system:343269120",
+        "system:343269295",
+        "system:343269333",
+        "system:343269775",
+        "system:343269791",
+        "system:343269910",
+        "system:343270242",
+        "system:343270315",
+        "system:343270404",
+        "system:343270447",
+        "system:343270587",
+        "system:343271168",
+        "system:343272784",
+        "system:343274523",
+        "system:343274558",
+        "system:343274671",
+        "system:343274760",
+        "system:343274787",
+        "system:34327485X",
+        "system:343274892",
+        "system:343274965",
+        "system:343275074",
+        "system:343275171",
+        "system:343275198",
+        "system:343275228",
+        "system:343275295",
+        "system:343275392",
+        "system:343275449",
+        "system:343275481",
+        "system:343275600",
+        "system:343275643",
+        "system:343275945",
+        "system:343275961",
+        "system:343276054",
+        "system:343281910",
+        "system:343281988",
+        "system:343282038",
+        "system:343293870",
+        "system:343299755",
+        "system:343301571",
+        "system:343301687",
+        "system:34330760X",
+        "system:343307952",
+        "system:34330824X",
+        "system:343308274",
+        "system:343331829",
+        "system:343331861",
+        "system:343332361",
+        "system:343337347",
+        "system:343337460",
+        "system:343337576",
+        "system:343338033",
+        "system:343340844",
+        "system:343341697",
+        "system:343341743",
+        "system:343343789",
+        "system:343344106",
+        "system:343344165",
+        "system:343344262",
+        "system:343344289",
+        "system:343344807",
+        "system:343345013",
+        "system:34334517X",
+        "system:343345544",
+        "system:343345560",
+        "system:343346621",
+        "system:343346672",
+        "system:343346702",
+        "system:343346753",
+        "system:343346796",
+        "system:343346850",
+        "system:343346869",
+        "system:343346923",
+        "system:343346931",
+        "system:343346982",
+        "system:34334761X",
+        "system:343347660",
+        "system:343347695",
+        "system:343347725",
+        "system:34334775X",
+        "system:34334789X",
+        "system:343348160",
+        "system:343348195",
+        "system:343348314",
+        "system:343349094",
+        "system:343349140",
+        "system:343349191",
+        "system:343349221",
+        "system:343349310",
+        "system:343349329",
+        "system:343349345",
+        "system:343349388",
+        "system:343349418",
+        "system:343350092",
+        "system:343350173",
+        "system:343350262",
+        "system:343350548",
+        "system:343350629",
+        "system:343351080",
+        "system:34335151X",
+        "system:343351587",
+        "system:34335165X",
+        "system:343351684",
+        "system:343351730",
+        "system:343352214",
+        "system:343352516",
+        "system:343352613",
+        "system:343353059",
+        "system:343353466",
+        "system:343356228",
+        "system:343356805",
+        "system:343356899",
+        "system:343356961",
+        "system:343357127",
+        "system:34336641X",
+        "system:343368803",
+        "system:343368870",
+        "system:343382490",
+        "system:34338454X",
+        "system:343388618",
+        "system:343389177",
+        "system:343389967",
+        "system:343390833",
+        "system:343392747",
+        "system:343393816",
+        "system:343394499",
+        "system:343395428",
+        "system:343395525",
+        "system:343397838",
+        "system:343399377",
+        "system:343400847",
+        "system:34341354X",
+        "system:343416050",
+        "system:343416557",
+        "system:343421550",
+        "system:343422212",
+        "system:343422417",
+        "system:343422646",
+        "system:343423707",
+        "system:343423774",
+        "system:343427648",
+        "system:343428881",
+        "system:343428962",
+        "system:343430681",
+        "system:343432471",
+        "system:343432633",
+        "system:343432684",
+        "system:343432722",
+        "system:343432765",
+        "system:343432773",
+        "system:343432862",
+        "system:343432919",
+        "system:343432927",
+        "system:343432951",
+        "system:343433036",
+        "system:343433281",
+        "system:343433311",
+        "system:343433362",
+        "system:343433397",
+        "system:343433419",
+        "system:343433664",
+        "system:343433702",
+        "system:343433745",
+        "system:343433761",
+        "system:343433990",
+        "system:343434784",
+        "system:34343489X",
+        "system:34343492X",
+        "system:343435004",
+        "system:343436841",
+        "system:343440644",
+        "system:343444798",
+        "system:343452405",
+        "system:34347803X",
+        "system:343483270",
+        "system:343483440",
+        "system:343485494",
+        "system:343491451",
+        "system:343491915",
+        "system:343495740",
+        "system:343499533",
+        "system:34349955X" ;
+    owl:sameAs <http://data.judaicalink.org/data/nli/Joseph12> ;
+    skos:altLabel "יוסף בן יעקב אבינו",
+        "يوسف",
+        "يوسف بن يعقوب" ;
+    skos:prefLabel "Joseph" .
+
+<https://data.jhn.ngo/persons/GUF_cm/2637> a edm:Agent ;
+    rdaGr2:dateOfBirth "-" ;
+    rdaGr2:dateOfDeath "-" ;
+    edm:identifier "system:343190028" ;
+    owl:sameAs <http://data.judaicalink.org/data/nli/Both_Jan> ;
+    skos:altLabel "בות, יאן" ;
+    skos:prefLabel "Both, Jan" .
+
+<https://data.jhn.ngo/persons/GUF_cm/2649> a edm:Agent ;
+    gndo:gndIdentifier "1124030395" ;
+    jl:birthLocation "Birnbaum" ;
+    rdaGr2:dateOfDeath "-" ;
+    edm:identifier "system:343398141" ;
+    owl:sameAs <http://d-nb.info/gnd/1124030395>,
+        <http://d-nb.info/gnd/1124030395/about>,
+        <http://data.judaicalink.org/data/gnd/1124030395>,
+        <http://hub.culturegraph.org/entityfacts/1124030395>,
+        <http://viaf.org/viaf/22148574376924430009> ;
+    skos:altLabel "Zirker, M." ;
+    skos:prefLabel "Zirker, Max" .
+
+<https://data.jhn.ngo/persons/GUF_cm/2687> a edm:Agent ;
+    rdaGr2:dateOfBirth "-" ;
+    rdaGr2:dateOfDeath "-" ;
+    edm:identifier "system:343398656" ;
+    owl:sameAs <http://data.judaicalink.org/data/nli/Zlocisti_Hulda> ;
+    skos:altLabel "זלוצ'יסטי, חולדה" ;
+    skos:prefLabel "Zlocisti, Hulda" .
+
+<https://data.jhn.ngo/persons/GUF_cm/2802> a edm:Agent ;
+    rdaGr2:dateOfBirth "-" ;
+    rdaGr2:dateOfDeath "-" ;
+    edm:identifier "system:343194678",
+        "system:343194686",
+        "system:343194740",
+        "system:343194767" ;
+    owl:sameAs <http://data.judaicalink.org/data/dbpedia/Isaac_Snowman>,
+        <http://dbpedia.org/resource/Isaac_Snowman>,
+        <http://rdf.freebase.com/ns/m.06zxlg>,
+        <http://viaf.org/viaf/95883824>,
+        <http://wikidata.dbpedia.org/resource/Q15504236>,
+        <http://www.wikidata.org/entity/Q15504236>,
+        <http://yago-knowledge.org/resource/Isaac_Snowman> ;
+    skos:altLabel "Isaac Snowman" ;
+    skos:prefLabel "Snowman, Isaac" .
+
+<https://data.jhn.ngo/persons/GUF_cm/2805> a edm:Agent ;
+    gndo:gndIdentifier "116390581" ;
+    rdaGr2:dateOfDeath "-" ;
+    edm:identifier "system:343400898" ;
+    owl:sameAs <http://d-nb.info/gnd/1055213066>,
+        <http://d-nb.info/gnd/116390581>,
+        <http://d-nb.info/gnd/116390581/about>,
+        <http://data.judaicalink.org/data/gnd/116390581>,
+        <http://hub.culturegraph.org/entityfacts/116390581>,
+        <http://id.loc.gov/authorities/no2002115106>,
+        <http://kalliope-verbund.info/gnd/116390581>,
+        <http://viaf.org/viaf/34823303>,
+        <http://www.isni.org/0000000109640360> ;
+    skos:altLabel "Regener, E. A." ;
+    skos:prefLabel "Regener, Edgar Alfred" .
+
+<https://data.jhn.ngo/persons/GUF_cm/2829> a edm:Agent ;
+    rdaGr2:dateOfBirth "-" ;
+    rdaGr2:dateOfDeath "-" ;
+    edm:identifier "system:343401576" ;
+    owl:sameAs <http://data.judaicalink.org/data/nli/Weiss_Ed> ;
+    skos:altLabel "וייס, אד" ;
+    skos:prefLabel "Weiss, Ed" .
+
+<https://data.jhn.ngo/persons/GUF_cm/2840> a edm:Agent ;
+    jl:hasPublication "https://www.haskala-library.net//books/die-moseide-achtzehn-gesängen" ;
+    rdaGr2:dateOfBirth "-" ;
+    rdaGr2:dateOfDeath "-" ;
+    edm:identifier "system:343401827" ;
+    owl:sameAs <http://data.judaicalink.org/data/haskala/Spalding>,
+        <https://www.haskala-library.net/people/spalding-שפלדינג> ;
+    skos:altLabel "שפלדינג" ;
+    skos:prefLabel "Spalding" .
+
+<https://data.jhn.ngo/persons/GUF_cm/2936> a edm:Agent ;
+    rdaGr2:dateOfBirth "-" ;
+    rdaGr2:dateOfDeath "-" ;
+    edm:identifier "system:343403749",
+        "system:34340401X",
+        "system:343412497" ;
+    owl:sameAs <http://data.judaicalink.org/data/dbpedia/Erich_Cohn>,
+        <http://dbpedia.org/resource/Erich_Cohn>,
+        <http://de.dbpedia.org/resource/Erich_Cohn>,
+        <http://it.dbpedia.org/resource/Erich_Cohn>,
+        <http://rdf.freebase.com/ns/m.0284ttz>,
+        <http://viaf.org/viaf/284351219>,
+        <http://wikidata.dbpedia.org/resource/Q72161>,
+        <http://www.wikidata.org/entity/Q72161>,
+        <http://yago-knowledge.org/resource/Erich_Cohn> ;
+    skos:altLabel "Erich Cohn",
+        "Кон, Эрих" ;
+    skos:prefLabel "Cohn, Erich" .
+
+<https://data.jhn.ngo/persons/GUF_cm/3016> a edm:Agent ;
+    rdaGr2:dateOfBirth "-" ;
+    rdaGr2:dateOfDeath "-" ;
+    edm:identifier "system:343405474" ;
+    owl:sameAs <http://data.judaicalink.org/data/nli/Levy_Oscar> ;
+    skos:altLabel "לוי, אוסקר" ;
+    skos:prefLabel "Levy, Oscar" .
+
+<https://data.jhn.ngo/persons/GUF_cm/3017> a edm:Agent ;
+    gndo:gndIdentifier "1037028996" ;
+    rdaGr2:dateOfDeath "-" ;
+    edm:identifier "system:343168839",
+        "system:343168847",
+        "system:343168855",
+        "system:343168863",
+        "system:343168871",
+        "system:34316888X",
+        "system:343168898",
+        "system:343201305",
+        "system:343201321",
+        "system:343201348" ;
+    owl:sameAs <http://d-nb.info/gnd/1037028996>,
+        <http://d-nb.info/gnd/1037028996/about>,
+        <http://data.judaicalink.org/data/gnd/1037028996>,
+        <http://hub.culturegraph.org/entityfacts/1037028996>,
+        <http://viaf.org/viaf/304928737>,
+        <http://www.isni.org/0000000416591140>,
+        <http://www.wikidata.org/entity/Q1638288>,
+        <https://de.wikipedia.org/wiki/James_Bieberkraut> ;
+    skos:altLabel "Bieberfeld, James",
+        "James Bieberkraut" ;
+    skos:prefLabel "Bieberkraut, James" .
+
+<https://data.jhn.ngo/persons/GUF_cm/3208> a edm:Agent ;
+    rdaGr2:dateOfBirth "-" ;
+    rdaGr2:dateOfDeath "-" ;
+    edm:identifier "system:34325848X",
+        "system:343409909",
+        "system:343422212",
+        "system:343423707",
+        "system:343423774" ;
+    owl:sameAs <http://data.judaicalink.org/data/nli/Cohen_J> ;
+    skos:altLabel "כהן, ע." ;
+    skos:prefLabel "Cohen, J" .
+
+<https://data.jhn.ngo/persons/GUF_cm/3238> a edm:Agent ;
+    rdaGr2:dateOfBirth "-" ;
+    rdaGr2:dateOfDeath "-" ;
+    edm:identifier "system:34320682X",
+        "system:343206846",
+        "system:343206854",
+        "system:343206900",
+        "system:343206935",
+        "system:343206943",
+        "system:343212072",
+        "system:343212080",
+        "system:343212099",
+        "system:343212102",
+        "system:343212110",
+        "system:343212129",
+        "system:343212145",
+        "system:343212153",
+        "system:343215187",
+        "system:343215195" ;
+    owl:sameAs <http://data.judaicalink.org/data/nli/Kaufmann_Hugo> ;
+    skos:altLabel "קויפמן, הוגו" ;
+    skos:prefLabel "Kaufmann, Hugo" .
+
+<https://data.jhn.ngo/persons/GUF_cm/3241> a edm:Agent ;
+    gndo:gndIdentifier "119600935" ;
+    rdaGr2:dateOfBirth "-" ;
+    rdaGr2:dateOfDeath "-" ;
+    edm:identifier "system:343206889",
+        "system:343206897",
+        "system:343206919",
+        "system:343207044",
+        "system:343410931" ;
+    owl:sameAs <http://d-nb.info/gnd/119600935>,
+        <http://d-nb.info/gnd/119600935/about>,
+        <http://data.judaicalink.org/data/gnd/119600935>,
+        <http://hub.culturegraph.org/entityfacts/119600935>,
+        <http://viaf.org/viaf/3283625>,
+        <https://www.deutsche-digitale-bibliothek.de/entity/119600935> ;
+    skos:altLabel "Adam Michael",
+        "Michael, Adam" ;
+    skos:prefLabel "Adam, Michael" .
+
+<https://data.jhn.ngo/persons/GUF_cm/3321> a edm:Agent ;
+    gndo:gndIdentifier "108961710" ;
+    rdaGr2:dateOfBirth "-" ;
+    rdaGr2:dateOfDeath "-" ;
+    edm:identifier "system:343210347",
+        "system:34321041X",
+        "system:343210452",
+        "system:343210460",
+        "system:343210479",
+        "system:343210487",
+        "system:343210509",
+        "system:343210525",
+        "system:343210533" ;
+    owl:sameAs <http://catalogue.bnf.fr/ark:/12148/cb12142667v>,
+        <http://d-nb.info/gnd/1089172699>,
+        <http://d-nb.info/gnd/108961710>,
+        <http://d-nb.info/gnd/108961710/about>,
+        <http://data.judaicalink.org/data/gnd/108961710>,
+        <http://hub.culturegraph.org/entityfacts/108961710>,
+        <http://id.loc.gov/authorities/n85277047>,
+        <http://viaf.org/viaf/68965460>,
+        <http://www.isni.org/0000000109120293>,
+        <http://www.wikidata.org/entity/Q15987112>,
+        <https://en.wikipedia.org/wiki/Arthur_Segal_%28archaeologist%29> ;
+    skos:altLabel "Arthur Segal",
+        "Segal, Artur",
+        "Segaʺl, Artur",
+        "Segel, Artur" ;
+    skos:prefLabel "Segal, Arthur" .
+
+<https://data.jhn.ngo/persons/GUF_cm/3324> a edm:Agent ;
+    jl:hasAbstract "Maler, Kunstgewerbler, Innenarchitekt, geb. 29.4.1878 Laupheim, gest. 11.7.1942 Auschwitz. Nach Studien und Lehrtätigkeit in München erhielt A. 1907 einen Ruf an die Kunstgewerbeschule Hamburg für Ornamentik, Naturstudien und Entwurf. Im selben Jahr heiratete er Bertha Haymann, mit der er fünf Kinder hatte. Zwei weitere Kinder gingen aus einer 1920 geschlossenen Ehe hervor. In seinem vielseitigen Œuvre präsentierte sich A. als hervorragender Raumkünstler von sprühender Farbigkeit, der seine ornamentalen Motive aus der Natur entwickelte. Zunächst zum Jugendstil neigend, wandte er sich später dem Art déco zu. A. entwarf zahlreiche Gebrauchsgegenstände wie Möbel, Textilien, Keramik, Glas, Silber, Geschirr und Schmuck, gestaltete aber ..." ;
+    rdaGr2:dateOfBirth "-" ;
+    rdaGr2:dateOfDeath "-" ;
+    edm:identifier "system:343210517",
+        "system:343210541",
+        "system:343210568",
+        "system:343210576",
+        "system:343210584",
+        "system:343210592",
+        "system:343210606",
+        "system:343210614",
+        "system:343210630" ;
+    owl:sameAs <http://data.judaicalink.org/data/djh/adler-friedrich> ;
+    skos:altLabel "Friedrich Adler" ;
+    skos:prefLabel "Adler, Friedrich" .
+
+<https://data.jhn.ngo/persons/GUF_cm/3370> a edm:Agent ;
+    gndo:gndIdentifier "118773348" ;
+    rdaGr2:dateOfBirth "-" ;
+    rdaGr2:dateOfDeath "-" ;
+    edm:identifier "system:343415968" ;
+    owl:sameAs <http://catalogue.bnf.fr/ark:/12148/cb12769985r>,
+        <http://d-nb.info/gnd/118773348>,
+        <http://d-nb.info/gnd/118773348/about>,
+        <http://data.europa.eu/euodp/jrc-names/Moritz_Hartmann>,
+        <http://data.judaicalink.org/data/dbpedia/Moritz_Hartmann>,
+        <http://data.judaicalink.org/data/yivo/Hartmann_Moritz>,
+        <http://dbpedia.org/resource/Moritz_Hartmann>,
+        <http://de.dbpedia.org/resource/Moritz_Hartmann>,
+        <http://fr.dbpedia.org/resource/Moritz_Hartmann>,
+        <http://hub.culturegraph.org/entityfacts/118773348>,
+        <http://id.loc.gov/authorities/n85348438>,
+        <http://it.dbpedia.org/resource/Moritz_Hartmann>,
+        <http://kalliope-verbund.info/gnd/118773348>,
+        <http://kulturportal-west-ost.eu/persons/hartmann-moritz/>,
+        <http://pl.dbpedia.org/resource/Moritz_Hartmann>,
+        <http://rdf.freebase.com/ns/m.05kqtn>,
+        <http://viaf.org/viaf/102343304>,
+        <http://wikidata.dbpedia.org/resource/Q565133>,
+        <http://www.biographien.ac.at/oebl/oebl_H/Hartmann_Moritz_1821_1872.xml?frames=yes>,
+        <http://www.deutsche-biographie.de/pnd118773348.html#adbcontent>,
+        <http://www.deutsche-biographie.de/pnd118773348.html#ndbcontent>,
+        <http://www.isni.org/0000000108158521>,
+        <http://www.portraitindex.de/dokumente/pnd/118773348>,
+        <http://www.wikidata.org/entity/Q565133>,
+        <http://yago-knowledge.org/resource/Moritz_Hartmann>,
+        <https://de.wikipedia.org/wiki/Moritz_Hartmann_%28Publizist%29>,
+        <https://de.wikisource.org/wiki/Moritz_Hartmann>,
+        <https://en.wikipedia.org/wiki/Moritz_Hartmann>,
+        <https://www.deutsche-digitale-bibliothek.de/entity/118773348> ;
+    skos:altLabel "Moritz Hartmann",
+        "Гартман, Мориц" ;
+    skos:prefLabel "Hartmann, Moritz" .
+
+<https://data.jhn.ngo/persons/GUF_cm/3579> a edm:Agent ;
+    rdaGr2:dateOfBirth "-" ;
+    rdaGr2:dateOfDeath "-" ;
+    edm:identifier "system:343001314",
+        "system:34302733X",
+        "system:34302828X",
+        "system:34302845X",
+        "system:343030322",
+        "system:34303087X",
+        "system:343034301",
+        "system:343042320",
+        "system:343047705",
+        "system:343047802",
+        "system:343048523",
+        "system:343048574",
+        "system:343049082",
+        "system:343049163",
+        "system:343051060",
+        "system:343051486",
+        "system:343053764",
+        "system:343054655",
+        "system:343054728",
+        "system:343054892",
+        "system:343055503",
+        "system:343064162",
+        "system:343064952",
+        "system:34306538X",
+        "system:343065460",
+        "system:343065487",
+        "system:343065495",
+        "system:343065541",
+        "system:343065568",
+        "system:343065584",
+        "system:343065592",
+        "system:343065606",
+        "system:343065614",
+        "system:343065622",
+        "system:343065630",
+        "system:343065657",
+        "system:343065665",
+        "system:343065673",
+        "system:343065681",
+        "system:34306569X",
+        "system:343065711",
+        "system:34306572X",
+        "system:343065738",
+        "system:343065746",
+        "system:343065754",
+        "system:343065762",
+        "system:343065770",
+        "system:343065789",
+        "system:343065797",
+        "system:343065800",
+        "system:343065819",
+        "system:343065827",
+        "system:343065843",
+        "system:34306586X",
+        "system:343065878",
+        "system:343065886",
+        "system:343065894",
+        "system:343065908",
+        "system:343163527",
+        "system:343163659",
+        "system:343172585",
+        "system:343175878",
+        "system:343176130",
+        "system:34317619X",
+        "system:343176491",
+        "system:343176661",
+        "system:343177293",
+        "system:343178036",
+        "system:343178079",
+        "system:343178524",
+        "system:343178761",
+        "system:343179474",
+        "system:343183587",
+        "system:343183609",
+        "system:343183617",
+        "system:343188503",
+        "system:34318852X",
+        "system:343188538",
+        "system:343188554",
+        "system:343188562",
+        "system:343188570",
+        "system:343188589",
+        "system:343188597",
+        "system:343188635",
+        "system:343188643",
+        "system:343201046",
+        "system:34320438X",
+        "system:343204444",
+        "system:343204452",
+        "system:343204479",
+        "system:343204487",
+        "system:343204495",
+        "system:343204509",
+        "system:343204517",
+        "system:343204525",
+        "system:343204533",
+        "system:343204541",
+        "system:343204622",
+        "system:343216728",
+        "system:343219719",
+        "system:343219921",
+        "system:343221578",
+        "system:343231034",
+        "system:343235285",
+        "system:343240157",
+        "system:343240726",
+        "system:343240734",
+        "system:343240742",
+        "system:343240793",
+        "system:343240807",
+        "system:343240815",
+        "system:343240823",
+        "system:343240831",
+        "system:34324084X",
+        "system:343240858",
+        "system:343240866",
+        "system:343240920",
+        "system:343240939",
+        "system:343240963",
+        "system:343240971",
+        "system:34324098X",
+        "system:343241587",
+        "system:343242028",
+        "system:343267977",
+        "system:343268264",
+        "system:343268949",
+        "system:34326935X",
+        "system:343285096",
+        "system:343287153",
+        "system:343287234",
+        "system:343287323",
+        "system:343287420",
+        "system:343287765",
+        "system:343288338",
+        "system:343288869",
+        "system:343289105",
+        "system:343289164",
+        "system:343289563",
+        "system:343289849",
+        "system:343290170",
+        "system:343291800",
+        "system:343291878",
+        "system:343292149",
+        "system:343292750",
+        "system:343292769",
+        "system:343294265",
+        "system:343297582",
+        "system:343301385",
+        "system:343301679",
+        "system:343308231",
+        "system:343308290",
+        "system:343308398",
+        "system:343308797",
+        "system:343309238",
+        "system:343331586",
+        "system:343331888",
+        "system:34333206X",
+        "system:343332116",
+        "system:343332124",
+        "system:343332523",
+        "system:343332876",
+        "system:343334828",
+        "system:343335824",
+        "system:343338254",
+        "system:343338440",
+        "system:343338521",
+        "system:343338718",
+        "system:343339757",
+        "system:343339862",
+        "system:343339900",
+        "system:34333996X",
+        "system:34334002X",
+        "system:343340518",
+        "system:343341018",
+        "system:343341069",
+        "system:34334131X",
+        "system:343345838",
+        "system:343345889",
+        "system:343345951",
+        "system:343345978",
+        "system:343346001",
+        "system:343346028",
+        "system:343346052",
+        "system:343346060",
+        "system:343346222",
+        "system:343346370",
+        "system:343346575",
+        "system:343347997",
+        "system:343348071",
+        "system:343348136",
+        "system:343348373",
+        "system:343348454",
+        "system:343348519",
+        "system:343348543",
+        "system:343348578",
+        "system:343348594",
+        "system:343351722",
+        "system:343351889",
+        "system:343355876",
+        "system:343356309",
+        "system:343356813",
+        "system:343356902",
+        "system:343357046",
+        "system:343357232",
+        "system:343358085",
+        "system:343358816",
+        "system:343358824",
+        "system:343359006",
+        "system:343359022",
+        "system:343359251",
+        "system:343359367",
+        "system:343360454",
+        "system:343360640",
+        "system:343360659",
+        "system:343360780",
+        "system:343360950",
+        "system:343361213",
+        "system:343361221",
+        "system:343361582",
+        "system:343361787",
+        "system:343362139",
+        "system:343362260",
+        "system:343362333",
+        "system:343362686",
+        "system:343362708",
+        "system:343362732",
+        "system:343362945",
+        "system:34336302X",
+        "system:343363364",
+        "system:343363674",
+        "system:343365200",
+        "system:343365324",
+        "system:343365413",
+        "system:343365944",
+        "system:343367157",
+        "system:343381222",
+        "system:343381990",
+        "system:343382768",
+        "system:343383055",
+        "system:343383306",
+        "system:34338406X",
+        "system:343384094",
+        "system:343386186",
+        "system:343386755",
+        "system:343388421",
+        "system:34339071X",
+        "system:343390825",
+        "system:343390906",
+        "system:343390930",
+        "system:34339183X",
+        "system:343391902",
+        "system:343395371",
+        "system:343395592",
+        "system:343399024",
+        "system:343402637",
+        "system:343403447",
+        "system:343405334",
+        "system:343405369",
+        "system:343406128",
+        "system:343406152",
+        "system:343408546",
+        "system:343409690",
+        "system:343410249",
+        "system:343410478",
+        "system:34341077X",
+        "system:343412527",
+        "system:34341614X",
+        "system:343416344",
+        "system:343416360",
+        "system:343416581",
+        "system:343419009",
+        "system:343419491",
+        "system:343419963",
+        "system:343420082",
+        "system:343420643",
+        "system:343420953",
+        "system:343421224",
+        "system:343421402",
+        "system:343421925",
+        "system:343422530",
+        "system:343422689",
+        "system:343422913",
+        "system:343423456",
+        "system:343423480",
+        "system:343423529",
+        "system:343423863",
+        "system:343424061",
+        "system:343424495",
+        "system:343424797",
+        "system:343425351",
+        "system:343425963",
+        "system:343426846",
+        "system:343426919",
+        "system:34343105X",
+        "system:343431483",
+        "system:343433079",
+        "system:343434008",
+        "system:343434261",
+        "system:343434318",
+        "system:343434342",
+        "system:343434385",
+        "system:343434393",
+        "system:343434466",
+        "system:343434520",
+        "system:343434547",
+        "system:343434660",
+        "system:343434687",
+        "system:343434733",
+        "system:34343475X",
+        "system:343434792",
+        "system:343434857",
+        "system:343434865",
+        "system:343434873",
+        "system:343434903",
+        "system:343434938",
+        "system:343434946",
+        "system:343434962",
+        "system:343434970",
+        "system:343435047",
+        "system:343435055",
+        "system:343435063",
+        "system:34343508X",
+        "system:34343511X",
+        "system:343435128",
+        "system:343435144",
+        "system:343435152",
+        "system:343435195",
+        "system:343435217",
+        "system:343435225",
+        "system:343435284",
+        "system:343435292",
+        "system:343435314",
+        "system:343435349",
+        "system:343435365",
+        "system:34343539X",
+        "system:343435403",
+        "system:343435411",
+        "system:34343542X",
+        "system:343435438",
+        "system:343435446",
+        "system:343435454",
+        "system:343435462",
+        "system:343435489",
+        "system:343435497",
+        "system:343435500",
+        "system:343435519",
+        "system:343435527",
+        "system:343435535",
+        "system:343454394",
+        "system:343456249",
+        "system:343465949",
+        "system:343484781",
+        "system:343489228",
+        "system:343489635",
+        "system:343489716",
+        "system:343490730",
+        "system:343490781",
+        "system:343490897",
+        "system:343497204",
+        "system:343501554",
+        "system:343501848",
+        "system:343501872",
+        "system:343501880" ;
+    owl:sameAs <http://data.judaicalink.org/data/nli/Abraham> ;
+    skos:altLabel "אברהם,",
+        "ابراهيم الخليل" ;
+    skos:prefLabel "Abraham" .
+
+<https://data.jhn.ngo/persons/GUF_cm/3751> a edm:Agent ;
+    rdaGr2:dateOfBirth "-" ;
+    rdaGr2:dateOfDeath "-" ;
+    edm:identifier "system:343036428",
+        "system:343058693",
+        "system:343192489",
+        "system:343235005",
+        "system:343236621",
+        "system:343237199",
+        "system:343368811" ;
+    owl:sameAs <http://data.judaicalink.org/data/nli/Levy_H> ;
+    skos:altLabel "לוי, הימן" ;
+    skos:prefLabel "Levy, H" .
+
+<https://data.jhn.ngo/persons/GUF_cm/3876> a edm:Agent ;
+    rdaGr2:dateOfBirth "-" ;
+    rdaGr2:dateOfDeath "-" ;
+    edm:identifier "system:343308630",
+        "system:343331659" ;
+    owl:sameAs <http://data.judaicalink.org/data/nli/Preis_Karl> ;
+    skos:altLabel "פריס, קרל" ;
+    skos:prefLabel "Preis, Karl" .
+
+<https://data.jhn.ngo/persons/GUF_cm/3892> a edm:Agent ;
+    gndo:gndIdentifier "1038726018" ;
+    rdaGr2:dateOfBirth "-" ;
+    rdaGr2:dateOfDeath "-" ;
+    edm:identifier "system:343047845" ;
+    owl:sameAs <http://d-nb.info/gnd/1038726018>,
+        <http://d-nb.info/gnd/1038726018/about>,
+        <http://data.judaicalink.org/data/gnd/1038726018>,
+        <http://hub.culturegraph.org/entityfacts/1038726018>,
+        <http://viaf.org/viaf/305154770> ;
+    skos:altLabel "Baruch Strassburger",
+        "Straßburger, Baruch" ;
+    skos:prefLabel "Strassburger, Baruch" .
+
+<https://data.jhn.ngo/persons/GUF_cm/3922> a edm:Agent ;
+    jl:birthLocation "Wien" ;
+    jl:hasAbstract "Kantor, geb. 4.5.1875 Wien, gest. Feb. 1947 Haifa. Die tiefgreifenden Veränderungen synagogaler Musik am Hamburger Reformtempel im frühen 20. Jahrhundert wurden durch K. initiiert, der die zuvor gepflegten sefardischen Melodien sowie die an protestantische Kirchenmusik angelehnte Musik in deutscher Sprache durch traditionelle aschkenasische Klänge ersetzte. Als Spross einer alten, dem Kantorenstand verbundenen Familie begann er seine musikalische Ausbildung bei seinem Vater. Weitere Studien folgten von 1887 bis 1893 mit L. Unger in Wien und von 1893 bis 1897 mit L. Schmidt in Brünn. K.s musikalische Tätigkeiten waren vielseitig: Er war Dirigent des Synagogengesangvereins in Iglau (1898), Oberkantor in Klattau und ..." ;
+    rdaGr2:dateOfBirth "-" ;
+    rdaGr2:dateOfDeath "-" ;
+    edm:identifier "system:343048345",
+        "system:343049120" ;
+    owl:sameAs <http://data.judaicalink.org/data/djh/kornitzer-leon>,
+        <http://data.judaicalink.org/data/nli/Kornitzer_Leon> ;
+    skos:altLabel "Leon Kornitzer",
+        "קורניצר, לאון" ;
+    skos:prefLabel "Kornitzer, Leon" .
+
+<https://data.jhn.ngo/persons/GUF_cm/3935> a edm:Agent ;
+    rdaGr2:dateOfBirth "-" ;
+    rdaGr2:dateOfDeath "-" ;
+    edm:identifier "system:343054132",
+        "system:343332043",
+        "system:343339080",
+        "system:343353121",
+        "system:343354705",
+        "system:343359278",
+        "system:343361000",
+        "system:343361639",
+        "system:343361760",
+        "system:343361817",
+        "system:343361825",
+        "system:343363607",
+        "system:343363763",
+        "system:343364700",
+        "system:34336610X",
+        "system:343366312" ;
+    owl:sameAs <http://d-nb.info/gnd/1012367827>,
+        <http://data.judaicalink.org/data/bhr/Treitel_Leopold>,
+        <http://data.judaicalink.org/data/dbpedia/Leopold_Treitel>,
+        <http://dbpedia.org/resource/Leopold_Treitel>,
+        <http://rdf.freebase.com/ns/m.0s8y87r>,
+        <http://steinheim-institut.de:50580/cgi-bin/bhr?gnd=1012367827>,
+        <http://steinheim-institut.de:50580/cgi-bin/bhr?id=2623>,
+        <http://wikidata.dbpedia.org/resource/Q16029979>,
+        <http://www.wikidata.org/entity/Q16029979>,
+        <http://yago-knowledge.org/resource/Leopold_Treitel> ;
+    skos:altLabel "Leopold Treitel" ;
+    skos:prefLabel "Treitel, Leopold" .
+
+<https://data.jhn.ngo/persons/GUF_cm/3937> a edm:Agent ;
+    rdaGr2:dateOfBirth "-" ;
+    rdaGr2:dateOfDeath "-" ;
+    edm:identifier "system:343049740",
+        "system:343052040",
+        "system:343332213",
+        "system:343333783",
+        "system:343333856" ;
+    owl:sameAs <http://data.judaicalink.org/data/nli/Wahrmann_Nachum> ;
+    skos:altLabel "וואהרמן, נחום" ;
+    skos:prefLabel "Wahrmann, Nachum" .
+
+<https://data.jhn.ngo/persons/GUF_cm/3938> a edm:Agent ;
+    rdaGr2:dateOfBirth "-" ;
+    rdaGr2:dateOfDeath "-" ;
+    edm:identifier "system:343027305",
+        "system:343338823",
+        "system:343338963",
+        "system:343363003",
+        "system:343363127",
+        "system:343363186" ;
+    owl:sameAs <http://data.judaicalink.org/data/nli/Barol_Moses> ;
+    skos:altLabel "ברול, משה" ;
+    skos:prefLabel "Barol, Moses" .
+
+<https://data.jhn.ngo/persons/GUF_cm/3940> a edm:Agent ;
+    gndo:gndIdentifier "116977876" ;
+    rdaGr2:dateOfDeath "-" ;
+    edm:identifier "system:343332205",
+        "system:343340240" ;
+    owl:sameAs <http://d-nb.info/gnd/116977876>,
+        <http://d-nb.info/gnd/116977876/about>,
+        <http://data.judaicalink.org/data/gnd/116977876>,
+        <http://hub.culturegraph.org/entityfacts/116977876>,
+        <http://kalliope-verbund.info/gnd/116977876>,
+        <http://viaf.org/viaf/291106723>,
+        <http://www.isni.org/0000000396206398>,
+        <http://www.wikidata.org/entity/Q23061177>,
+        <https://de.wikipedia.org/wiki/Heinrich_Lewy>,
+        <https://www.deutsche-digitale-bibliothek.de/entity/116977876> ;
+    skos:altLabel "Lewy, Henricus" ;
+    skos:prefLabel "Lewy, Heinrich" .
+
+<https://data.jhn.ngo/persons/GUF_cm/3979> a edm:Agent ;
+    gndo:gndIdentifier "172150566" ;
+    rdaGr2:dateOfDeath "-" ;
+    edm:identifier "system:343333163" ;
+    owl:sameAs <http://catalogue.bnf.fr/ark:/12148/cb12388123g>,
+        <http://d-nb.info/gnd/172150566>,
+        <http://d-nb.info/gnd/172150566/about>,
+        <http://data.judaicalink.org/data/gnd/172150566>,
+        <http://hub.culturegraph.org/entityfacts/172150566>,
+        <http://id.loc.gov/authorities/n81097601>,
+        <http://kalliope-verbund.info/gnd/172150566>,
+        <http://viaf.org/viaf/94516536>,
+        <http://www.isni.org/0000000109267076>,
+        <http://www.wikidata.org/entity/Q2815662>,
+        <https://de.wikipedia.org/wiki/Israel_Halperin>,
+        <https://en.wikipedia.org/wiki/Israel_Halperin> ;
+    skos:altLabel "Haylperîn, Yiśrā'ēl",
+        "Hayylperîn, Yiśrā'ēl" ;
+    skos:prefLabel "Halperin, Israel" .
+
+<https://data.jhn.ngo/persons/GUF_cm/3980> a edm:Agent ;
+    gndo:gndIdentifier "13633248X" ;
+    rdaGr2:dateOfBirth "-" ;
+    rdaGr2:dateOfDeath "-" ;
+    edm:identifier "system:343049600",
+        "system:343340194" ;
+    owl:sameAs <http://d-nb.info/gnd/13633248X>,
+        <http://d-nb.info/gnd/13633248X/about>,
+        <http://data.judaicalink.org/data/dbpedia/Louis_Finkelstein>,
+        <http://data.judaicalink.org/data/gnd/13633248X>,
+        <http://dbpedia.org/resource/Louis_Finkelstein>,
+        <http://hub.culturegraph.org/entityfacts/13633248X>,
+        <http://id.loc.gov/authorities/n96001881>,
+        <http://pt.dbpedia.org/resource/Louis_Finkelstein>,
+        <http://rdf.freebase.com/ns/m.0qmqy>,
+        <http://viaf.org/viaf/266964762>,
+        <http://wikidata.dbpedia.org/resource/Q2903240>,
+        <http://www.isni.org/0000000382939523>,
+        <http://www.wikidata.org/entity/Q15461329>,
+        <http://www.wikidata.org/entity/Q2903240>,
+        <http://yago-knowledge.org/resource/Louis_Finkelstein>,
+        <https://en.wikipedia.org/wiki/Louis_Finkelstein_%28artist%29> ;
+    skos:altLabel "Fînqelšṭayn, Elîʿezer A.",
+        "Fînqelšṭayn, Elîʿezer Aryē",
+        "Fînqelšṭîn, Elîʿezer Aryē",
+        "Louis Finkelstein" ;
+    skos:prefLabel "Finkelstein, Louis" .
+
+<https://data.jhn.ngo/persons/GUF_cm/3992> a edm:Agent ;
+    rdaGr2:dateOfBirth "-" ;
+    rdaGr2:dateOfDeath "-" ;
+    edm:identifier "system:343049864" ;
+    owl:sameAs <http://data.judaicalink.org/data/dbpedia/Robert_Gordis>,
+        <http://dbpedia.org/resource/Robert_Gordis>,
+        <http://rdf.freebase.com/ns/m.05xcxt5>,
+        <http://wikidata.dbpedia.org/resource/Q7344850>,
+        <http://www.wikidata.org/entity/Q7344850>,
+        <http://yago-knowledge.org/resource/Robert_Gordis> ;
+    skos:altLabel "Robert Gordis" ;
+    skos:prefLabel "Gordis, Robert" .
+
+<https://data.jhn.ngo/persons/GUF_cm/4067> a edm:Agent ;
+    rdaGr2:dateOfBirth "-" ;
+    rdaGr2:dateOfDeath "-" ;
+    edm:identifier "system:343028174",
+        "system:34305342X",
+        "system:343053500",
+        "system:343275597",
+        "system:343275708",
+        "system:343275783",
+        "system:343275813",
+        "system:343275856",
+        "system:34327602X",
+        "system:343276119",
+        "system:343276135",
+        "system:343276240",
+        "system:343276283",
+        "system:343276518",
+        "system:343337150",
+        "system:343337649",
+        "system:343337681",
+        "system:343338076",
+        "system:343346125",
+        "system:343346249",
+        "system:343347253",
+        "system:343347296",
+        "system:343347334",
+        "system:343347369",
+        "system:34334744X",
+        "system:343347679",
+        "system:343347733",
+        "system:343347768",
+        "system:343350955",
+        "system:343352400",
+        "system:343352451",
+        "system:343352559",
+        "system:34335263X",
+        "system:343352648",
+        "system:343352672",
+        "system:343352729",
+        "system:343352761",
+        "system:343352788",
+        "system:34335280X",
+        "system:343352842",
+        "system:343352893",
+        "system:343352915",
+        "system:343353326",
+        "system:343354187",
+        "system:343354217",
+        "system:343357348" ;
+    owl:sameAs <http://data.judaicalink.org/data/bhr/Kohn_Samuel>,
+        <http://data.judaicalink.org/data/bhr/Kohn_Samuel-1>,
+        <http://data.judaicalink.org/data/dbpedia/Samuel_Kohn>,
+        <http://data.judaicalink.org/data/nli/Kohn_Samuel>,
+        <http://dbpedia.org/resource/Samuel_Kohn>,
+        <http://rdf.freebase.com/ns/m.0j677bx>,
+        <http://steinheim-institut.de:50580/cgi-bin/bhr?id=957>,
+        <http://steinheim-institut.de:50580/cgi-bin/bhr?id=958>,
+        <http://viaf.org/viaf/71441395>,
+        <http://wikidata.dbpedia.org/resource/Q7411927>,
+        <http://www.wikidata.org/entity/Q7411927>,
+        <http://yago-knowledge.org/resource/Samuel_Kohn> ;
+    skos:altLabel "Samuel Kohn",
+        "קוהן, שמואל" ;
+    skos:prefLabel "Kohn, Samuel" .
+
+<https://data.jhn.ngo/persons/GUF_cm/4084> a edm:Agent ;
+    gndo:gndIdentifier "123273714" ;
+    jl:birthLocation "Mannheim" ;
+    rdaGr2:dateOfDeath "-" ;
+    edm:identifier "system:343337614",
+        "system:343353237",
+        "system:343353296" ;
+    owl:sameAs <http://catalogue.bnf.fr/ark:/12148/cb144783896>,
+        <http://d-nb.info/gnd/1090119534>,
+        <http://d-nb.info/gnd/1090348509>,
+        <http://d-nb.info/gnd/123273714>,
+        <http://d-nb.info/gnd/123273714/about>,
+        <http://data.judaicalink.org/data/gnd/123273714>,
+        <http://hub.culturegraph.org/entityfacts/123273714>,
+        <http://id.loc.gov/authorities/n79077371>,
+        <http://viaf.org/viaf/116712957>,
+        <http://www.isni.org/0000000114634037>,
+        <http://www.wikidata.org/entity/Q2079069>,
+        <https://de.wikipedia.org/wiki/Samuel_Adler_%28Komponist%29>,
+        <https://en.wikipedia.org/wiki/Samuel_Adler_%28composer%29> ;
+    skos:altLabel "Adler, Samuel H.",
+        "Adler, Samuel Hans" ;
+    skos:prefLabel "Adler, Samuel" .
+
+<https://data.jhn.ngo/persons/GUF_cm/4085> a edm:Agent ;
+    rdaGr2:dateOfBirth "-" ;
+    rdaGr2:dateOfDeath "-" ;
+    edm:identifier "system:343337630" ;
+    owl:sameAs <http://data.judaicalink.org/data/nli/Ritter_Bernhard> ;
+    skos:altLabel "ריטר, דב אריה," ;
+    skos:prefLabel "Ritter, Bernhard" .
+
+<https://data.jhn.ngo/persons/GUF_cm/4098> a edm:Agent ;
+    rdaGr2:dateOfBirth "-" ;
+    rdaGr2:dateOfDeath "-" ;
+    edm:identifier "system:343338351",
+        "system:343357933" ;
+    owl:sameAs <http://data.judaicalink.org/data/bhr/Margulies_SamuelHirsch>,
+        <http://data.judaicalink.org/data/dbpedia/Samuel_Hirsch_Margulies>,
+        <http://dbpedia.org/resource/Samuel_Hirsch_Margulies>,
+        <http://rdf.freebase.com/ns/m.02r61rs>,
+        <http://steinheim-institut.de:50580/cgi-bin/bhr?id=2409>,
+        <http://wikidata.dbpedia.org/resource/Q7411700>,
+        <http://www.wikidata.org/entity/Q7411700>,
+        <http://yago-knowledge.org/resource/Samuel_Hirsch_Margulies> ;
+    skos:altLabel "Samuel Hirsch Margulies" ;
+    skos:prefLabel "Margulies, Samuel Hirsch" .
+
+<https://data.jhn.ngo/persons/GUF_cm/4103> a edm:Agent ;
+    rdaGr2:dateOfBirth "-" ;
+    rdaGr2:dateOfDeath "-" ;
+    edm:identifier "system:343028077",
+        "system:343338505",
+        "system:343343835",
+        "system:34334386X",
+        "system:343347288",
+        "system:343348667" ;
+    owl:sameAs <http://data.judaicalink.org/data/nli/Brann_Salomon> ;
+    skos:altLabel "בראן, שלמה זלמן" ;
+    skos:prefLabel "Brann, Salomon" .
+
+<https://data.jhn.ngo/persons/GUF_cm/4110> a edm:Agent ;
+    rdaGr2:dateOfBirth "-" ;
+    rdaGr2:dateOfDeath "-" ;
+    edm:identifier "system:343055430",
+        "system:343055732",
+        "system:343338971",
+        "system:343348403",
+        "system:343348470",
+        "system:343348551",
+        "system:343349000",
+        "system:343362678",
+        "system:343362724",
+        "system:34336283X",
+        "system:343363151",
+        "system:343363429",
+        "system:343363453",
+        "system:343363577" ;
+    owl:sameAs <http://d-nb.info/gnd/116971207>,
+        <http://data.judaicalink.org/data/bhr/Lewin_Adolf>,
+        <http://data.judaicalink.org/data/bhr/Lewin_Adolf-1>,
+        <http://data.judaicalink.org/data/dbpedia/Adolf_Lewin>,
+        <http://data.judaicalink.org/data/gnd/116971207>,
+        <http://dbpedia.org/resource/Adolf_Lewin>,
+        <http://rdf.freebase.com/ns/m.0gnfj_>,
+        <http://steinheim-institut.de:50580/cgi-bin/bhr?gnd=116971207>,
+        <http://steinheim-institut.de:50580/cgi-bin/bhr?id=1095>,
+        <http://viaf.org/viaf/25367517>,
+        <http://wikidata.dbpedia.org/resource/Q4684132>,
+        <http://www.wikidata.org/entity/Q4684132>,
+        <http://yago-knowledge.org/resource/Adolf_Lewin> ;
+    skos:altLabel "Adolf Lewin" ;
+    skos:prefLabel "Lewin, Adolf" .
+
+<https://data.jhn.ngo/persons/GUF_cm/4119> a edm:Agent ;
+    rdaGr2:dateOfBirth "-" ;
+    rdaGr2:dateOfDeath "-" ;
+    edm:identifier "system:343027887" ;
+    owl:sameAs <http://data.judaicalink.org/data/dbpedia/Ludwig_Venetianer>,
+        <http://dbpedia.org/resource/Ludwig_Venetianer>,
+        <http://rdf.freebase.com/ns/m.07j1w4>,
+        <http://wikidata.dbpedia.org/resource/Q15502703>,
+        <http://www.wikidata.org/entity/Q15502703>,
+        <http://yago-knowledge.org/resource/Ludwig_Venetianer> ;
+    skos:altLabel "Ludwig Venetianer" ;
+    skos:prefLabel "Venetianer, Ludwig" .
+
+<https://data.jhn.ngo/persons/GUF_cm/4130> a edm:Agent ;
+    rdaGr2:dateOfBirth "-" ;
+    rdaGr2:dateOfDeath "-" ;
+    edm:identifier "system:343340143" ;
+    owl:sameAs <http://data.judaicalink.org/data/dbpedia/Simon_Ungar>,
+        <http://dbpedia.org/resource/Simon_Ungar>,
+        <http://rdf.freebase.com/ns/m.0t_cbkt>,
+        <http://wikidata.dbpedia.org/resource/Q15996371>,
+        <http://www.wikidata.org/entity/Q15996371>,
+        <http://yago-knowledge.org/resource/Simon_Ungar> ;
+    skos:altLabel "Simon Ungar" ;
+    skos:prefLabel "Ungar, Simon" .
+
+<https://data.jhn.ngo/persons/GUF_cm/4143> a edm:Agent ;
+    rdaGr2:dateOfBirth "-" ;
+    rdaGr2:dateOfDeath "-" ;
+    edm:identifier "system:343340844" ;
+    owl:sameAs <http://data.judaicalink.org/data/nli/Stein_Joseph> ;
+    skos:altLabel "שטין, יוסף," ;
+    skos:prefLabel "Stein, Joseph" .
+
+<https://data.jhn.ngo/persons/GUF_cm/4144> a edm:Agent ;
+    rdaGr2:dateOfBirth "-" ;
+    rdaGr2:dateOfDeath "-" ;
+    edm:identifier "system:343052180" ;
+    owl:sameAs <http://data.judaicalink.org/data/dbpedia/Max_Grünwald>,
+        <http://dbpedia.org/resource/Max_Grünwald>,
+        <http://rdf.freebase.com/ns/m.0416f50>,
+        <http://wikidata.dbpedia.org/resource/Q6794818>,
+        <http://www.wikidata.org/entity/Q6794818>,
+        <http://yago-knowledge.org/resource/Max_Grünwald> ;
+    skos:altLabel "Max Grünwald" ;
+    skos:prefLabel "Grünwald, Max" .
+
+<https://data.jhn.ngo/persons/GUF_cm/4150> a edm:Agent ;
+    rdaGr2:dateOfBirth "-" ;
+    rdaGr2:dateOfDeath "-" ;
+    edm:identifier "system:343178486",
+        "system:343341573" ;
+    owl:sameAs <http://data.judaicalink.org/data/dbpedia/Senior_Sachs>,
+        <http://dbpedia.org/resource/Senior_Sachs>,
+        <http://rdf.freebase.com/ns/m.0279cj9>,
+        <http://viaf.org/viaf/36799422>,
+        <http://wikidata.dbpedia.org/resource/Q2903055>,
+        <http://www.wikidata.org/entity/Q2903055>,
+        <http://yago-knowledge.org/resource/Senior_Sachs> ;
+    skos:altLabel "Senior Sachs",
+        "Закс, Шнеер (Сениор)" ;
+    skos:prefLabel "Sachs, Senior" .
+
+<https://data.jhn.ngo/persons/GUF_cm/4153> a edm:Agent ;
+    rdaGr2:dateOfBirth "-" ;
+    rdaGr2:dateOfDeath "-" ;
+    edm:identifier "system:343341743" ;
+    owl:sameAs <http://data.judaicalink.org/data/dbpedia/Joseph_Zedner>,
+        <http://dbpedia.org/resource/Joseph_Zedner>,
+        <http://rdf.freebase.com/ns/m.02rd3j4>,
+        <http://wikidata.dbpedia.org/resource/Q6288143>,
+        <http://www.wikidata.org/entity/Q6288143>,
+        <http://yago-knowledge.org/resource/Joseph_Zedner> ;
+    skos:altLabel "Joseph Zedner" ;
+    skos:prefLabel "Zedner, Joseph" .
+
+<https://data.jhn.ngo/persons/GUF_cm/4176> a edm:Agent ;
+    rdaGr2:dateOfBirth "-" ;
+    rdaGr2:dateOfDeath "-" ;
+    edm:identifier "system:343344300" ;
+    owl:sameAs <http://data.judaicalink.org/data/nli/Tobler_Titus> ;
+    skos:altLabel "טובלר, טיטוס" ;
+    skos:prefLabel "Tobler, Titus" .
+
+<https://data.jhn.ngo/persons/GUF_cm/4196> a edm:Agent ;
+    rdaGr2:dateOfBirth "-" ;
+    rdaGr2:dateOfDeath "-" ;
+    edm:identifier "system:343347059",
+        "system:343347121",
+        "system:343349019" ;
+    owl:sameAs <http://data.judaicalink.org/data/nli/Landsberg_Max> ;
+    skos:altLabel "לנדסברג, מקס" ;
+    skos:prefLabel "Landsberg, Max" .
+
+<https://data.jhn.ngo/persons/GUF_cm/4247> a edm:Agent ;
+    rdaGr2:dateOfBirth "-" ;
+    rdaGr2:dateOfDeath "-" ;
+    edm:identifier "system:343356309" ;
+    owl:sameAs <http://data.judaicalink.org/data/dbpedia/Abraham_Hochmuth>,
+        <http://dbpedia.org/resource/Abraham_Hochmuth>,
+        <http://rdf.freebase.com/ns/m.0vsj19n>,
+        <http://wikidata.dbpedia.org/resource/Q16062633>,
+        <http://www.wikidata.org/entity/Q16062633> ;
+    skos:altLabel "Abraham Hochmuth" ;
+    skos:prefLabel "Hochmuth, Abraham" .
+
+<https://data.jhn.ngo/persons/GUF_cm/4255> a edm:Agent ;
+    rdaGr2:dateOfBirth "-" ;
+    rdaGr2:dateOfDeath "-" ;
+    edm:identifier "system:343357208",
+        "system:343357224",
+        "system:343489708" ;
+    owl:sameAs <http://d-nb.info/gnd/118963775>,
+        <http://data.judaicalink.org/data/bhr/Kohler_Kaufmann>,
+        <http://data.judaicalink.org/data/dbpedia/Kaufmann_Kohler>,
+        <http://dbpedia.org/resource/Kaufmann_Kohler>,
+        <http://fr.dbpedia.org/resource/Kaufmann_Kohler>,
+        <http://rdf.freebase.com/ns/m.084q7p>,
+        <http://steinheim-institut.de:50580/cgi-bin/bhr?gnd=118963775>,
+        <http://steinheim-institut.de:50580/cgi-bin/bhr?id=931>,
+        <http://wikidata.dbpedia.org/resource/Q3194287>,
+        <http://www.wikidata.org/entity/Q3194287>,
+        <http://yago-knowledge.org/resource/Kaufmann_Kohler> ;
+    skos:altLabel "Kaufmann Kohler" ;
+    skos:prefLabel "Kohler, Kaufmann" .
+
+<https://data.jhn.ngo/persons/GUF_cm/4307> a edm:Agent ;
+    rdaGr2:dateOfBirth "-" ;
+    rdaGr2:dateOfDeath "-" ;
+    edm:identifier "system:343056127",
+        "system:343363313" ;
+    owl:sameAs <http://data.judaicalink.org/data/dbpedia/Henry_Malter>,
+        <http://dbpedia.org/resource/Henry_Malter>,
+        <http://fr.dbpedia.org/resource/Henry_Malter>,
+        <http://rdf.freebase.com/ns/m.02r9m2h>,
+        <http://viaf.org/viaf/89197266>,
+        <http://wikidata.dbpedia.org/resource/Q256984>,
+        <http://www.wikidata.org/entity/Q256984> ;
+    skos:altLabel "Henry Malter" ;
+    skos:prefLabel "Malter, Henry" .
+
+<https://data.jhn.ngo/persons/GUF_cm/4352> a edm:Agent ;
+    rdaGr2:dateOfBirth "-" ;
+    rdaGr2:dateOfDeath "-" ;
+    edm:identifier "system:343057174",
+        "system:343057182",
+        "system:343292459",
+        "system:343366703",
+        "system:343367629",
+        "system:343369133",
+        "system:34336932X" ;
+    owl:sameAs <http://data.judaicalink.org/data/nli/Koch_Richard> ;
+    skos:altLabel "קוק, ריצ'רד" ;
+    skos:prefLabel "Koch, Richard" .
+
+<https://data.jhn.ngo/persons/GUF_cm/4441> a edm:Agent ;
+    rdaGr2:dateOfBirth "-" ;
+    rdaGr2:dateOfDeath "-" ;
+    edm:identifier "system:34306006X",
+        "system:343368536" ;
+    owl:sameAs <http://data.judaicalink.org/data/dbpedia/Erich_Unger>,
+        <http://dbpedia.org/resource/Erich_Unger>,
+        <http://rdf.freebase.com/ns/m.02q6n2x>,
+        <http://viaf.org/viaf/36954507>,
+        <http://wikidata.dbpedia.org/resource/Q5388124>,
+        <http://www.wikidata.org/entity/Q5388124>,
+        <http://yago-knowledge.org/resource/Erich_Unger> ;
+    skos:altLabel "Erich Unger" ;
+    skos:prefLabel "Unger, Erich" .
+
+<https://data.jhn.ngo/persons/GUF_cm/4491> a edm:Agent ;
+    gndo:gndIdentifier "172494443" ;
+    rdaGr2:dateOfDeath "-" ;
+    edm:identifier "system:343369834" ;
+    owl:sameAs <http://d-nb.info/gnd/172494443>,
+        <http://d-nb.info/gnd/172494443/about>,
+        <http://data.judaicalink.org/data/gnd/172494443>,
+        <http://hub.culturegraph.org/entityfacts/172494443>,
+        <http://viaf.org/viaf/249158069> ;
+    skos:altLabel "Maitlis, J.",
+        "Maitlis, J. J.",
+        "Maitlis, Jacob",
+        "Maitlis, Jankev J.",
+        "Maitlis, Yaakov J.",
+        "Maytlis, Yaàkov Y.",
+        "Maytlis, Yankev Y.",
+        "Meitlis, Jankev",
+        "Meitlis, Jankev J.",
+        "Meytlis, Yakob",
+        "Meytlis, Yankev Y." ;
+    skos:prefLabel "Meitlis, Jakob" .
+
+<https://data.jhn.ngo/persons/GUF_cm/4601> a edm:Agent ;
+    rdaGr2:dateOfBirth "-" ;
+    rdaGr2:dateOfDeath "-" ;
+    edm:identifier "system:343375362",
+        "system:343377802" ;
+    owl:sameAs <http://data.judaicalink.org/data/dbpedia/Manfred_Swarsensky>,
+        <http://dbpedia.org/resource/Manfred_Swarsensky>,
+        <http://rdf.freebase.com/ns/m.0nb7nn2>,
+        <http://wikidata.dbpedia.org/resource/Q16009739>,
+        <http://www.wikidata.org/entity/Q16009739>,
+        <http://yago-knowledge.org/resource/Manfred_Swarsensky> ;
+    skos:altLabel "Manfred Swarsensky" ;
+    skos:prefLabel "Swarsensky, Manfred" .
+
+<https://data.jhn.ngo/persons/GUF_cm/4712> a edm:Agent ;
+    rdaGr2:dateOfBirth "-" ;
+    rdaGr2:dateOfDeath "-" ;
+    edm:identifier "system:343379775" ;
+    owl:sameAs <http://data.judaicalink.org/data/nli/Rosenthal_Gabriella> ;
+    skos:altLabel "רוזנטל, גבריאלה" ;
+    skos:prefLabel "Rosenthal, Gabriella" .
+
+<https://data.jhn.ngo/persons/GUF_cm/4772> a edm:Agent ;
+    gndo:gndIdentifier "1146940068" ;
+    rdaGr2:dateOfDeath "-" ;
+    edm:identifier "system:343061171",
+        "system:343284065",
+        "system:343288575" ;
+    owl:sameAs <http://d-nb.info/gnd/1055250255>,
+        <http://d-nb.info/gnd/1146940068>,
+        <http://d-nb.info/gnd/1146940068/about>,
+        <http://data.judaicalink.org/data/gnd/1146940068>,
+        <http://hub.culturegraph.org/entityfacts/1146940068>,
+        <http://id.loc.gov/authorities/n85011225>,
+        <http://viaf.org/viaf/112976861>,
+        <http://www.isni.org/000000008410291X> ;
+    skos:altLabel "Nawratzki, Kurt" ;
+    skos:prefLabel "Nawratzki, Curt" .
+
+<https://data.jhn.ngo/persons/GUF_cm/4791> a edm:Agent ;
+    gndo:gndIdentifier "115833692" ;
+    jl:birthLocation "Tel Aviv" ;
+    rdaGr2:dateOfDeath "-" ;
+    edm:identifier "system:34303736X",
+        "system:343240785",
+        "system:343241862",
+        "system:343242257",
+        "system:343242737",
+        "system:343242850",
+        "system:343284308",
+        "system:343284472",
+        "system:343284677",
+        "system:343287498",
+        "system:343288001",
+        "system:343288362",
+        "system:343290766",
+        "system:343290847",
+        "system:34329186X",
+        "system:34329205X",
+        "system:343383136",
+        "system:34338342X",
+        "system:343383896",
+        "system:343384019",
+        "system:34348031X" ;
+    owl:sameAs <http://catalogue.bnf.fr/ark:/12148/cb121407878>,
+        <http://d-nb.info/gnd/115833692>,
+        <http://d-nb.info/gnd/115833692/about>,
+        <http://data.judaicalink.org/data/gnd/115833692>,
+        <http://hub.culturegraph.org/entityfacts/115833692>,
+        <http://id.loc.gov/authorities/n83150665>,
+        <http://viaf.org/viaf/19713808>,
+        <http://www.isni.org/0000000108763326>,
+        <http://www.wikidata.org/entity/Q106245>,
+        <https://de.wikipedia.org/wiki/Rafael_Seligmann>,
+        <https://www.deutsche-digitale-bibliothek.de/entity/115833692> ;
+    skos:altLabel "Zēligmanis, Rafaels" ;
+    skos:prefLabel "Seligmann, Rafael" .
+
+<https://data.jhn.ngo/persons/GUF_cm/4796> a edm:Agent ;
+    gndo:gndIdentifier "11747889X" ;
+    rdaGr2:dateOfBirth "-" ;
+    rdaGr2:dateOfDeath "-" ;
+    edm:identifier "system:343383489" ;
+    owl:sameAs <http://d-nb.info/gnd/11747889X>,
+        <http://d-nb.info/gnd/11747889X/about>,
+        <http://data.judaicalink.org/data/dbpedia/Jacob_Sonderling>,
+        <http://dbpedia.org/resource/Jacob_Sonderling>,
+        <http://de.dbpedia.org/resource/Jacob_Sonderling>,
+        <http://hub.culturegraph.org/entityfacts/11747889X>,
+        <http://id.loc.gov/authorities/n96024032>,
+        <http://rdf.freebase.com/ns/m.0dljrkp>,
+        <http://viaf.org/viaf/28791551>,
+        <http://wikidata.dbpedia.org/resource/Q103977>,
+        <http://www.isni.org/0000000035387912>,
+        <http://www.wikidata.org/entity/Q103977>,
+        <http://yago-knowledge.org/resource/Jacob_Sonderling>,
+        <https://de.wikipedia.org/wiki/Jacob_Sonderling>,
+        <https://en.wikipedia.org/wiki/Jacob_Sonderling> ;
+    skos:altLabel "Jacob Sonderling" ;
+    skos:prefLabel "Sonderling, Jacob" .
+
+<https://data.jhn.ngo/persons/GUF_cm/4854> a edm:Agent ;
+    rdaGr2:dateOfBirth "-" ;
+    rdaGr2:dateOfDeath "-" ;
+    edm:identifier "system:343042924",
+        "system:343043424",
+        "system:343043475",
+        "system:343043564",
+        "system:343043599",
+        "system:343045907",
+        "system:343046067",
+        "system:343046105",
+        "system:343177609",
+        "system:343295970",
+        "system:34329611X",
+        "system:34329625X",
+        "system:343296845" ;
+    owl:sameAs <http://data.judaicalink.org/data/nli/Noah> ;
+    skos:altLabel "נח" ;
+    skos:prefLabel "Noah" .
+
+<https://data.jhn.ngo/persons/GUF_cm/4866> a edm:Agent ;
+    rdaGr2:dateOfBirth "-" ;
+    rdaGr2:dateOfDeath "-" ;
+    edm:identifier "system:343170353" ;
+    owl:sameAs <http://data.judaicalink.org/data/dbpedia/Arthur_Paunzen>,
+        <http://dbpedia.org/resource/Arthur_Paunzen>,
+        <http://rdf.freebase.com/ns/m.0gd61n>,
+        <http://viaf.org/viaf/170896319>,
+        <http://wikidata.dbpedia.org/resource/Q4799930>,
+        <http://www.wikidata.org/entity/Q4799930>,
+        <http://yago-knowledge.org/resource/Arthur_Paunzen> ;
+    skos:altLabel "Arthur Paunzen" ;
+    skos:prefLabel "Paunzen, Arthur" .
+
+<https://data.jhn.ngo/persons/GUF_cm/4881> a edm:Agent ;
+    gndo:gndIdentifier "127300880" ;
+    rdaGr2:dateOfBirth "-" ;
+    rdaGr2:dateOfDeath "-" ;
+    edm:identifier "system:343043394",
+        "system:343296799",
+        "system:34329723X",
+        "system:343297817",
+        "system:343297876",
+        "system:343297949",
+        "system:34329804X",
+        "system:343298201",
+        "system:343299178",
+        "system:343299992",
+        "system:343300397",
+        "system:343300532",
+        "system:34330239X",
+        "system:343303094",
+        "system:343303809" ;
+    owl:sameAs <http://catalogue.bnf.fr/ark:/12148/cb11192657f>,
+        <http://d-nb.info/gnd/127300880>,
+        <http://d-nb.info/gnd/127300880/about>,
+        <http://data.judaicalink.org/data/gnd/127300880>,
+        <http://hub.culturegraph.org/entityfacts/127300880>,
+        <http://id.loc.gov/authorities/nr99028716>,
+        <http://viaf.org/viaf/8383907>,
+        <http://www.isni.org/0000000114374917>,
+        <http://www.wikidata.org/entity/Q657475>,
+        <https://de.wikipedia.org/wiki/Wolfgang_von_Weisl>,
+        <https://en.wikipedia.org/wiki/Wolfgang_von_Weisl>,
+        <https://www.deutsche-digitale-bibliothek.de/entity/127300880> ;
+    skos:altLabel "Vaysl, Volfqanq fon",
+        "Weisl, Wolfgang von" ;
+    skos:prefLabel "Weisl, Wolfgang" .
+
+<https://data.jhn.ngo/persons/GUF_cm/4919> a edm:Agent ;
+    rdaGr2:dateOfBirth "-" ;
+    rdaGr2:dateOfDeath "-" ;
+    edm:identifier "system:343297833" ;
+    owl:sameAs <http://data.judaicalink.org/data/nli/Hacohen_Mordechai> ;
+    skos:altLabel "הכהן, מרדכי" ;
+    skos:prefLabel "Hacohen, Mordechai" .
+
+<https://data.jhn.ngo/persons/GUF_cm/4938> a edm:Agent ;
+    rdaGr2:dateOfBirth "-" ;
+    rdaGr2:dateOfDeath "-" ;
+    edm:identifier "system:34329849X" ;
+    owl:sameAs <http://data.judaicalink.org/data/nli/Gross_M> ;
+    skos:altLabel "גראסס, מרדכי בן יהודה מאיר" ;
+    skos:prefLabel "Gross, M" .
+
+<https://data.jhn.ngo/persons/GUF_cm/4949> a edm:Agent ;
+    gndo:gndIdentifier "115807497" ;
+    jl:birthLocation "Nürnberg" ;
+    rdaGr2:dateOfDeath "-" ;
+    edm:identifier "system:343027143",
+        "system:343043173",
+        "system:343043203",
+        "system:343043521",
+        "system:343299410",
+        "system:343299488",
+        "system:343299666",
+        "system:343299917",
+        "system:343300303",
+        "system:343300346",
+        "system:343300486",
+        "system:343300664",
+        "system:343300796" ;
+    owl:sameAs <http://catalogue.bnf.fr/ark:/12148/cb11986125k>,
+        <http://d-nb.info/gnd/1090092652>,
+        <http://d-nb.info/gnd/115807497>,
+        <http://d-nb.info/gnd/115807497/about>,
+        <http://data.judaicalink.org/data/gnd/115807497>,
+        <http://hub.culturegraph.org/entityfacts/115807497>,
+        <http://id.loc.gov/authorities/n50029882>,
+        <http://kalliope-verbund.info/gnd/115807497>,
+        <http://viaf.org/viaf/61554611>,
+        <http://www.filmportal.de/person/67F4430984E74C47A7975A2636B821EE>,
+        <http://www.isni.org/0000000109069504>,
+        <http://www.wikidata.org/entity/Q124039>,
+        <https://de.wikipedia.org/wiki/Hermann_Glaser>,
+        <https://www.deutsche-digitale-bibliothek.de/entity/115807497> ;
+    skos:altLabel "Glaser-Straube, ...",
+        "Lehmann-Glaser, ...",
+        "グラーザー, ヘルマン" ;
+    skos:prefLabel "Glaser, Hermann" .
+
+<https://data.jhn.ngo/persons/GUF_cm/5038> a edm:Agent ;
+    rdaGr2:dateOfBirth "-" ;
+    rdaGr2:dateOfDeath "-" ;
+    edm:identifier "system:343265834",
+        "system:343300648" ;
+    owl:sameAs <http://data.judaicalink.org/data/nli/Bamberger_S> ;
+    skos:altLabel "במברגר, פינחס זליג בן שלמה" ;
+    skos:prefLabel "Bamberger, S" .
+
+<https://data.jhn.ngo/persons/GUF_cm/5105> a edm:Agent ;
+    rdaGr2:dateOfBirth "-" ;
+    rdaGr2:dateOfDeath "-" ;
+    edm:identifier "system:343176602" ;
+    owl:sameAs <http://data.judaicalink.org/data/dbpedia/Maier_Zipser>,
+        <http://dbpedia.org/resource/Maier_Zipser>,
+        <http://rdf.freebase.com/ns/m.07j1mg>,
+        <http://wikidata.dbpedia.org/resource/Q6735551>,
+        <http://www.wikidata.org/entity/Q6735551>,
+        <http://yago-knowledge.org/resource/Maier_Zipser> ;
+    skos:altLabel "Maier Zipser" ;
+    skos:prefLabel "Zipser, Maier" .
+
+<https://data.jhn.ngo/persons/GUF_cm/5170> a edm:Agent ;
+    rdaGr2:dateOfBirth "-" ;
+    rdaGr2:dateOfDeath "-" ;
+    edm:identifier "system:343178281",
+        "system:34317829X",
+        "system:343184958" ;
+    owl:sameAs <http://data.judaicalink.org/data/nli/Singer_Erwin> ;
+    skos:altLabel "זינגר, ארוין" ;
+    skos:prefLabel "Singer, Erwin" .
+
+<https://data.jhn.ngo/persons/GUF_cm/5181> a edm:Agent ;
+    rdaGr2:dateOfBirth "-" ;
+    rdaGr2:dateOfDeath "-" ;
+    edm:identifier "system:343301970" ;
+    owl:sameAs <http://data.judaicalink.org/data/nli/Wolf_Alexander> ;
+    skos:altLabel "וולף, אלכסנדר" ;
+    skos:prefLabel "Wolf, Alexander" .
+
+<https://data.jhn.ngo/persons/GUF_cm/5212> a edm:Agent ;
+    rdaGr2:dateOfBirth "-" ;
+    rdaGr2:dateOfDeath "-" ;
+    edm:identifier "system:343179474" ;
+    owl:sameAs <http://data.judaicalink.org/data/nli/AbrahambenJacob> ;
+    skos:altLabel "אברהם בן יעקב",
+        "איברהים בן יעקב," ;
+    skos:prefLabel "Abraham ben Jacob" .
+
+<https://data.jhn.ngo/persons/GUF_cm/5300> a edm:Agent ;
+    rdaGr2:dateOfBirth "-" ;
+    rdaGr2:dateOfDeath "-" ;
+    edm:identifier "system:343182009" ;
+    owl:sameAs <http://data.judaicalink.org/data/nli/Gropper_William> ;
+    skos:altLabel "גראפער, וויליאם" ;
+    skos:prefLabel "Gropper, William" .
+
+<https://data.jhn.ngo/persons/GUF_cm/5306> a edm:Agent ;
+    rdaGr2:dateOfBirth "-" ;
+    rdaGr2:dateOfDeath "-" ;
+    edm:identifier "system:343182254",
+        "system:343182327" ;
+    owl:sameAs <http://data.judaicalink.org/data/dbpedia/Harry_Elte>,
+        <http://dbpedia.org/resource/Harry_Elte>,
+        <http://nl.dbpedia.org/resource/Harry_Elte>,
+        <http://rdf.freebase.com/ns/m.05p7w_n>,
+        <http://wikidata.dbpedia.org/resource/Q2655668>,
+        <http://www.wikidata.org/entity/Q2655668>,
+        <http://yago-knowledge.org/resource/Harry_Elte> ;
+    skos:altLabel "Harry Elte",
+        "هاري إلته" ;
+    skos:prefLabel "Elte, Harry" .
+
+<https://data.jhn.ngo/persons/GUF_cm/5321> a edm:Agent ;
+    gndo:gndIdentifier "118715461" ;
+    rdaGr2:dateOfBirth "-" ;
+    rdaGr2:dateOfDeath "-" ;
+    edm:identifier "system:343304414",
+        "system:343304473",
+        "system:343305798",
+        "system:343306247" ;
+    owl:sameAs <http://catalogue.bnf.fr/ark:/12148/cb137524023>,
+        <http://d-nb.info/gnd/118715461>,
+        <http://d-nb.info/gnd/118715461/about>,
+        <http://data.judaicalink.org/data/dbpedia/Theodor_Kramer>,
+        <http://dbpedia.org/resource/Theodor_Kramer>,
+        <http://de.dbpedia.org/resource/Theodor_Kramer>,
+        <http://fr.dbpedia.org/resource/Theodor_Kramer>,
+        <http://hub.culturegraph.org/entityfacts/118715461>,
+        <http://id.loc.gov/authorities/n85017922>,
+        <http://kalliope-verbund.info/gnd/118715461>,
+        <http://rdf.freebase.com/ns/m.05m_ktg>,
+        <http://viaf.org/viaf/59264766>,
+        <http://wikidata.dbpedia.org/resource/Q86382>,
+        <http://www.deutsche-biographie.de/pnd118715461.html#ndbcontent>,
+        <http://www.isni.org/0000000109061860>,
+        <http://www.wikidata.org/entity/Q86382>,
+        <http://yago-knowledge.org/resource/Theodor_Kramer>,
+        <https://de.wikipedia.org/wiki/Theodor_Kramer>,
+        <https://en.wikipedia.org/wiki/Theodor_Kramer>,
+        <https://www.deutsche-digitale-bibliothek.de/entity/118715461> ;
+    skos:altLabel "Theodor Kramer",
+        "Крамер, Теодор" ;
+    skos:prefLabel "Kramer, Theodor" .
+
+<https://data.jhn.ngo/persons/GUF_cm/5337> a edm:Agent ;
+    gndo:gndIdentifier "141871148" ;
+    rdaGr2:dateOfBirth "-" ;
+    rdaGr2:dateOfDeath "-" ;
+    edm:identifier "system:343304740" ;
+    owl:sameAs <http://d-nb.info/gnd/141871148>,
+        <http://d-nb.info/gnd/141871148/about>,
+        <http://data.judaicalink.org/data/gnd/141871148>,
+        <http://hub.culturegraph.org/entityfacts/141871148>,
+        <http://id.loc.gov/authorities/no2015055721>,
+        <http://viaf.org/viaf/122744482>,
+        <http://www.isni.org/0000000118871902>,
+        <https://www.deutsche-digitale-bibliothek.de/entity/141871148> ;
+    skos:altLabel "Weissmann, Frida",
+        "Weissmann, Frieda",
+        "Weißmann, Frida" ;
+    skos:prefLabel "Weißmann, Frieda" .
+
+<https://data.jhn.ngo/persons/GUF_cm/5371> a edm:Agent ;
+    rdaGr2:dateOfBirth "-" ;
+    rdaGr2:dateOfDeath "-" ;
+    edm:identifier "system:343183803",
+        "system:343183889",
+        "system:343183897",
+        "system:343184168" ;
+    owl:sameAs <http://cs.dbpedia.org/resource/Anna_Ticho>,
+        <http://data.judaicalink.org/data/dbpedia/Anna_Ticho>,
+        <http://dbpedia.org/resource/Anna_Ticho>,
+        <http://es.dbpedia.org/resource/Anna_Ticho>,
+        <http://fr.dbpedia.org/resource/Anna_Ticho>,
+        <http://rdf.freebase.com/ns/m.09dsqd>,
+        <http://wikidata.dbpedia.org/resource/Q2850616>,
+        <http://www.wikidata.org/entity/Q2850616>,
+        <http://yago-knowledge.org/resource/Anna_Ticho> ;
+    skos:altLabel "Anna Ticho",
+        "Тихо, Анна" ;
+    skos:prefLabel "Ticho, Anna" .
+
+<https://data.jhn.ngo/persons/GUF_cm/5390> a edm:Agent ;
+    gndo:gndIdentifier "1024825035" ;
+    jl:birthLocation "Jablunkov" ;
+    rdaGr2:dateOfDeath "-" ;
+    edm:identifier "system:343305607" ;
+    owl:sameAs <http://d-nb.info/gnd/1024825035>,
+        <http://d-nb.info/gnd/1024825035/about>,
+        <http://data.judaicalink.org/data/gnd/1024825035>,
+        <http://hub.culturegraph.org/entityfacts/1024825035>,
+        <http://id.loc.gov/authorities/nr2005005450>,
+        <http://viaf.org/viaf/98495941>,
+        <http://www.isni.org/0000000084032341>,
+        <https://www.deutsche-digitale-bibliothek.de/entity/1024825035> ;
+    skos:altLabel "Shneid, Naftali" ;
+    skos:prefLabel "Schneid, Otto" .
+
+<https://data.jhn.ngo/persons/GUF_cm/5442> a edm:Agent ;
+    rdaGr2:dateOfBirth "-" ;
+    rdaGr2:dateOfDeath "-" ;
+    edm:identifier "system:343185997" ;
+    owl:sameAs <http://data.judaicalink.org/data/nli/Forst_Siegmund> ;
+    skos:altLabel "פורסט, אשר" ;
+    skos:prefLabel "Forst, Siegmund" .
+
+<https://data.jhn.ngo/persons/GUF_cm/5465> a edm:Agent ;
+    rdaGr2:dateOfBirth "-" ;
+    rdaGr2:dateOfDeath "-" ;
+    edm:identifier "system:343027089",
+        "system:343261618",
+        "system:343261731",
+        "system:343261758",
+        "system:343261782",
+        "system:343261804",
+        "system:343261855",
+        "system:343261901",
+        "system:343261936",
+        "system:343261960",
+        "system:343262029",
+        "system:343262053",
+        "system:343262177",
+        "system:343262207",
+        "system:343262282",
+        "system:343262347",
+        "system:343262363",
+        "system:343262428",
+        "system:343262452",
+        "system:343262487",
+        "system:34326255X",
+        "system:343262584",
+        "system:34326272X",
+        "system:343262738",
+        "system:343262835",
+        "system:343262843",
+        "system:34326286X",
+        "system:343262916",
+        "system:343262959",
+        "system:343263033",
+        "system:343263084",
+        "system:343263165",
+        "system:343263254",
+        "system:343263297",
+        "system:343263335",
+        "system:343263424",
+        "system:343263432",
+        "system:34326353X",
+        "system:343263602",
+        "system:343263637",
+        "system:34326367X",
+        "system:343263688",
+        "system:343263742",
+        "system:343263793",
+        "system:34326384X",
+        "system:343263874",
+        "system:343263955",
+        "system:343264013",
+        "system:343264064",
+        "system:343264129",
+        "system:343264218",
+        "system:343270684",
+        "system:343270757",
+        "system:343270846",
+        "system:343270854",
+        "system:343270978",
+        "system:343270986",
+        "system:343271028",
+        "system:343271052",
+        "system:343271079",
+        "system:343271176",
+        "system:343271281",
+        "system:343271311",
+        "system:343271435",
+        "system:343271443",
+        "system:343271451",
+        "system:34327163X",
+        "system:343271745",
+        "system:34327177X",
+        "system:343271842",
+        "system:343271869",
+        "system:343271923",
+        "system:343272016",
+        "system:343272091",
+        "system:343272121",
+        "system:343272172",
+        "system:343272237",
+        "system:343272334",
+        "system:343272377",
+        "system:343272474",
+        "system:343272571",
+        "system:343272628",
+        "system:343272679",
+        "system:343272792",
+        "system:343272814",
+        "system:343272881",
+        "system:343272954",
+        "system:343272997",
+        "system:343273047",
+        "system:343273098",
+        "system:343273217",
+        "system:343273292",
+        "system:343273314",
+        "system:343273411",
+        "system:34327342X",
+        "system:343273446",
+        "system:343273489",
+        "system:343273551",
+        "system:343273608",
+        "system:343273640",
+        "system:343273683",
+        "system:343273748",
+        "system:343273799",
+        "system:343273845",
+        "system:34327390X",
+        "system:343273934",
+        "system:343274051",
+        "system:343274078",
+        "system:343274175",
+        "system:343274183",
+        "system:343274280",
+        "system:343274345",
+        "system:343274388",
+        "system:343274469",
+        "system:343274574",
+        "system:343274590",
+        "system:343274604",
+        "system:343274698",
+        "system:343276461",
+        "system:343276585",
+        "system:343276682",
+        "system:343277174",
+        "system:343277204",
+        "system:343277220",
+        "system:343277298",
+        "system:343277360",
+        "system:343277433",
+        "system:343277565",
+        "system:343277786",
+        "system:343278006",
+        "system:343278057",
+        "system:343278162",
+        "system:343278235",
+        "system:343278316",
+        "system:343278383",
+        "system:343278561",
+        "system:343278618",
+        "system:343278626",
+        "system:343278677",
+        "system:343278766",
+        "system:343278790",
+        "system:343278839",
+        "system:343278960",
+        "system:343279002",
+        "system:343279061",
+        "system:343280590",
+        "system:343280604",
+        "system:343280698",
+        "system:343280736",
+        "system:343280752",
+        "system:343280884",
+        "system:343280922",
+        "system:343280981",
+        "system:343281031",
+        "system:343281082",
+        "system:343281120",
+        "system:343281201",
+        "system:343281279",
+        "system:343281317",
+        "system:343281368",
+        "system:343281384",
+        "system:343281481",
+        "system:343281538",
+        "system:343281635",
+        "system:343281678",
+        "system:343281732",
+        "system:343281848",
+        "system:343281902",
+        "system:343281953",
+        "system:343282003",
+        "system:343282054",
+        "system:343282097",
+        "system:343282127",
+        "system:343282232",
+        "system:343282283",
+        "system:34328233X",
+        "system:343282402",
+        "system:343282445",
+        "system:34328250X",
+        "system:343282577",
+        "system:343282623",
+        "system:343283468",
+        "system:343283603",
+        "system:34328362X",
+        "system:343283700",
+        "system:343283794" ;
+    owl:sameAs <http://data.judaicalink.org/data/nli/Rott_Friedrich> ;
+    skos:altLabel "הירש, שרה" ;
+    skos:prefLabel "Rott, Friedrich" .
+
+<https://data.jhn.ngo/persons/GUF_cm/5937> a edm:Agent ;
+    rdaGr2:dateOfBirth "-" ;
+    rdaGr2:dateOfDeath "-" ;
+    edm:identifier "system:343438267" ;
+    owl:sameAs <http://data.judaicalink.org/data/nli/Maretzki> ;
+    skos:altLabel "מרצקי, לואיס" ;
+    skos:prefLabel "Maretzki" .
+
+<https://data.jhn.ngo/persons/GUF_cm/5938> a edm:Agent ;
+    gndo:gndIdentifier "139461582" ;
+    rdaGr2:dateOfDeath "-" ;
+    edm:identifier "system:34343850X",
+        "system:343438542",
+        "system:343438550",
+        "system:343438720",
+        "system:343439425",
+        "system:343441357",
+        "system:343455838",
+        "system:34345596X",
+        "system:343473607" ;
+    owl:sameAs <http://d-nb.info/gnd/139461582>,
+        <http://d-nb.info/gnd/139461582/about>,
+        <http://data.judaicalink.org/data/gnd/139461582>,
+        <http://hub.culturegraph.org/entityfacts/139461582>,
+        <http://viaf.org/viaf/101198533>,
+        <http://www.isni.org/0000000071920251>,
+        <http://www.wikidata.org/entity/Q2224199>,
+        <https://de.wikipedia.org/wiki/Sara_Rabinowitsch>,
+        <https://de.wikisource.org/wiki/Sara_Rabinowitsch> ;
+    skos:altLabel "Rabinowič, Sara" ;
+    skos:prefLabel "Rabinowitsch, Sara" .
+
+<https://data.jhn.ngo/persons/GUF_cm/5971> a edm:Agent ;
+    gndo:gndIdentifier "13726786X" ;
+    rdaGr2:dateOfDeath "-" ;
+    edm:identifier "system:343442221" ;
+    owl:sameAs <http://d-nb.info/gnd/13726786X>,
+        <http://d-nb.info/gnd/13726786X/about>,
+        <http://data.judaicalink.org/data/gnd/13726786X>,
+        <http://hub.culturegraph.org/entityfacts/13726786X>,
+        <http://viaf.org/viaf/191187483>,
+        <http://www.isni.org/0000000103321182>,
+        <http://www.wikidata.org/entity/Q23943641>,
+        <https://www.deutsche-digitale-bibliothek.de/entity/13726786X> ;
+    skos:altLabel "Becker, Rafael Herschowitsch",
+        "Becker, Raphael" ;
+    skos:prefLabel "Becker, Rafael" .
+
+<https://data.jhn.ngo/persons/GUF_cm/6290> a edm:Agent ;
+    rdaGr2:dateOfBirth "-" ;
+    rdaGr2:dateOfDeath "-" ;
+    edm:identifier "system:343070472",
+        "system:343223287",
+        "system:343470578" ;
+    owl:sameAs <http://data.judaicalink.org/data/nli/Schreiber_David> ;
+    skos:altLabel "שרייבר, דוד" ;
+    skos:prefLabel "Schreiber, David" .
+
+<https://data.jhn.ngo/persons/GUF_cm/6395> a edm:Agent ;
+    rdaGr2:dateOfBirth "-" ;
+    rdaGr2:dateOfDeath "-" ;
+    edm:identifier "system:34347560X" ;
+    owl:sameAs <http://data.judaicalink.org/data/nli/Margel_M> ;
+    skos:altLabel "מרגל, מ." ;
+    skos:prefLabel "Margel, M" .
+
+<https://data.jhn.ngo/persons/GUF_cm/6511> a edm:Agent ;
+    rdaGr2:dateOfBirth "-" ;
+    rdaGr2:dateOfDeath "-" ;
+    owl:sameAs <http://data.judaicalink.org/data/nli/Mendrochowicz_NE> ;
+    skos:altLabel "מנדרוחוביץ, נחום ענזל" ;
+    skos:prefLabel "Mendrochowicz, N E" .
+
+<https://data.jhn.ngo/persons/GUF_cm/6617> a edm:Agent ;
+    gndo:gndIdentifier "118646877" ;
+    rdaGr2:dateOfBirth "-" ;
+    rdaGr2:dateOfDeath "-" ;
+    edm:identifier "system:343001330",
+        "system:343057468",
+        "system:343057611",
+        "system:343057816",
+        "system:34318043X",
+        "system:343201267",
+        "system:343201283",
+        "system:343201380",
+        "system:343201399",
+        "system:343206889",
+        "system:343206897",
+        "system:343206919",
+        "system:343207044",
+        "system:343223961",
+        "system:343368641",
+        "system:343369125",
+        "system:343373998",
+        "system:343396467",
+        "system:343406497",
+        "system:343410931",
+        "system:343451867",
+        "system:34346263X",
+        "system:34346277X",
+        "system:343463016",
+        "system:343463172",
+        "system:343463318",
+        "system:343463458",
+        "system:343486237" ;
+    owl:sameAs <http://cs.dbpedia.org/resource/Adam>,
+        <http://d-nb.info/gnd/118646877>,
+        <http://d-nb.info/gnd/118646877/about>,
+        <http://data.judaicalink.org/data/dbpedia/Adam>,
+        <http://data.judaicalink.org/data/nli/Adam>,
+        <http://data.judaicalink.org/data/yivo/Adam>,
+        <http://dbpedia.org/resource/Adam>,
+        <http://de.dbpedia.org/resource/Adam>,
+        <http://el.dbpedia.org/resource/Αδάμ>,
+        <http://es.dbpedia.org/resource/Adán>,
+        <http://eu.dbpedia.org/resource/Adam>,
+        <http://fr.dbpedia.org/resource/Adam>,
+        <http://hub.culturegraph.org/entityfacts/118646877>,
+        <http://id.dbpedia.org/resource/Adam>,
+        <http://it.dbpedia.org/resource/Adamo>,
+        <http://ja.dbpedia.org/resource/アダム>,
+        <http://ko.dbpedia.org/resource/아담>,
+        <http://nl.dbpedia.org/resource/Adam>,
+        <http://rdf.freebase.com/ns/m.09_c5v>,
+        <http://viaf.org/viaf/102322856>,
+        <http://wikidata.dbpedia.org/resource/Q70899>,
+        <http://www.wikidata.org/entity/Q70899>,
+        <http://yago-knowledge.org/resource/Adam>,
+        <https://www.deutsche-digitale-bibliothek.de/entity/118646877> ;
+    skos:altLabel "Adam",
+        "Adamo",
+        "Adán",
+        "Адам",
+        "אדם,",
+        "آدم",
+        "アダム",
+        "亞當" ;
+    skos:prefLabel "Adam" .
+
+<https://data.jhn.ngo/persons/GUF_cm/6783> a edm:Agent ;
+    rdaGr2:dateOfBirth "-" ;
+    rdaGr2:dateOfDeath "-" ;
+    edm:identifier "system:343451867" ;
+    owl:sameAs <http://data.judaicalink.org/data/nli/Rosenberg_Adam> ;
+    skos:altLabel "רוזנברג, אדם" ;
+    skos:prefLabel "Rosenberg, Adam" .
+
+<https://data.jhn.ngo/persons/GUF_cm/6860> a edm:Agent ;
+    rdaGr2:dateOfBirth "-" ;
+    rdaGr2:dateOfDeath "-" ;
+    edm:identifier "system:343456877" ;
+    owl:sameAs <http://data.judaicalink.org/data/nli/Kleinmann_M> ;
+    skos:altLabel "קלינמן, מנחם" ;
+    skos:prefLabel "Kleinmann, M" .
+
+<https://data.jhn.ngo/persons/GUF_cm/7017> a edm:Agent ;
+    gndo:gndIdentifier "131635816" ;
+    rdaGr2:dateOfDeath "-" ;
+    edm:identifier "system:343068974" ;
+    owl:sameAs <http://d-nb.info/gnd/131635816>,
+        <http://d-nb.info/gnd/131635816/about>,
+        <http://data.judaicalink.org/data/gnd/131635816>,
+        <http://hub.culturegraph.org/entityfacts/131635816>,
+        <http://id.loc.gov/authorities/n88208387>,
+        <http://viaf.org/viaf/60219695>,
+        <http://www.isni.org/0000000066882166>,
+        <http://www.wikidata.org/entity/Q15661601>,
+        <https://en.wikipedia.org/wiki/Hermann_Kahan>,
+        <https://www.deutsche-digitale-bibliothek.de/entity/131635816> ;
+    skos:altLabel "Kahan, Chaim Hersh",
+        "Kahan, Ḥayyîm Herš" ;
+    skos:prefLabel "Kahan, Herman" .
+
+<https://data.jhn.ngo/persons/GUF_cm/7034> a edm:Agent ;
+    gndo:gndIdentifier "100979505" ;
+    rdaGr2:dateOfBirth "-" ;
+    rdaGr2:dateOfDeath "-" ;
+    edm:identifier "system:343047845",
+        "system:343177250",
+        "system:343177277",
+        "system:343182424",
+        "system:343266474",
+        "system:343267411",
+        "system:343288400",
+        "system:343291797",
+        "system:343358603",
+        "system:343358646",
+        "system:343358689",
+        "system:343358778",
+        "system:343468212",
+        "system:343470993",
+        "system:343471434",
+        "system:343473011",
+        "system:343489295" ;
+    owl:sameAs <http://d-nb.info/gnd/100979505>,
+        <http://d-nb.info/gnd/100979505/about>,
+        <http://data.judaicalink.org/data/gnd/100979505>,
+        <http://hub.culturegraph.org/entityfacts/100979505>,
+        <http://viaf.org/viaf/27422840>,
+        <https://www.deutsche-digitale-bibliothek.de/entity/100979505> ;
+    skos:altLabel "Baruc",
+        "Baruch, Ben Nerija",
+        "Baruch, Propheta",
+        "Baruch, Sohn Nerijas",
+        "Baruk" ;
+    skos:prefLabel "Baruch" .
+

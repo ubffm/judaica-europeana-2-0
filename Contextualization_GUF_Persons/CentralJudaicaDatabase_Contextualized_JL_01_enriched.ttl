@@ -1,0 +1,360 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix edm: <http://www.europeana.eu/schemas/edm/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix gndo: <http://d-nb.info/standards/elementset/gnd#> .
+@prefix jl: <http://data.judaicalink.org/ontology/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdaGr2: <http://rdvocab.info/ElementsGr2/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://data.jhn.ngo/persons/CentralJudaicaDatabase/2784> a edm:Agent ;
+    rdaGr2:dateOfBirth "1910" ;
+    rdaGr2:dateOfDeath "1943" ;
+    edm:identifier "http://judaika.polin.pl/dmuseion/docmetadata?showContent=true&id=5009" ;
+    skos:prefLabel "Tadeusz Trębacz" .
+
+<https://data.jhn.ngo/persons/CentralJudaicaDatabase/2785> a edm:Agent ;
+    rdaGr2:dateOfBirth "1878" ;
+    rdaGr2:dateOfDeath "1943" ;
+    edm:identifier "http://judaika.polin.pl/dmuseion/docmetadata?showContent=true&id=5010",
+        "http://judaika.polin.pl/dmuseion/docmetadata?showContent=true&id=5043",
+        "http://judaika.polin.pl/dmuseion/docmetadata?showContent=true&id=5045",
+        "http://judaika.polin.pl/dmuseion/docmetadata?showContent=true&id=5046",
+        "http://judaika.polin.pl/dmuseion/docmetadata?showContent=true&id=5094",
+        "http://judaika.polin.pl/dmuseion/docmetadata?showContent=true&id=5095" ;
+    skos:prefLabel "Erno Erb Izaak" .
+
+<https://data.jhn.ngo/persons/CentralJudaicaDatabase/2787> a edm:Agent ;
+    rdaGr2:dateOfBirth "1888" ;
+    rdaGr2:dateOfDeath "1935" ;
+    edm:identifier "http://judaika.polin.pl/dmuseion/docmetadata?showContent=true&id=5013",
+        "http://judaika.polin.pl/dmuseion/docmetadata?showContent=true&id=5108" ;
+    skos:prefLabel "Ignacy Pinkas" .
+
+<https://data.jhn.ngo/persons/CentralJudaicaDatabase/2788> a edm:Agent ;
+    rdaGr2:dateOfBirth "1897" ;
+    rdaGr2:dateOfDeath "1943" ;
+    edm:identifier "http://judaika.polin.pl/dmuseion/docmetadata?showContent=true&id=5014",
+        "http://judaika.polin.pl/dmuseion/docmetadata?showContent=true&id=5015",
+        "http://judaika.polin.pl/dmuseion/docmetadata?showContent=true&id=5016",
+        "http://judaika.polin.pl/dmuseion/docmetadata?showContent=true&id=5017",
+        "http://judaika.polin.pl/dmuseion/docmetadata?showContent=true&id=5018" ;
+    skos:prefLabel "Fryderyk Fryc Kleinmann" .
+
+<https://data.jhn.ngo/persons/CentralJudaicaDatabase/2790> a edm:Agent ;
+    rdaGr2:dateOfBirth "1877" ;
+    rdaGr2:dateOfDeath "1942" ;
+    edm:identifier "http://judaika.polin.pl/dmuseion/docmetadata?showContent=true&id=5021" ;
+    skos:prefLabel "Ludwik Puget" .
+
+<https://data.jhn.ngo/persons/CentralJudaicaDatabase/2791> a edm:Agent ;
+    rdaGr2:dateOfBirth "1861" ;
+    rdaGr2:dateOfDeath "1941" ;
+    edm:identifier "http://judaika.polin.pl/dmuseion/docmetadata?showContent=true&id=5022",
+        "http://judaika.polin.pl/dmuseion/docmetadata?showContent=true&id=5137" ;
+    skos:prefLabel "Maurycy Trębacz" .
+
+<https://data.jhn.ngo/persons/CentralJudaicaDatabase/2792> a edm:Agent ;
+    rdaGr2:dateOfBirth "1902" ;
+    rdaGr2:dateOfDeath "1943" ;
+    edm:identifier "http://judaika.polin.pl/dmuseion/docmetadata?showContent=true&id=5024" ;
+    skos:prefLabel "Apolinary Ary Sperski" .
+
+<https://data.jhn.ngo/persons/CentralJudaicaDatabase/2793> a edm:Agent ;
+    rdaGr2:dateOfBirth "1888" ;
+    rdaGr2:dateOfDeath "1962" ;
+    edm:identifier "http://judaika.polin.pl/dmuseion/docmetadata?showContent=true&id=5026",
+        "http://judaika.polin.pl/dmuseion/docmetadata?showContent=true&id=5027" ;
+    skos:prefLabel "Władysław Żurawski" .
+
+<https://data.jhn.ngo/persons/CentralJudaicaDatabase/2795> a edm:Agent ;
+    rdaGr2:dateOfBirth "1861" ;
+    rdaGr2:dateOfDeath "1931" ;
+    edm:identifier "http://judaika.polin.pl/dmuseion/docmetadata?showContent=true&id=5031" ;
+    skos:prefLabel "Lesser Ury" .
+
+<https://data.jhn.ngo/persons/CentralJudaicaDatabase/2796> a edm:Agent ;
+    rdaGr2:dateOfBirth "1879" ;
+    rdaGr2:dateOfDeath "1937" ;
+    edm:identifier "http://judaika.polin.pl/dmuseion/docmetadata?showContent=true&id=5032",
+        "http://judaika.polin.pl/dmuseion/docmetadata?showContent=true&id=5033" ;
+    skos:prefLabel "Jan Wojnarski" .
+
+<https://data.jhn.ngo/persons/CentralJudaicaDatabase/2798> a edm:Agent ;
+    rdaGr2:dateOfBirth "1887" ;
+    rdaGr2:dateOfDeath "1931" ;
+    edm:identifier "http://judaika.polin.pl/dmuseion/docmetadata?showContent=true&id=5042" ;
+    skos:prefLabel "Maurycy Mojżesz Apfelbaum" .
+
+<https://data.jhn.ngo/persons/CentralJudaicaDatabase/2800> a edm:Agent ;
+    rdaGr2:dateOfBirth "1869" ;
+    rdaGr2:dateOfDeath "1927" ;
+    edm:identifier "http://judaika.polin.pl/dmuseion/docmetadata?showContent=true&id=5049" ;
+    skos:prefLabel "Stanisław Bohusz Siestrzeńcewicz " .
+
+<https://data.jhn.ngo/persons/CentralJudaicaDatabase/2801> a edm:Agent ;
+    rdaGr2:dateOfBirth "1881" ;
+    rdaGr2:dateOfDeath "1958" ;
+    edm:identifier "http://judaika.polin.pl/dmuseion/docmetadata?showContent=true&id=5050" ;
+    skos:prefLabel "Max  Mendel Birnbaum" .
+
+<https://data.jhn.ngo/persons/CentralJudaicaDatabase/2809> a edm:Agent ;
+    rdaGr2:dateOfBirth "1863" ;
+    rdaGr2:dateOfDeath "1913" ;
+    edm:identifier "http://judaika.polin.pl/dmuseion/docmetadata?showContent=true&id=5092" ;
+    skos:prefLabel "Tadeusz Popiel" .
+
+<https://data.jhn.ngo/persons/CentralJudaicaDatabase/2811> a edm:Agent ;
+    rdaGr2:dateOfBirth "1885" ;
+    rdaGr2:dateOfDeath "1942" ;
+    edm:identifier "http://judaika.polin.pl/dmuseion/docmetadata?showContent=true&id=5096" ;
+    skos:prefLabel "Szymon Müller" .
+
+<https://data.jhn.ngo/persons/CentralJudaicaDatabase/2812> a edm:Agent ;
+    rdaGr2:dateOfBirth "1866" ;
+    rdaGr2:dateOfDeath "1940" ;
+    edm:identifier "http://judaika.polin.pl/dmuseion/docmetadata?showContent=true&id=5100" ;
+    skos:prefLabel "Wincenty Wodzinowski" .
+
+<https://data.jhn.ngo/persons/CentralJudaicaDatabase/2813> a edm:Agent ;
+    rdaGr2:dateOfBirth "1878" ;
+    rdaGr2:dateOfDeath "1954" ;
+    edm:identifier "http://judaika.polin.pl/dmuseion/docmetadata?showContent=true&id=5102" ;
+    skos:prefLabel "Stanisław Czajkowski" .
+
+<https://data.jhn.ngo/persons/CentralJudaicaDatabase/2814> a edm:Agent ;
+    rdaGr2:dateOfBirth "1879" ;
+    rdaGr2:dateOfDeath "1934" ;
+    edm:identifier "http://judaika.polin.pl/dmuseion/docmetadata?showContent=true&id=5107" ;
+    skos:prefLabel "Leopold Gottlieb " .
+
+<https://data.jhn.ngo/persons/CentralJudaicaDatabase/2815> a edm:Agent ;
+    rdaGr2:dateOfBirth "1885" ;
+    rdaGr2:dateOfDeath "1939" ;
+    edm:identifier "http://judaika.polin.pl/dmuseion/docmetadata?showContent=true&id=5110" ;
+    skos:prefLabel "Stefan Sonnewend" .
+
+<https://data.jhn.ngo/persons/CentralJudaicaDatabase/2817> a edm:Agent ;
+    rdaGr2:dateOfBirth "1904" ;
+    rdaGr2:dateOfDeath "-" ;
+    edm:identifier "http://judaika.polin.pl/dmuseion/docmetadata?showContent=true&id=5122" ;
+    skos:prefLabel "Maks Biskupski" .
+
+<https://data.jhn.ngo/persons/CentralJudaicaDatabase/2818> a edm:Agent ;
+    rdaGr2:dateOfBirth "1862" ;
+    rdaGr2:dateOfDeath "1939" ;
+    edm:identifier "http://judaika.polin.pl/dmuseion/docmetadata?showContent=true&id=5124" ;
+    skos:prefLabel "Józef Mojżesz Gabowicz" .
+
+<https://data.jhn.ngo/persons/CentralJudaicaDatabase/2819> a edm:Agent ;
+    rdaGr2:dateOfBirth "1872" ;
+    rdaGr2:dateOfDeath "1933" ;
+    edm:identifier "http://judaika.polin.pl/dmuseion/docmetadata?showContent=true&id=5125" ;
+    skos:prefLabel "Leon Kaufmann, pseud Kamir" .
+
+<https://data.jhn.ngo/persons/CentralJudaicaDatabase/2821> a edm:Agent ;
+    rdaGr2:dateOfBirth "1896" ;
+    rdaGr2:dateOfDeath "1985" ;
+    edm:identifier "http://judaika.polin.pl/dmuseion/docmetadata?showContent=true&id=5133" ;
+    skos:prefLabel "Maksymilian Feuerring" .
+
+<https://data.jhn.ngo/persons/CentralJudaicaDatabase/2822> a edm:Agent ;
+    rdaGr2:dateOfBirth "1862" ;
+    rdaGr2:dateOfDeath "1912" ;
+    edm:identifier "http://judaika.polin.pl/dmuseion/docmetadata?showContent=true&id=5135" ;
+    skos:prefLabel "Nicolai Pimonenko" .
+
+<https://data.jhn.ngo/persons/CentralJudaicaDatabase/2824> a edm:Agent ;
+    rdaGr2:dateOfBirth "1877" ;
+    rdaGr2:dateOfDeath "1956" ;
+    edm:identifier "http://judaika.polin.pl/dmuseion/docmetadata?showContent=true&id=5144" ;
+    skos:prefLabel "Stanisław Żarnecki" .
+
+<https://data.jhn.ngo/persons/CentralJudaicaDatabase/2929> a edm:Agent ;
+    rdaGr2:dateOfBirth "1873" ;
+    rdaGr2:dateOfDeath "1942" ;
+    edm:identifier "http://judaika.polin.pl/dmuseion/docmetadata?showContent=true&id=5008",
+        "http://judaika.polin.pl/dmuseion/docmetadata?showContent=true&id=5047",
+        "http://judaika.polin.pl/dmuseion/docmetadata?showContent=true&id=5097",
+        "http://judaika.polin.pl/dmuseion/docmetadata?showContent=true&id=5677" ;
+    skos:prefLabel "Abraham Neuman " .
+
+<https://data.jhn.ngo/persons/CentralJudaicaDatabase/3053> a edm:Agent ;
+    rdaGr2:dateOfBirth "1903" ;
+    rdaGr2:dateOfDeath "1975" ;
+    edm:identifier "http://judaika.polin.pl/dmuseion/docmetadata?showContent=true&id=6199",
+        "http://judaika.polin.pl/dmuseion/docmetadata?showContent=true&id=6205",
+        "http://judaika.polin.pl/dmuseion/docmetadata?showContent=true&id=6206",
+        "http://judaika.polin.pl/dmuseion/docmetadata?showContent=true&id=6207",
+        "http://judaika.polin.pl/dmuseion/docmetadata?showContent=true&id=6211",
+        "http://judaika.polin.pl/dmuseion/docmetadata?showContent=true&id=6214",
+        "http://judaika.polin.pl/dmuseion/docmetadata?showContent=true&id=6215",
+        "http://judaika.polin.pl/dmuseion/docmetadata?showContent=true&id=6217",
+        "http://judaika.polin.pl/dmuseion/docmetadata?showContent=true&id=6219",
+        "http://judaika.polin.pl/dmuseion/docmetadata?showContent=true&id=6220",
+        "http://judaika.polin.pl/dmuseion/docmetadata?showContent=true&id=6222",
+        "http://judaika.polin.pl/dmuseion/docmetadata?showContent=true&id=6224",
+        "http://judaika.polin.pl/dmuseion/docmetadata?showContent=true&id=6225",
+        "http://judaika.polin.pl/dmuseion/docmetadata?showContent=true&id=6227",
+        "http://judaika.polin.pl/dmuseion/docmetadata?showContent=true&id=6229",
+        "http://judaika.polin.pl/dmuseion/docmetadata?showContent=true&id=6231",
+        "http://judaika.polin.pl/dmuseion/docmetadata?showContent=true&id=6232",
+        "http://judaika.polin.pl/dmuseion/docmetadata?showContent=true&id=6233",
+        "http://judaika.polin.pl/dmuseion/docmetadata?showContent=true&id=6234",
+        "http://judaika.polin.pl/dmuseion/docmetadata?showContent=true&id=6235",
+        "http://judaika.polin.pl/dmuseion/docmetadata?showContent=true&id=6236",
+        "http://judaika.polin.pl/dmuseion/docmetadata?showContent=true&id=6266",
+        "http://judaika.polin.pl/dmuseion/docmetadata?showContent=true&id=6267" ;
+    skos:prefLabel "Mieczysław Berman " .
+
+<https://data.jhn.ngo/persons/CentralJudaicaDatabase/3063> a edm:Agent ;
+    rdaGr2:dateOfBirth "1922" ;
+    rdaGr2:dateOfDeath "1978" ;
+    edm:identifier "http://judaika.polin.pl/dmuseion/docmetadata?showContent=true&id=6237",
+        "http://judaika.polin.pl/dmuseion/docmetadata?showContent=true&id=6238",
+        "http://judaika.polin.pl/dmuseion/docmetadata?showContent=true&id=6241",
+        "http://judaika.polin.pl/dmuseion/docmetadata?showContent=true&id=6243" ;
+    skos:prefLabel "Marek Oberländer " .
+
+<https://data.jhn.ngo/persons/CentralJudaicaDatabase/3067> a edm:Agent ;
+    rdaGr2:dateOfBirth "1928" ;
+    rdaGr2:dateOfDeath "1999" ;
+    edm:identifier "http://judaika.polin.pl/dmuseion/docmetadata?showContent=true&id=6244" ;
+    skos:prefLabel "Jerzy Tchórzewski " .
+
+<https://data.jhn.ngo/persons/CentralJudaicaDatabase/3069> a edm:Agent ;
+    rdaGr2:dateOfBirth "1901" ;
+    rdaGr2:dateOfDeath "1965" ;
+    edm:identifier "http://judaika.polin.pl/dmuseion/docmetadata?showContent=true&id=6247",
+        "http://judaika.polin.pl/dmuseion/docmetadata?showContent=true&id=6248",
+        "http://judaika.polin.pl/dmuseion/docmetadata?showContent=true&id=6256",
+        "http://judaika.polin.pl/dmuseion/docmetadata?showContent=true&id=6257" ;
+    skos:prefLabel "Stefan Wegner " .
+
+<https://data.jhn.ngo/persons/CentralJudaicaDatabase/3073> a edm:Agent ;
+    rdaGr2:dateOfBirth "1925" ;
+    rdaGr2:dateOfDeath "2013" ;
+    edm:identifier "http://judaika.polin.pl/dmuseion/docmetadata?showContent=true&id=6258" ;
+    skos:prefLabel "Wanda Gołkowska " .
+
+<https://data.jhn.ngo/persons/CentralJudaicaDatabase/3074> a edm:Agent ;
+    rdaGr2:dateOfBirth "1920" ;
+    rdaGr2:dateOfDeath "2007" ;
+    edm:identifier "http://judaika.polin.pl/dmuseion/docmetadata?showContent=true&id=6259",
+        "http://judaika.polin.pl/dmuseion/docmetadata?showContent=true&id=6260",
+        "http://judaika.polin.pl/dmuseion/docmetadata?showContent=true&id=6261",
+        "http://judaika.polin.pl/dmuseion/docmetadata?showContent=true&id=6262",
+        "http://judaika.polin.pl/dmuseion/docmetadata?showContent=true&id=6263",
+        "http://judaika.polin.pl/dmuseion/docmetadata?showContent=true&id=6264",
+        "http://judaika.polin.pl/dmuseion/docmetadata?showContent=true&id=6265" ;
+    skos:prefLabel "Zdzisław Lachur " .
+
+<https://data.jhn.ngo/persons/CentralJudaicaDatabase/3075> a edm:Agent ;
+    rdaGr2:dateOfBirth "1914" ;
+    rdaGr2:dateOfDeath "1978" ;
+    edm:identifier "http://judaika.polin.pl/dmuseion/docmetadata?showContent=true&id=6268",
+        "http://judaika.polin.pl/dmuseion/docmetadata?showContent=true&id=6440" ;
+    skos:prefLabel "Krzysztof Henisz " .
+
+<https://data.jhn.ngo/persons/CentralJudaicaDatabase/3077> a edm:Agent ;
+    rdaGr2:dateOfBirth "1826" ;
+    rdaGr2:dateOfDeath "1911" ;
+    edm:identifier "http://judaika.polin.pl/dmuseion/docmetadata?showContent=true&id=6276" ;
+    skos:prefLabel "Franciszek Kostrzewski " .
+
+<https://data.jhn.ngo/persons/CentralJudaicaDatabase/3079> a edm:Agent ;
+    rdaGr2:dateOfBirth "1903" ;
+    rdaGr2:dateOfDeath "1960" ;
+    edm:identifier "http://judaika.polin.pl/dmuseion/docmetadata?showContent=true&id=6279",
+        "http://judaika.polin.pl/dmuseion/docmetadata?showContent=true&id=6477" ;
+    skos:prefLabel "Marek Włodarski Henryk Streng " .
+
+<https://data.jhn.ngo/persons/CentralJudaicaDatabase/3111> a edm:Agent ;
+    rdaGr2:dateOfBirth "1909" ;
+    rdaGr2:dateOfDeath "1949" ;
+    edm:identifier "http://judaika.polin.pl/dmuseion/docmetadata?showContent=true&id=6387",
+        "http://judaika.polin.pl/dmuseion/docmetadata?showContent=true&id=6388" ;
+    skos:prefLabel "Sasza Blonder " .
+
+<https://data.jhn.ngo/persons/CentralJudaicaDatabase/3112> a edm:Agent ;
+    rdaGr2:dateOfBirth "1909" ;
+    rdaGr2:dateOfDeath "1937" ;
+    edm:identifier "http://judaika.polin.pl/dmuseion/docmetadata?showContent=true&id=6389",
+        "http://judaika.polin.pl/dmuseion/docmetadata?showContent=true&id=6390" ;
+    skos:prefLabel "Kazimierz Gede " .
+
+<https://data.jhn.ngo/persons/CentralJudaicaDatabase/3113> a edm:Agent ;
+    rdaGr2:dateOfBirth "1794" ;
+    rdaGr2:dateOfDeath "1895" ;
+    edm:identifier "http://judaika.polin.pl/dmuseion/docmetadata?showContent=true&id=6391",
+        "http://judaika.polin.pl/dmuseion/docmetadata?showContent=true&id=6392",
+        "http://judaika.polin.pl/dmuseion/docmetadata?showContent=true&id=6393",
+        "http://judaika.polin.pl/dmuseion/docmetadata?showContent=true&id=6394" ;
+    skos:prefLabel "Jan Feliks Piwarski " .
+
+<https://data.jhn.ngo/persons/CentralJudaicaDatabase/3114> a edm:Agent ;
+    rdaGr2:dateOfBirth "1871" ;
+    rdaGr2:dateOfDeath "1929" ;
+    edm:identifier "http://judaika.polin.pl/dmuseion/docmetadata?showContent=true&id=6395",
+        "http://judaika.polin.pl/dmuseion/docmetadata?showContent=true&id=6396" ;
+    skos:prefLabel "Józef Rapacki " .
+
+<https://data.jhn.ngo/persons/CentralJudaicaDatabase/3115> a edm:Agent ;
+    rdaGr2:dateOfBirth "1920" ;
+    rdaGr2:dateOfDeath "1980" ;
+    edm:identifier "http://judaika.polin.pl/dmuseion/docmetadata?showContent=true&id=6397" ;
+    skos:prefLabel "Marian Bogusz " .
+
+<https://data.jhn.ngo/persons/CentralJudaicaDatabase/3138> a edm:Agent ;
+    rdaGr2:dateOfBirth "1927" ;
+    rdaGr2:dateOfDeath "2008" ;
+    edm:identifier "http://judaika.polin.pl/dmuseion/docmetadata?showContent=true&id=6432" ;
+    skos:prefLabel "Maciej Lachur " .
+
+<https://data.jhn.ngo/persons/CentralJudaicaDatabase/3140> a edm:Agent ;
+    rdaGr2:dateOfBirth "1921" ;
+    rdaGr2:dateOfDeath "1969" ;
+    edm:identifier "http://judaika.polin.pl/dmuseion/docmetadata?showContent=true&id=6435" ;
+    skos:prefLabel "Jerzy Krawczyk " .
+
+<https://data.jhn.ngo/persons/CentralJudaicaDatabase/3142> a edm:Agent ;
+    rdaGr2:dateOfBirth "1926" ;
+    rdaGr2:dateOfDeath "1983" ;
+    edm:identifier "http://judaika.polin.pl/dmuseion/docmetadata?showContent=true&id=6437" ;
+    skos:prefLabel "Benon Liberski " .
+
+<https://data.jhn.ngo/persons/CentralJudaicaDatabase/3143> a edm:Agent ;
+    rdaGr2:dateOfBirth "1911" ;
+    rdaGr2:dateOfDeath "2002" ;
+    edm:identifier "http://judaika.polin.pl/dmuseion/docmetadata?showContent=true&id=6438" ;
+    skos:prefLabel "Aleksander WinnickiRadziewicz " .
+
+<https://data.jhn.ngo/persons/CentralJudaicaDatabase/3239> a edm:Agent ;
+    rdaGr2:dateOfBirth "1890" ;
+    rdaGr2:dateOfDeath "-" ;
+    edm:identifier "http://judaika.polin.pl/dmuseion/docmetadata?showContent=true&id=6811" ;
+    skos:prefLabel "Izrael A Goldman [czynny do ok" .
+
+<https://data.jhn.ngo/persons/CentralJudaicaDatabase/3244> a edm:Agent ;
+    rdaGr2:dateOfBirth "1912" ;
+    rdaGr2:dateOfDeath "-" ;
+    edm:identifier "http://judaika.polin.pl/dmuseion/docmetadata?showContent=true&id=6821" ;
+    skos:prefLabel "drukarnia Helios [zakład graficzny," .
+
+<https://data.jhn.ngo/persons/CentralJudaicaDatabase/3294> a edm:Agent ;
+    rdaGr2:dateOfBirth "1817" ;
+    rdaGr2:dateOfDeath "1889" ;
+    edm:identifier "http://judaika.polin.pl/dmuseion/docmetadata?showContent=true&id=6965" ;
+    skos:prefLabel "CH COX PINXTAutor John Godfrey " .
+
+<https://data.jhn.ngo/persons/CentralJudaicaDatabase/3368> a edm:Agent ;
+    rdaGr2:dateOfBirth "11" ;
+    rdaGr2:dateOfDeath "61" ;
+    edm:identifier "http://judaika.polin.pl/dmuseion/docmetadata?showContent=true&id=7242" ;
+    skos:prefLabel "Z Ryniecka, Łódź" .
+

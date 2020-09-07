@@ -1,0 +1,252 @@
+@prefix edm: <http://www.europeana.eu/schemas/edm/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://data.jhn.ngo/spatial/lbi_sound-recordings/1004> a edm:Place ;
+    edm:identifier "http://digital.cjh.org/121210",
+        "http://digital.cjh.org/254078",
+        "http://digital.cjh.org/348834",
+        "http://digital.cjh.org/406857",
+        "http://digital.cjh.org/406864",
+        "http://digital.cjh.org/406871",
+        "http://digital.cjh.org/406876",
+        "http://digital.cjh.org/406881",
+        "http://digital.cjh.org/406890",
+        "http://digital.cjh.org/406910",
+        "http://digital.cjh.org/406915",
+        "http://digital.cjh.org/471374",
+        "http://digital.cjh.org/471382",
+        "http://digital.cjh.org/471387",
+        "http://digital.cjh.org/471398",
+        "http://digital.cjh.org/471405",
+        "http://digital.cjh.org/471412",
+        "http://digital.cjh.org/471421",
+        "http://digital.cjh.org/471430",
+        "http://digital.cjh.org/471439",
+        "http://digital.cjh.org/529068" ;
+    owl:sameAs "http://d-nb.info/gnd/1085175685",
+        "http://d-nb.info/gnd/1087268060",
+        "http://d-nb.info/gnd/35878-2",
+        "http://sws.geonames.org/2782113",
+        "http://viaf.org/viaf/148842731" ;
+    skos:altLabel "Austria",
+        "Austrja",
+        "Austrya",
+        "Autriche",
+        "Bundesstaat Österreich",
+        "Cisleithanien",
+        "Deutschösterreich",
+        "Die im Reichsrat Vertretenen Königreiche und Länder (Österreich)",
+        "Habsburgermonarchie",
+        "Habsburgerreich",
+        "Kaiserthum Österreich",
+        "Kaisertum Österreich",
+        "Land Österreich",
+        "Ostmark",
+        "Ostmark (Österreich)",
+        "Österreich (Erste Republik)",
+        "Österreich (Zweite Republik)",
+        "Österreichische Monarchie",
+        "Republik Österreich",
+        "Staat Deutschösterreich",
+        "Zisleithanien" ;
+    skos:prefLabel "Austria" .
+
+<https://data.jhn.ngo/spatial/lbi_sound-recordings/1005> a edm:Place ;
+    edm:identifier "http://digital.cjh.org/160467",
+        "http://digital.cjh.org/161158",
+        "http://digital.cjh.org/161171",
+        "http://digital.cjh.org/254078",
+        "http://digital.cjh.org/406857",
+        "http://digital.cjh.org/406864",
+        "http://digital.cjh.org/406871",
+        "http://digital.cjh.org/406876",
+        "http://digital.cjh.org/406881",
+        "http://digital.cjh.org/406910",
+        "http://digital.cjh.org/471374",
+        "http://digital.cjh.org/471382",
+        "http://digital.cjh.org/471398",
+        "http://digital.cjh.org/471405",
+        "http://digital.cjh.org/471421",
+        "http://digital.cjh.org/471430" ;
+    owl:sameAs "" ;
+    skos:altLabel "" ;
+    skos:prefLabel "NewYorkNY" .
+
+<https://data.jhn.ngo/spatial/lbi_sound-recordings/1008> a edm:Place ;
+    edm:identifier "http://digital.cjh.org/254078",
+        "http://digital.cjh.org/348834",
+        "http://digital.cjh.org/349859",
+        "http://digital.cjh.org/406857",
+        "http://digital.cjh.org/406864",
+        "http://digital.cjh.org/406871",
+        "http://digital.cjh.org/406876",
+        "http://digital.cjh.org/406881",
+        "http://digital.cjh.org/406890",
+        "http://digital.cjh.org/406910",
+        "http://digital.cjh.org/406915",
+        "http://digital.cjh.org/471374",
+        "http://digital.cjh.org/471382",
+        "http://digital.cjh.org/471387",
+        "http://digital.cjh.org/471398",
+        "http://digital.cjh.org/471405",
+        "http://digital.cjh.org/471412",
+        "http://digital.cjh.org/471421",
+        "http://digital.cjh.org/471430",
+        "http://digital.cjh.org/471439",
+        "http://digital.cjh.org/475362",
+        "http://digital.cjh.org/529068",
+        "http://digital.cjh.org/777502" ;
+    owl:sameAs "" ;
+    skos:altLabel "" ;
+    skos:prefLabel "UnitedStates" .
+
+<https://data.jhn.ngo/spatial/lbi_sound-recordings/1011> a edm:Place ;
+    edm:identifier "http://digital.cjh.org/341438",
+        "http://digital.cjh.org/341444",
+        "http://digital.cjh.org/341588",
+        "http://digital.cjh.org/341604",
+        "http://digital.cjh.org/341610",
+        "http://digital.cjh.org/341613",
+        "http://digital.cjh.org/341622",
+        "http://digital.cjh.org/349822",
+        "http://digital.cjh.org/349832",
+        "http://digital.cjh.org/349838" ;
+    owl:sameAs "http://d-nb.info/gnd/2004272-3",
+        "http://d-nb.info/gnd/7761961-4",
+        "http://sws.geonames.org/2950157",
+        "http://viaf.org/viaf/122530980" ;
+    skos:altLabel "\"Besonderes Gebiet\" Berlin",
+        "Barlīn",
+        "Berlin (1945-1948)",
+        "Berlino",
+        "Berlinum",
+        "Berolino",
+        "Berolinon",
+        "Berolinum",
+        "Birlīn",
+        "Colonia Brandenburgica",
+        "Colonia Marchica",
+        "Coloniae Brandenburgicae",
+        "Cölln an der Spree",
+        "Cöln an der Spree",
+        "Gross-Berlin",
+        "Groß-Berlin",
+        "Großberlin",
+        "Haupt- und Residenz-Stadt Berlin",
+        "Hauptstadt Berlin",
+        "Land Berlin",
+        "Reichshauptstadt Berlin",
+        "Stadtgemeinde Berlin",
+        "Verolino" ;
+    skos:prefLabel "Berlin" .
+
+<https://data.jhn.ngo/spatial/lbi_sound-recordings/1012> a edm:Place ;
+    edm:identifier "http://digital.cjh.org/343578",
+        "http://digital.cjh.org/343584",
+        "http://digital.cjh.org/343590",
+        "http://digital.cjh.org/343596",
+        "http://digital.cjh.org/343602",
+        "http://digital.cjh.org/343608",
+        "http://digital.cjh.org/343614",
+        "http://digital.cjh.org/343620",
+        "http://digital.cjh.org/343626",
+        "http://digital.cjh.org/343632",
+        "http://digital.cjh.org/343638",
+        "http://digital.cjh.org/343644",
+        "http://digital.cjh.org/343650",
+        "http://digital.cjh.org/343656",
+        "http://digital.cjh.org/343662",
+        "http://digital.cjh.org/343668",
+        "http://digital.cjh.org/343674" ;
+    owl:sameAs "" ;
+    skos:altLabel "" ;
+    skos:prefLabel "NewYork" .
+
+<https://data.jhn.ngo/spatial/lbi_sound-recordings/1013> a edm:Place ;
+    edm:identifier "http://digital.cjh.org/348834" ;
+    owl:sameAs "http://d-nb.info/gnd/35478-8",
+        "http://sws.geonames.org/2077456",
+        "http://viaf.org/viaf/246500905" ;
+    skos:altLabel "Australia",
+        "Australie",
+        "Australien",
+        "Australischer Bund",
+        "Commonwealth of Australia",
+        "Neuholland" ;
+    skos:prefLabel "Australia" .
+
+<https://data.jhn.ngo/spatial/lbi_sound-recordings/1017> a edm:Place ;
+    edm:identifier "http://digital.cjh.org/349832",
+        "http://digital.cjh.org/349838" ;
+    owl:sameAs "http://d-nb.info/gnd/4010833-8",
+        "http://sws.geonames.org/710719",
+        "http://viaf.org/viaf/125228727",
+        "http://viaf.org/viaf/134290342" ;
+    skos:altLabel "Cernăuti",
+        "Cernivci",
+        "Cernivcy",
+        "Chernivtsi",
+        "Chernivtsy",
+        "Chernovtsy",
+        "Czernowitz",
+        "Černivcy",
+        "Černovcy",
+        "Tscherniwzi",
+        "Tschernowitz",
+        "Tšernowitz",
+        "Ṭšernowiṣ" ;
+    skos:prefLabel "Czernowitz" .
+
+<https://data.jhn.ngo/spatial/lbi_sound-recordings/1020> a edm:Place ;
+    edm:identifier "http://digital.cjh.org/393426",
+        "http://digital.cjh.org/777502" ;
+    owl:sameAs "http://d-nb.info/gnd/35061-8",
+        "http://sws.geonames.org/3017382",
+        "http://viaf.org/viaf/265271214" ;
+    skos:altLabel "Empire Français",
+        "France",
+        "France (Royaume)",
+        "Francija",
+        "Frankreich (Kaiserreich)",
+        "Frankreich (Königreich)",
+        "Französische Republik",
+        "Fränkische Republik",
+        "La France",
+        "Repubblica Francese",
+        "République Française",
+        "Royaume Français",
+        "Ṣārfat" ;
+    skos:prefLabel "France" .
+
+<https://data.jhn.ngo/spatial/lbi_sound-recordings/1028> a edm:Place ;
+    edm:identifier "http://digital.cjh.org/511083" ;
+    owl:sameAs "http://d-nb.info/gnd/2004272-3",
+        "http://d-nb.info/gnd/7761961-4",
+        "http://sws.geonames.org/2950157",
+        "http://viaf.org/viaf/122530980" ;
+    skos:altLabel "\"Besonderes Gebiet\" Berlin",
+        "Barlīn",
+        "Berlin (1945-1948)",
+        "Berlino",
+        "Berlinum",
+        "Berolino",
+        "Berolinon",
+        "Berolinum",
+        "Birlīn",
+        "Colonia Brandenburgica",
+        "Colonia Marchica",
+        "Coloniae Brandenburgicae",
+        "Cölln an der Spree",
+        "Cöln an der Spree",
+        "Gross-Berlin",
+        "Groß-Berlin",
+        "Großberlin",
+        "Haupt- und Residenz-Stadt Berlin",
+        "Hauptstadt Berlin",
+        "Land Berlin",
+        "Reichshauptstadt Berlin",
+        "Stadtgemeinde Berlin",
+        "Verolino" ;
+    skos:prefLabel "Berlin" .
+

@@ -1,0 +1,576 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix edm: <http://www.europeana.eu/schemas/edm/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix gndo: <http://d-nb.info/standards/elementset/gnd#> .
+@prefix jl: <http://data.judaicalink.org/ontology/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdaGr2: <http://rdvocab.info/ElementsGr2/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://data.jhn.ngo/persons/AJHS_photographs/1024> a edm:Agent ;
+    gndo:gndIdentifier "132733404" ;
+    rdaGr2:dateOfBirth "1881" ;
+    rdaGr2:dateOfDeath "1956" ;
+    edm:identifier "http://digital.cjh.org/171983",
+        "http://digital.cjh.org/172483",
+        "http://digital.cjh.org/172574",
+        "http://digital.cjh.org/172577",
+        "http://digital.cjh.org/172580",
+        "http://digital.cjh.org/172583",
+        "http://digital.cjh.org/172586",
+        "http://digital.cjh.org/172589",
+        "http://digital.cjh.org/172592",
+        "http://digital.cjh.org/172595" ;
+    owl:sameAs <http://catalogue.bnf.fr/ark:/12148/cb142230424>,
+        <http://d-nb.info/gnd/132733404>,
+        <http://d-nb.info/gnd/132733404/about>,
+        <http://data.judaicalink.org/data/gnd/132733404>,
+        <http://hub.culturegraph.org/entityfacts/132733404>,
+        <http://id.loc.gov/authorities/no2002022063>,
+        <http://viaf.org/viaf/60250927>,
+        <http://www.isni.org/0000000081398831>,
+        <http://www.wikidata.org/entity/Q6286700>,
+        <https://en.wikipedia.org/wiki/Joseph_Rumshinsky> ;
+    skos:altLabel "Rumshinsky, J. M.",
+        "Rumshinsky, Joseph M.",
+        "Rumshisky, J. M.",
+        "Rumshisky, Joseph",
+        "Rumshisky, R. M." ;
+    skos:prefLabel "Rumshinsky, Joseph" .
+
+<https://data.jhn.ngo/persons/AJHS_photographs/1026> a edm:Agent ;
+    rdaGr2:dateOfBirth "-" ;
+    rdaGr2:dateOfDeath "-" ;
+    edm:identifier "http://digital.cjh.org/171989",
+        "http://digital.cjh.org/172085" ;
+    owl:sameAs <http://data.judaicalink.org/data/dbpedia/Fred_Fehl>,
+        <http://dbpedia.org/resource/Fred_Fehl>,
+        <http://rdf.freebase.com/ns/m.0b0v9v>,
+        <http://wikidata.dbpedia.org/resource/Q5495123>,
+        <http://www.wikidata.org/entity/Q5495123>,
+        <http://yago-knowledge.org/resource/Fred_Fehl> ;
+    skos:altLabel "Fred Fehl" ;
+    skos:prefLabel "Fehl, Fred" .
+
+<https://data.jhn.ngo/persons/AJHS_photographs/1034> a edm:Agent ;
+    gndo:gndIdentifier "119119013" ;
+    jl:birthLocation "Wolynien" ;
+    jl:deathLocation "New York, NY" ;
+    rdaGr2:dateOfBirth "1840" ;
+    rdaGr2:dateOfDeath "1908" ;
+    edm:identifier "http://digital.cjh.org/172040",
+        "http://digital.cjh.org/172043",
+        "http://digital.cjh.org/172046",
+        "http://digital.cjh.org/172610",
+        "http://digital.cjh.org/172613",
+        "http://digital.cjh.org/172616" ;
+    owl:sameAs <http://catalogue.bnf.fr/ark:/12148/cb13339534k>,
+        <http://d-nb.info/gnd/101603279X>,
+        <http://d-nb.info/gnd/119119013>,
+        <http://d-nb.info/gnd/119119013/about>,
+        <http://d-nb.info/gnd/172994322>,
+        <http://data.judaicalink.org/data/dbpedia/Abraham_Goldfaden>,
+        <http://data.judaicalink.org/data/gnd/119119013>,
+        <http://dbpedia.org/resource/Abraham_Goldfaden>,
+        <http://de.dbpedia.org/resource/Abraham_Goldfaden>,
+        <http://fr.dbpedia.org/resource/Abraham_Goldfaden>,
+        <http://hub.culturegraph.org/entityfacts/119119013>,
+        <http://id.loc.gov/authorities/n87933242>,
+        <http://it.dbpedia.org/resource/Abraham_Goldfaden>,
+        <http://pl.dbpedia.org/resource/Abraham_Goldfaden>,
+        <http://rdf.freebase.com/ns/m.04l25_>,
+        <http://viaf.org/viaf/66613610>,
+        <http://wikidata.dbpedia.org/resource/Q330024>,
+        <http://www.isni.org/0000000081463621>,
+        <http://www.wikidata.org/entity/Q330024>,
+        <http://yago-knowledge.org/resource/Abraham_Goldfaden>,
+        <https://de.wikipedia.org/wiki/Abraham_Goldfaden>,
+        <https://en.wikipedia.org/wiki/Abraham_Goldfaden>,
+        <https://www.deutsche-digitale-bibliothek.de/entity/119119013> ;
+    skos:altLabel "Abraham Goldfaden",
+        "Goldfaden, A.",
+        "Goldfaden, Abraham",
+        "Goldfaden, Abraham ben Chajim Lippe",
+        "Goldfaden, Avraham",
+        "Goldfaden, Avram",
+        "Goldfaden, Avrāhām",
+        "Goldfaden, Avrohom",
+        "Goldfaden, Avrom",
+        "Goldfaden, Avron",
+        "Goldfaden, Awrom",
+        "Goldfadn, Avrom",
+        "Goldnfoden, Avrum",
+        "Golʹdfaden, Avraam",
+        "Гольдфаден, Абрам" ;
+    skos:prefLabel "Goldfaden, Abraham" .
+
+<https://data.jhn.ngo/persons/AJHS_photographs/1146> a edm:Agent ;
+    rdaGr2:dateOfBirth "1903" ;
+    rdaGr2:dateOfDeath "1976" ;
+    edm:identifier "http://digital.cjh.org/1008695",
+        "http://digital.cjh.org/1008698",
+        "http://digital.cjh.org/1008699",
+        "http://digital.cjh.org/1195500" ;
+    skos:prefLabel "Franklin, Sidney" .
+
+<https://data.jhn.ngo/persons/AJHS_photographs/1148> a edm:Agent ;
+    rdaGr2:dateOfBirth "1904" ;
+    rdaGr2:dateOfDeath "2005" ;
+    edm:identifier "http://digital.cjh.org/114527",
+        "http://digital.cjh.org/114701",
+        "http://digital.cjh.org/41322",
+        "http://digital.cjh.org/41325",
+        "http://digital.cjh.org/41328",
+        "http://digital.cjh.org/41331",
+        "http://digital.cjh.org/41334",
+        "http://digital.cjh.org/41337",
+        "http://digital.cjh.org/41340",
+        "http://digital.cjh.org/41343",
+        "http://digital.cjh.org/41346",
+        "http://digital.cjh.org/41349",
+        "http://digital.cjh.org/41352",
+        "http://digital.cjh.org/41355",
+        "http://digital.cjh.org/41361",
+        "http://digital.cjh.org/41364",
+        "http://digital.cjh.org/41367",
+        "http://digital.cjh.org/41370",
+        "http://digital.cjh.org/41373",
+        "http://digital.cjh.org/41376",
+        "http://digital.cjh.org/41379",
+        "http://digital.cjh.org/41382",
+        "http://digital.cjh.org/41385",
+        "http://digital.cjh.org/41388",
+        "http://digital.cjh.org/41391",
+        "http://digital.cjh.org/41394",
+        "http://digital.cjh.org/41397",
+        "http://digital.cjh.org/41400",
+        "http://digital.cjh.org/41403",
+        "http://digital.cjh.org/41406",
+        "http://digital.cjh.org/41412",
+        "http://digital.cjh.org/41415",
+        "http://digital.cjh.org/41418",
+        "http://digital.cjh.org/41421",
+        "http://digital.cjh.org/41430",
+        "http://digital.cjh.org/41433",
+        "http://digital.cjh.org/41436",
+        "http://digital.cjh.org/41439",
+        "http://digital.cjh.org/41442",
+        "http://digital.cjh.org/41445",
+        "http://digital.cjh.org/41448",
+        "http://digital.cjh.org/41451",
+        "http://digital.cjh.org/41454",
+        "http://digital.cjh.org/41457",
+        "http://digital.cjh.org/41460",
+        "http://digital.cjh.org/41463",
+        "http://digital.cjh.org/41466",
+        "http://digital.cjh.org/41469",
+        "http://digital.cjh.org/41472",
+        "http://digital.cjh.org/41475",
+        "http://digital.cjh.org/41478",
+        "http://digital.cjh.org/41481",
+        "http://digital.cjh.org/41484",
+        "http://digital.cjh.org/41487",
+        "http://digital.cjh.org/41490",
+        "http://digital.cjh.org/41493",
+        "http://digital.cjh.org/41496",
+        "http://digital.cjh.org/41499",
+        "http://digital.cjh.org/41502",
+        "http://digital.cjh.org/41508",
+        "http://digital.cjh.org/41514",
+        "http://digital.cjh.org/41517",
+        "http://digital.cjh.org/41520",
+        "http://digital.cjh.org/41523",
+        "http://digital.cjh.org/41526",
+        "http://digital.cjh.org/41529",
+        "http://digital.cjh.org/41532",
+        "http://digital.cjh.org/41535",
+        "http://digital.cjh.org/41538",
+        "http://digital.cjh.org/41541",
+        "http://digital.cjh.org/41550",
+        "http://digital.cjh.org/41553",
+        "http://digital.cjh.org/41559",
+        "http://digital.cjh.org/41562",
+        "http://digital.cjh.org/41565",
+        "http://digital.cjh.org/41568",
+        "http://digital.cjh.org/41571",
+        "http://digital.cjh.org/41574",
+        "http://digital.cjh.org/41580",
+        "http://digital.cjh.org/41583",
+        "http://digital.cjh.org/41586",
+        "http://digital.cjh.org/41589",
+        "http://digital.cjh.org/41592",
+        "http://digital.cjh.org/41595",
+        "http://digital.cjh.org/41601",
+        "http://digital.cjh.org/41604",
+        "http://digital.cjh.org/41607",
+        "http://digital.cjh.org/41610",
+        "http://digital.cjh.org/41613",
+        "http://digital.cjh.org/41616",
+        "http://digital.cjh.org/41619",
+        "http://digital.cjh.org/41622",
+        "http://digital.cjh.org/41625",
+        "http://digital.cjh.org/41628",
+        "http://digital.cjh.org/41631",
+        "http://digital.cjh.org/41634",
+        "http://digital.cjh.org/41637",
+        "http://digital.cjh.org/41640",
+        "http://digital.cjh.org/41643",
+        "http://digital.cjh.org/41646",
+        "http://digital.cjh.org/41649",
+        "http://digital.cjh.org/41652",
+        "http://digital.cjh.org/41655",
+        "http://digital.cjh.org/41658",
+        "http://digital.cjh.org/41661",
+        "http://digital.cjh.org/41664",
+        "http://digital.cjh.org/41667",
+        "http://digital.cjh.org/41673",
+        "http://digital.cjh.org/41676",
+        "http://digital.cjh.org/41682",
+        "http://digital.cjh.org/41685",
+        "http://digital.cjh.org/41688",
+        "http://digital.cjh.org/41691",
+        "http://digital.cjh.org/41694",
+        "http://digital.cjh.org/41697",
+        "http://digital.cjh.org/41700",
+        "http://digital.cjh.org/41703",
+        "http://digital.cjh.org/41706",
+        "http://digital.cjh.org/41709",
+        "http://digital.cjh.org/41712",
+        "http://digital.cjh.org/41715",
+        "http://digital.cjh.org/41718",
+        "http://digital.cjh.org/41721",
+        "http://digital.cjh.org/41724",
+        "http://digital.cjh.org/41727",
+        "http://digital.cjh.org/41730",
+        "http://digital.cjh.org/41733",
+        "http://digital.cjh.org/41736",
+        "http://digital.cjh.org/41739",
+        "http://digital.cjh.org/41742",
+        "http://digital.cjh.org/41745",
+        "http://digital.cjh.org/41751",
+        "http://digital.cjh.org/41754",
+        "http://digital.cjh.org/41757",
+        "http://digital.cjh.org/41760",
+        "http://digital.cjh.org/41763",
+        "http://digital.cjh.org/41766",
+        "http://digital.cjh.org/41769",
+        "http://digital.cjh.org/41772",
+        "http://digital.cjh.org/41775",
+        "http://digital.cjh.org/41778",
+        "http://digital.cjh.org/41781",
+        "http://digital.cjh.org/41784",
+        "http://digital.cjh.org/41787",
+        "http://digital.cjh.org/41793",
+        "http://digital.cjh.org/41796",
+        "http://digital.cjh.org/41799",
+        "http://digital.cjh.org/41802",
+        "http://digital.cjh.org/41805",
+        "http://digital.cjh.org/41808",
+        "http://digital.cjh.org/41811",
+        "http://digital.cjh.org/41814",
+        "http://digital.cjh.org/41817",
+        "http://digital.cjh.org/41820",
+        "http://digital.cjh.org/41823",
+        "http://digital.cjh.org/41826",
+        "http://digital.cjh.org/41829",
+        "http://digital.cjh.org/41832",
+        "http://digital.cjh.org/41835",
+        "http://digital.cjh.org/41838",
+        "http://digital.cjh.org/41841",
+        "http://digital.cjh.org/41844",
+        "http://digital.cjh.org/41847",
+        "http://digital.cjh.org/41853",
+        "http://digital.cjh.org/41856",
+        "http://digital.cjh.org/41859",
+        "http://digital.cjh.org/41862",
+        "http://digital.cjh.org/41868",
+        "http://digital.cjh.org/41871",
+        "http://digital.cjh.org/41880",
+        "http://digital.cjh.org/41883",
+        "http://digital.cjh.org/41886",
+        "http://digital.cjh.org/41889",
+        "http://digital.cjh.org/41892",
+        "http://digital.cjh.org/41895",
+        "http://digital.cjh.org/41898",
+        "http://digital.cjh.org/41901",
+        "http://digital.cjh.org/41904",
+        "http://digital.cjh.org/41907",
+        "http://digital.cjh.org/41910",
+        "http://digital.cjh.org/41913",
+        "http://digital.cjh.org/41916",
+        "http://digital.cjh.org/41919",
+        "http://digital.cjh.org/41922",
+        "http://digital.cjh.org/41925",
+        "http://digital.cjh.org/41928",
+        "http://digital.cjh.org/41931",
+        "http://digital.cjh.org/41937",
+        "http://digital.cjh.org/41940",
+        "http://digital.cjh.org/41943",
+        "http://digital.cjh.org/41946",
+        "http://digital.cjh.org/41952",
+        "http://digital.cjh.org/41955",
+        "http://digital.cjh.org/41958",
+        "http://digital.cjh.org/41961",
+        "http://digital.cjh.org/41964",
+        "http://digital.cjh.org/41967",
+        "http://digital.cjh.org/41970",
+        "http://digital.cjh.org/41973",
+        "http://digital.cjh.org/41976",
+        "http://digital.cjh.org/41979",
+        "http://digital.cjh.org/41982",
+        "http://digital.cjh.org/41985",
+        "http://digital.cjh.org/41988",
+        "http://digital.cjh.org/41991",
+        "http://digital.cjh.org/41994",
+        "http://digital.cjh.org/41997",
+        "http://digital.cjh.org/42000",
+        "http://digital.cjh.org/42003",
+        "http://digital.cjh.org/42006",
+        "http://digital.cjh.org/42009",
+        "http://digital.cjh.org/42012",
+        "http://digital.cjh.org/42015",
+        "http://digital.cjh.org/42018",
+        "http://digital.cjh.org/42024",
+        "http://digital.cjh.org/42027",
+        "http://digital.cjh.org/42030",
+        "http://digital.cjh.org/42033",
+        "http://digital.cjh.org/42036",
+        "http://digital.cjh.org/42039",
+        "http://digital.cjh.org/42042",
+        "http://digital.cjh.org/42045",
+        "http://digital.cjh.org/42048",
+        "http://digital.cjh.org/42051",
+        "http://digital.cjh.org/42054",
+        "http://digital.cjh.org/42057",
+        "http://digital.cjh.org/42060",
+        "http://digital.cjh.org/42063",
+        "http://digital.cjh.org/42066",
+        "http://digital.cjh.org/42069",
+        "http://digital.cjh.org/42072",
+        "http://digital.cjh.org/42075",
+        "http://digital.cjh.org/42078",
+        "http://digital.cjh.org/42081",
+        "http://digital.cjh.org/42084",
+        "http://digital.cjh.org/42087",
+        "http://digital.cjh.org/42090",
+        "http://digital.cjh.org/42093",
+        "http://digital.cjh.org/42096",
+        "http://digital.cjh.org/42099",
+        "http://digital.cjh.org/42102",
+        "http://digital.cjh.org/42105",
+        "http://digital.cjh.org/42108",
+        "http://digital.cjh.org/42111",
+        "http://digital.cjh.org/42114",
+        "http://digital.cjh.org/42117",
+        "http://digital.cjh.org/42120",
+        "http://digital.cjh.org/42123",
+        "http://digital.cjh.org/42126",
+        "http://digital.cjh.org/42129",
+        "http://digital.cjh.org/42132",
+        "http://digital.cjh.org/42135",
+        "http://digital.cjh.org/42138",
+        "http://digital.cjh.org/42141",
+        "http://digital.cjh.org/42144",
+        "http://digital.cjh.org/42147",
+        "http://digital.cjh.org/42150",
+        "http://digital.cjh.org/42153",
+        "http://digital.cjh.org/42156",
+        "http://digital.cjh.org/42159",
+        "http://digital.cjh.org/42162",
+        "http://digital.cjh.org/42165",
+        "http://digital.cjh.org/42168",
+        "http://digital.cjh.org/42171",
+        "http://digital.cjh.org/42174",
+        "http://digital.cjh.org/42177",
+        "http://digital.cjh.org/42180",
+        "http://digital.cjh.org/42183",
+        "http://digital.cjh.org/42186",
+        "http://digital.cjh.org/42189",
+        "http://digital.cjh.org/42192",
+        "http://digital.cjh.org/42195",
+        "http://digital.cjh.org/42198",
+        "http://digital.cjh.org/42201",
+        "http://digital.cjh.org/42204",
+        "http://digital.cjh.org/42207",
+        "http://digital.cjh.org/42210",
+        "http://digital.cjh.org/42213",
+        "http://digital.cjh.org/42219",
+        "http://digital.cjh.org/42225",
+        "http://digital.cjh.org/42228",
+        "http://digital.cjh.org/42240",
+        "http://digital.cjh.org/42243",
+        "http://digital.cjh.org/42246",
+        "http://digital.cjh.org/42249",
+        "http://digital.cjh.org/42252",
+        "http://digital.cjh.org/42255",
+        "http://digital.cjh.org/42258",
+        "http://digital.cjh.org/42261",
+        "http://digital.cjh.org/42264",
+        "http://digital.cjh.org/42267",
+        "http://digital.cjh.org/42270",
+        "http://digital.cjh.org/42273",
+        "http://digital.cjh.org/42276",
+        "http://digital.cjh.org/42279",
+        "http://digital.cjh.org/42282",
+        "http://digital.cjh.org/42285",
+        "http://digital.cjh.org/42288" ;
+    skos:prefLabel "Lightman, JB" .
+
+<https://data.jhn.ngo/persons/AJHS_photographs/1150> a edm:Agent ;
+    rdaGr2:dateOfBirth "1892" ;
+    rdaGr2:dateOfDeath "1968" ;
+    edm:identifier "http://digital.cjh.org/1375505" ;
+    skos:prefLabel "Rosenblum, William F" .
+
+<https://data.jhn.ngo/persons/AJHS_photographs/1159> a edm:Agent ;
+    rdaGr2:dateOfBirth "1850" ;
+    rdaGr2:dateOfDeath "-" ;
+    edm:identifier "http://digital.cjh.org/1484961" ;
+    skos:prefLabel "Strassman, Adolphus alias Rich" .
+
+<https://data.jhn.ngo/persons/AJHS_photographs/1160> a edm:Agent ;
+    rdaGr2:dateOfBirth "1916" ;
+    rdaGr2:dateOfDeath "2011" ;
+    edm:identifier "http://digital.cjh.org/1568948",
+        "http://digital.cjh.org/1678209" ;
+    skos:prefLabel "Pomrenze, Seymour J" .
+
+<https://data.jhn.ngo/persons/AJHS_photographs/1161> a edm:Agent ;
+    rdaGr2:dateOfBirth "1949" ;
+    rdaGr2:dateOfDeath "2011" ;
+    edm:identifier "http://digital.cjh.org/1598261",
+        "http://digital.cjh.org/1598266",
+        "http://digital.cjh.org/1598276",
+        "http://digital.cjh.org/1612414" ;
+    skos:prefLabel "Lenhoff, Howard" .
+
+<https://data.jhn.ngo/persons/AJHS_photographs/1170> a edm:Agent ;
+    rdaGr2:dateOfBirth "1881" ;
+    rdaGr2:dateOfDeath "1956" ;
+    edm:identifier "http://digital.cjh.org/171986" ;
+    skos:prefLabel "Rumshinksy, Joseph" .
+
+<https://data.jhn.ngo/persons/AJHS_photographs/1172> a edm:Agent ;
+    rdaGr2:dateOfBirth "1872" ;
+    rdaGr2:dateOfDeath "1961" ;
+    edm:identifier "http://digital.cjh.org/171992",
+        "http://digital.cjh.org/171995",
+        "http://digital.cjh.org/171998",
+        "http://digital.cjh.org/172001",
+        "http://digital.cjh.org/172004",
+        "http://digital.cjh.org/172007",
+        "http://digital.cjh.org/172010",
+        "http://digital.cjh.org/172013",
+        "http://digital.cjh.org/172016",
+        "http://digital.cjh.org/172019",
+        "http://digital.cjh.org/172022",
+        "http://digital.cjh.org/172025" ;
+    skos:prefLabel "Preiss, Eugen" .
+
+<https://data.jhn.ngo/persons/AJHS_photographs/1182> a edm:Agent ;
+    rdaGr2:dateOfBirth "1891" ;
+    rdaGr2:dateOfDeath "1975" ;
+    edm:identifier "http://digital.cjh.org/172058",
+        "http://digital.cjh.org/172079",
+        "http://digital.cjh.org/172238",
+        "http://digital.cjh.org/172483",
+        "http://digital.cjh.org/172604",
+        "http://digital.cjh.org/172619" ;
+    skos:prefLabel "Kalich, Jacob" .
+
+<https://data.jhn.ngo/persons/AJHS_photographs/1188> a edm:Agent ;
+    rdaGr2:dateOfBirth "1844" ;
+    rdaGr2:dateOfDeath "1923" ;
+    edm:identifier "http://digital.cjh.org/172136" ;
+    skos:prefLabel "Bernhardt, Sarah" .
+
+<https://data.jhn.ngo/persons/AJHS_photographs/1191> a edm:Agent ;
+    rdaGr2:dateOfBirth "1933" ;
+    rdaGr2:dateOfDeath "-" ;
+    edm:identifier "http://digital.cjh.org/172175" ;
+    skos:prefLabel "Herman, Jerry" .
+
+<https://data.jhn.ngo/persons/AJHS_photographs/1224> a edm:Agent ;
+    rdaGr2:dateOfBirth "1892" ;
+    rdaGr2:dateOfDeath "1958" ;
+    edm:identifier "http://digital.cjh.org/1978792" ;
+    skos:prefLabel "Brickner, Barnett R Barnett Robert" .
+
+<https://data.jhn.ngo/persons/AJHS_photographs/1225> a edm:Agent ;
+    rdaGr2:dateOfBirth "1881" ;
+    rdaGr2:dateOfDeath "1965" ;
+    edm:identifier "http://digital.cjh.org/1979259" ;
+    skos:prefLabel "Arnold, William R William Richard" .
+
+<https://data.jhn.ngo/persons/AJHS_photographs/1270> a edm:Agent ;
+    rdaGr2:dateOfBirth "1908" ;
+    rdaGr2:dateOfDeath "1998" ;
+    edm:identifier "http://digital.cjh.org/3314137" ;
+    skos:prefLabel "Epstein, Mary Wolfman" .
+
+<https://data.jhn.ngo/persons/AJHS_photographs/1272> a edm:Agent ;
+    rdaGr2:dateOfBirth "1908" ;
+    rdaGr2:dateOfDeath "-" ;
+    edm:identifier "http://digital.cjh.org/385292",
+        "http://digital.cjh.org/385718",
+        "http://digital.cjh.org/385720",
+        "http://digital.cjh.org/385722",
+        "http://digital.cjh.org/385724",
+        "http://digital.cjh.org/385726",
+        "http://digital.cjh.org/385728",
+        "http://digital.cjh.org/385730",
+        "http://digital.cjh.org/385732",
+        "http://digital.cjh.org/385734",
+        "http://digital.cjh.org/385736",
+        "http://digital.cjh.org/385738",
+        "http://digital.cjh.org/385740",
+        "http://digital.cjh.org/385742",
+        "http://digital.cjh.org/385744",
+        "http://digital.cjh.org/385746",
+        "http://digital.cjh.org/385748",
+        "http://digital.cjh.org/385750",
+        "http://digital.cjh.org/385754",
+        "http://digital.cjh.org/385756",
+        "http://digital.cjh.org/385758",
+        "http://digital.cjh.org/385760",
+        "http://digital.cjh.org/385762",
+        "http://digital.cjh.org/385764",
+        "http://digital.cjh.org/385766",
+        "http://digital.cjh.org/385768",
+        "http://digital.cjh.org/385770",
+        "http://digital.cjh.org/385772",
+        "http://digital.cjh.org/385774",
+        "http://digital.cjh.org/385776",
+        "http://digital.cjh.org/385778",
+        "http://digital.cjh.org/385780",
+        "http://digital.cjh.org/385782",
+        "http://digital.cjh.org/385786",
+        "http://digital.cjh.org/385788",
+        "http://digital.cjh.org/385790",
+        "http://digital.cjh.org/385794",
+        "http://digital.cjh.org/385796" ;
+    skos:prefLabel "Schlossberg, Arnold, Sr" .
+
+<https://data.jhn.ngo/persons/AJHS_photographs/1282> a edm:Agent ;
+    rdaGr2:dateOfBirth "1908" ;
+    rdaGr2:dateOfDeath "-" ;
+    edm:identifier "http://digital.cjh.org/385792" ;
+    skos:prefLabel "Schlossberg, Arnold Sr b" .
+
+<https://data.jhn.ngo/persons/AJHS_photographs/1289> a edm:Agent ;
+    rdaGr2:dateOfBirth "1939" ;
+    rdaGr2:dateOfDeath "-" ;
+    edm:identifier "http://digital.cjh.org/4984884" ;
+    skos:prefLabel "Spiro, Lionel" .
+
+<https://data.jhn.ngo/persons/AJHS_photographs/1290> a edm:Agent ;
+    rdaGr2:dateOfBirth "1889" ;
+    rdaGr2:dateOfDeath "1955" ;
+    edm:identifier "http://digital.cjh.org/5489672" ;
+    skos:prefLabel "Kagan, Solomon Robert" .
+

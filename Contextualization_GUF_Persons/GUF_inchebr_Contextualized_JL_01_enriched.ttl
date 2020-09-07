@@ -1,0 +1,86 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix edm: <http://www.europeana.eu/schemas/edm/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix gndo: <http://d-nb.info/standards/elementset/gnd#> .
+@prefix jl: <http://data.judaicalink.org/ontology/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdaGr2: <http://rdvocab.info/ElementsGr2/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://data.jhn.ngo/persons/GUF_inchebr/1008> a edm:Agent ;
+    rdaGr2:dateOfBirth "-" ;
+    rdaGr2:dateOfDeath "-" ;
+    edm:identifier "http://nbn-resolving.de/urn:nbn:de:hebis:30:2-48880",
+        "http://nbn-resolving.de/urn:nbn:de:hebis:30:2-49292" ;
+    owl:sameAs <http://data.judaicalink.org/data/nli/יהודהבןיחיאל> ;
+    skos:altLabel "יהודה בן יחיאל" ;
+    skos:prefLabel "יהודה בן יחיאל" .
+
+<https://data.jhn.ngo/persons/GUF_inchebr/1014> a edm:Agent ;
+    rdaGr2:dateOfBirth "-" ;
+    rdaGr2:dateOfDeath "-" ;
+    edm:identifier "http://nbn-resolving.de/urn:nbn:de:hebis:30:2-49145",
+        "http://nbn-resolving.de/urn:nbn:de:hebis:30:2-49150",
+        "http://nbn-resolving.de/urn:nbn:de:hebis:30:2-49788" ;
+    owl:sameAs <http://data.judaicalink.org/data/nli/קמחי_דוד> ;
+    skos:altLabel "קמחי, דוד" ;
+    skos:prefLabel "קמחי, דוד" .
+
+<https://data.jhn.ngo/persons/GUF_inchebr/1025> a edm:Agent ;
+    gndo:gndIdentifier "138230943" ;
+    rdaGr2:dateOfBirth "-" ;
+    rdaGr2:dateOfDeath "-" ;
+    edm:identifier "http://nbn-resolving.de/urn:nbn:de:hebis:30:2-49355" ;
+    owl:sameAs <http://d-nb.info/gnd/138230943>,
+        <http://d-nb.info/gnd/179123939>,
+        <http://data.judaicalink.org/data/gnd/138230943>,
+        <http://viaf.org/viaf/88058618> ;
+    skos:altLabel "Ben-Gôryôn, Yôsēf",
+        "Gorionides",
+        "Gorionides, Josephus",
+        "Iosippus",
+        "JWSP BN GWRYWN H-KHN",
+        "Josef Ben-Gorjon",
+        "Josef ben Gorion",
+        "Joseph Ben-Gorion",
+        "Joseph Ben-Goryon",
+        "Joseph Ben-Guryon",
+        "Joseph ben Gorion",
+        "Joseph ben Gorion, ha-Kohen",
+        "Joseph ben-Gorion ha-Kohen",
+        "Joseph, Ben Gorion",
+        "Josephus Ben-Gōryōn",
+        "Josephus, Gorionides",
+        "Josephus, Gorrionides",
+        "Josephus, Hebraicus",
+        "Josephus, filius Gorionis",
+        "Josiphon",
+        "Josippon",
+        "Josippus",
+        "Josippus, Gorionides",
+        "Jōsēf Ben-Gōrjōn hak-Kōhēn",
+        "Jōsēf BenGorion",
+        "YWSP BN GWRYWN H-KHN",
+        "Yahūdī, Yūsīfūs al-",
+        "Yosef ben Goryon ha-Kohen",
+        "Yosef ben Guryon",
+        "Yosipon",
+        "Yosippon",
+        "Yossipon",
+        "Yôsêfōn",
+        "Yôsēf Ben Gôrĕyôn hak-Kōhēn",
+        "Yôsēf Ben-Gôryôn",
+        "Yôsēf Ben-Gôryôn hak-Kōhēn",
+        "Yôsîfôn",
+        "Yūsīfūs Bin-Guryūn al-Yahūdī",
+        "Yūsīfūs, al-Yahūdī",
+        "ابن كربون, يوسف",
+        "ابن كريون, يوسف",
+        "يوسفوس, اليهودي" ;
+    skos:prefLabel "Yosef ben Goryon" .
+

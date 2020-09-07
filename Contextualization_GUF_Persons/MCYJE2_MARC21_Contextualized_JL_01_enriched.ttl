@@ -1,0 +1,202 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix edm: <http://www.europeana.eu/schemas/edm/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix gndo: <http://d-nb.info/standards/elementset/gnd#> .
+@prefix jl: <http://data.judaicalink.org/ontology/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdaGr2: <http://rdvocab.info/ElementsGr2/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://data.jhn.ngo/persons/MCYJE2_MARC21/1012> a edm:Agent ;
+    rdaGr2:dateOfBirth "-" ;
+    rdaGr2:dateOfDeath "-" ;
+    edm:identifier "#REB01:000154788",
+        "#REB01:000154789" ;
+    owl:sameAs <http://data.judaicalink.org/data/nli/Potock_Bernard> ;
+    skos:altLabel "פוטוק, ברנרד" ;
+    skos:prefLabel "Potock, Bernard" .
+
+<https://data.jhn.ngo/persons/MCYJE2_MARC21/1020> a edm:Agent ;
+    rdaGr2:dateOfBirth "-" ;
+    rdaGr2:dateOfDeath "-" ;
+    edm:identifier "#REB01:000154839",
+        "#REB01:000154840",
+        "#REB01:000155195" ;
+    owl:sameAs <http://data.judaicalink.org/data/dbpedia/Leo_Fuld>,
+        <http://dbpedia.org/resource/Leo_Fuld>,
+        <http://de.dbpedia.org/resource/Leo_Fuld>,
+        <http://fr.dbpedia.org/resource/Leo_Fuld>,
+        <http://nl.dbpedia.org/resource/Leo_Fuld>,
+        <http://rdf.freebase.com/ns/m.028b549>,
+        <http://wikidata.dbpedia.org/resource/Q573896>,
+        <http://www.wikidata.org/entity/Q573896>,
+        <http://yago-knowledge.org/resource/Leo_Fuld> ;
+    skos:altLabel "Leo Fuld" ;
+    skos:prefLabel "Fuld, Leo" .
+
+<https://data.jhn.ngo/persons/MCYJE2_MARC21/1037> a edm:Agent ;
+    rdaGr2:dateOfBirth "-" ;
+    rdaGr2:dateOfDeath "-" ;
+    edm:identifier "#REB01:000154894" ;
+    owl:sameAs <http://data.judaicalink.org/data/nli/Morecka_Judith> ;
+    skos:altLabel "מורצקה, יהודית" ;
+    skos:prefLabel "Morecka, Judith" .
+
+<https://data.jhn.ngo/persons/MCYJE2_MARC21/1042> a edm:Agent ;
+    rdaGr2:dateOfBirth "-" ;
+    rdaGr2:dateOfDeath "-" ;
+    edm:identifier "#REB01:000154979" ;
+    owl:sameAs <http://data.judaicalink.org/data/nli/Feldman_Nico> ;
+    skos:altLabel "פלדמן, ניקו" ;
+    skos:prefLabel "Feldman, Nico" .
+
+<https://data.jhn.ngo/persons/MCYJE2_MARC21/1043> a edm:Agent ;
+    rdaGr2:dateOfBirth "-" ;
+    rdaGr2:dateOfDeath "-" ;
+    edm:identifier "#REB01:000154979" ;
+    owl:sameAs <http://data.judaicalink.org/data/nli/Hirschin_S> ;
+    skos:altLabel "הירשין, ס." ;
+    skos:prefLabel "Hirschin, S" .
+
+<https://data.jhn.ngo/persons/MCYJE2_MARC21/1056> a edm:Agent ;
+    rdaGr2:dateOfBirth "-" ;
+    rdaGr2:dateOfDeath "-" ;
+    edm:identifier "#REB01:000155058" ;
+    owl:sameAs <http://data.judaicalink.org/data/nli/Gilkyson_Terry> ;
+    skos:altLabel "גילקיזון, טרי" ;
+    skos:prefLabel "Gilkyson, Terry" .
+
+<https://data.jhn.ngo/persons/MCYJE2_MARC21/1072> a edm:Agent ;
+    gndo:gndIdentifier "119259281" ;
+    jl:deathLocation "Tel Aviv- Jaffa" ;
+    rdaGr2:dateOfDeath "1960" ;
+    edm:identifier "#REB01:000155287" ;
+    owl:sameAs <http://d-nb.info/gnd/119259281>,
+        <http://d-nb.info/gnd/119259281/about>,
+        <http://data.judaicalink.org/data/gnd/119259281>,
+        <http://hub.culturegraph.org/entityfacts/119259281>,
+        <http://id.loc.gov/authorities/nr2005009657>,
+        <http://kalliope-verbund.info/gnd/119259281>,
+        <http://viaf.org/viaf/72200075>,
+        <http://www.isni.org/0000000115743104>,
+        <http://www.wikidata.org/entity/Q3301406>,
+        <https://de.wikipedia.org/wiki/Maurice_Schwartz>,
+        <https://en.wikipedia.org/wiki/Maurice_Schwartz> ;
+    skos:altLabel "Maurice Schwartz",
+        "Schwartz, Abraham Moses",
+        "Schwartz, Avram Moishe",
+        "Schwartz, Awrom-Moische",
+        "Schwartz, M.",
+        "Schwartz, Morris",
+        "Schwarz, Morris",
+        "Shwarz, Moris" ;
+    skos:prefLabel "Schwartz, Maurice" .
+
+<https://data.jhn.ngo/persons/MCYJE2_MARC21/1083> a edm:Agent ;
+    rdaGr2:dateOfBirth "-" ;
+    rdaGr2:dateOfDeath "-" ;
+    edm:identifier "#REB01:000232880",
+        "#REB01:000232882",
+        "#REB01:000232901" ;
+    owl:sameAs <http://data.judaicalink.org/data/nli/Baum_Batia> ;
+    skos:altLabel "בוים, בתיה" ;
+    skos:prefLabel "Baum, Batia" .
+
+<https://data.jhn.ngo/persons/MCYJE2_MARC21/1103> a edm:Agent ;
+    rdaGr2:dateOfBirth "1886" ;
+    rdaGr2:dateOfDeath "1932" ;
+    edm:identifier "#REB01:000012390" ;
+    skos:prefLabel "האלפערן, משהלייב" .
+
+<https://data.jhn.ngo/persons/MCYJE2_MARC21/1104> a edm:Agent ;
+    rdaGr2:dateOfBirth "1885" ;
+    rdaGr2:dateOfDeath "1967" ;
+    edm:identifier "#REB01:000012390" ;
+    skos:prefLabel "ישורין, יעפים" .
+
+<https://data.jhn.ngo/persons/MCYJE2_MARC21/1105> a edm:Agent ;
+    rdaGr2:dateOfBirth "1880" ;
+    rdaGr2:dateOfDeath "1948" ;
+    edm:identifier "#REB01:000080003" ;
+    skos:prefLabel "הירשביין, פרץ" .
+
+<https://data.jhn.ngo/persons/MCYJE2_MARC21/1106> a edm:Agent ;
+    rdaGr2:dateOfBirth "1880" ;
+    rdaGr2:dateOfDeath "1948" ;
+    edm:identifier "#REB01:000080003" ;
+    skos:prefLabel "Hirshbeyn, Perets" .
+
+<https://data.jhn.ngo/persons/MCYJE2_MARC21/1109> a edm:Agent ;
+    rdaGr2:dateOfBirth "1896" ;
+    rdaGr2:dateOfDeath "1986" ;
+    edm:identifier "#REB01:000154677",
+        "#REB01:000154841" ;
+    skos:prefLabel "Burstein, Pesach" .
+
+<https://data.jhn.ngo/persons/MCYJE2_MARC21/1128> a edm:Agent ;
+    rdaGr2:dateOfBirth "1895" ;
+    rdaGr2:dateOfDeath "1946" ;
+    edm:identifier "#REB01:000154847" ;
+    skos:prefLabel "Pollack, Lew" .
+
+<https://data.jhn.ngo/persons/MCYJE2_MARC21/1131> a edm:Agent ;
+    rdaGr2:dateOfBirth "1899" ;
+    rdaGr2:dateOfDeath "1980" ;
+    edm:identifier "#REB01:000154847" ;
+    skos:prefLabel "Shapiro, Ted" .
+
+<https://data.jhn.ngo/persons/MCYJE2_MARC21/1140> a edm:Agent ;
+    rdaGr2:dateOfBirth "1877" ;
+    rdaGr2:dateOfDeath "1942" ;
+    edm:identifier "#REB01:000154896" ;
+    skos:prefLabel "Gebirtig, Mordkhe" .
+
+<https://data.jhn.ngo/persons/MCYJE2_MARC21/1149> a edm:Agent ;
+    rdaGr2:dateOfBirth "1882" ;
+    rdaGr2:dateOfDeath "1933" ;
+    edm:identifier "#REB01:000154988" ;
+    skos:prefLabel "Rosenblatt, Yossele Cantor" .
+
+<https://data.jhn.ngo/persons/MCYJE2_MARC21/1153> a edm:Agent ;
+    rdaGr2:dateOfBirth "1889" ;
+    rdaGr2:dateOfDeath "1962" ;
+    edm:identifier "#REB01:000155044" ;
+    skos:prefLabel "Gelbart, Mikhl" .
+
+<https://data.jhn.ngo/persons/MCYJE2_MARC21/1157> a edm:Agent ;
+    rdaGr2:dateOfBirth "1909" ;
+    rdaGr2:dateOfDeath "1985" ;
+    edm:identifier "#REB01:000155057",
+        "#REB01:000155058" ;
+    skos:prefLabel "Katz, Myron" .
+
+<https://data.jhn.ngo/persons/MCYJE2_MARC21/1159> a edm:Agent ;
+    rdaGr2:dateOfBirth "1888" ;
+    rdaGr2:dateOfDeath "1940" ;
+    edm:identifier "#REB01:000155064",
+        "#REB01:000155065" ;
+    skos:prefLabel "Hershman, Mordekhai" .
+
+<https://data.jhn.ngo/persons/MCYJE2_MARC21/1180> a edm:Agent ;
+    rdaGr2:dateOfBirth "1963" ;
+    rdaGr2:dateOfDeath "-" ;
+    edm:identifier "#REB01:000167469" ;
+    skos:prefLabel "Rozier, Gilles" .
+
+<https://data.jhn.ngo/persons/MCYJE2_MARC21/1196> a edm:Agent ;
+    rdaGr2:dateOfBirth "1906" ;
+    rdaGr2:dateOfDeath "1993" ;
+    edm:identifier "#REB01:000233061" ;
+    skos:prefLabel "Litvine, Mordkhe" .
+
+<https://data.jhn.ngo/persons/MCYJE2_MARC21/1203> a edm:Agent ;
+    rdaGr2:dateOfBirth "1907" ;
+    rdaGr2:dateOfDeath "1999" ;
+    edm:identifier "#REB01:000233454" ;
+    skos:prefLabel "Kerner, Samuel" .
+

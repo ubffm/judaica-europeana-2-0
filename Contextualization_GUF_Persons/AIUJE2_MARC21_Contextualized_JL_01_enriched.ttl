@@ -1,0 +1,1239 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix edm: <http://www.europeana.eu/schemas/edm/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix gndo: <http://d-nb.info/standards/elementset/gnd#> .
+@prefix jl: <http://data.judaicalink.org/ontology/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdaGr2: <http://rdvocab.info/ElementsGr2/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://data.jhn.ngo/persons/AIUJE2_MARC21/1006> a edm:Agent ;
+    gndo:gndIdentifier "118533843" ;
+    jl:birthLocation "Genf" ;
+    jl:deathLocation "Paris" ;
+    rdaGr2:dateOfBirth "1874" ;
+    rdaGr2:dateOfDeath "1963" ;
+    edm:identifier "#REB01:000061948" ;
+    owl:sameAs <http://catalogue.bnf.fr/ark:/12148/cb119028983>,
+        <http://d-nb.info/gnd/118533843>,
+        <http://d-nb.info/gnd/118533843/about>,
+        <http://data.judaicalink.org/data/gnd/118533843>,
+        <http://dbpedia.org/resource/Edmond_Fleg>,
+        <http://hub.culturegraph.org/entityfacts/118533843>,
+        <http://id.loc.gov/authorities/n50004061>,
+        <http://viaf.org/viaf/66467196>,
+        <http://www.hls-dhs-dss.ch/textes/d/D27841.php>,
+        <http://www.isni.org/0000000117677593>,
+        <http://www.wikidata.org/entity/Q324427>,
+        <https://de.wikipedia.org/wiki/Edmond_Fleg>,
+        <https://en.wikipedia.org/wiki/Edmond_Fleg>,
+        <https://www.deutsche-digitale-bibliothek.de/entity/118533843> ;
+    skos:altLabel "Flegenheimer, Edmond",
+        "Flegheimer, Edmond" ;
+    skos:prefLabel "Fleg, Edmond" .
+
+<https://data.jhn.ngo/persons/AIUJE2_MARC21/1012> a edm:Agent ;
+    gndo:gndIdentifier "116401141" ;
+    rdaGr2:dateOfBirth "1796" ;
+    rdaGr2:dateOfDeath "1862" ;
+    edm:identifier "#REB01:000086494" ;
+    owl:sameAs <http://catalogue.bnf.fr/ark:/12148/cb12463203p>,
+        <http://d-nb.info/gnd/116401141>,
+        <http://d-nb.info/gnd/116401141/about>,
+        <http://data.judaicalink.org/data/gnd/116401141>,
+        <http://hub.culturegraph.org/entityfacts/116401141>,
+        <http://id.loc.gov/authorities/n96000814>,
+        <http://kalliope-verbund.info/gnd/116401141>,
+        <http://viaf.org/viaf/29630858>,
+        <http://www.isni.org/0000000110234562>,
+        <http://www.wikidata.org/entity/Q3471072>,
+        <https://en.wikipedia.org/wiki/Samuel_Cahen>,
+        <https://www.deutsche-digitale-bibliothek.de/entity/116401141> ;
+    skos:altLabel "Cahen, S." ;
+    skos:prefLabel "Cahen, Samuel" .
+
+<https://data.jhn.ngo/persons/AIUJE2_MARC21/1021> a edm:Agent ;
+    gndo:gndIdentifier "118805185" ;
+    rdaGr2:dateOfBirth "1638" ;
+    rdaGr2:dateOfDeath "1712" ;
+    edm:identifier "#REB01:000094570" ;
+    owl:sameAs <http://catalogue.bnf.fr/ark:/12148/cb12079276v>,
+        <http://d-nb.info/gnd/118805185>,
+        <http://d-nb.info/gnd/118805185/about>,
+        <http://data.judaicalink.org/data/gnd/118805185>,
+        <http://dbpedia.org/resource/Richard_Simon>,
+        <http://hub.culturegraph.org/entityfacts/118805185>,
+        <http://id.loc.gov/authorities/n50023916>,
+        <http://kalliope-verbund.info/gnd/118805185>,
+        <http://viaf.org/viaf/12332566>,
+        <http://www.isni.org/0000000108702478>,
+        <http://www.wikidata.org/entity/Q1345478>,
+        <https://de.wikipedia.org/wiki/Richard_Simon>,
+        <https://en.wikipedia.org/wiki/Richard_Simon_%28priest%29>,
+        <https://www.deutsche-digitale-bibliothek.de/entity/118805185> ;
+    skos:altLabel "Acosta, Jérôme",
+        "Ambrosius, ...",
+        "Ambrun, Petrus",
+        "Ambrun, Pierre",
+        "Bolleville, Richard de",
+        "Camus, Hieronymus le",
+        "Costa, H. a",
+        "Costa, Hieronymus a",
+        "Costa, Jerome à",
+        "Le Camus, Hieronymus",
+        "LeCamus, Hieronymus",
+        "Levi, Moses",
+        "Moni, ... de",
+        "Moni, ..., le Sieur",
+        "Moni, Richard de",
+        "Moni, S.",
+        "P., R. S.",
+        "P., S. P.",
+        "R. S.",
+        "R. S. P.",
+        "Récared Simeon, D.",
+        "Romainville, ...",
+        "S., R.",
+        "Sainjore, ... de",
+        "Sainjore, M. de",
+        "Sainte-Foi, ..., le Sieur",
+        "Sainte-Foi, H. de",
+        "Scimeon, Recared",
+        "Simonius, Ricardus",
+        "Simonville, ... de, le Sieur",
+        "Simonville, Richard de" ;
+    skos:prefLabel "Simon, Richard" .
+
+<https://data.jhn.ngo/persons/AIUJE2_MARC21/1029> a edm:Agent ;
+    rdaGr2:dateOfBirth "1844" ;
+    rdaGr2:dateOfDeath "1933" ;
+    edm:identifier "#REB01:000095529",
+        "#REB01:000100611",
+        "#REB01:000100615" ;
+    owl:sameAs <http://data.judaicalink.org/data/nli/Dreyfuss_JacquesHenri> ;
+    skos:altLabel "דריפוס, ז'ק הנרי," ;
+    skos:prefLabel "Dreyfuss, Jacques Henri" .
+
+<https://data.jhn.ngo/persons/AIUJE2_MARC21/1047> a edm:Agent ;
+    rdaGr2:dateOfBirth "-" ;
+    rdaGr2:dateOfDeath "-" ;
+    edm:identifier "#REB01:000102138" ;
+    owl:sameAs <http://data.judaicalink.org/data/nli/Gutmann_Wilhelmvon> ;
+    skos:altLabel "גוטמן, יצחק זאב" ;
+    skos:prefLabel "Gutmann, Wilhelm von" .
+
+<https://data.jhn.ngo/persons/AIUJE2_MARC21/1051> a edm:Agent ;
+    gndo:gndIdentifier "117028487" ;
+    jl:birthLocation "Berlin" ;
+    rdaGr2:dateOfBirth "1693" ;
+    rdaGr2:dateOfDeath "1757" ;
+    edm:identifier "#REB01:000103014" ;
+    owl:sameAs <http://catalogue.bnf.fr/ark:/12148/cb12546975z>,
+        <http://d-nb.info/gnd/117028487>,
+        <http://d-nb.info/gnd/117028487/about>,
+        <http://data.judaicalink.org/data/gnd/117028487>,
+        <http://hub.culturegraph.org/entityfacts/117028487>,
+        <http://id.loc.gov/authorities/no2013140268>,
+        <http://kalliope-verbund.info/gnd/117028487>,
+        <http://viaf.org/viaf/34571501>,
+        <http://www.deutsche-biographie.de/pnd117028487.html#adbcontent>,
+        <http://www.isni.org/0000000122782275>,
+        <http://www.wikidata.org/entity/Q110313>,
+        <https://de.wikipedia.org/wiki/Paul_Ernst_Jablonski>,
+        <https://www.deutsche-digitale-bibliothek.de/entity/117028487> ;
+    skos:altLabel "Iablonski, Paul Ernest",
+        "Iablonski, Paulus Ernestus",
+        "Jablonski, P. E.",
+        "Jablonski, Paullus Ernestus",
+        "Jablonski, Paulus Ernestus",
+        "Jablonskus, Paulus Ernestus",
+        "Jablonsky, Paulus Ernestus" ;
+    skos:prefLabel "Jablonski, Paul Ernst" .
+
+<https://data.jhn.ngo/persons/AIUJE2_MARC21/1054> a edm:Agent ;
+    gndo:gndIdentifier "139134832" ;
+    rdaGr2:dateOfBirth "1814" ;
+    rdaGr2:dateOfDeath "1867" ;
+    edm:identifier "#REB01:000103634" ;
+    owl:sameAs <http://d-nb.info/gnd/139134832>,
+        <http://d-nb.info/gnd/139134832/about>,
+        <http://data.judaicalink.org/data/gnd/139134832>,
+        <http://hub.culturegraph.org/entityfacts/139134832>,
+        <http://id.loc.gov/authorities/nr2001017436>,
+        <http://viaf.org/viaf/14695898>,
+        <http://www.isni.org/0000000071013176>,
+        <http://www.wikidata.org/entity/Q7558693>,
+        <https://en.wikipedia.org/wiki/Solomon_Klein>,
+        <https://www.deutsche-digitale-bibliothek.de/entity/139134832> ;
+    skos:altLabel "Klein, S." ;
+    skos:prefLabel "Klein, Salomon Wolf" .
+
+<https://data.jhn.ngo/persons/AIUJE2_MARC21/1067> a edm:Agent ;
+    gndo:gndIdentifier "118527460" ;
+    jl:birthLocation "Mülhausen" ;
+    jl:deathLocation "Paris" ;
+    rdaGr2:dateOfBirth "1859" ;
+    rdaGr2:dateOfDeath "1935" ;
+    edm:identifier "#REB01:000133498" ;
+    owl:sameAs <http://catalogue.bnf.fr/ark:/12148/cb119005994>,
+        <http://cs.dbpedia.org/resource/Alfred_Dreyfus>,
+        <http://d-nb.info/gnd/118527460>,
+        <http://d-nb.info/gnd/118527460/about>,
+        <http://data.europa.eu/euodp/jrc-names/Alfred_Dreyfus>,
+        <http://data.judaicalink.org/data/dbpedia/Alfred_Dreyfus>,
+        <http://data.judaicalink.org/data/gnd/118527460>,
+        <http://dbpedia.org/resource/Alfred_Dreyfus>,
+        <http://de.dbpedia.org/resource/Alfred_Dreyfus>,
+        <http://dfg-viewer.de/show/?tx_dlf%5Bid%5D=http://zbw.eu/beta/pm20mets/pe/0042xx/004250.xml>,
+        <http://es.dbpedia.org/resource/Alfred_Dreyfus>,
+        <http://eu.dbpedia.org/resource/Alfred_Dreyfus>,
+        <http://fr.dbpedia.org/resource/Alfred_Dreyfus>,
+        <http://hub.culturegraph.org/entityfacts/118527460>,
+        <http://id.dbpedia.org/resource/Alfred_Dreyfus>,
+        <http://id.loc.gov/authorities/n80057218>,
+        <http://it.dbpedia.org/resource/Alfred_Dreyfus>,
+        <http://ja.dbpedia.org/resource/アルフレド・ドレフュス>,
+        <http://kalliope-verbund.info/gnd/118527460>,
+        <http://ko.dbpedia.org/resource/알프레드_드레퓌스>,
+        <http://nl.dbpedia.org/resource/Alfred_Dreyfus>,
+        <http://pl.dbpedia.org/resource/Alfred_Dreyfus>,
+        <http://pt.dbpedia.org/resource/Alfred_Dreyfus>,
+        <http://purl.org/pressemappe20/folder/pe/004250>,
+        <http://rdf.freebase.com/ns/m.0jft6>,
+        <http://viaf.org/viaf/19676856>,
+        <http://wikidata.dbpedia.org/resource/Q171826>,
+        <http://www.isni.org/0000000121229355>,
+        <http://www.wikidata.org/entity/Q171826>,
+        <http://yago-knowledge.org/resource/Alfred_Dreyfus>,
+        <https://de.wikipedia.org/wiki/Alfred_Dreyfus>,
+        <https://en.wikipedia.org/wiki/Alfred_Dreyfus>,
+        <https://www.deutsche-digitale-bibliothek.de/entity/118527460> ;
+    skos:altLabel "Alfred Dreyfus",
+        "Dreyfus, Alfred",
+        "Драйфус, Алфред",
+        "Драјфус, Алфред",
+        "Дрейфус, Альфред",
+        "Дрейфус, Альфред",
+        "ألفريد دريفوس",
+        "アルフレド・ドレフュス",
+        "阿尔弗雷德·德雷福斯" ;
+    skos:prefLabel "Dreyfus, Alfred" .
+
+<https://data.jhn.ngo/persons/AIUJE2_MARC21/1076> a edm:Agent ;
+    gndo:gndIdentifier "130319406" ;
+    jl:birthLocation "London" ;
+    jl:deathLocation "Bordeaux" ;
+    jl:hasPublication "https://www.haskala-library.net//books/discorso-pronunziato-nella-grande-sinagoga-di-parigi-alloccasione-dellapertura-del-gran" ;
+    rdaGr2:dateOfBirth "1756" ;
+    rdaGr2:dateOfDeath "1817" ;
+    edm:identifier "#REB01:000220460" ;
+    owl:sameAs <http://catalogue.bnf.fr/ark:/12148/cb13498961r>,
+        <http://d-nb.info/gnd/130319406>,
+        <http://d-nb.info/gnd/130319406/about>,
+        <http://data.judaicalink.org/data/gnd/130319406>,
+        <http://data.judaicalink.org/data/haskala/Furtado_Abraham>,
+        <http://dbpedia.org/resource/Abraham_Furtado>,
+        <http://hub.culturegraph.org/entityfacts/130319406>,
+        <http://id.loc.gov/authorities/no2010050227>,
+        <http://viaf.org/viaf/2627296>,
+        <http://www.isni.org/000000011586247X>,
+        <http://www.portraitindex.de/dokumente/pnd/130319406>,
+        <http://www.wikidata.org/entity/Q288059>,
+        <https://de.wikipedia.org/wiki/Abraham_Furtado>,
+        <https://en.wikipedia.org/wiki/Abraham_Furtado>,
+        <https://viaf.org/viaf/2627296>,
+        <https://www.haskala-library.net/people/furtado-abraham-פורטאדו-אברהם> ;
+    skos:altLabel "Furtado, l'Ainé",
+        "Furtado-Lainé, Abraham",
+        "Furṭado, Avraham",
+        "Lainé, Abraham Furtado-",
+        "פורטאדו, אברהם" ;
+    skos:prefLabel "Furtado, Abraham" .
+
+<https://data.jhn.ngo/persons/AIUJE2_MARC21/1079> a edm:Agent ;
+    gndo:gndIdentifier "124950027" ;
+    jl:birthLocation "Turek" ;
+    jl:deathLocation "New York, NY" ;
+    rdaGr2:dateOfBirth "1870" ;
+    edm:identifier "#REB01:000220882" ;
+    owl:sameAs <http://catalogue.bnf.fr/ark:/12148/cb14979595s>,
+        <http://d-nb.info/gnd/124950027>,
+        <http://d-nb.info/gnd/124950027/about>,
+        <http://data.judaicalink.org/data/gnd/124950027>,
+        <http://hub.culturegraph.org/entityfacts/124950027>,
+        <http://id.loc.gov/authorities/no2005018356>,
+        <http://viaf.org/viaf/15718117>,
+        <http://www.isni.org/0000000107973479>,
+        <http://www.wikidata.org/entity/Q5379559>,
+        <https://de.wikipedia.org/wiki/Henryk_Glicenstein>,
+        <https://en.wikipedia.org/wiki/Enrico_Glicenstein>,
+        <https://www.deutsche-digitale-bibliothek.de/entity/124950027> ;
+    skos:altLabel "Glicenstein, Enoch",
+        "Glicenstein, Enoch Henryk",
+        "Glicenstein, Enrico",
+        "Glicenstein, Henoch",
+        "Glitzenšṭein, H.",
+        "Glitzenšṭein, Henech" ;
+    skos:prefLabel "Glicenstein, Henryk" .
+
+<https://data.jhn.ngo/persons/AIUJE2_MARC21/1098> a edm:Agent ;
+    gndo:gndIdentifier "102794986X" ;
+    rdaGr2:dateOfBirth "-" ;
+    rdaGr2:dateOfDeath "-" ;
+    edm:identifier "#REB01:000249941" ;
+    owl:sameAs <http://catalogue.bnf.fr/ark:/12148/cb12612668f>,
+        <http://d-nb.info/gnd/102794986X>,
+        <http://d-nb.info/gnd/102794986X/about>,
+        <http://d-nb.info/gnd/12723148X>,
+        <http://d-nb.info/gnd/127789227>,
+        <http://data.judaicalink.org/data/gnd/102794986X>,
+        <http://hub.culturegraph.org/entityfacts/102794986X>,
+        <http://kalliope-verbund.info/gnd/102794986X>,
+        <http://viaf.org/viaf/30547004>,
+        <http://www.isni.org/0000000119047923>,
+        <https://www.deutsche-digitale-bibliothek.de/entity/102794986X> ;
+    skos:altLabel "Erlanger, Harry R. da",
+        "Erlanger, Harry d'" ;
+    skos:prefLabel "Henry, Raymond" .
+
+<https://data.jhn.ngo/persons/AIUJE2_MARC21/1109> a edm:Agent ;
+    gndo:gndIdentifier "11933304X" ;
+    jl:birthLocation "Frankfurt am Main" ;
+    jl:deathLocation "Berlin" ;
+    rdaGr2:dateOfBirth "1810" ;
+    rdaGr2:dateOfDeath "1874" ;
+    edm:identifier "#REB01:000250070",
+        "#REB01:000250071",
+        "#REB01:000250072" ;
+    owl:sameAs <http://catalogue.bnf.fr/ark:/12148/cb148523055>,
+        <http://d-nb.info/gnd/11933304X>,
+        <http://d-nb.info/gnd/11933304X/about>,
+        <http://data.judaicalink.org/data/bhr/Geiger_Abraham>,
+        <http://data.judaicalink.org/data/bhr/Geiger_Abraham-1>,
+        <http://data.judaicalink.org/data/gnd/11933304X>,
+        <http://dbpedia.org/resource/Abraham_Geiger>,
+        <http://hub.culturegraph.org/entityfacts/11933304X>,
+        <http://id.loc.gov/authorities/n80118345>,
+        <http://kalliope-verbund.info/gnd/11933304X>,
+        <http://steinheim-institut.de:50580/cgi-bin/bhr?gnd=11933304X>,
+        <http://steinheim-institut.de:50580/cgi-bin/bhr?id=551>,
+        <http://viaf.org/viaf/12573634>,
+        <http://www.deutsche-biographie.de/pnd11933304X.html#adbcontent>,
+        <http://www.isni.org/0000000108552262>,
+        <http://www.lagis-hessen.de/pnd/11933304X>,
+        <http://www.wikidata.org/entity/Q60844>,
+        <https://de.wikipedia.org/wiki/Abraham_Geiger>,
+        <https://de.wikisource.org/wiki/Abraham_Geiger>,
+        <https://en.wikipedia.org/wiki/Abraham_Geiger>,
+        <https://www.deutsche-digitale-bibliothek.de/entity/11933304X> ;
+    skos:altLabel "Abraham Geiger",
+        "Gaiger, Avraham",
+        "Gayger, Avraham",
+        "Geiger, A.",
+        "גייגר, אברהם" ;
+    skos:prefLabel "Geiger, Abraham" .
+
+<https://data.jhn.ngo/persons/AIUJE2_MARC21/1129> a edm:Agent ;
+    gndo:gndIdentifier "1055379126" ;
+    rdaGr2:dateOfBirth "1817" ;
+    rdaGr2:dateOfDeath "1899" ;
+    edm:identifier "#REB01:000256754",
+        "#REB01:000256755",
+        "#REB01:000256756",
+        "#REB01:000256757",
+        "#REB01:000256758",
+        "#REB01:000256759",
+        "#REB01:000256760",
+        "#REB01:000256761",
+        "#REB01:000256762",
+        "#REB01:000256763",
+        "#REB01:000256764",
+        "#REB01:000256765",
+        "#REB01:000256766",
+        "#REB01:000256767",
+        "#REB01:000256768",
+        "#REB01:000256769",
+        "#REB01:000256770",
+        "#REB01:000256771",
+        "#REB01:000256772",
+        "#REB01:000256773",
+        "#REB01:000256774",
+        "#REB01:000256775",
+        "#REB01:000256776",
+        "#REB01:000256777",
+        "#REB01:000256778",
+        "#REB01:000256779",
+        "#REB01:000256780",
+        "#REB01:000256781",
+        "#REB01:000256782",
+        "#REB01:000256783",
+        "#REB01:000256784",
+        "#REB01:000256785",
+        "#REB01:000256786",
+        "#REB01:000256787",
+        "#REB01:000256788",
+        "#REB01:000256789",
+        "#REB01:000256790",
+        "#REB01:000256791",
+        "#REB01:000256792",
+        "#REB01:000256793",
+        "#REB01:000256794",
+        "#REB01:000256795",
+        "#REB01:000256796",
+        "#REB01:000256797",
+        "#REB01:000256798",
+        "#REB01:000256799",
+        "#REB01:000256800",
+        "#REB01:000256801",
+        "#REB01:000256802",
+        "#REB01:000256803",
+        "#REB01:000256804",
+        "#REB01:000256805",
+        "#REB01:000256806",
+        "#REB01:000256807",
+        "#REB01:000256808",
+        "#REB01:000256809",
+        "#REB01:000256810",
+        "#REB01:000256811",
+        "#REB01:000256812",
+        "#REB01:000256813",
+        "#REB01:000256814",
+        "#REB01:000256815",
+        "#REB01:000256816",
+        "#REB01:000256817",
+        "#REB01:000256818",
+        "#REB01:000256819",
+        "#REB01:000256820",
+        "#REB01:000256821",
+        "#REB01:000256822",
+        "#REB01:000256823",
+        "#REB01:000256824",
+        "#REB01:000256825",
+        "#REB01:000256826",
+        "#REB01:000256827",
+        "#REB01:000256828",
+        "#REB01:000256829",
+        "#REB01:000256830",
+        "#REB01:000256831",
+        "#REB01:000256832",
+        "#REB01:000256833",
+        "#REB01:000256834",
+        "#REB01:000256835",
+        "#REB01:000256836",
+        "#REB01:000256837",
+        "#REB01:000256838",
+        "#REB01:000256839",
+        "#REB01:000256840",
+        "#REB01:000256841",
+        "#REB01:000256842",
+        "#REB01:000256843",
+        "#REB01:000256844",
+        "#REB01:000256845",
+        "#REB01:000256846",
+        "#REB01:000256847",
+        "#REB01:000256848",
+        "#REB01:000256849",
+        "#REB01:000256850",
+        "#REB01:000256851",
+        "#REB01:000256852",
+        "#REB01:000256853",
+        "#REB01:000256854",
+        "#REB01:000256855",
+        "#REB01:000256856",
+        "#REB01:000256857",
+        "#REB01:000256858",
+        "#REB01:000256859",
+        "#REB01:000256860",
+        "#REB01:000256861",
+        "#REB01:000256862",
+        "#REB01:000256863",
+        "#REB01:000256864",
+        "#REB01:000256865",
+        "#REB01:000256866",
+        "#REB01:000256867",
+        "#REB01:000256868",
+        "#REB01:000256869",
+        "#REB01:000256870",
+        "#REB01:000256871",
+        "#REB01:000256872",
+        "#REB01:000256873",
+        "#REB01:000256874",
+        "#REB01:000256875",
+        "#REB01:000256876",
+        "#REB01:000256877",
+        "#REB01:000256878",
+        "#REB01:000256879",
+        "#REB01:000256880",
+        "#REB01:000256881",
+        "#REB01:000256882",
+        "#REB01:000256883",
+        "#REB01:000256884",
+        "#REB01:000256885",
+        "#REB01:000256886",
+        "#REB01:000256887",
+        "#REB01:000256888",
+        "#REB01:000256889",
+        "#REB01:000256890",
+        "#REB01:000256891",
+        "#REB01:000256892",
+        "#REB01:000256893",
+        "#REB01:000256894",
+        "#REB01:000256895",
+        "#REB01:000256896",
+        "#REB01:000256897",
+        "#REB01:000256898",
+        "#REB01:000256899",
+        "#REB01:000256900",
+        "#REB01:000256901",
+        "#REB01:000256902",
+        "#REB01:000256903",
+        "#REB01:000256904",
+        "#REB01:000256905",
+        "#REB01:000256906",
+        "#REB01:000256907" ;
+    owl:sameAs <http://catalogue.bnf.fr/ark:/12148/cb10600320n>,
+        <http://d-nb.info/gnd/1055379126>,
+        <http://d-nb.info/gnd/1055379126/about>,
+        <http://data.judaicalink.org/data/gnd/1055379126>,
+        <http://hub.culturegraph.org/entityfacts/1055379126>,
+        <http://id.loc.gov/authorities/no2011156758>,
+        <http://viaf.org/viaf/86723417>,
+        <http://www.isni.org/0000000117734412>,
+        <https://www.deutsche-digitale-bibliothek.de/entity/1055379126> ;
+    skos:altLabel "Cohen, J." ;
+    skos:prefLabel "Cohen, Joseph" .
+
+<https://data.jhn.ngo/persons/AIUJE2_MARC21/1133> a edm:Agent ;
+    gndo:gndIdentifier "158609239" ;
+    rdaGr2:dateOfBirth "1885" ;
+    rdaGr2:dateOfDeath "1967" ;
+    edm:identifier "#REB01:000257571",
+        "#REB01:000257572",
+        "#REB01:000257573",
+        "#REB01:000257574",
+        "#REB01:000257575",
+        "#REB01:000257576",
+        "#REB01:000257577",
+        "#REB01:000257578",
+        "#REB01:000257579",
+        "#REB01:000257580",
+        "#REB01:000257581",
+        "#REB01:000257582",
+        "#REB01:000257583",
+        "#REB01:000257584",
+        "#REB01:000257585",
+        "#REB01:000257586",
+        "#REB01:000257587",
+        "#REB01:000257588",
+        "#REB01:000257589",
+        "#REB01:000257590",
+        "#REB01:000257591",
+        "#REB01:000257592",
+        "#REB01:000257593",
+        "#REB01:000257594",
+        "#REB01:000257595",
+        "#REB01:000257596",
+        "#REB01:000257597",
+        "#REB01:000257598",
+        "#REB01:000257599",
+        "#REB01:000257600",
+        "#REB01:000257601",
+        "#REB01:000257602",
+        "#REB01:000257603",
+        "#REB01:000257604",
+        "#REB01:000257605",
+        "#REB01:000257606",
+        "#REB01:000257607",
+        "#REB01:000257608",
+        "#REB01:000257609",
+        "#REB01:000257610",
+        "#REB01:000257611",
+        "#REB01:000257612",
+        "#REB01:000257613",
+        "#REB01:000257614",
+        "#REB01:000257615",
+        "#REB01:000257616",
+        "#REB01:000257617",
+        "#REB01:000257618",
+        "#REB01:000257619",
+        "#REB01:000257620",
+        "#REB01:000257621",
+        "#REB01:000257622",
+        "#REB01:000257623",
+        "#REB01:000257624",
+        "#REB01:000257625",
+        "#REB01:000257626",
+        "#REB01:000257627",
+        "#REB01:000257628",
+        "#REB01:000257629",
+        "#REB01:000257630",
+        "#REB01:000257631",
+        "#REB01:000257632",
+        "#REB01:000257633" ;
+    owl:sameAs <http://catalogue.bnf.fr/ark:/12148/cb12900005q>,
+        <http://d-nb.info/gnd/158609239>,
+        <http://d-nb.info/gnd/158609239/about>,
+        <http://data.judaicalink.org/data/gnd/158609239>,
+        <http://hub.culturegraph.org/entityfacts/158609239>,
+        <http://id.loc.gov/authorities/n79003189>,
+        <http://viaf.org/viaf/61676704>,
+        <http://www.isni.org/0000000083875507>,
+        <http://www.wikidata.org/entity/Q2901473>,
+        <https://en.wikipedia.org/wiki/Avraham_Elmalih>,
+        <https://www.deutsche-digitale-bibliothek.de/entity/158609239> ;
+    skos:altLabel "Elmaleh, Abrāhām",
+        "Elmaliaḥ, A.",
+        "Elmaliaḥ, Avraham",
+        "Elmâlîḥ, Avrāhām",
+        "Elm¯aleḥ, Avr¯ah¯am" ;
+    skos:prefLabel "Elmaleh, Abraham" .
+
+<https://data.jhn.ngo/persons/AIUJE2_MARC21/1137> a edm:Agent ;
+    rdaGr2:dateOfBirth "1791" ;
+    rdaGr2:dateOfDeath "1872" ;
+    edm:identifier "#REB01:000058585",
+        "#REB01:000098606",
+        "#REB01:000250028",
+        "#REB01:000250045",
+        "#REB01:000250054" ;
+    skos:prefLabel "Crehange, Alexandre Ben Baruch" .
+
+<https://data.jhn.ngo/persons/AIUJE2_MARC21/1138> a edm:Agent ;
+    rdaGr2:dateOfBirth "1882" ;
+    rdaGr2:dateOfDeath "1963" ;
+    edm:identifier "#REB01:000061817",
+        "#REB01:000249945" ;
+    skos:prefLabel "Filderman, W Wilhelm" .
+
+<https://data.jhn.ngo/persons/AIUJE2_MARC21/1140> a edm:Agent ;
+    rdaGr2:dateOfBirth "1839" ;
+    rdaGr2:dateOfDeath "1918" ;
+    edm:identifier "#REB01:000081112" ;
+    skos:prefLabel "Schwab, Moïse" .
+
+<https://data.jhn.ngo/persons/AIUJE2_MARC21/1142> a edm:Agent ;
+    rdaGr2:dateOfBirth "1849" ;
+    rdaGr2:dateOfDeath "1920" ;
+    edm:identifier "#REB01:000081112" ;
+    skos:prefLabel "Brann, Markus Mordechai Marcus" .
+
+<https://data.jhn.ngo/persons/AIUJE2_MARC21/1144> a edm:Agent ;
+    rdaGr2:dateOfBirth "1826" ;
+    rdaGr2:dateOfDeath "1902" ;
+    edm:identifier "#REB01:000086494" ;
+    skos:prefLabel "Cahen, Isidore" .
+
+<https://data.jhn.ngo/persons/AIUJE2_MARC21/1150> a edm:Agent ;
+    rdaGr2:dateOfBirth "1842" ;
+    rdaGr2:dateOfDeath "1926" ;
+    edm:identifier "#REB01:000087886" ;
+    skos:prefLabel "Weber, John Baptiste" .
+
+<https://data.jhn.ngo/persons/AIUJE2_MARC21/1151> a edm:Agent ;
+    rdaGr2:dateOfBirth "1841" ;
+    rdaGr2:dateOfDeath "-" ;
+    edm:identifier "#REB01:000087886" ;
+    skos:prefLabel "Kempster, Walter" .
+
+<https://data.jhn.ngo/persons/AIUJE2_MARC21/1152> a edm:Agent ;
+    rdaGr2:dateOfBirth "1891" ;
+    rdaGr2:dateOfDeath "1892" ;
+    edm:identifier "#REB01:000087886" ;
+    skos:prefLabel "United States Immigration Commission " .
+
+<https://data.jhn.ngo/persons/AIUJE2_MARC21/1153> a edm:Agent ;
+    rdaGr2:dateOfBirth "1571" ;
+    rdaGr2:dateOfDeath "1648" ;
+    edm:identifier "#REB01:000094570" ;
+    skos:prefLabel "Léon da Modena" .
+
+<https://data.jhn.ngo/persons/AIUJE2_MARC21/1156> a edm:Agent ;
+    rdaGr2:dateOfBirth "1878" ;
+    rdaGr2:dateOfDeath "1966" ;
+    edm:identifier "#REB01:000095517" ;
+    skos:prefLabel "Reynaud, Paul" .
+
+<https://data.jhn.ngo/persons/AIUJE2_MARC21/1157> a edm:Agent ;
+    rdaGr2:dateOfBirth "1881" ;
+    rdaGr2:dateOfDeath "1970" ;
+    edm:identifier "#REB01:000095517" ;
+    skos:prefLabel "Boegner, Marc" .
+
+<https://data.jhn.ngo/persons/AIUJE2_MARC21/1159> a edm:Agent ;
+    rdaGr2:dateOfBirth "1871" ;
+    rdaGr2:dateOfDeath "1956" ;
+    edm:identifier "#REB01:000095517" ;
+    skos:prefLabel "Godart, Justin" .
+
+<https://data.jhn.ngo/persons/AIUJE2_MARC21/1160> a edm:Agent ;
+    rdaGr2:dateOfBirth "1865" ;
+    rdaGr2:dateOfDeath "1963" ;
+    edm:identifier "#REB01:000095517" ;
+    skos:prefLabel "Hadamard, Jacques" .
+
+<https://data.jhn.ngo/persons/AIUJE2_MARC21/1161> a edm:Agent ;
+    rdaGr2:dateOfBirth "1873" ;
+    rdaGr2:dateOfDeath "1950" ;
+    edm:identifier "#REB01:000095517" ;
+    skos:prefLabel "Weill, Julien Grand Rabbin" .
+
+<https://data.jhn.ngo/persons/AIUJE2_MARC21/1164> a edm:Agent ;
+    rdaGr2:dateOfBirth "1845" ;
+    rdaGr2:dateOfDeath "1923" ;
+    edm:identifier "#REB01:000096740" ;
+    skos:prefLabel "Vernes, Maurice Directeur d'études à l'Ecole pratique des hautes études" .
+
+<https://data.jhn.ngo/persons/AIUJE2_MARC21/1169> a edm:Agent ;
+    rdaGr2:dateOfBirth "1831" ;
+    rdaGr2:dateOfDeath "1905" ;
+    edm:identifier "#REB01:000098231" ;
+    skos:prefLabel "Astruc, Élie Aristide" .
+
+<https://data.jhn.ngo/persons/AIUJE2_MARC21/1171> a edm:Agent ;
+    rdaGr2:dateOfBirth "1848" ;
+    rdaGr2:dateOfDeath "1925" ;
+    edm:identifier "#REB01:000099034" ;
+    skos:prefLabel "Bloch, Isaac grandrabbin" .
+
+<https://data.jhn.ngo/persons/AIUJE2_MARC21/1172> a edm:Agent ;
+    rdaGr2:dateOfBirth "18" ;
+    rdaGr2:dateOfDeath "19" ;
+    edm:identifier "#REB01:000099273" ;
+    skos:prefLabel "Brun, Auguste" .
+
+<https://data.jhn.ngo/persons/AIUJE2_MARC21/1173> a edm:Agent ;
+    rdaGr2:dateOfBirth "18" ;
+    rdaGr2:dateOfDeath "19" ;
+    edm:identifier "#REB01:000099273" ;
+    skos:prefLabel "Buval, E" .
+
+<https://data.jhn.ngo/persons/AIUJE2_MARC21/1178> a edm:Agent ;
+    rdaGr2:dateOfBirth "1818" ;
+    rdaGr2:dateOfDeath "1891" ;
+    edm:identifier "#REB01:000100317",
+        "#REB01:000256560" ;
+    skos:prefLabel "Benedetti, Salvatore de" .
+
+<https://data.jhn.ngo/persons/AIUJE2_MARC21/1179> a edm:Agent ;
+    rdaGr2:dateOfBirth "1859" ;
+    rdaGr2:dateOfDeath "1912" ;
+    edm:identifier "#REB01:000101456",
+        "#REB01:000101457" ;
+    skos:prefLabel "Fresco, Moïse" .
+
+<https://data.jhn.ngo/persons/AIUJE2_MARC21/1183> a edm:Agent ;
+    rdaGr2:dateOfBirth "1813" ;
+    rdaGr2:dateOfDeath "1888" ;
+    edm:identifier "#REB01:000102912",
+        "#REB01:000102915" ;
+    skos:prefLabel "Isidor, Lazare" .
+
+<https://data.jhn.ngo/persons/AIUJE2_MARC21/1190> a edm:Agent ;
+    rdaGr2:dateOfBirth "1839" ;
+    rdaGr2:dateOfDeath "1892" ;
+    edm:identifier "#REB01:000104556" ;
+    skos:prefLabel "Lœb, Isidore" .
+
+<https://data.jhn.ngo/persons/AIUJE2_MARC21/1193> a edm:Agent ;
+    rdaGr2:dateOfBirth "1920" ;
+    rdaGr2:dateOfDeath "1995" ;
+    edm:identifier "#REB01:000110201" ;
+    skos:prefLabel "Catane, Mochè" .
+
+<https://data.jhn.ngo/persons/AIUJE2_MARC21/1194> a edm:Agent ;
+    rdaGr2:dateOfBirth "1917" ;
+    rdaGr2:dateOfDeath "2007" ;
+    edm:identifier "#REB01:000110201" ;
+    skos:prefLabel "Chouraqui, André Nathan" .
+
+<https://data.jhn.ngo/persons/AIUJE2_MARC21/1195> a edm:Agent ;
+    rdaGr2:dateOfBirth "1917" ;
+    rdaGr2:dateOfDeath "1973" ;
+    edm:identifier "#REB01:000110521" ;
+    skos:prefLabel "Révah, Israël Salvator" .
+
+<https://data.jhn.ngo/persons/AIUJE2_MARC21/1196> a edm:Agent ;
+    rdaGr2:dateOfBirth "1864" ;
+    rdaGr2:dateOfDeath "1942" ;
+    edm:identifier "#REB01:000110961",
+        "#REB01:000110962" ;
+    skos:prefLabel "Sèches, David Edgar" .
+
+<https://data.jhn.ngo/persons/AIUJE2_MARC21/1198> a edm:Agent ;
+    rdaGr2:dateOfBirth "1898" ;
+    rdaGr2:dateOfDeath "1972" ;
+    edm:identifier "#REB01:000131563" ;
+    skos:prefLabel "Lévy, Raphaël dit Ryvel" .
+
+<https://data.jhn.ngo/persons/AIUJE2_MARC21/1199> a edm:Agent ;
+    rdaGr2:dateOfBirth "1890" ;
+    rdaGr2:dateOfDeath "1942" ;
+    edm:identifier "#REB01:000133272" ;
+    skos:prefLabel "Fuchs, Rudolf" .
+
+<https://data.jhn.ngo/persons/AIUJE2_MARC21/1203> a edm:Agent ;
+    rdaGr2:dateOfBirth "1827" ;
+    rdaGr2:dateOfDeath "1898" ;
+    edm:identifier "#REB01:000190015" ;
+    skos:prefLabel "Baissac, Jules" .
+
+<https://data.jhn.ngo/persons/AIUJE2_MARC21/1204> a edm:Agent ;
+    rdaGr2:dateOfBirth "1856" ;
+    rdaGr2:dateOfDeath "1939" ;
+    edm:identifier "#REB01:000190853" ;
+    skos:prefLabel "Lévi, Israël" .
+
+<https://data.jhn.ngo/persons/AIUJE2_MARC21/1207> a edm:Agent ;
+    rdaGr2:dateOfBirth "1808" ;
+    rdaGr2:dateOfDeath "1870" ;
+    edm:identifier "#REB01:000220457" ;
+    skos:prefLabel "Levassor, Pierre Thomas" .
+
+<https://data.jhn.ngo/persons/AIUJE2_MARC21/1208> a edm:Agent ;
+    rdaGr2:dateOfBirth "1808" ;
+    rdaGr2:dateOfDeath "1892" ;
+    edm:identifier "#REB01:000220457" ;
+    skos:prefLabel "Vogel, CharlesLouisAdolphe" .
+
+<https://data.jhn.ngo/persons/AIUJE2_MARC21/1210> a edm:Agent ;
+    rdaGr2:dateOfBirth "1864" ;
+    rdaGr2:dateOfDeath "1926" ;
+    edm:identifier "#REB01:000220882" ;
+    skos:prefLabel "Zangwill, Israël" .
+
+<https://data.jhn.ngo/persons/AIUJE2_MARC21/1213> a edm:Agent ;
+    rdaGr2:dateOfBirth "0030" ;
+    rdaGr2:dateOfDeath "0040" ;
+    edm:identifier "#REB01:000227883" ;
+    skos:prefLabel "Philon d'Alexandrie" .
+
+<https://data.jhn.ngo/persons/AIUJE2_MARC21/1215> a edm:Agent ;
+    rdaGr2:dateOfBirth "1906" ;
+    rdaGr2:dateOfDeath "-" ;
+    edm:identifier "#REB01:000228501" ;
+    skos:prefLabel "Fargeon, Maurice" .
+
+<https://data.jhn.ngo/persons/AIUJE2_MARC21/1220> a edm:Agent ;
+    rdaGr2:dateOfBirth "1901" ;
+    rdaGr2:dateOfDeath "-" ;
+    edm:identifier "#REB01:000238361",
+        "#REB01:000238362",
+        "#REB01:000238363",
+        "#REB01:000238364",
+        "#REB01:000238365",
+        "#REB01:000238366",
+        "#REB01:000238367",
+        "#REB01:000238368",
+        "#REB01:000238369",
+        "#REB01:000238370",
+        "#REB01:000238371",
+        "#REB01:000238372",
+        "#REB01:000238373" ;
+    skos:prefLabel "Piha, Maxime" .
+
+<https://data.jhn.ngo/persons/AIUJE2_MARC21/1224> a edm:Agent ;
+    rdaGr2:dateOfBirth "1727" ;
+    rdaGr2:dateOfDeath "1773" ;
+    edm:identifier "#REB01:000241388" ;
+    skos:prefLabel "La Beaumelle, Laurent Angliviel de" .
+
+<https://data.jhn.ngo/persons/AIUJE2_MARC21/1225> a edm:Agent ;
+    rdaGr2:dateOfBirth "1848" ;
+    rdaGr2:dateOfDeath "1928" ;
+    edm:identifier "#REB01:000243652" ;
+    skos:prefLabel "בן שמעון, רפאל אהרן בן דוד" .
+
+<https://data.jhn.ngo/persons/AIUJE2_MARC21/1226> a edm:Agent ;
+    rdaGr2:dateOfBirth "1887" ;
+    rdaGr2:dateOfDeath "1976" ;
+    edm:identifier "#REB01:000246274" ;
+    skos:prefLabel "Cassin, René" .
+
+<https://data.jhn.ngo/persons/AIUJE2_MARC21/1227> a edm:Agent ;
+    rdaGr2:dateOfBirth "1959" ;
+    rdaGr2:dateOfDeath "-" ;
+    edm:identifier "#REB01:000246274" ;
+    skos:prefLabel "Kuperminc, JeanClaude" .
+
+<https://data.jhn.ngo/persons/AIUJE2_MARC21/1228> a edm:Agent ;
+    rdaGr2:dateOfBirth "1858" ;
+    rdaGr2:dateOfDeath "-" ;
+    edm:identifier "#REB01:000249921" ;
+    skos:prefLabel "Sidersky, D David" .
+
+<https://data.jhn.ngo/persons/AIUJE2_MARC21/1229> a edm:Agent ;
+    rdaGr2:dateOfBirth "1823" ;
+    rdaGr2:dateOfDeath "1898" ;
+    edm:identifier "#REB01:000249932" ;
+    skos:prefLabel "Riess, Richard von" .
+
+<https://data.jhn.ngo/persons/AIUJE2_MARC21/1230> a edm:Agent ;
+    rdaGr2:dateOfBirth "1876" ;
+    rdaGr2:dateOfDeath "1935" ;
+    edm:identifier "#REB01:000249941" ;
+    skos:prefLabel "Bauer, Ludwig" .
+
+<https://data.jhn.ngo/persons/AIUJE2_MARC21/1233> a edm:Agent ;
+    rdaGr2:dateOfBirth "1829" ;
+    rdaGr2:dateOfDeath "1871" ;
+    edm:identifier "#REB01:000249961" ;
+    skos:prefLabel "Ponson du Terrail, Pierre Alexis de" .
+
+<https://data.jhn.ngo/persons/AIUJE2_MARC21/1235> a edm:Agent ;
+    rdaGr2:dateOfBirth "1806" ;
+    rdaGr2:dateOfDeath "1865" ;
+    edm:identifier "#REB01:000249984" ;
+    skos:prefLabel "Ulmann, Salomon" .
+
+<https://data.jhn.ngo/persons/AIUJE2_MARC21/1236> a edm:Agent ;
+    rdaGr2:dateOfBirth "1877" ;
+    rdaGr2:dateOfDeath "-" ;
+    edm:identifier "#REB01:000249987" ;
+    skos:prefLabel "Olper, Salomon Samuel dcd vers" .
+
+<https://data.jhn.ngo/persons/AIUJE2_MARC21/1238> a edm:Agent ;
+    rdaGr2:dateOfBirth "1760" ;
+    rdaGr2:dateOfDeath "1831" ;
+    edm:identifier "#REB01:000250065" ;
+    skos:prefLabel "Wittersheim, Samuel" .
+
+<https://data.jhn.ngo/persons/AIUJE2_MARC21/1239> a edm:Agent ;
+    rdaGr2:dateOfBirth "1826" ;
+    rdaGr2:dateOfDeath "1868" ;
+    edm:identifier "#REB01:000250066" ;
+    skos:prefLabel "Escayrac de Lauture, Pierre Henri Stanislas d'" .
+
+<https://data.jhn.ngo/persons/AIUJE2_MARC21/1245> a edm:Agent ;
+    rdaGr2:dateOfBirth "1788" ;
+    rdaGr2:dateOfDeath "1855" ;
+    edm:identifier "#REB01:000250124" ;
+    skos:prefLabel "Carlos Prince of Bourbon" .
+
+<https://data.jhn.ngo/persons/AIUJE2_MARC21/1246> a edm:Agent ;
+    rdaGr2:dateOfBirth "1817" ;
+    rdaGr2:dateOfDeath "1872" ;
+    edm:identifier "#REB01:000253346" ;
+    skos:prefLabel "Daremberg, Charles" .
+
+<https://data.jhn.ngo/persons/AIUJE2_MARC21/1248> a edm:Agent ;
+    rdaGr2:dateOfBirth "1958" ;
+    rdaGr2:dateOfDeath "-" ;
+    edm:identifier "#REB01:000253486" ;
+    skos:prefLabel "Gerson Şarhon, Karen" .
+
+<https://data.jhn.ngo/persons/AIUJE2_MARC21/1251> a edm:Agent ;
+    rdaGr2:dateOfBirth "1840" ;
+    rdaGr2:dateOfDeath "1919" ;
+    edm:identifier "#REB01:000254346" ;
+    skos:prefLabel "Lévy, Alfred" .
+
+<https://data.jhn.ngo/persons/AIUJE2_MARC21/1253> a edm:Agent ;
+    rdaGr2:dateOfBirth "1861" ;
+    rdaGr2:dateOfDeath "1923" ;
+    edm:identifier "#REB01:000254368",
+        "#REB01:000254369",
+        "#REB01:000254370" ;
+    skos:prefLabel "Bloch, Armand" .
+
+<https://data.jhn.ngo/persons/AIUJE2_MARC21/1255> a edm:Agent ;
+    rdaGr2:dateOfBirth "1839" ;
+    rdaGr2:dateOfDeath "1916" ;
+    edm:identifier "#REB01:000256027" ;
+    skos:prefLabel "Cahen, Émile" .
+
+<https://data.jhn.ngo/persons/AIUJE2_MARC21/1261> a edm:Agent ;
+    rdaGr2:dateOfBirth "1868" ;
+    rdaGr2:dateOfDeath "1931" ;
+    edm:identifier "#REB01:000256727",
+        "#REB01:000256728",
+        "#REB01:000256729",
+        "#REB01:000256730",
+        "#REB01:000256731",
+        "#REB01:000256732",
+        "#REB01:000256733",
+        "#REB01:000256734",
+        "#REB01:000256735",
+        "#REB01:000256736",
+        "#REB01:000256737",
+        "#REB01:000256738",
+        "#REB01:000256739",
+        "#REB01:000256740",
+        "#REB01:000256741",
+        "#REB01:000256742",
+        "#REB01:000256743",
+        "#REB01:000256744",
+        "#REB01:000256745",
+        "#REB01:000256746",
+        "#REB01:000256747",
+        "#REB01:000256748",
+        "#REB01:000256749",
+        "#REB01:000256750",
+        "#REB01:000256751",
+        "#REB01:000256752",
+        "#REB01:000256753" ;
+    skos:prefLabel "Bauer, Jules" .
+
+<https://data.jhn.ngo/persons/AIUJE2_MARC21/1265> a edm:Agent ;
+    rdaGr2:dateOfBirth "1832" ;
+    rdaGr2:dateOfDeath "1892" ;
+    edm:identifier "#REB01:000256967",
+        "#REB01:000256968",
+        "#REB01:000256969",
+        "#REB01:000256970",
+        "#REB01:000256971",
+        "#REB01:000256972",
+        "#REB01:000256973",
+        "#REB01:000256974",
+        "#REB01:000256975",
+        "#REB01:000256976",
+        "#REB01:000256977",
+        "#REB01:000256978",
+        "#REB01:000256979",
+        "#REB01:000256980",
+        "#REB01:000256981",
+        "#REB01:000256982",
+        "#REB01:000256983",
+        "#REB01:000256984",
+        "#REB01:000256985",
+        "#REB01:000256986",
+        "#REB01:000256987",
+        "#REB01:000256988",
+        "#REB01:000256989",
+        "#REB01:000256990",
+        "#REB01:000256991",
+        "#REB01:000256992",
+        "#REB01:000256993",
+        "#REB01:000256994",
+        "#REB01:000256995",
+        "#REB01:000256996",
+        "#REB01:000256997",
+        "#REB01:000256998",
+        "#REB01:000256999",
+        "#REB01:000257000",
+        "#REB01:000257001",
+        "#REB01:000257002",
+        "#REB01:000257003",
+        "#REB01:000257004",
+        "#REB01:000257005",
+        "#REB01:000257006",
+        "#REB01:000257007",
+        "#REB01:000257008",
+        "#REB01:000257009",
+        "#REB01:000257010",
+        "#REB01:000257011",
+        "#REB01:000257012",
+        "#REB01:000257013",
+        "#REB01:000257014",
+        "#REB01:000257015",
+        "#REB01:000257016",
+        "#REB01:000257017",
+        "#REB01:000257018",
+        "#REB01:000257019",
+        "#REB01:000257020",
+        "#REB01:000257021",
+        "#REB01:000257022",
+        "#REB01:000257023",
+        "#REB01:000257024",
+        "#REB01:000257025",
+        "#REB01:000257026",
+        "#REB01:000257027",
+        "#REB01:000257028",
+        "#REB01:000257029",
+        "#REB01:000257030",
+        "#REB01:000257031",
+        "#REB01:000257032",
+        "#REB01:000257033",
+        "#REB01:000257034",
+        "#REB01:000257035",
+        "#REB01:000257036",
+        "#REB01:000257037",
+        "#REB01:000257038",
+        "#REB01:000257039",
+        "#REB01:000257040",
+        "#REB01:000257041",
+        "#REB01:000257042",
+        "#REB01:000257043",
+        "#REB01:000257044",
+        "#REB01:000257045",
+        "#REB01:000257046",
+        "#REB01:000257047",
+        "#REB01:000257048",
+        "#REB01:000257049",
+        "#REB01:000257050",
+        "#REB01:000257051",
+        "#REB01:000257052",
+        "#REB01:000257053",
+        "#REB01:000257054",
+        "#REB01:000257055",
+        "#REB01:000257056",
+        "#REB01:000257057",
+        "#REB01:000257058",
+        "#REB01:000257059",
+        "#REB01:000257060",
+        "#REB01:000257061",
+        "#REB01:000257062",
+        "#REB01:000257063",
+        "#REB01:000257064",
+        "#REB01:000257065",
+        "#REB01:000257066",
+        "#REB01:000257067",
+        "#REB01:000257068",
+        "#REB01:000257069",
+        "#REB01:000257070",
+        "#REB01:000257071",
+        "#REB01:000257072",
+        "#REB01:000257073",
+        "#REB01:000257074",
+        "#REB01:000257075",
+        "#REB01:000257076",
+        "#REB01:000257077",
+        "#REB01:000257078",
+        "#REB01:000257079",
+        "#REB01:000257080",
+        "#REB01:000257081",
+        "#REB01:000257082",
+        "#REB01:000257083",
+        "#REB01:000257084",
+        "#REB01:000257085",
+        "#REB01:000257086",
+        "#REB01:000257087",
+        "#REB01:000257088",
+        "#REB01:000257089",
+        "#REB01:000257090",
+        "#REB01:000257091",
+        "#REB01:000257092",
+        "#REB01:000257093",
+        "#REB01:000257094",
+        "#REB01:000257095",
+        "#REB01:000257096",
+        "#REB01:000257097",
+        "#REB01:000257098",
+        "#REB01:000257099",
+        "#REB01:000257100",
+        "#REB01:000257101",
+        "#REB01:000257102",
+        "#REB01:000257103",
+        "#REB01:000257104",
+        "#REB01:000257105",
+        "#REB01:000257106",
+        "#REB01:000257107",
+        "#REB01:000257108",
+        "#REB01:000257109",
+        "#REB01:000257110",
+        "#REB01:000257111",
+        "#REB01:000257112",
+        "#REB01:000257113",
+        "#REB01:000257114",
+        "#REB01:000257115",
+        "#REB01:000257116",
+        "#REB01:000257117",
+        "#REB01:000257118",
+        "#REB01:000257119",
+        "#REB01:000257120",
+        "#REB01:000257121",
+        "#REB01:000257122",
+        "#REB01:000257123",
+        "#REB01:000257124",
+        "#REB01:000257125",
+        "#REB01:000257126",
+        "#REB01:000257127",
+        "#REB01:000257128",
+        "#REB01:000257129",
+        "#REB01:000257130",
+        "#REB01:000257131",
+        "#REB01:000257132",
+        "#REB01:000257133",
+        "#REB01:000257134",
+        "#REB01:000257135",
+        "#REB01:000257136",
+        "#REB01:000257137",
+        "#REB01:000257138",
+        "#REB01:000257139",
+        "#REB01:000257140",
+        "#REB01:000257141",
+        "#REB01:000257142",
+        "#REB01:000257143",
+        "#REB01:000257144",
+        "#REB01:000257145",
+        "#REB01:000257146",
+        "#REB01:000257147",
+        "#REB01:000257148",
+        "#REB01:000257149",
+        "#REB01:000257150",
+        "#REB01:000257151",
+        "#REB01:000257152",
+        "#REB01:000257153",
+        "#REB01:000257154",
+        "#REB01:000257155",
+        "#REB01:000257156",
+        "#REB01:000257157",
+        "#REB01:000257158",
+        "#REB01:000257159",
+        "#REB01:000257160",
+        "#REB01:000257161",
+        "#REB01:000257162",
+        "#REB01:000257163",
+        "#REB01:000257164",
+        "#REB01:000257165",
+        "#REB01:000257166",
+        "#REB01:000257167",
+        "#REB01:000257168",
+        "#REB01:000257169",
+        "#REB01:000257170",
+        "#REB01:000257171",
+        "#REB01:000257172",
+        "#REB01:000257173",
+        "#REB01:000257174",
+        "#REB01:000257175",
+        "#REB01:000257176",
+        "#REB01:000257177",
+        "#REB01:000257178",
+        "#REB01:000257179",
+        "#REB01:000257180",
+        "#REB01:000257181",
+        "#REB01:000257182",
+        "#REB01:000257183",
+        "#REB01:000257184",
+        "#REB01:000257185",
+        "#REB01:000257186",
+        "#REB01:000257187",
+        "#REB01:000257188",
+        "#REB01:000257189",
+        "#REB01:000257190",
+        "#REB01:000257191",
+        "#REB01:000257192",
+        "#REB01:000257193",
+        "#REB01:000257194",
+        "#REB01:000257195",
+        "#REB01:000257196",
+        "#REB01:000257197",
+        "#REB01:000257198",
+        "#REB01:000257199",
+        "#REB01:000257200",
+        "#REB01:000257201",
+        "#REB01:000257202",
+        "#REB01:000257203",
+        "#REB01:000257204",
+        "#REB01:000257205",
+        "#REB01:000257206",
+        "#REB01:000257207",
+        "#REB01:000257208",
+        "#REB01:000257209",
+        "#REB01:000257210",
+        "#REB01:000257211",
+        "#REB01:000257212",
+        "#REB01:000257213",
+        "#REB01:000257214",
+        "#REB01:000257215",
+        "#REB01:000257216",
+        "#REB01:000257217",
+        "#REB01:000257218",
+        "#REB01:000257219",
+        "#REB01:000257220" ;
+    skos:prefLabel "Mossé, Benjamin" .
+

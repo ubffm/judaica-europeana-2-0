@@ -1,0 +1,118 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix edm: <http://www.europeana.eu/schemas/edm/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix gndo: <http://d-nb.info/standards/elementset/gnd#> .
+@prefix jl: <http://data.judaicalink.org/ontology/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdaGr2: <http://rdvocab.info/ElementsGr2/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://data.jhn.ngo/persons/CCJM/1114> a edm:Agent ;
+    rdaGr2:dateOfBirth "-" ;
+    rdaGr2:dateOfDeath "-" ;
+    edm:identifier "https://www.judaisme-marocain.org/17250",
+        "https://www.judaisme-marocain.org/17733",
+        "https://www.judaisme-marocain.org/17734",
+        "https://www.judaisme-marocain.org/17735",
+        "https://www.judaisme-marocain.org/17736",
+        "https://www.judaisme-marocain.org/17737",
+        "https://www.judaisme-marocain.org/17738",
+        "https://www.judaisme-marocain.org/17739",
+        "https://www.judaisme-marocain.org/17740",
+        "https://www.judaisme-marocain.org/17741",
+        "https://www.judaisme-marocain.org/17742",
+        "https://www.judaisme-marocain.org/17743",
+        "https://www.judaisme-marocain.org/19624",
+        "https://www.judaisme-marocain.org/21145",
+        "https://www.judaisme-marocain.org/21147",
+        "https://www.judaisme-marocain.org/21211",
+        "https://www.judaisme-marocain.org/21212",
+        "https://www.judaisme-marocain.org/21213",
+        "https://www.judaisme-marocain.org/21214",
+        "https://www.judaisme-marocain.org/21215",
+        "https://www.judaisme-marocain.org/21216",
+        "https://www.judaisme-marocain.org/21217",
+        "https://www.judaisme-marocain.org/21316",
+        "https://www.judaisme-marocain.org/21317",
+        "https://www.judaisme-marocain.org/21320",
+        "https://www.judaisme-marocain.org/24948",
+        "https://www.judaisme-marocain.org/24956",
+        "https://www.judaisme-marocain.org/25051",
+        "https://www.judaisme-marocain.org/25056",
+        "https://www.judaisme-marocain.org/25095",
+        "https://www.judaisme-marocain.org/25103",
+        "https://www.judaisme-marocain.org/25225",
+        "https://www.judaisme-marocain.org/28777",
+        "https://www.judaisme-marocain.org/28878",
+        "https://www.judaisme-marocain.org/28879",
+        "https://www.judaisme-marocain.org/28880",
+        "https://www.judaisme-marocain.org/28883",
+        "https://www.judaisme-marocain.org/28884",
+        "https://www.judaisme-marocain.org/28885",
+        "https://www.judaisme-marocain.org/28887",
+        "https://www.judaisme-marocain.org/28888",
+        "https://www.judaisme-marocain.org/28894",
+        "https://www.judaisme-marocain.org/29673",
+        "https://www.judaisme-marocain.org/29674",
+        "https://www.judaisme-marocain.org/29675",
+        "https://www.judaisme-marocain.org/29678",
+        "https://www.judaisme-marocain.org/29679",
+        "https://www.judaisme-marocain.org/29694",
+        "https://www.judaisme-marocain.org/29695",
+        "https://www.judaisme-marocain.org/29696",
+        "https://www.judaisme-marocain.org/29697",
+        "https://www.judaisme-marocain.org/29698",
+        "https://www.judaisme-marocain.org/29699",
+        "https://www.judaisme-marocain.org/29700",
+        "https://www.judaisme-marocain.org/29703",
+        "https://www.judaisme-marocain.org/29704",
+        "https://www.judaisme-marocain.org/29706",
+        "https://www.judaisme-marocain.org/30031",
+        "https://www.judaisme-marocain.org/33200",
+        "https://www.judaisme-marocain.org/33611",
+        "https://www.judaisme-marocain.org/33612",
+        "https://www.judaisme-marocain.org/33613",
+        "https://www.judaisme-marocain.org/33614",
+        "https://www.judaisme-marocain.org/33615",
+        "https://www.judaisme-marocain.org/33616",
+        "https://www.judaisme-marocain.org/33617",
+        "https://www.judaisme-marocain.org/33618",
+        "https://www.judaisme-marocain.org/33619",
+        "https://www.judaisme-marocain.org/33620",
+        "https://www.judaisme-marocain.org/33621",
+        "https://www.judaisme-marocain.org/33622",
+        "https://www.judaisme-marocain.org/33623",
+        "https://www.judaisme-marocain.org/33624",
+        "https://www.judaisme-marocain.org/33625",
+        "https://www.judaisme-marocain.org/33626",
+        "https://www.judaisme-marocain.org/33627",
+        "https://www.judaisme-marocain.org/33628",
+        "https://www.judaisme-marocain.org/33629",
+        "https://www.judaisme-marocain.org/34315",
+        "https://www.judaisme-marocain.org/34324",
+        "https://www.judaisme-marocain.org/34325",
+        "https://www.judaisme-marocain.org/34335",
+        "https://www.judaisme-marocain.org/34339",
+        "https://www.judaisme-marocain.org/34342",
+        "https://www.judaisme-marocain.org/34346",
+        "https://www.judaisme-marocain.org/34351",
+        "https://www.judaisme-marocain.org/34357",
+        "https://www.judaisme-marocain.org/34564" ;
+    owl:sameAs <http://data.judaicalink.org/data/nli/Cavilla_A> ;
+    skos:altLabel "קאבייה, א'" ;
+    skos:prefLabel "Cavilla, A" .
+
+<https://data.jhn.ngo/persons/CCJM/1197> a edm:Agent ;
+    rdaGr2:dateOfBirth "-" ;
+    rdaGr2:dateOfDeath "-" ;
+    edm:identifier "https://www.judaisme-marocain.org/20859",
+        "https://www.judaisme-marocain.org/20860" ;
+    owl:sameAs <http://data.judaicalink.org/data/nli/Peter1> ;
+    skos:altLabel "פיוטר" ;
+    skos:prefLabel "Peter" .
+
